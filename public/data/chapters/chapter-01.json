@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "1.0.0",
+  "document": { "id": "uqar-french-course", "title": "Cours de français UQAR", "language": "fr-CA", "sourceFile": "Chapitre 1 - Les classes et les groupes de mots.pdf" },
+  "chapter": {
+    "id": "chapter-01",
+    "number": 1,
+    "title": "Les classes et les groupes de mots",
+    "summary": "Identifier les classes de mots et distinguer la nature de la fonction selon le contexte.",
+    "learningObjectives": ["Distinguer les mots variables et invariables.", "Identifier les huit classes de mots.", "Reconnaître un déterminant et un nom dans leur contexte."],
+    "sections": [
+      { "id": "chapter-01-section-01", "number": "1.1", "title": "Les classes de mots variables et invariables", "sourcePages": { "start": 1, "end": 2 }, "blocks": [
+        { "id": "ch01-s01-b01", "type": "paragraph", "content": "Une classe de mots regroupe des éléments ayant des propriétés communes : la variabilité ou l’invariabilité, le comportement syntaxique et le sens.", "sourcePage": 1 },
+        { "id": "ch01-s01-b02", "type": "rule", "content": "Un mot n’appartient pas naturellement à une classe. Il faut toujours tenir compte du contexte de la phrase.", "sourcePage": 1 },
+        { "id": "ch01-s01-b03", "type": "table", "content": { "headers": ["Variables", "Invariables"], "rows": [["Nom", "Adverbe"], ["Déterminant", "Préposition"], ["Adjectif", "Conjonction"], ["Pronom", ""], ["Verbe", ""]] }, "sourcePage": 1 }
+      ] },
+      { "id": "chapter-01-section-02", "number": "1.2", "title": "Reconnaître le déterminant", "sourcePages": { "start": 3, "end": 4 }, "blocks": [
+        { "id": "ch01-s02-b01", "type": "definition", "content": "Le déterminant aide à préciser ce que désigne le nom. Il précède le nom et peut être séparé de celui-ci par un adjectif.", "sourcePage": 3 },
+        { "id": "ch01-s02-b02", "type": "example", "content": "Ses doigts sont restés coincés. / Ses grands doigts sont restés coincés.", "sourcePage": 3 }
+      ] }
+    ],
+    "exercises": [],
+    "sourceCoverage": { "extractedSections": ["1.1", "1.2"], "extractedPageRanges": ["1-4"], "unreadableContent": [], "itemsRequiringReview": [] }
+  }
+}

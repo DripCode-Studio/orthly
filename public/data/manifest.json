@@ -1,0 +1,16 @@
+{
+  "schemaVersion": "1.0.0",
+  "document": { "id": "uqar-french-course", "title": "Cours de français UQAR", "language": "fr-CA" },
+  "chapters": [
+    { "id": "chapter-01", "number": 1, "title": "Les classes et les groupes de mots", "content": "chapters/chapter-01.json" },
+    { "id": "chapter-02", "number": 2, "title": "La syntaxe de la phrase", "content": "chapters/chapter-02.json" },
+    { "id": "chapter-03", "number": 3, "title": "Le groupe verbal", "content": "chapters/chapter-03.json" },
+    { "id": "chapter-04", "number": 4, "title": "Les accords", "content": "chapters/chapter-04.json" },
+    { "id": "chapter-05", "number": 5, "title": "La phrase complexe", "content": "chapters/chapter-05.json" },
+    { "id": "chapter-06", "number": 6, "title": "La ponctuation", "content": "chapters/chapter-06.json" },
+    { "id": "chapter-07", "number": 7, "title": "Le lexique", "content": "chapters/chapter-07.json" },
+    { "id": "chapter-08", "number": 8, "title": "La structure du paragraphe et du texte", "content": "chapters/chapter-08.json" }
+  ],
+  "questionBanks": [],
+  "exams": []
+}
