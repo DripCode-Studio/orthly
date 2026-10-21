@@ -34,10 +34,10 @@ export function AppSidebar() {
   const pathname = usePathname();
 
   return (
-    <Sidebar collapsible="icon">
+    <Sidebar collapsible="icon" className="w-[280px]">
       <SidebarHeader>
-        <Link href="/dashboard" className="flex items-center gap-2 px-2 py-1.5">
-          <span className="grid size-8 shrink-0 place-items-center rounded-[11px_11px_11px_3px] bg-orthly-learning font-heading text-sm font-black text-primary-foreground">
+        <Link href="/dashboard" className="flex items-center gap-2 px-3 py-2">
+          <span className="grid size-9 shrink-0 place-items-center rounded-[11px_11px_11px_3px] bg-orthly-learning font-heading text-sm font-black text-primary-foreground">
             O
           </span>
           <span className="font-heading text-lg font-black tracking-tight group-data-[collapsible=icon]:hidden">
