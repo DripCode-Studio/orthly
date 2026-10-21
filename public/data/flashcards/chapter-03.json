@@ -1,0 +1,86 @@
+{
+  "schemaVersion": "1.0.0",
+  "chapterId": "chapter-03",
+  "deckId": "chapter-03-core",
+  "title": "Cartes éclair — Chapitre 3",
+  "cards": [
+    {
+      "id": "fc-ch03-0001",
+      "chapterId": "chapter-03",
+      "topicIds": ["verb", "conjugation"],
+      "type": "definition",
+      "front": "Quels sont les 5 modes?",
+      "back": "L’indicatif, le subjonctif, l’impératif, l’infinitif et le participe.",
+      "example": "",
+      "tags": ["modes"],
+      "difficulty": "beginner",
+      "origin": "source",
+      "sourceRef": { "page": 1, "section": "3.1" }
+    },
+    {
+      "id": "fc-ch03-0002",
+      "chapterId": "chapter-03",
+      "topicIds": ["verb", "auxiliary"],
+      "type": "rule",
+      "front": "Avec quels verbes utilise-t-on l’auxiliaire être?",
+      "back": "Avec les verbes pronominaux et certains verbes de déplacement ou de transformation (aller, arriver, partir, venir, tomber, etc.).",
+      "example": "Elle est partie. / Il s’est levé.",
+      "tags": ["auxiliaire"],
+      "difficulty": "beginner",
+      "origin": "source",
+      "sourceRef": { "page": 4, "section": "3.1" }
+    },
+    {
+      "id": "fc-ch03-0003",
+      "chapterId": "chapter-03",
+      "topicIds": ["verb", "complements"],
+      "type": "definition",
+      "front": "Qu’est-ce qu’un complément direct?",
+      "back": "Un complément sans préposition, construit directement avec le verbe transitif direct.",
+      "example": "Il lit un livre.",
+      "tags": ["CD"],
+      "difficulty": "beginner",
+      "origin": "source",
+      "sourceRef": { "page": 14, "section": "3.2" }
+    },
+    {
+      "id": "fc-ch03-0004",
+      "chapterId": "chapter-03",
+      "topicIds": ["verb", "complements"],
+      "type": "definition",
+      "front": "Qu’est-ce qu’un complément indirect?",
+      "back": "Un complément introduit par une préposition, construit avec le verbe transitif indirect.",
+      "example": "Il parle à son ami.",
+      "tags": ["CI"],
+      "difficulty": "beginner",
+      "origin": "source",
+      "sourceRef": { "page": 14, "section": "3.2" }
+    },
+    {
+      "id": "fc-ch03-0005",
+      "chapterId": "chapter-03",
+      "topicIds": ["verb", "conjugation"],
+      "type": "rule",
+      "front": "Qu’est-ce qu’un présent historique?",
+      "back": "L’utilisation du présent pour présenter un fait passé comme s’il était en train de se produire.",
+      "example": "En 1492, Christophe Colomb découvre l’Amérique.",
+      "tags": ["présent"],
+      "difficulty": "intermediate",
+      "origin": "source",
+      "sourceRef": { "page": 1, "section": "3.1" }
+    },
+    {
+      "id": "fc-ch03-0006",
+      "chapterId": "chapter-03",
+      "topicIds": ["verb", "complements"],
+      "type": "rule",
+      "front": "Comment distinguer CD et CI?",
+      "back": "Le CD se pose avec « qui/quoi » et peut être pronominalisé par le/la/les. Le CI est souvent introduit par une préposition et se pronominalise différemment (lui/leur/y/en).",
+      "example": "Je vois Pierre. (qui?) → Je le vois. / Je parle à Pierre. → Je lui parle.",
+      "tags": ["distinction"],
+      "difficulty": "intermediate",
+      "origin": "source",
+      "sourceRef": { "page": 16, "section": "3.2" }
+    }
+  ]
+}

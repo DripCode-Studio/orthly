@@ -1,0 +1,76 @@
+{
+  "schemaVersion": "1.0.0",
+  "document": {
+    "id": "uqar-french-course",
+    "title": "Chapitre 3 - Le groupe verbal",
+    "language": "fr-CA",
+    "sourceFile": "Chapitre 3 - Le groupe verbal.pdf"
+  },
+  "chapter": {
+    "id": "chapter-03",
+    "number": 3,
+    "title": "Le groupe verbal",
+    "summary": null,
+    "learningObjectives": [],
+    "sections": [
+      {
+        "id": "chapter-03-section-01",
+        "number": "3.1",
+        "title": "LA CONJUGAISON",
+        "sourcePages": { "start": 1, "end": 13 },
+        "blocks": [
+          { "id": "ch03-s01-b01", "type": "paragraph", "content": "La conjugaison des verbes permet de donner des indications sur la personne, le nombre, le temps et le mode.", "sourcePage": 1 },
+          { "id": "ch03-s01-b02", "type": "paragraph", "content": "LES MODES\nIl existe cinq modes: l’indicatif, le subjonctif, l’impératif, l’infinitif et le participe.", "sourcePage": 1 },
+          { "id": "ch03-s01-b03", "type": "paragraph", "content": "LES TEMPS\nChaque mode comporte un ou des temps simples et un ou des temps composés. À chaque temps simple correspond un temps composé formé de l’auxiliaire avoir ou être conjugué au temps simple correspondant et du participe passé du verbe.", "sourcePage": 1 },
+          { "id": "ch03-s01-b04", "type": "paragraph", "content": "LES TEMPS SIMPLES DU MODE INDICATIF\nLe présent\nIl indique qu’un fait ou une action a lieu au moment où l’on en parle. Il peut aussi s’utiliser pour décrire un événement passé en le présentant comme s’il était en train de se produire. C’est ce qu’on appelle le présent historique.", "sourcePage": 1 },
+          { "id": "ch03-s01-b05", "type": "example", "content": "Je lis les consignes attentivement.\nEn 1696, René Lepage fonde Rimouski.", "sourcePage": 1 },
+          { "id": "ch03-s01-b06", "type": "paragraph", "content": "L’imparfait\nIl exprime un fait habituel dans le passé, une action ou un fait en cours dans le passé, une description dans le passé ou une condition pour qu’un fait hypothétique se réalise.", "sourcePage": 1 },
+          { "id": "ch03-s01-b07", "type": "example", "content": "Autrefois, les hivers étaient plus rigoureux.\nIl regardait dehors quand la pluie s’est mise à tomber.\nL’adolescente portait un chandail noir.\nSi tu me disais ce qui te fâche, je comprendrais mieux.", "sourcePage": 1 },
+          { "id": "ch03-s01-b08", "type": "paragraph", "content": "Le passé simple\nIl exprime un fait qui s’est produit il y a longtemps en un temps précis qui est achevé.", "sourcePage": 2 },
+          { "id": "ch03-s01-b09", "type": "example", "content": "L’année dernière, il remporta la victoire.", "sourcePage": 2 },
+          { "id": "ch03-s01-b10", "type": "paragraph", "content": "Le futur simple\nIl exprime un fait qui aura lieu dans l’avenir, une action à venir.", "sourcePage": 2 },
+          { "id": "ch03-s01-b11", "type": "example", "content": "Nous profiterons des vacances à la fin du trimestre.", "sourcePage": 2 },
+          { "id": "ch03-s01-b12", "type": "paragraph", "content": "Le conditionnel présent\nIl exprime un vœu, un désir, une demande, un ordre poli, un fait soumis à une condition ou l’incertitude.", "sourcePage": 2 },
+          { "id": "ch03-s01-b13", "type": "example", "content": "J’aimerais obtenir le poste.\nPourriez-vous arrêter de parler, s’il vous plaît?\nVous devriez songer à partir.\nSi je pouvais, je passerais mon temps à lire.\nSelon nos sources, le ministre annoncerait sa démission aujourd’hui.", "sourcePage": 2 },
+          { "id": "ch03-s01-b24", "type": "paragraph", "content": "À titre d’exemple, regardons le tableau de conjugaison du verbe aimer.", "sourcePage": 3 },
+          { "id": "ch03-s01-b25", "type": "table", "content": { "headers": ["Modes", "Temps simples", "Temps composés"], "rows": [
+            ["Indicatif", "Présent: J’aime\nImparfait: J’aimais\nPassé simple: J’aimai\nFutur simple: J’aimerai\nConditionnel présent: J’aimerais", "Passé composé: J’ai aimé\nPlus-que-parfait: J’avais aimé\nPassé antérieur: J’eus aimé\nFutur antérieur: J’aurai aimé\nConditionnel passé: J’aurais aimé"],
+            ["Subjonctif", "Présent: Que j’aime", "Passé: Que j’aie aimé"],
+            ["Impératif", "Présent: Aime", "Passé: Aie aimé"],
+            ["Infinitif", "Présent: Aimer", "Passé: Avoir aimé"],
+            ["Participe", "Présent: Aimé", "Passé: (Ayant) aimé"]
+          ]}, "sourcePage": 3 },
+          { "id": "ch03-s01-b26", "type": "paragraph", "content": "LE CHOIX DE L’AUXILIAIRE\nL’auxiliaire avoir est le plus employé pour former les temps composés.\nL’auxiliaire être s’emploie avec les verbes pronominaux et les verbes exprimant un déplacement ou une transformation comme aller, arriver, entrer, partir, tomber, venir, etc.", "sourcePage": 4 }
+        ]
+      },
+      {
+        "id": "chapter-03-section-02",
+        "number": "3.2",
+        "title": "DISTINGUER LES COMPLÉMENTS DIRECTS ET INDIRECTS",
+        "sourcePages": { "start": 13, "end": 18 },
+        "blocks": [
+          { "id": "ch03-s02-b01", "type": "paragraph", "content": "Le groupe du verbe contient toujours un noyau, soit un verbe, et s’il y a lieu des compléments et des modificateurs.\nVoici quelques constructions du groupe du verbe.", "sourcePage": 13 },
+          { "id": "ch03-s02-b02", "type": "table", "content": { "headers": ["Constructions", "Exemples", "Types de verbe"], "rows": [
+            ["un verbe seul", "Il [dort].", "intransitif"],
+            ["un verbe + un complément direct", "Il [étudie le français].", "transitif direct"],
+            ["un verbe + un complément indirect", "Elle [pense à son départ].", "transitif indirect"],
+            ["un verbe + un attribut du sujet", "Elle [est motivée].", "attributif"],
+            ["un verbe + un complément direct + un complément indirect", "Elle [donne un cadeau à ses parents].", "qui peut avoir deux compléments"],
+            ["un verbe + un modificateur", "Elle [travaille bien].", "intransitif"]
+          ]}, "sourcePage": 13 },
+          { "id": "ch03-s02-b06", "type": "paragraph", "content": "LES VERBES INTRANSITIFS\nIls se construisent sans complément.", "sourcePage": 13 },
+          { "id": "ch03-s02-b08", "type": "paragraph", "content": "LES VERBES TRANSITIFS DIRECTS\nIls se construisent avec un complément direct, c’est-à-dire un complément sans préposition.", "sourcePage": 14 },
+          { "id": "ch03-s02-b10", "type": "paragraph", "content": "LES VERBES TRANSITIFS INDIRECTS\nIls se construisent avec un complément indirect, c’est-à-dire un complément introduit par une préposition.", "sourcePage": 14 },
+          { "id": "ch03-s02-b16", "type": "paragraph", "content": "Pour savoir si on est en présence d’un complément direct ou d’un complément indirect, on devrait en premier lieu réfléchir à la syntaxe du verbe, comme on vient de le faire.\nDes tests peuvent également nous aider à distinguer les types de compléments.", "sourcePage": 16 }
+        ]
+      }
+    ],
+    "exercises": [],
+    "sourceCoverage": {
+      "extractedSections": ["3.1 LA CONJUGAISON", "3.2 DISTINGUER LES COMPLÉMENTS DIRECTS ET INDIRECTS"],
+      "extractedPageRanges": ["1-23"],
+      "unreadableContent": [],
+      "itemsRequiringReview": []
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.0.0",
+  "chapterId": "chapter-03",
+  "questionSetId": "chapter-03-core",
+  "title": "Pratique — Chapitre 3",
+  "questions": [
+    {
+      "id": "ch03-q0001",
+      "type": "single_choice",
+      "prompt": "Combien de modes compte le français?",
+      "stimulus": { "text": "" },
+      "options": [
+        { "id": "A", "text": "3", "explanation": "" },
+        { "id": "B", "text": "5", "explanation": "" },
+        { "id": "C", "text": "4", "explanation": "" },
+        { "id": "D", "text": "6", "explanation": "" }
+      ],
+      "answer": { "correctOptionIds": ["B"], "explanation": "L’indicatif, le subjonctif, l’impératif, l’infinitif et le participe." },
+      "difficulty": "beginner",
+      "topicIds": ["verb", "conjugation"],
+      "sectionIds": ["chapter-03-section-01"],
+      "learningObjectiveIds": ["chapter-03-objective-01"],
+      "examCategories": ["morphologie"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 1, "section": "3.1" }],
+      "reviewStatus": "needs_review"
+    },
+    {
+      "id": "ch03-q0002",
+      "type": "single_choice",
+      "prompt": "Dans « Il étudie le français », quel est le complément du verbe?",
+      "stimulus": { "text": "" },
+      "options": [
+        { "id": "A", "text": "Un complément direct", "explanation": "" },
+        { "id": "B", "text": "Un complément indirect", "explanation": "Il n’y a pas de préposition." },
+        { "id": "C", "text": "Un complément de phrase", "explanation": "" },
+        { "id": "D", "text": "Un attribut du sujet", "explanation": "" }
+      ],
+      "answer": { "correctOptionIds": ["A"], "explanation": "« le français » est un complément direct sans préposition." },
+      "difficulty": "beginner",
+      "topicIds": ["verb", "complements"],
+      "sectionIds": ["chapter-03-section-02"],
+      "learningObjectiveIds": ["chapter-03-objective-03"],
+      "examCategories": ["syntaxe"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 13, "section": "3.2" }],
+      "reviewStatus": "needs_review"
+    },
+    {
+      "id": "ch03-q0003",
+      "type": "single_choice",
+      "prompt": "Avec quel auxiliaire se forment les temps composés des verbes pronominaux?",
+      "stimulus": { "text": "" },
+      "options": [
+        { "id": "A", "text": "Avoir", "explanation": "" },
+        { "id": "B", "text": "Être", "explanation": "" },
+        { "id": "C", "text": "Les deux selon le verbe", "explanation": "Généralement être pour les verbes pronominaux." },
+        { "id": "D", "text": "Aucun auxiliaire", "explanation": "" }
+      ],
+      "answer": { "correctOptionIds": ["B"], "explanation": "L’auxiliaire être s’emploie avec les verbes pronominaux." },
+      "difficulty": "intermediate",
+      "topicIds": ["verb", "auxiliary"],
+      "sectionIds": ["chapter-03-section-01"],
+      "learningObjectiveIds": ["chapter-03-objective-02"],
+      "examCategories": ["morphologie"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 4, "section": "3.1" }],
+      "reviewStatus": "needs_review"
+    },
+    {
+      "id": "ch03-q0004",
+      "type": "single_choice",
+      "prompt": "Dans « Elle pense à son départ », « à son départ » est :",
+      "stimulus": { "text": "" },
+      "options": [
+        { "id": "A", "text": "Un complément direct", "explanation": "Il est introduit par une préposition." },
+        { "id": "B", "text": "Un complément indirect", "explanation": "" },
+        { "id": "C", "text": "Un attribut du sujet", "explanation": "" },
+        { "id": "D", "text": "Un complément de phrase", "explanation": "" }
+      ],
+      "answer": { "correctOptionIds": ["B"], "explanation": "Il est introduit par « à », donc complément indirect du verbe." },
+      "difficulty": "beginner",
+      "topicIds": ["verb", "complements"],
+      "sectionIds": ["chapter-03-section-02"],
+      "learningObjectiveIds": ["chapter-03-objective-03"],
+      "examCategories": ["syntaxe"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 13, "section": "3.2" }],
+      "reviewStatus": "needs_review"
+    },
+    {
+      "id": "ch03-q0005",
+      "type": "single_choice",
+      "prompt": "Qu’est-ce qu’un présent historique?",
+      "stimulus": { "text": "" },
+      "options": [
+        { "id": "A", "text": "Un présent utilisé pour décrire un fait passé comme s’il était en train de se produire", "explanation": "" },
+        { "id": "B", "text": "Un temps qui exprime une action à venir", "explanation": "C’est le futur simple." },
+        { "id": "C", "text": "Un temps utilisé uniquement pour les habitudes", "explanation": "" },
+        { "id": "D", "text": "Un temps du subjonctif", "explanation": "" }
+      ],
+      "answer": { "correctOptionIds": ["A"], "explanation": "Exemple : « En 1696, René Lepage fonde Rimouski. »" },
+      "difficulty": "intermediate",
+      "topicIds": ["verb", "conjugation"],
+      "sectionIds": ["chapter-03-section-01"],
+      "learningObjectiveIds": ["chapter-03-objective-01"],
+      "examCategories": ["morphologie"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 1, "section": "3.1" }],
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

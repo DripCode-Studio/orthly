@@ -1,0 +1,86 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "chapter-03",
+  "number": 3,
+  "slug": "groupe-verbal",
+  "title": "Le groupe verbal",
+  "description": "Conjugaison, modes et temps, et distinction entre compléments directs et indirects du verbe.",
+  "estimatedMinutes": 60,
+  "color": "#ce82ff",
+  "learningObjectives": [
+    { "id": "chapter-03-objective-01", "text": "Distinguer les modes et les temps de l'indicatif et leurs valeurs.", "topicIds": ["verb", "conjugation"] },
+    { "id": "chapter-03-objective-02", "text": "Choisir l'auxiliaire approprié aux temps composés.", "topicIds": ["verb", "auxiliary"] },
+    { "id": "chapter-03-objective-03", "text": "Distinguer verbe transitif direct, transitif indirect et intransitif.", "topicIds": ["verb", "complements"] },
+    { "id": "chapter-03-objective-04", "text": "Repérer un complément direct ou indirect à l'aide de manipulations.", "topicIds": ["verb", "complements"] }
+  ],
+  "sections": [
+    {
+      "id": "chapter-03-section-01",
+      "title": "La conjugaison",
+      "order": 1,
+      "introduction": "La conjugaison donne des indications sur la personne, le nombre, le temps et le mode.",
+      "concepts": [
+        {
+          "id": "chapter-03-concept-01",
+          "title": "Modes et temps",
+          "explanation": "Cinq modes : indicatif, subjonctif, impératif, infinitif, participe. Chaque mode a des temps simples et composés.",
+          "definition": "À chaque temps simple correspond un temps composé formé de l'auxiliaire avoir/être au temps simple et du participe passé.",
+          "rules": [
+            { "id": "chapter-03-rule-01", "text": "L'auxiliaire avoir est le plus utilisé; être s'emploie avec les verbes pronominaux et certains verbes de déplacement/transformation.", "exceptions": [] }
+          ],
+          "steps": [],
+          "examples": [
+            { "id": "chapter-03-example-01", "text": "J’aime (présent) / J’ai aimé (passé composé)", "highlight": [], "explanation": "Correspondance entre temps simple et temps composé.", "source": { "page": 1, "section": "3.1", "kind": "source" } },
+            { "id": "chapter-03-example-02", "text": "En 1696, René Lepage fonde Rimouski.", "highlight": [], "explanation": "Présent historique.", "source": { "page": 1, "section": "3.1", "kind": "source" } }
+          ],
+          "exceptions": [],
+          "commonMistakes": [],
+          "takeaway": "Connaître les correspondances entre temps simples et composés.",
+          "sourceReferences": [{ "page": 1, "section": "3.1" }]
+        }
+      ],
+      "summary": [
+        "Cinq modes et leurs temps simples/composés.",
+        "Le présent historique présente un fait passé comme s'il se déroulait maintenant.",
+        "L'auxiliaire varie selon la construction du verbe."
+      ],
+      "sourceReferences": [{ "page": 1, "section": "3.1" }]
+    },
+    {
+      "id": "chapter-03-section-02",
+      "title": "Distinguer les compléments directs et indirects",
+      "order": 2,
+      "introduction": "Pour certains accords (notamment le participe passé), il faut savoir distinguer CD et CI.",
+      "concepts": [
+        {
+          "id": "chapter-03-concept-02",
+          "title": "Types de verbes et compléments",
+          "explanation": "Intransitif (sans complément), transitif direct (CD sans préposition), transitif indirect (CI avec préposition), transitif à deux compléments.",
+          "definition": "Chaque verbe a sa propre construction syntaxique.",
+          "rules": [
+            { "id": "chapter-03-rule-02", "text": "Un CD ne peut généralement pas se déplacer et peut être pronominalisé par le/la/les/en.", "exceptions": [] },
+            { "id": "chapter-03-rule-03", "text": "Un CI est souvent introduit par une préposition et peut être pronominalisé par lui/leur/y/en selon le cas.", "exceptions": [] }
+          ],
+          "steps": [],
+          "examples": [
+            { "id": "chapter-03-example-03", "text": "Il étudie le français.", "highlight": [], "explanation": "CD sans préposition.", "source": { "page": 13, "section": "3.2", "kind": "source" } },
+            { "id": "chapter-03-example-04", "text": "Elle pense à son départ.", "highlight": [], "explanation": "CI introduit par « à ».", "source": { "page": 13, "section": "3.2", "kind": "source" } },
+            { "id": "chapter-03-example-05", "text": "Il donne un cadeau à ses parents.", "highlight": [], "explanation": "CD + CI.", "source": { "page": 14, "section": "3.2", "kind": "source" } }
+          ],
+          "exceptions": [],
+          "commonMistakes": [],
+          "takeaway": "Distinguer CD et CI pour bien accorder et analyser la phrase.",
+          "sourceReferences": [{ "page": 13, "section": "3.2" }]
+        }
+      ],
+      "summary": [
+        "Verbes intransitifs, transitifs directs, transitifs indirects, transitifs à deux compléments.",
+        "Des manipulations (déplacement, encadrement, pronominalisation) aident à les distinguer."
+      ],
+      "sourceReferences": [{ "page": 13, "section": "3.2" }]
+    }
+  ],
+  "reviewNotes": [
+    { "id": "chapter-03-review-01", "description": "Beaucoup d'exercices de conjugaison complets; cette version synthétique couvre les notions clés.", "sourcePage": 7 }
+  ]
+}
