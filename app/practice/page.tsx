@@ -6,7 +6,7 @@ import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 
-const AVAILABLE = ["chapter-01", "chapter-02"];
+const AVAILABLE = ["chapter-01", "chapter-02", "chapter-03"];
 
 export default function PracticePage() {
   return (

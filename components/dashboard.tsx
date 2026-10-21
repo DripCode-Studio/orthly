@@ -121,7 +121,7 @@ export function Dashboard() {
                   ? 0
                   : Math.round((chapterCompleted / chapter.lessons.length) * 100);
               const isDone = chapterCompleted === chapter.lessons.length && chapter.lessons.length > 0;
-              const isAvailable = chapter.id === "chapter-01";
+              const isAvailable = chapter.id === "chapter-01" || chapter.id === "chapter-02" || chapter.id === "chapter-03";
 
               return (
                 <Card
@@ -131,7 +131,7 @@ export function Dashboard() {
                     isAvailable && "cursor-pointer"
                   )}
                 >
-                  <Link href={`/learn/${chapter.id}`} className="flex flex-1 items-center gap-4">
+                  <Link href={isAvailable ? `/learn/${chapter.id}` : "#"} className="flex flex-1 items-center gap-4">
                     <span
                       className="ml-4 grid size-10 shrink-0 place-items-center rounded-lg font-heading text-sm font-extrabold text-white"
                       style={{ backgroundColor: chapter.color }}

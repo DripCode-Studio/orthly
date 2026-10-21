@@ -48,7 +48,7 @@ export default function LearnPage() {
 
         <div className="grid gap-3">
           {chapters.map((chapter) => {
-            const isAvailable = chapter.id === "chapter-01" || chapter.id === "chapter-02";
+            const isAvailable = chapter.id === "chapter-01" || chapter.id === "chapter-02" || chapter.id === "chapter-03";
             const chapterCompleted = chapter.lessons.filter((lesson) =>
               progress.completedLessons.includes(lesson.id)
             ).length;
