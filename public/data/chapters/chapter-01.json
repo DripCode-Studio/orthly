@@ -1,0 +1,365 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "chapter-01",
+  "number": 1,
+  "slug": "classes-et-groupes-de-mots",
+  "title": "Les classes et les groupes de mots",
+  "description": "Identifier la classe d’un mot selon son contexte, puis reconnaître les groupes de mots qui structurent la phrase.",
+  "estimatedMinutes": 35,
+  "color": "#58cc02",
+  "learningObjectives": [
+    { "id": "chapter-01-objective-01", "text": "Distinguer les mots variables des mots invariables.", "topicIds": ["word-classes"] },
+    { "id": "chapter-01-objective-02", "text": "Identifier les huit classes de mots.", "topicIds": ["word-classes"] },
+    { "id": "chapter-01-objective-03", "text": "Reconnaître un déterminant, un nom, un adjectif, un verbe et un pronom dans leur contexte.", "topicIds": ["word-classes"] },
+    { "id": "chapter-01-objective-04", "text": "Résoudre les confusions homophoniques courantes à l’aide de manipulations syntaxiques.", "topicIds": ["homophones"] },
+    { "id": "chapter-01-objective-05", "text": "Nommer un groupe de mots d’après son noyau.", "topicIds": ["word-groups"] }
+  ],
+  "sections": [
+    {
+      "id": "chapter-01-section-01",
+      "title": "Les classes de mots variables et invariables",
+      "order": 1,
+      "introduction": "Une classe de mots regroupe des éléments qui partagent des propriétés communes. Reconnaître la classe d’un mot est le premier pas de toute analyse grammaticale.",
+      "concepts": [
+        {
+          "id": "chapter-01-concept-01",
+          "title": "Trois propriétés définissent une classe",
+          "explanation": "Les mots se regroupent selon des propriétés observables, ce qui permet de les classer sans deviner.",
+          "definition": "Une classe de mots regroupe des éléments ayant des propriétés communes : la variabilité ou l’invariabilité, le comportement syntaxique et le sens.",
+          "rules": [
+            {
+              "id": "chapter-01-rule-01",
+              "text": "La variabilité : certains mots, comme les prépositions, sont invariables; d’autres, comme les adjectifs, varient en genre et en nombre.",
+              "exceptions": [],
+              "source": { "page": 1 }
+            },
+            {
+              "id": "chapter-01-rule-02",
+              "text": "Le comportement syntaxique : les mots d’une même classe se comportent de façon semblable. Le déterminant apparaît toujours avec le nom; la préposition introduit toujours un complément et n’apparaît jamais seule.",
+              "exceptions": [],
+              "source": { "page": 1 }
+            },
+            {
+              "id": "chapter-01-rule-03",
+              "text": "Le sens : le nom désigne une réalité, l’adjectif qualifie, le déterminant précise ce que le nom désigne.",
+              "exceptions": [],
+              "source": { "page": 1 }
+            }
+          ],
+          "steps": [],
+          "examples": [],
+          "exceptions": [],
+          "commonMistakes": [],
+          "takeaway": "On classe un mot par ce qu’il fait dans la phrase, pas par ce qu’il « veut dire » en général.",
+          "sourceReferences": [{ "page": 1, "section": "1.1" }]
+        },
+        {
+          "id": "chapter-01-concept-02",
+          "title": "Le contexte détermine la classe",
+          "explanation": "Un même mot peut appartenir à plusieurs classes. Il n’appartient donc pas « naturellement » à une seule.",
+          "definition": "Un mot n’appartient pas naturellement à une classe : il faut toujours tenir compte du contexte de la phrase pour la déterminer.",
+          "rules": [
+            {
+              "id": "chapter-01-rule-04",
+              "text": "Avant de nommer la classe d’un mot, on l’observe dans la phrase où il apparaît.",
+              "exceptions": [],
+              "source": { "page": 1 }
+            }
+          ],
+          "steps": [
+            { "id": "chapter-01-step-01", "text": "Repérer le mot dans sa phrase complète." },
+            { "id": "chapter-01-step-02", "text": "Observer ce qui l’entoure et sa position." },
+            { "id": "chapter-01-step-03", "text": "Appliquer une manipulation syntaxique pour confirmer la classe." }
+          ],
+          "examples": [
+            {
+              "id": "chapter-01-example-01",
+              "text": "J’aimerais que tu fermes la porte.",
+              "highlight": [{ "start": 19, "end": 25 }],
+              "explanation": "« fermes » est ici un verbe conjugué : il reçoit son nombre et sa personne du sujet « tu ».",
+              "source": { "page": 1, "section": "1.1", "kind": "source" }
+            },
+            {
+              "id": "chapter-01-example-02",
+              "text": "Nous avons mis le pied sur la terre ferme.",
+              "highlight": [{ "start": 38, "end": 43 }],
+              "explanation": "« ferme » est ici un adjectif : il qualifie le nom « terre ».",
+              "source": { "page": 1, "section": "1.1", "kind": "source" }
+            },
+            {
+              "id": "chapter-01-example-03",
+              "text": "J’ai visité la plus vieille ferme de la région.",
+              "highlight": [{ "start": 24, "end": 29 }],
+              "explanation": "« ferme » est ici un nom : il est précédé du déterminant « la » et complété par « de la région ».",
+              "source": { "page": 1, "section": "1.1", "kind": "source" }
+            }
+          ],
+          "exceptions": [],
+          "commonMistakes": [
+            {
+              "id": "chapter-01-mistake-01",
+              "incorrect": "Classer « ferme » comme nom parce qu’on le connaît d’abord comme nom.",
+              "correct": "Classer « ferme » selon son emploi dans la phrase analysée.",
+              "explanation": "La classe dépend du contexte, jamais d’une étiquette mémorisée.",
+              "source": { "page": 1 }
+            }
+          ],
+          "takeaway": "Le même mot change de classe selon la phrase : observe avant de nommer.",
+          "sourceReferences": [{ "page": 1, "section": "1.1" }]
+        },
+        {
+          "id": "chapter-01-concept-03",
+          "title": "Huit classes : cinq variables, trois invariables",
+          "explanation": "Le français compte huit classes de mots. Cinq sont formées de mots variables, trois de mots invariables.",
+          "definition": "Les classes variables sont le nom, le déterminant, l’adjectif, le pronom et le verbe. Les classes invariables sont l’adverbe, la préposition et la conjonction.",
+          "rules": [
+            {
+              "id": "chapter-01-rule-05",
+              "text": "Cinq classes sont formées de mots variables et trois classes de mots invariables.",
+              "exceptions": [],
+              "source": { "page": 1 }
+            }
+          ],
+          "steps": [],
+          "examples": [
+            {
+              "id": "chapter-01-example-04",
+              "text": "Nom : chat, Québécois, tiroir, ville, joie, pluie",
+              "highlight": [],
+              "explanation": "Un nom désigne une personne, un animal, un objet, un lieu, une émotion ou un phénomène.",
+              "source": { "page": 2, "section": "1.1", "kind": "source" }
+            },
+            {
+              "id": "chapter-01-example-05",
+              "text": "Adverbe : très, bien, heureusement, demain",
+              "highlight": [],
+              "explanation": "L’adverbe est invariable : sa forme ne change pas.",
+              "source": { "page": 2, "section": "1.1", "kind": "source" }
+            }
+          ],
+          "exceptions": [],
+          "commonMistakes": [],
+          "takeaway": "Nom, déterminant, adjectif, pronom et verbe varient; adverbe, préposition et conjonction ne varient pas.",
+          "sourceReferences": [{ "page": 1, "section": "1.1" }, { "page": 2, "section": "1.1" }]
+        },
+        {
+          "id": "chapter-01-concept-04",
+          "title": "Reconnaître le déterminant",
+          "explanation": "Le déterminant précède le nom et précise ce qu’il désigne. C’est un receveur d’accord : il reçoit le genre et le nombre du nom qu’il introduit.",
+          "definition": "Le déterminant aide à préciser ce que désigne le nom. Il précède le nom et peut en être séparé par un adjectif.",
+          "rules": [
+            {
+              "id": "chapter-01-rule-06",
+              "text": "Le déterminant ne peut ni s’effacer ni se déplacer.",
+              "exceptions": [],
+              "source": { "page": 3 }
+            },
+            {
+              "id": "chapter-01-rule-07",
+              "text": "Au singulier, le déterminant porte généralement la marque du genre du nom; au pluriel, il porte rarement cette marque.",
+              "exceptions": [],
+              "source": { "page": 3 }
+            },
+            {
+              "id": "chapter-01-rule-08",
+              "text": "Le déterminant peut être formé d’un mot (la, une, des, ses) ou de plusieurs mots (beaucoup de, n’importe quel, tous les, mes cinq).",
+              "exceptions": [],
+              "source": { "page": 3 }
+            }
+          ],
+          "steps": [
+            { "id": "chapter-01-step-04", "text": "Tenter d’effacer le mot : si la phrase devient incorrecte, c’est probablement un déterminant." },
+            { "id": "chapter-01-step-05", "text": "Remplacer le mot par un déterminant connu (le, les, un). Si le remplacement conserve le sens, c’est un déterminant." }
+          ],
+          "examples": [
+            {
+              "id": "chapter-01-example-06",
+              "text": "Ses doigts sont restés coincés. / Ses grands doigts sont restés coincés.",
+              "highlight": [],
+              "explanation": "Le déterminant « ses » précède le nom; il peut en être séparé par l’adjectif « grands ».",
+              "source": { "page": 3, "section": "1.2", "kind": "source" }
+            },
+            {
+              "id": "chapter-01-example-07",
+              "text": "Tous mes amis sont venus. → Les amis sont venus.",
+              "highlight": [],
+              "explanation": "Le remplacement de « tous mes » par le déterminant connu « les » confirme que « tous mes » est un déterminant.",
+              "source": { "page": 3, "section": "1.2", "kind": "source" }
+            }
+          ],
+          "exceptions": [
+            "Le déterminant peut être séparé du nom par un ou plusieurs adjectifs."
+          ],
+          "commonMistakes": [
+            {
+              "id": "chapter-01-mistake-02",
+              "incorrect": "*___ doigts sont restés coincés.",
+              "correct": "Ses doigts sont restés coincés.",
+              "explanation": "Le déterminant ne peut pas s’effacer : la phrase sans lui est agrammaticale.",
+              "source": { "page": 3 }
+            }
+          ],
+          "takeaway": "Le déterminant introduit le nom, ne s’efface pas et se remplace par un autre déterminant connu.",
+          "sourceReferences": [{ "page": 3, "section": "1.2" }]
+        }
+      ],
+      "summary": [
+        "Une classe de mots se définit par la variabilité, le comportement syntaxique et le sens.",
+        "La classe d’un mot dépend toujours du contexte de la phrase.",
+        "Il existe huit classes : cinq variables et trois invariables."
+      ],
+      "sourceReferences": [{ "page": 1, "section": "1.1" }, { "page": 3, "section": "1.2" }]
+    },
+    {
+      "id": "chapter-01-section-02",
+      "title": "Les confusions homophoniques",
+      "order": 2,
+      "introduction": "Certains mots se prononcent de la même façon mais s’écrivent différemment. La confusion vient presque toujours d’une méconnaissance de la classe ou de la fonction, et se résout par une manipulation syntaxique.",
+      "concepts": [
+        {
+          "id": "chapter-01-concept-05",
+          "title": "Résoudre une homophonie par manipulation",
+          "explanation": "Une des meilleures façons de distinguer les homophones est de recourir aux manipulations syntaxiques, notamment le remplacement et l’ajout.",
+          "definition": "La confusion homophonique résulte d’une méconnaissance des classes de mots et des fonctions.",
+          "rules": [
+            {
+              "id": "chapter-01-rule-09",
+              "text": "« a » est le verbe avoir à la 3e personne du singulier; on le remplace par « avait ». « à » est une préposition qui introduit un complément.",
+              "exceptions": [],
+              "source": { "page": 14 }
+            },
+            {
+              "id": "chapter-01-rule-10",
+              "text": "« ces » est un déterminant démonstratif : on peut ajouter « là » après le nom. « ses » est un déterminant possessif : on peut ajouter « à lui » ou « à elle » après le nom.",
+              "exceptions": [],
+              "source": { "page": 15 }
+            },
+            {
+              "id": "chapter-01-rule-11",
+              "text": "« leur » pronom personnel se remplace par « lui ». « leur » déterminant possessif se remplace par un autre déterminant comme « le », « la » ou « les ».",
+              "exceptions": [],
+              "source": { "page": 16 }
+            }
+          ],
+          "steps": [
+            { "id": "chapter-01-step-06", "text": "Repérer le mot ambigu dans la phrase." },
+            { "id": "chapter-01-step-07", "text": "Tester un remplacement (avait, cela, lui, un autre déterminant)." },
+            { "id": "chapter-01-step-08", "text": "Si le remplacement fonctionne, la classe est confirmée." }
+          ],
+          "examples": [
+            {
+              "id": "chapter-01-example-08",
+              "text": "Mon grand-père a travaillé dans les chantiers. → Mon grand-père avait travaillé dans les chantiers.",
+              "highlight": [],
+              "explanation": "Le remplacement par « avait » confirme que « a » est le verbe avoir.",
+              "source": { "page": 14, "section": "1.1", "kind": "source" }
+            },
+            {
+              "id": "chapter-01-example-09",
+              "text": "Demain, je vais à Mont-Joli. → *Demain, je vais avait Mont-Joli.",
+              "highlight": [],
+              "explanation": "Le remplacement échoue : « à » est une préposition, pas le verbe avoir.",
+              "source": { "page": 14, "section": "1.1", "kind": "source" }
+            },
+            {
+              "id": "chapter-01-example-10",
+              "text": "Élisabeth a lu ces livres. → …ces livres-là.",
+              "highlight": [],
+              "explanation": "L’ajout de « là » confirme que « ces » est un déterminant démonstratif.",
+              "source": { "page": 15, "section": "1.1", "kind": "source" }
+            }
+          ],
+          "exceptions": [],
+          "commonMistakes": [
+            {
+              "id": "chapter-01-mistake-03",
+              "incorrect": "Il a un ami à Montréal. (sans distinguer les deux mots)",
+              "correct": "« a » = verbe avoir; « à » = préposition.",
+              "explanation": "Le remplacement par « avait » ne fonctionne que pour le verbe.",
+              "source": { "page": 14 }
+            }
+          ],
+          "takeaway": "Devant un homophone, ne devine pas : remplace et observe.",
+          "sourceReferences": [{ "page": 14, "section": "1.1" }, { "page": 15, "section": "1.1" }]
+        }
+      ],
+      "summary": [
+        "L’homophonie crée des erreurs faciles à éviter.",
+        "La manipulation syntaxique, surtout le remplacement, révèle la classe."
+      ],
+      "sourceReferences": [{ "page": 14, "section": "1.1" }]
+    },
+    {
+      "id": "chapter-01-section-03",
+      "title": "Les groupes de mots",
+      "order": 3,
+      "introduction": "Une séquence de mots forme un groupe lorsqu’on peut la remplacer par un seul mot ou l’effacer globalement. Le noyau donne son nom au groupe.",
+      "concepts": [
+        {
+          "id": "chapter-01-concept-06",
+          "title": "Le noyau donne son nom au groupe",
+          "explanation": "Un groupe est une unité syntaxique. Le mot le plus important, le noyau, détermine le nom du groupe.",
+          "definition": "Une séquence de mots forme un groupe (une unité syntaxique), car on peut la remplacer par un seul mot ou l’effacer globalement. Le noyau donne le nom de sa classe au groupe.",
+          "rules": [
+            {
+              "id": "chapter-01-rule-12",
+              "text": "Si le noyau d’un groupe est un nom, le groupe est un groupe du nom (GN).",
+              "exceptions": [],
+              "source": { "page": 20 }
+            },
+            {
+              "id": "chapter-01-rule-13",
+              "text": "Un groupe peut être formé d’un seul mot ou de plusieurs mots; les éléments greffés au noyau sont des expansions.",
+              "exceptions": [],
+              "source": { "page": 20 }
+            }
+          ],
+          "steps": [
+            { "id": "chapter-01-step-09", "text": "Repérer le mot noyau du groupe." },
+            { "id": "chapter-01-step-10", "text": "Identifier la classe de ce noyau." },
+            { "id": "chapter-01-step-11", "text": "Nommer le groupe d’après cette classe." }
+          ],
+          "examples": [
+            {
+              "id": "chapter-01-example-11",
+              "text": "J’aime [ces histoires].",
+              "highlight": [],
+              "explanation": "Le noyau est le nom « histoires » : c’est un groupe du nom.",
+              "source": { "page": 20, "section": "1.2", "kind": "source" }
+            },
+            {
+              "id": "chapter-01-example-12",
+              "text": "Il est [très grand].",
+              "highlight": [],
+              "explanation": "Le noyau est l’adjectif « grand » : c’est un groupe de l’adjectif.",
+              "source": { "page": 20, "section": "1.2", "kind": "source" }
+            },
+            {
+              "id": "chapter-01-example-13",
+              "text": "Je vais [chez mes parents].",
+              "highlight": [],
+              "explanation": "Le noyau est la préposition « chez » : c’est un groupe prépositionnel.",
+              "source": { "page": 21, "section": "1.2", "kind": "source" }
+            }
+          ],
+          "exceptions": [],
+          "commonMistakes": [],
+          "takeaway": "Nommer un groupe : trouve le noyau, identifie sa classe, donne ce nom au groupe.",
+          "sourceReferences": [{ "page": 20, "section": "1.2" }, { "page": 21, "section": "1.2" }]
+        }
+      ],
+      "summary": [
+        "Un groupe est une unité syntaxique remplaçable ou effaçable globalement.",
+        "Le noyau donne son nom au groupe : GN, GAdj, GAdv, GV, GPrép."
+      ],
+      "sourceReferences": [{ "page": 20, "section": "1.2" }]
+    }
+  ],
+  "reviewNotes": [
+    {
+      "id": "chapter-01-review-01",
+      "description": "L’extraction source couvre les pages 1 à 26 mais n’a pas isolé chaque type de déterminant ni chaque type de pronom dans une section dédiée. Les tableaux correspondants doivent être vérifiés avant d’ajouter les questions avancées.",
+      "sourcePage": 4
+    }
+  ]
+}

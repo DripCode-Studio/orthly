@@ -3,5 +3,247 @@
   "chapterId": "chapter-01",
   "questionSetId": "chapter-01-core",
   "title": "Pratique — Chapitre 1",
-  "questions": []
+  "questions": [
+    {
+      "id": "ch01-q0001",
+      "type": "single_choice",
+      "prompt": "Dans la phrase suivante, quelle est la classe du mot en évidence?",
+      "stimulus": { "text": "J’aimerais que tu fermes la porte.", "highlightedText": "fermes" },
+      "options": [
+        { "id": "A", "text": "Un nom", "explanation": "Un nom serait précédé d’un déterminant et ne recevrait pas la personne du sujet." },
+        { "id": "B", "text": "Un adjectif", "explanation": "Un adjectif qualifierait un nom; ici le mot est le prédicat de « tu »." },
+        { "id": "C", "text": "Un verbe conjugué", "explanation": "" },
+        { "id": "D", "text": "Une préposition", "explanation": "Une préposition est invariable et introduit un complément." }
+      ],
+      "answer": {
+        "correctOptionIds": ["C"],
+        "explanation": "« fermes » reçoit la personne et le nombre du sujet « tu » : c’est un verbe conjugué. La forme change avec le sujet (je ferme, tu fermes, il ferme)."
+      },
+      "difficulty": "beginner",
+      "topicIds": ["word-classes", "verb"],
+      "sectionIds": ["chapter-01-section-01"],
+      "learningObjectiveIds": ["chapter-01-objective-02", "chapter-01-objective-03"],
+      "examCategories": ["morphologie"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 1, "section": "1.1" }],
+      "reviewStatus": "needs_review"
+    },
+    {
+      "id": "ch01-q0002",
+      "type": "single_choice",
+      "prompt": "Dans la phrase suivante, quelle est la classe du mot en évidence?",
+      "stimulus": { "text": "Nous avons mis le pied sur la terre ferme.", "highlightedText": "ferme" },
+      "options": [
+        { "id": "A", "text": "Un adjectif", "explanation": "" },
+        { "id": "B", "text": "Un nom", "explanation": "Un nom serait précédé d’un déterminant, ce qui n’est pas le cas ici." },
+        { "id": "C", "text": "Un verbe conjugué", "explanation": "Rien ne l’accorde avec un sujet." },
+        { "id": "D", "text": "Un adverbe", "explanation": "Un adverbe est invariable et modifie un verbe, un adjectif ou un autre adverbe." }
+      ],
+      "answer": {
+        "correctOptionIds": ["A"],
+        "explanation": "« ferme » qualifie ici le nom « terre » : c’est un adjectif. Le même mot était un verbe dans « tu fermes »."
+      },
+      "difficulty": "beginner",
+      "topicIds": ["word-classes", "adjective"],
+      "sectionIds": ["chapter-01-section-01"],
+      "learningObjectiveIds": ["chapter-01-objective-03"],
+      "examCategories": ["morphologie"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 1, "section": "1.1" }],
+      "reviewStatus": "needs_review"
+    },
+    {
+      "id": "ch01-q0003",
+      "type": "single_choice",
+      "prompt": "Quelle propriété permet de reconnaître qu’un mot est un déterminant?",
+      "stimulus": { "text": "Tous mes amis sont venus." },
+      "options": [
+        { "id": "A", "text": "Il peut être effacé sans rendre la phrase incorrecte.", "explanation": "Le déterminant ne peut pas s’effacer : « *amis sont venus » est agrammatical." },
+        { "id": "B", "text": "Il se remplace par un autre déterminant connu comme « les ».", "explanation": "" },
+        { "id": "C", "text": "Il varie uniquement en genre, jamais en nombre.", "explanation": "Le déterminant varie en genre et en nombre." },
+        { "id": "D", "text": "Il peut se déplacer après le nom.", "explanation": "Le déterminant ne peut ni s’effacer ni se déplacer." }
+      ],
+      "answer": {
+        "correctOptionIds": ["B"],
+        "explanation": "« Tous mes amis » se remplace par « Les amis » : le remplacement par un déterminant connu confirme la classe."
+      },
+      "difficulty": "intermediate",
+      "topicIds": ["word-classes", "determiner"],
+      "sectionIds": ["chapter-01-section-01"],
+      "learningObjectiveIds": ["chapter-01-objective-03"],
+      "examCategories": ["syntaxe"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 3, "section": "1.2" }],
+      "reviewStatus": "needs_review"
+    },
+    {
+      "id": "ch01-q0004",
+      "type": "single_choice",
+      "prompt": "Quelle classe de mots est invariable?",
+      "stimulus": { "text": "" },
+      "options": [
+        { "id": "A", "text": "Le nom", "explanation": "Le nom varie en genre et en nombre." },
+        { "id": "B", "text": "L’adjectif", "explanation": "L’adjectif reçoit le genre et le nombre du nom." },
+        { "id": "C", "text": "La préposition", "explanation": "" },
+        { "id": "D", "text": "Le pronom", "explanation": "Le pronom varie en genre, en nombre et en personne." }
+      ],
+      "answer": {
+        "correctOptionIds": ["C"],
+        "explanation": "La préposition, comme l’adverbe et la conjonction, est invariable : sa forme ne change jamais."
+      },
+      "difficulty": "beginner",
+      "topicIds": ["word-classes", "preposition"],
+      "sectionIds": ["chapter-01-section-01"],
+      "learningObjectiveIds": ["chapter-01-objective-01"],
+      "examCategories": ["morphologie"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 1, "section": "1.1" }],
+      "reviewStatus": "needs_review"
+    },
+    {
+      "id": "ch01-q0005",
+      "type": "single_choice",
+      "prompt": "Choisissez la phrase correctement écrite.",
+      "stimulus": { "text": "" },
+      "options": [
+        { "id": "A", "text": "Demain, je vais à Mont-Joli rencontrer mon médecin.", "explanation": "" },
+        { "id": "B", "text": "Demain, je vais a Mont-Joli rencontrer mon médecin.", "explanation": "« a » est le verbe avoir; on ne peut pas écrire « je vais avait Mont-Joli »." },
+        { "id": "C", "text": "Demain, je vais as Mont-Joli rencontrer mon médecin.", "explanation": "« as » est le verbe avoir à la 2e personne." },
+        { "id": "D", "text": "Demain, je vais àa Mont-Joli rencontrer mon médecin.", "explanation": "Cette forme n’existe pas." }
+      ],
+      "answer": {
+        "correctOptionIds": ["A"],
+        "explanation": "Ici « à » introduit le complément de lieu « Mont-Joli ». Le remplacement par « avait » échoue, ce qui confirme qu’il ne s’agit pas du verbe avoir."
+      },
+      "difficulty": "intermediate",
+      "topicIds": ["homophones"],
+      "sectionIds": ["chapter-01-section-02"],
+      "learningObjectiveIds": ["chapter-01-objective-04"],
+      "examCategories": ["orthographe_grammaticale"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 14, "section": "1.1" }],
+      "reviewStatus": "needs_review"
+    },
+    {
+      "id": "ch01-q0006",
+      "type": "single_choice",
+      "prompt": "Quel groupe de mots est entre crochets?",
+      "stimulus": { "text": "Je vais [chez mes parents].", "highlightedText": "chez mes parents" },
+      "options": [
+        { "id": "A", "text": "Un groupe du nom (GN)", "explanation": "Le noyau n’est pas un nom : « parents » dépend de la préposition." },
+        { "id": "B", "text": "Un groupe prépositionnel (GPrép)", "explanation": "" },
+        { "id": "C", "text": "Un groupe de l’adjectif (GAdj)", "explanation": "Le noyau n’est pas un adjectif." },
+        { "id": "D", "text": "Un groupe de l’adverbe (GAdv)", "explanation": "Le noyau n’est pas un adverbe." }
+      ],
+      "answer": {
+        "correctOptionIds": ["B"],
+        "explanation": "Le noyau est la préposition « chez ». Le noyau donnant son nom au groupe, il s’agit d’un groupe prépositionnel."
+      },
+      "difficulty": "intermediate",
+      "topicIds": ["word-groups"],
+      "sectionIds": ["chapter-01-section-03"],
+      "learningObjectiveIds": ["chapter-01-objective-05"],
+      "examCategories": ["syntaxe"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 21, "section": "1.2" }],
+      "reviewStatus": "needs_review"
+    },
+    {
+      "id": "ch01-q0007",
+      "type": "multiple_choice",
+      "prompt": "Quelles classes de mots sont variables? Sélectionnez toutes les bonnes réponses.",
+      "stimulus": { "text": "" },
+      "options": [
+        { "id": "A", "text": "Le nom", "explanation": "" },
+        { "id": "B", "text": "L’adverbe", "explanation": "L’adverbe est invariable." },
+        { "id": "C", "text": "Le verbe", "explanation": "" },
+        { "id": "D", "text": "La conjonction", "explanation": "La conjonction est invariable." },
+        { "id": "E", "text": "Le pronom", "explanation": "" }
+      ],
+      "answer": {
+        "correctOptionIds": ["A", "C", "E"],
+        "explanation": "Les cinq classes variables sont le nom, le déterminant, l’adjectif, le pronom et le verbe. L’adverbe et la conjonction sont invariables."
+      },
+      "difficulty": "intermediate",
+      "topicIds": ["word-classes"],
+      "sectionIds": ["chapter-01-section-01"],
+      "learningObjectiveIds": ["chapter-01-objective-01"],
+      "examCategories": ["morphologie"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 1, "section": "1.1" }],
+      "reviewStatus": "needs_review"
+    },
+    {
+      "id": "ch01-q0008",
+      "type": "single_choice",
+      "prompt": "Quel mot faut-il écrire pour compléter correctement la phrase?",
+      "stimulus": { "text": "Mon petit frère a oublié ___ mitaines à l’école.", "blankText": "Mon petit frère a oublié ___ mitaines à l’école." },
+      "options": [
+        { "id": "A", "text": "ces", "explanation": "« ces » est démonstratif; on ajouterait « là » : « ces mitaines-là »." },
+        { "id": "B", "text": "ses", "explanation": "" },
+        { "id": "C", "text": "c’est", "explanation": "« c’est » est un présentatif, pas un déterminant." },
+        { "id": "D", "text": "s’est", "explanation": "« s’est » appartient à un verbe pronominal." }
+      ],
+      "answer": {
+        "correctOptionIds": ["B"],
+        "explanation": "Les mitaines appartiennent au frère : on peut ajouter « à lui » après le nom (« ses mitaines à lui »), ce qui confirme le déterminant possessif « ses »."
+      },
+      "difficulty": "intermediate",
+      "topicIds": ["homophones", "determiner"],
+      "sectionIds": ["chapter-01-section-02"],
+      "learningObjectiveIds": ["chapter-01-objective-04"],
+      "examCategories": ["orthographe_grammaticale"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 15, "section": "1.1" }],
+      "reviewStatus": "needs_review"
+    },
+    {
+      "id": "ch01-q0009",
+      "type": "single_choice",
+      "prompt": "Dans la phrase suivante, quelle est la fonction du déterminant en évidence?",
+      "stimulus": { "text": "Ses grands doigts sont restés coincés.", "highlightedText": "Ses" },
+      "options": [
+        { "id": "A", "text": "Il introduit le nom « doigts », dont il reçoit le genre et le nombre.", "explanation": "" },
+        { "id": "B", "text": "Il qualifie le nom « doigts ».", "explanation": "Qualifier un nom est le rôle de l’adjectif, ici « grands »." },
+        { "id": "C", "text": "Il remplace le nom « doigts ».", "explanation": "Remplacer un nom est le rôle d’un pronom de reprise." },
+        { "id": "D", "text": "Il introduit un complément de phrase.", "explanation": "Introduire un complément est le rôle d’une préposition." }
+      ],
+      "answer": {
+        "correctOptionIds": ["A"],
+        "explanation": "Le déterminant précède le nom et en reçoit le genre et le nombre. Il peut être séparé du nom par un adjectif, comme « grands » ici."
+      },
+      "difficulty": "advanced",
+      "topicIds": ["word-classes", "determiner"],
+      "sectionIds": ["chapter-01-section-01"],
+      "learningObjectiveIds": ["chapter-01-objective-03"],
+      "examCategories": ["syntaxe"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 3, "section": "1.2" }],
+      "reviewStatus": "needs_review"
+    },
+    {
+      "id": "ch01-q0010",
+      "type": "single_choice",
+      "prompt": "Quelle manipulation confirme qu’un mot est un adverbe?",
+      "stimulus": { "text": "" },
+      "options": [
+        { "id": "A", "text": "On le met au pluriel.", "explanation": "Un adverbe est invariable : il ne se met pas au pluriel." },
+        { "id": "B", "text": "On vérifie qu’il peut modifier un verbe, un adjectif ou un autre adverbe.", "explanation": "" },
+        { "id": "C", "text": "On l’encadre par « ne… pas ».", "explanation": "Cet encadrement identifie le verbe." },
+        { "id": "D", "text": "On le remplace par un déterminant.", "explanation": "Cette manipulation identifie le déterminant." }
+      ],
+      "answer": {
+        "correctOptionIds": ["B"],
+        "explanation": "L’adverbe est un modificateur : il précise le sens d’un verbe, d’un adjectif ou d’un autre adverbe, et il est invariable."
+      },
+      "difficulty": "intermediate",
+      "topicIds": ["word-classes", "adverb"],
+      "sectionIds": ["chapter-01-section-01"],
+      "learningObjectiveIds": ["chapter-01-objective-03"],
+      "examCategories": ["syntaxe"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 11, "section": "1.1" }],
+      "reviewStatus": "needs_review"
+    }
+  ]
 }

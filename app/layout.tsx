@@ -4,6 +4,7 @@ import { Geist, Nunito_Sans } from "next/font/google";
 import { cn } from "@/lib/utils";
 import { Toaster } from "@/components/ui/sonner";
 import { TooltipProvider } from "@/components/ui/tooltip";
+import { Providers } from "@/components/providers";
 
 const geist = Geist({ subsets: ["latin"], variable: "--font-sans" });
 const nunito = Nunito_Sans({ subsets: ["latin"], variable: "--font-heading", weight: ["700", "800", "900"] });
@@ -21,7 +22,9 @@ export default function RootLayout({
   return (
     <html lang="fr-CA" className={cn("font-sans", geist.variable, nunito.variable)}>
       <body>
-        <TooltipProvider>{children}</TooltipProvider>
+        <Providers>
+          <TooltipProvider>{children}</TooltipProvider>
+        </Providers>
         <Toaster />
       </body>
     </html>

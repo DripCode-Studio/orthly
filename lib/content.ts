@@ -1,3 +1,12 @@
+/**
+ * Static chapter navigation derived from the content manifest.
+ *
+ * This is the learning-path view model, not lesson content. It exists so the
+ * sidebar, dashboard, and chapter grid can render before the async manifest
+ * fetch resolves. The authoritative content lives in `public/data/`; keep this
+ * list aligned with `manifest.json` (the validator warns on drift).
+ */
+
 import type { Chapter } from "@/types/content";
 
 export const chapters: Chapter[] = [
@@ -83,3 +92,8 @@ export const chapters: Chapter[] = [
     lessons: [{ id: "ch08-intro", title: "Idée principale et cohésion", type: "lesson", durationMinutes: 10 }]
   }
 ];
+
+/** Look up a chapter's navigation entry by its route id. */
+export function findChapter(chapterId: string): Chapter | undefined {
+  return chapters.find((chapter) => chapter.id === chapterId);
+}
