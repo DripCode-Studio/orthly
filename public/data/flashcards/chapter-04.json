@@ -1,0 +1,77 @@
+{
+  "schemaVersion": "1.0.0",
+  "chapterId": "chapter-04",
+  "deckId": "chapter-04-core",
+  "title": "Cartes éclair — Chapitre 4 : Les accords",
+  "cards": [
+    {
+      "id": "ch04-fc01",
+      "chapterId": "chapter-04",
+      "topicIds": ["verb-subject-agreement"],
+      "type": "rule",
+      "front": "Comment accorder le verbe avec son sujet ?",
+      "back": "Le verbe reçoit sa personne et son nombre du sujet. Repérer le noyau du sujet (avec manipulations : ne peut s'effacer, encadrer par c'est...qui, remplacer par pronom, question qui est-ce qui?).",
+      "example": null,
+      "tags": ["verbe-sujet"],
+      "difficulty": "beginner",
+      "origin": "source",
+      "sourceRef": { "page": 1 }
+    },
+    {
+      "id": "ch04-fc02",
+      "chapterId": "chapter-04",
+      "topicIds": ["verb-subject-agreement"],
+      "type": "rule",
+      "front": "Accord avec un nom collectif suivi d'un complément ?",
+      "back": "Selon l'accent : au singulier avec le nom collectif (accent sur l'ensemble), au pluriel avec le complément (accent sur la pluralité).",
+      "example": null,
+      "tags": ["nom-collectif"],
+      "difficulty": "intermediate",
+      "origin": "source",
+      "sourceRef": { "page": 3 }
+    },
+    {
+      "id": "ch04-fc03",
+      "chapterId": "chapter-04",
+      "topicIds": ["participle-agreement"],
+      "type": "rule",
+      "front": "Participe passé avec avoir : règle générale",
+      "back": "S'accorde avec le complément direct s'il est placé avant le verbe. Reste invariable s'il est placé après ou s'il n'y a pas de CD.",
+      "example": null,
+      "tags": ["participe-avoir"],
+      "difficulty": "intermediate",
+      "origin": "source",
+      "sourceRef": { "page": 29 }
+    },
+    {
+      "id": "ch04-fc04",
+      "chapterId": "chapter-04",
+      "topicIds": ["participle-agreement"],
+      "type": "rule",
+      "front": "Participe passé des verbes pronominaux",
+      "back": "Essentiellement pronominaux : s'accordent avec le sujet. Occasionnellement pronominaux : s'accordent avec le CD s'il est placé avant, sinon invariables.",
+      "example": null,
+      "tags": ["verbes-pronominaux"],
+      "difficulty": "intermediate",
+      "origin": "source",
+      "sourceRef": { "page": 31 }
+    },
+    {
+      "id": "ch04-fc05",
+      "chapterId": "chapter-04",
+      "topicIds": ["variable-words-agreement"],
+      "type": "rule",
+      "front": "Tout : quand varie-t-il devant un adjectif ?",
+      "back": "Tout adverbe est invariable sauf devant un adjectif féminin commençant par une consonne ou un h aspiré (il s'accorde alors en genre et en nombre).",
+      "example": null,
+      "tags": ["tout"],
+      "difficulty": "advanced",
+      "origin": "source",
+      "sourceRef": { "page": 40 }
+    }
+  ],
+  "metadata": {
+    "createdAt": "2026-10-20T00:00:00.000Z",
+    "lastModified": "2026-10-20T00:00:00.000Z"
+  }
+}

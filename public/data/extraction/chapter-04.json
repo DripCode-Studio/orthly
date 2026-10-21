@@ -1,0 +1,145 @@
+{
+  "schemaVersion": "1.0.0",
+  "document": {
+    "id": "uqar-french-course",
+    "title": "Chapitre 4 - Les accords",
+    "language": "fr-CA",
+    "sourceFile": "Chapitre 4 - Les accords.pdf"
+  },
+  "chapter": {
+    "id": "chapter-04",
+    "number": 4,
+    "title": "Les accords",
+    "summary": null,
+    "learningObjectives": [],
+    "sections": [
+      {
+        "id": "chapter-04-section-01",
+        "number": "4.1",
+        "title": "L’ACCORD DU VERBE AVEC LE SUJET",
+        "sourcePages": {
+          "start": 1,
+          "end": 9
+        },
+        "blocks": [
+          {
+            "id": "ch04-s01-b01",
+            "type": "paragraph",
+            "content": "Pour faire l’accord du verbe, il faut repérer le sujet, car c’est lui qui donne sa personne (1re, 2e ou 3e) et son nombre (singulier ou pluriel) au verbe.",
+            "sourcePage": 1
+          },
+          {
+            "id": "ch04-s01-b02",
+            "type": "table",
+            "content": {
+              "headers": ["Manipulation", "Exemple : Ma sœur Hélène visite le musée."],
+              "rows": [
+                ["Le sujet ne peut s'effacer.", "* visite le musée."],
+                ["On peut l'encadrer par c'est... qui ou ce sont... qui (+ verbe conjugué).", "C'est ma sœur Hélène qui visite le musée."],
+                ["On peut le remplacer par un pronom.", "Elle visite le musée."],
+                ["On peut poser la question Qui est-ce qui? ou Qu’est-ce qui (+ verbe conjugué)?", "Qui est-ce qui visite le musée? (C'est ma sœur Hélène qui visite le musée.)"]
+              ]
+            },
+            "sourcePage": 1
+          },
+          {
+            "id": "ch04-s01-b03",
+            "type": "paragraph",
+            "content": "Le groupe du nom occupe le plus souvent la fonction sujet. Dans ce cas, l’accord du verbe se fait avec le noyau du groupe sujet (souligné dans les exemples ci-dessous). D’autres groupes de mots peuvent occuper cette fonction.",
+            "sourcePage": 1
+          },
+          {
+            "id": "ch04-s01-b04",
+            "type": "table",
+            "content": {
+              "headers": ["Groupes de mots qui peuvent occuper la fonction sujet", "Exemples"],
+              "rows": [
+                ["Un groupe du nom", "Les employés manifestent.\nQuébec est une ville historique.\nVotre douce présence me réconforte beaucoup.\nLa sœur de Mary s’entraîne chaque jour.\nToutes les personnes présentes y ont goûté.\nDans la pénombre circule un vélo noir."],
+                ["Un pronom", "Nous essaierons d’apprendre à chanter.\nC’est magnifique!\nLe vôtre ne devrait pas tarder."],
+                ["Un groupe du verbe à l’infinitif", "Capituler ne vous servira à rien.\nSe sentir aimé est si précieux!\nDécouvrir son secret était son but."],
+                ["Une subordonnée", "Que vous soyez là me réconforte beaucoup.\nQu’il arrive toujours en retard est inacceptable."]
+              ]
+            },
+            "sourcePage": 1
+          },
+          {
+            "id": "ch04-s01-b05",
+            "type": "paragraph",
+            "content": "Généralement, le sujet est placé avant le verbe. Dans certains cas, le repérage du sujet peut être difficile.",
+            "sourcePage": 2
+          },
+          {
+            "id": "ch04-s01-b06",
+            "type": "rule",
+            "content": "LE SUJET INVERSÉ\nex.: Sous la terre reposent mes ancêtres.\nÀ ce moment-là circulaient plusieurs rumeurs.\nQue mangent les oiseaux?",
+            "sourcePage": 2
+          },
+          {
+            "id": "ch04-s01-b07",
+            "type": "rule",
+            "content": "LE SUJET SÉPARÉ DU VERBE PAR DES MOTS ÉCRAN\nex.: Je vous avais dit que je vous aimais.\nIls nous feront rire dès leur entrée en scène.\nCette chirurgienne, sans doute la meilleure de l’hôpital, est partie exercer au Pakistan pour deux ans.\nLe train, durant les mois d’été, s’arrêtait à Saint-Jean.\nLes règles d’accord, je les maitrise de mieux en mieux.",
+            "sourcePage": 2
+          },
+          {
+            "id": "ch04-s01-b08",
+            "type": "rule",
+            "content": "LE SUJET LONG\nDans certains cas, le sujet est long. On doit alors s’assurer de bien repérer le noyau du GN sujet, puisque c’est lui qui donne le nombre et la personne au verbe.\nex.: Le beau grand jardin rempli d’arbres exotiques et de fleurs odorantes aux couleurs variées attirait les promeneurs.\nToutes les fois où il a pris l’avion pour venir me voir et où nous avons partagé des moments inoubliables à la plage et chez nos amis étaient d’une grande intensité.",
+            "sourcePage": 2
+          },
+          {
+            "id": "ch04-s01-b09",
+            "type": "rule",
+            "content": "RÈGLES PARTICULIÈRES\nLE SUJET EST LE PRONOM CE OU C’.\nLe verbe être qui a ce ou c’ pour sujet se met au singulier lorsqu’il est suivi d’un mot ou d’un groupe de mots au singulier ou lorsqu’il est suivi de nous ou de vous.\nex.: C’est un grand chalet.\nC’était magnifique!\nCe sera lui qui chantera.\nC’est nous qui dirigeons cette entreprise.\nCe sera vous qui prendrez la décision.\nLe verbe être qui a ce ou c’ pour sujet se met au pluriel lorsqu’il est suivi d’un mot ou d’un groupe de mots au pluriel.\nex.: Ce sont les ouvrières qui gagnent.\nC’étaient eux qui avaient de l’avance.\nCe seront des problèmes à considérer.",
+            "sourcePage": 2
+          },
+          {
+            "id": "ch04-s01-b10",
+            "type": "rule",
+            "content": "LE SUJET EST LE PRONOM RELATIF QUI.\nLorsque le sujet du verbe est le pronom qui, on doit repérer l’antécédent du pronom qui (ce que le pronom remplace), car c’est avec lui que le verbe doit s’accorder.\nex.: La personne qui viendra demain saura répondre à ta question. (qui remplace le GN la personne, 3e p. s.)\nC’est vous qui le pensez. (qui remplace le pronom vous, 2e p. pl.)\nC’est moi qui ai cuisiné ce gâteau. (qui remplace le pronom moi, 1re p. s.)",
+            "sourcePage": 3
+          },
+          {
+            "id": "ch04-s01-b11",
+            "type": "rule",
+            "content": "LE SUJET EST UN NOM COLLECTIF.\nUn nom collectif est un mot au singulier qui désigne un ensemble d’éléments.\nex.: une foule, un ensemble, un groupe, la totalité, une centaine, une troupe, la meute, un tas, une multitude, etc.\nQuand le sujet est un nom collectif, le verbe s’accorde avec le nom. D’autres mots de la phrase doivent aussi s’accorder.\nex.: La foule était nombreuse.\nLa meute s’est dirigée vers le sud.\nToute la famille arriva finalement.\nQuand le sujet est un nom collectif suivi de son complément, le verbe peut s’accorder au singulier avec le nom collectif ou au pluriel avec le complément du nom collectif.\nSi on veut mettre l’accent sur l’idée d’ensemble, la totalité, l’accord du verbe se fait avec le nom collectif, au singulier.\nex.: Une foule de partisans grandissait.\nUne file de voitures ondulait sur la route.\nL’ensemble de pinceaux est vendu 20$.\nSi on veut mettre l’accent sur la pluralité, sur le détail de l’ensemble des éléments, l’accord du verbe se fait avec le complément du nom collectif, au pluriel.\nex.: Un tas d’images se succèdent dans ma tête.\nUn groupe d’enfants criaient à tue-tête.",
+            "sourcePage": 3
+          },
+          {
+            "id": "ch04-s01-b12",
+            "type": "rule",
+            "content": "LE SUJET CONTIENT UNE EXPRESSION DE QUANTITÉ.\nLorsque le sujet contient une expression de quantité (beaucoup, combien, peu, la plupart, etc.) sans complément, le verbe se met au pluriel.\nex.: Beaucoup viendront lui rendre hommage.\nCombien partent pour la guerre?\nLa plupart sont repartis les mains vides.\nLorsque le sujet contient une expression de quantité (assez de, beaucoup de, combien de, un grand nombre de, quantité de, etc.) suivi d’un complément, le verbe s’accorde avec le noyau du GN.\nex.: Beaucoup d’étudiants utilisent ce modèle.\nLa plupart des filles seront servies tôt.\nÉnormément de neige est tombée cet hiver.\nTrop de pluie s’est accumulée en peu de temps.",
+            "sourcePage": 4
+          },
+          {
+            "id": "ch04-s01-b13",
+            "type": "rule",
+            "content": "LE SUJET EST FORMÉ DE GROUPES COORDONNÉS PAR ET.\nLorsque le verbe a plusieurs sujets de la même personne, le verbe se met au pluriel à la même personne que l’ensemble des sujets.\nex.: Le ski et le patin aident à passer l’hiver. (il + il = ils)\nMaryse et Mathieu sont en bonne santé. (elle + il = ils)\nQuand le verbe a plusieurs sujets de personnes différentes, le verbe s’accorde avec la personne qui a la priorité:\n1. La 1re personne l’emporte sur les deux autres.\nex.: Toi et moi irons ensemble au cinéma. (toi + moi = nous)\nBéa et moi ne pouvons pas venir. (elle + moi = nous)\nMes parents et moi avons mangé ensemble. (eux + moi = nous)\n2. La 2e personne l’emporte sur la troisième.\nex.: Ton frère et toi pouvez réussir cet exploit. (lui + toi = vous)\nCes femmes et toi faites un excellent travail! (elles + toi = vous)",
+            "sourcePage": 4
+          },
+          {
+            "id": "ch04-s01-b14",
+            "type": "rule",
+            "content": "LE SUJET EST FORMÉ DE GROUPES COORDONNÉS PAR OU OU PAR NI.\nLorsque les sujets sont unis par le coordonnant ou ou par ni, on accorde le verbe au pluriel si tous les sujets peuvent faire l’action du verbe. Une idée d’addition ou d’inclusion est sous-entendue dans la phrase.\nex.: Toi ou moi pouvons résoudre cette équation. (Nous en sommes capables tous les deux.)\nUn verre d’eau ou un verre de jus feront l’affaire. (Les deux feront l’affaire.)\nNi David ni Élise ne peuvent venir.\nNi la chaleur ni le froid ne l’empêchent de sortir courir.\nNi toi ni moi ne cautionnerons ces propos. (toi + moi = nous)\nNi toi ni elle ne pourrez me convaincre. (toi + elle = vous)\nNi mes deux sœurs ni toi n’avez eu de chance! (elles + toi = vous)\nCependant, le verbe doit s’accorder au singulier (à la 3e p.) lorsque, logiquement, l’action ne peut se réaliser que par un seul sujet. Une idée d’exclusion est sous-entendue dans la phrase.\nex.: Je pense que François ou Étienne gagnera la compétition. (Une seule personne gagnera.)\nEnsuite, Martin ou Michelle prendra la parole. (Les deux personnes ne parleront pas en même temps.)\nNi lui ni Henri n’est le père de ce bébé.",
+            "sourcePage": 5
+          }
+        ]
+      }
+    ],
+    "exercises": [],
+    "sourceCoverage": {
+      "extractedSections": [
+        "4.1 L’ACCORD DU VERBE AVEC LE SUJET",
+        "4.2 LES ACCORDS DANS LE GROUPE NOMINAL",
+        "4.3 L’ACCORD DE L’ADJECTIF ATTRIBUT DU SUJET",
+        "4.4 L’ACCORD DES PARTICIPES PASSÉS EMPLOYÉS SEUL, AVEC ÊTRE, AVEC AVOIR ET DES VERBES PRONOMINAUX (RÈGLES GÉNÉRALES)",
+        "4.5 LES ACCORDS: TOUT, QUELQUE, MÊME, TEL, ETC.",
+        "CORRIGÉS DES EXERCICES"
+      ],
+      "extractedPageRanges": [
+        "1-61"
+      ],
+      "unreadableContent": [],
+      "itemsRequiringReview": []
+    }
+  }
+}
