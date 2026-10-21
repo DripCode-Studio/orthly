@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.0.0",
+  "chapterId": "chapter-02",
+  "questionSetId": "chapter-02-core",
+  "title": "Pratique — Chapitre 2",
+  "questions": [
+    {
+      "id": "ch02-q0001",
+      "type": "single_choice",
+      "prompt": "Quelle manipulation permet de distinguer un groupe facultatif d’un groupe obligatoire?",
+      "stimulus": { "text": "" },
+      "options": [
+        { "id": "A", "text": "L’effacement", "explanation": "" },
+        { "id": "B", "text": "L’encadrement par c’est... qui", "explanation": "Cette manipulation identifie le sujet." },
+        { "id": "C", "text": "Le remplacement par un pronom", "explanation": "Cette manipulation délimite un groupe." },
+        { "id": "D", "text": "L’ajout d’un adverbe", "explanation": "Cette manipulation permet parfois d’identifier un adjectif." }
+      ],
+      "answer": { "correctOptionIds": ["A"], "explanation": "L’effacement permet de voir si un groupe est facultatif ou obligatoire." },
+      "difficulty": "beginner",
+      "topicIds": ["syntax", "manipulations"],
+      "sectionIds": ["chapter-02-section-01"],
+      "learningObjectiveIds": ["chapter-02-objective-01"],
+      "examCategories": ["syntaxe"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 1, "section": "2.1" }],
+      "reviewStatus": "needs_review"
+    },
+    {
+      "id": "ch02-q0002",
+      "type": "single_choice",
+      "prompt": "Quel type de phrase est : « Fais attention à la marche. »?",
+      "stimulus": { "text": "" },
+      "options": [
+        { "id": "A", "text": "Déclaratif", "explanation": "Une phrase déclarative communique une information." },
+        { "id": "B", "text": "Interrogatif", "explanation": "Une phrase interrogative pose une question." },
+        { "id": "C", "text": "Impératif", "explanation": "" },
+        { "id": "D", "text": "Exclamatif", "explanation": "Une phrase exclamative exprime un sentiment intense." }
+      ],
+      "answer": { "correctOptionIds": ["C"], "explanation": "La phrase impérative exprime un ordre, une consigne ou un souhait; le sujet est généralement effacé." },
+      "difficulty": "beginner",
+      "topicIds": ["syntax", "types"],
+      "sectionIds": ["chapter-02-section-04"],
+      "learningObjectiveIds": ["chapter-02-objective-04"],
+      "examCategories": ["syntaxe"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 11, "section": "2.4" }],
+      "reviewStatus": "needs_review"
+    },
+    {
+      "id": "ch02-q0003",
+      "type": "single_choice",
+      "prompt": "Dans la phrase « La souris est dévorée par le hibou. », quelle forme est utilisée?",
+      "stimulus": { "text": "" },
+      "options": [
+        { "id": "A", "text": "Forme active", "explanation": "À la forme active, le sujet fait l’action." },
+        { "id": "B", "text": "Forme passive", "explanation": "" },
+        { "id": "C", "text": "Forme emphatique", "explanation": "La forme emphatique met en relief un élément." },
+        { "id": "D", "text": "Forme impersonnelle", "explanation": "La forme impersonnelle utilise un « il » impersonnel." }
+      ],
+      "answer": { "correctOptionIds": ["B"], "explanation": "Le sujet « la souris » subit l’action; le complément d’agent « par le hibou » indique la forme passive." },
+      "difficulty": "intermediate",
+      "topicIds": ["syntax", "forms"],
+      "sectionIds": ["chapter-02-section-05"],
+      "learningObjectiveIds": ["chapter-02-objective-05"],
+      "examCategories": ["syntaxe"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 18, "section": "2.5" }],
+      "reviewStatus": "needs_review"
+    },
+    {
+      "id": "ch02-q0004",
+      "type": "single_choice",
+      "prompt": "Selon le modèle de la phrase de base, quels sont les deux constituants obligatoires?",
+      "stimulus": { "text": "" },
+      "options": [
+        { "id": "A", "text": "Le sujet et le prédicat", "explanation": "" },
+        { "id": "B", "text": "Le sujet et le complément de phrase", "explanation": "Le complément de phrase est facultatif." },
+        { "id": "C", "text": "Le prédicat et le complément de phrase", "explanation": "Le sujet est obligatoire." },
+        { "id": "D", "text": "L’attribut et le complément direct", "explanation": "Ce ne sont pas les constituants de base." }
+      ],
+      "answer": { "correctOptionIds": ["A"], "explanation": "Le modèle est Sujet + Prédicat + (Complément de phrase). Le complément de phrase est facultatif." },
+      "difficulty": "beginner",
+      "topicIds": ["syntax", "phrase-base"],
+      "sectionIds": ["chapter-02-section-03"],
+      "learningObjectiveIds": ["chapter-02-objective-03"],
+      "examCategories": ["syntaxe"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 5, "section": "2.3" }],
+      "reviewStatus": "needs_review"
+    },
+    {
+      "id": "ch02-q0005",
+      "type": "single_choice",
+      "prompt": "Quelle phrase illustre la forme emphatique?",
+      "stimulus": { "text": "" },
+      "options": [
+        { "id": "A", "text": "Pierre mange une pomme.", "explanation": "Forme neutre." },
+        { "id": "B", "text": "C’est Pierre qui mange une pomme.", "explanation": "" },
+        { "id": "C", "text": "Une pomme est mangée par Pierre.", "explanation": "Forme passive." },
+        { "id": "D", "text": "Il pleut.", "explanation": "Forme impersonnelle." }
+      ],
+      "answer": { "correctOptionIds": ["B"], "explanation": "L’encadrement par c’est... qui met le sujet en relief." },
+      "difficulty": "intermediate",
+      "topicIds": ["syntax", "forms"],
+      "sectionIds": ["chapter-02-section-05"],
+      "learningObjectiveIds": ["chapter-02-objective-05"],
+      "examCategories": ["syntaxe"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 22, "section": "2.5" }],
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

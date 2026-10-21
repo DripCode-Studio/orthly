@@ -12,10 +12,12 @@
     { "id": "chapter-08", "number": 8, "title": "La structure du paragraphe et du texte", "content": "chapters/chapter-08.json", "status": "draft" }
   ],
   "questionBanks": [
-    { "id": "chapter-01-core", "chapterId": "chapter-01", "title": "Pratique — Chapitre 1", "content": "questions/chapter-01.json" }
+    { "id": "chapter-01-core", "chapterId": "chapter-01", "title": "Pratique — Chapitre 1", "content": "questions/chapter-01.json" },
+    { "id": "chapter-02-core", "chapterId": "chapter-02", "title": "Pratique — Chapitre 2", "content": "questions/chapter-02.json" }
   ],
   "flashcardDecks": [
-    { "id": "chapter-01-core", "chapterId": "chapter-01", "title": "Cartes éclair — Chapitre 1", "content": "flashcards/chapter-01.json" }
+    { "id": "chapter-01-core", "chapterId": "chapter-01", "title": "Cartes éclair — Chapitre 1", "content": "flashcards/chapter-01.json" },
+    { "id": "chapter-02-core", "chapterId": "chapter-02", "title": "Cartes éclair — Chapitre 2", "content": "flashcards/chapter-02.json" }
   ],
   "exams": [
     { "id": "tflm", "title": "Simulation TFLM", "content": "exams/tflm.json", "verified": false },

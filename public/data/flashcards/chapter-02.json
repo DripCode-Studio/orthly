@@ -1,0 +1,86 @@
+{
+  "schemaVersion": "1.0.0",
+  "chapterId": "chapter-02",
+  "deckId": "chapter-02-core",
+  "title": "Cartes éclair — Chapitre 2",
+  "cards": [
+    {
+      "id": "fc-ch02-0001",
+      "chapterId": "chapter-02",
+      "topicIds": ["syntax", "manipulations"],
+      "type": "rule",
+      "front": "À quoi sert le test d’effacement?",
+      "back": "Il distingue les groupes facultatifs des groupes obligatoires.",
+      "example": "J’ai beaucoup travaillé cette année. (facultatif : « cette année »)",
+      "tags": ["effacement"],
+      "difficulty": "beginner",
+      "origin": "source",
+      "sourceRef": { "page": 1, "section": "2.1" }
+    },
+    {
+      "id": "fc-ch02-0002",
+      "chapterId": "chapter-02",
+      "topicIds": ["syntax", "manipulations"],
+      "type": "rule",
+      "front": "Quand utilise-t-on « c’est... qui »?",
+      "back": "Pour encadrer le sujet de la phrase.",
+      "example": "C’est Paul qui parle.",
+      "tags": ["encadrement", "sujet"],
+      "difficulty": "beginner",
+      "origin": "source",
+      "sourceRef": { "page": 3, "section": "2.1" }
+    },
+    {
+      "id": "fc-ch02-0003",
+      "chapterId": "chapter-02",
+      "topicIds": ["syntax", "phrase-base"],
+      "type": "rule",
+      "front": "Quelles sont les parties obligatoires de la phrase de base?",
+      "back": "Le sujet et le prédicat. Le complément de phrase est facultatif.",
+      "example": "Pierre mange. / Pierre mange à midi.",
+      "tags": ["obligatoire"],
+      "difficulty": "beginner",
+      "origin": "source",
+      "sourceRef": { "page": 5, "section": "2.3" }
+    },
+    {
+      "id": "fc-ch02-0004",
+      "chapterId": "chapter-02",
+      "topicIds": ["syntax", "types"],
+      "type": "definition",
+      "front": "Quels sont les 4 types de phrases?",
+      "back": "Déclaratif, interrogatif, impératif, exclamatif.",
+      "example": "Je lis. / Lis-tu? / Lis! / Que c’est beau!",
+      "tags": ["types"],
+      "difficulty": "beginner",
+      "origin": "source",
+      "sourceRef": { "page": 11, "section": "2.4" }
+    },
+    {
+      "id": "fc-ch02-0005",
+      "chapterId": "chapter-02",
+      "topicIds": ["syntax", "forms"],
+      "type": "rule",
+      "front": "Comment reconnaître une phrase passive?",
+      "back": "Le sujet subit l’action. Le verbe est formé d’« être » + participe passé. Le CD devient sujet.",
+      "example": "La souris est dévorée par le hibou.",
+      "tags": ["passif"],
+      "difficulty": "intermediate",
+      "origin": "source",
+      "sourceRef": { "page": 18, "section": "2.5" }
+    },
+    {
+      "id": "fc-ch02-0006",
+      "chapterId": "chapter-02",
+      "topicIds": ["syntax", "forms"],
+      "type": "rule",
+      "front": "Qu’est-ce qu’une forme emphatique?",
+      "back": "Une forme qui met un élément en relief (c’est... qui/que, détachement + reprise par un pronom).",
+      "example": "C’est Marie qui est venue.",
+      "tags": ["emphatique"],
+      "difficulty": "intermediate",
+      "origin": "source",
+      "sourceRef": { "page": 22, "section": "2.5" }
+    }
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "chapter-02",
+  "number": 2,
+  "slug": "syntaxe-de-la-phrase",
+  "title": "La syntaxe de la phrase",
+  "description": "Reconnaître les manipulations syntaxiques, les fonctions des groupes de mots, la phrase de base, les types et les formes de phrases.",
+  "estimatedMinutes": 55,
+  "color": "#1cb0f6",
+  "learningObjectives": [
+    { "id": "chapter-02-objective-01", "text": "Utiliser l'effacement, le déplacement, le remplacement et l'encadrement pour analyser une phrase.", "topicIds": ["syntax", "manipulations"] },
+    { "id": "chapter-02-objective-02", "text": "Identifier les principales fonctions : sujet, prédicat, complément de phrase, complément du verbe, attribut, etc.", "topicIds": ["syntax", "functions"] },
+    { "id": "chapter-02-objective-03", "text": "Distinguer les constituants obligatoires et facultatifs de la phrase de base.", "topicIds": ["syntax", "phrase-base"] },
+    { "id": "chapter-02-objective-04", "text": "Différencier les types de phrases (déclaratif, interrogatif, impératif, exclamatif).", "topicIds": ["syntax", "types"] },
+    { "id": "chapter-02-objective-05", "text": "Différencier les formes de phrases (négative, passive, emphatique, impersonnelle).", "topicIds": ["syntax", "forms"] }
+  ],
+  "sections": [
+    {
+      "id": "chapter-02-section-01",
+      "title": "Les manipulations syntaxiques",
+      "order": 1,
+      "introduction": "Certaines manipulations permettent d’identifier des classes de mots, des groupes de mots, des fonctions, etc. Voici quelques manipulations fort utiles.",
+      "concepts": [
+        {
+          "id": "chapter-02-concept-01",
+          "title": "L’effacement et le déplacement",
+          "explanation": "L’effacement distingue les groupes facultatifs et obligatoires. Le déplacement permet d’identifier le complément de phrase.",
+          "definition": "L’effacement permet de distinguer les groupes obligatoires et facultatifs. Le déplacement aide à reconnaître les groupes mobiles (comme le complément de phrase).",
+          "rules": [
+            { "id": "chapter-02-rule-01", "text": "On peut supprimer un complément de phrase sans rendre la phrase asyntaxique.", "exceptions": [] },
+            { "id": "chapter-02-rule-02", "text": "Un complément de phrase se déplace facilement; un complément du verbe se déplace moins facilement.", "exceptions": [] }
+          ],
+          "steps": [],
+          "examples": [
+            { "id": "chapter-02-example-01", "text": "J’ai beaucoup travaillé cette année.", "highlight": [], "explanation": "« cette année » est supprimable et déplaçable : c’est un complément de phrase.", "source": { "page": 1, "section": "2.1", "kind": "source" } },
+            { "id": "chapter-02-example-02", "text": "Cette année, j’ai beaucoup travaillé.", "highlight": [], "explanation": "Le déplacement confirme le caractère mobile du complément de phrase.", "source": { "page": 1, "section": "2.1", "kind": "source" } }
+          ],
+          "exceptions": [],
+          "commonMistakes": [],
+          "takeaway": "Effacement = facultatif/obligatoire; déplacement = mobilité et fonction.",
+          "sourceReferences": [{ "page": 1, "section": "2.1" }]
+        },
+        {
+          "id": "chapter-02-concept-02",
+          "title": "Le remplacement et l’encadrement",
+          "explanation": "Le remplacement par des mots de même classe identifie la classe. Le remplacement par un pronom délimite un groupe. L’encadrement par c’est... qui/que identifie le sujet ou un complément.",
+          "definition": "Ces manipulations permettent d’identifier la classe, de délimiter un groupe et de reconnaître une fonction.",
+          "rules": [
+            { "id": "chapter-02-rule-03", "text": "On peut remplacer un déterminant par d’autres déterminants (ma, la, chaque...) pour le reconnaître.", "exceptions": [] },
+            { "id": "chapter-02-rule-04", "text": "On peut remplacer un groupe entier par un pronom pour délimiter ce groupe.", "exceptions": [] },
+            { "id": "chapter-02-rule-05", "text": "C’est... qui encadre le sujet. C’est... que encadre un complément.", "exceptions": [] }
+          ],
+          "steps": [],
+          "examples": [
+            { "id": "chapter-02-example-03", "text": "Cette classe est très dynamique.", "highlight": [], "explanation": "Remplaçable par « ma », « la », « une » : « cette » est un déterminant.", "source": { "page": 2, "section": "2.1", "kind": "source" } },
+            { "id": "chapter-02-example-04", "text": "Le cours donné par Jeanne, une jeune professeure, est très dynamique. → Il est très dynamique.", "highlight": [], "explanation": "Tout le groupe est remplacé par « il » : il forme un groupe du nom.", "source": { "page": 2, "section": "2.1", "kind": "source" } },
+            { "id": "chapter-02-example-05", "text": "C’est le cours donné par Jeanne qui est très dynamique.", "highlight": [], "explanation": "L’encadrement par c’est... qui identifie le sujet.", "source": { "page": 3, "section": "2.1", "kind": "source" } }
+          ],
+          "exceptions": [],
+          "commonMistakes": [],
+          "takeaway": "Remplacement identifie la classe/le groupe; encadrement identifie le sujet/complement.",
+          "sourceReferences": [{ "page": 2, "section": "2.1" }, { "page": 3, "section": "2.1" }]
+        }
+      ],
+      "summary": [
+        "L’effacement distingue les groupes obligatoires et facultatifs.",
+        "Le déplacement repère les groupes mobiles (complément de phrase).",
+        "Le remplacement délimite des groupes et identifie des classes.",
+        "L’encadrement par c’est... qui/que identifie le sujet ou un complément."
+      ],
+      "sourceReferences": [{ "page": 1, "section": "2.1" }]
+    },
+    {
+      "id": "chapter-02-section-02",
+      "title": "Les principales fonctions des groupes de mots",
+      "order": 2,
+      "introduction": "La fonction est le « rôle » joué par les groupes de mots dans la phrase. Un groupe n’a pas naturellement une fonction : on la détermine selon son rôle.",
+      "concepts": [
+        {
+          "id": "chapter-02-concept-03",
+          "title": "Principales fonctions",
+          "explanation": "Les fonctions à connaître : sujet, prédicat, complément de phrase, complément du nom, complément direct/indirect du verbe, attribut du sujet, modificateur.",
+          "definition": "Chaque fonction possède des propriétés révélées par des manipulations syntaxiques.",
+          "rules": [],
+          "steps": [],
+          "examples": [
+            { "id": "chapter-02-example-06", "text": "Depuis toujours, Pierre aime le cinéma.", "highlight": [], "explanation": "« Depuis toujours » est un complément de phrase (facultatif, mobile).", "source": { "page": 4, "section": "2.2", "kind": "source" } },
+            { "id": "chapter-02-example-07", "text": "Ce film est excellent.", "highlight": [], "explanation": "« excellent » est attribut du sujet.", "source": { "page": 4, "section": "2.2", "kind": "source" } }
+          ],
+          "exceptions": [],
+          "commonMistakes": [],
+          "takeaway": "La fonction dépend du rôle dans la phrase, pas de la classe seule.",
+          "sourceReferences": [{ "page": 4, "section": "2.2" }]
+        }
+      ],
+      "summary": [
+        "La fonction est le rôle d’un groupe dans la phrase.",
+        "Différentes manipulations permettent de distinguer les fonctions."
+      ],
+      "sourceReferences": [{ "page": 4, "section": "2.2" }]
+    },
+    {
+      "id": "chapter-02-section-03",
+      "title": "La phrase de base",
+      "order": 3,
+      "introduction": "Une phrase bien formée contient deux constituants obligatoires et peut avoir un constituant facultatif.",
+      "concepts": [
+        {
+          "id": "chapter-02-concept-04",
+          "title": "Sujet, prédicat, complément de phrase",
+          "explanation": "Le modèle de la phrase de base est : Sujet + Prédicat + (Complément de phrase). La phrase de base est déclarative, affirmative, active, neutre et personnelle.",
+          "definition": "Les constituants obligatoires sont le sujet et le prédicat; le complément de phrase est facultatif.",
+          "rules": [
+            { "id": "chapter-02-rule-06", "text": "Si on supprime un élément obligatoire, la phrase devient incomplète et incompréhensible.", "exceptions": [] },
+            { "id": "chapter-02-rule-07", "text": "Le complément de phrase est facultatif et mobile.", "exceptions": [] }
+          ],
+          "steps": [],
+          "examples": [
+            { "id": "chapter-02-example-08", "text": "Un chercheur de l’UQAR a découvert des fossiles rares cette année.", "highlight": [], "explanation": "Sujet + prédicat + complément de phrase facultatif.", "source": { "page": 5, "section": "2.3", "kind": "source" } }
+          ],
+          "exceptions": [],
+          "commonMistakes": [],
+          "takeaway": "Sujet et prédicat sont obligatoires; le complément de phrase est facultatif.",
+          "sourceReferences": [{ "page": 5, "section": "2.3" }]
+        },
+        {
+          "id": "chapter-02-concept-05",
+          "title": "Reconnaître le sujet",
+          "explanation": "On reconnaît le sujet par des manipulations : il ne s’efface pas, on l’encadre par c’est... qui, on le remplace par un pronom, on pose la question Qui est-ce qui?",
+          "definition": "Le sujet est un constituant obligatoire; il peut être un GN, un pronom, un groupe infinitif ou une subordonnée.",
+          "rules": [],
+          "steps": [],
+          "examples": [],
+          "exceptions": [],
+          "commonMistakes": [],
+          "takeaway": "Faire plusieurs manipulations pour identifier le sujet en entier.",
+          "sourceReferences": [{ "page": 7, "section": "2.3" }]
+        }
+      ],
+      "summary": [
+        "Phrase de base = Sujet + Prédicat + (Complément de phrase)",
+        "Sujet et prédicat sont obligatoires.",
+        "Le complément de phrase est facultatif et mobile."
+      ],
+      "sourceReferences": [{ "page": 5, "section": "2.3" }]
+    },
+    {
+      "id": "chapter-02-section-04",
+      "title": "Les types de phrases",
+      "order": 4,
+      "introduction": "Selon l’intention de communication, on distingue quatre types de phrases.",
+      "concepts": [
+        {
+          "id": "chapter-02-concept-06",
+          "title": "Types : déclaratif, interrogatif, impératif, exclamatif",
+          "explanation": "Chaque phrase appartient à un seul type. Les types s’excluent mutuellement.",
+          "definition": "Déclaratif (information), interrogatif (question), impératif (ordre/consigne/souhait), exclamatif (sentiment/réaction).",
+          "rules": [],
+          "steps": [],
+          "examples": [
+            { "id": "chapter-02-example-09", "text": "J’ai fait un bon travail.", "highlight": [], "explanation": "Type déclaratif.", "source": { "page": 11, "section": "2.4", "kind": "source" } },
+            { "id": "chapter-02-example-10", "text": "Fais un bon travail.", "highlight": [], "explanation": "Type impératif (sujet effacé).", "source": { "page": 11, "section": "2.4", "kind": "source" } },
+            { "id": "chapter-02-example-11", "text": "As-tu fait un bon travail?", "highlight": [], "explanation": "Type interrogatif.", "source": { "page": 11, "section": "2.4", "kind": "source" } },
+            { "id": "chapter-02-example-12", "text": "Quel bon travail j’ai fait!", "highlight": [], "explanation": "Type exclamatif.", "source": { "page": 11, "section": "2.4", "kind": "source" } }
+          ],
+          "exceptions": [],
+          "commonMistakes": [],
+          "takeaway": "Un seul type par phrase; ils s’excluent mutuellement.",
+          "sourceReferences": [{ "page": 11, "section": "2.4" }]
+        }
+      ],
+      "summary": [
+        "Déclaratif : informer",
+        "Interrogatif : questionner",
+        "Impératif : ordonner/suggérer",
+        "Exclamatif : exprimer un sentiment"
+      ],
+      "sourceReferences": [{ "page": 11, "section": "2.4" }]
+    },
+    {
+      "id": "chapter-02-section-05",
+      "title": "Les formes de phrases",
+      "order": 5,
+      "introduction": "Quatre paires de formes : positive/négative, active/passive, neutre/emphatique, personnelle/impersonnelle. Elles peuvent se combiner.",
+      "concepts": [
+        {
+          "id": "chapter-02-concept-07",
+          "title": "Forme négative et forme passive",
+          "explanation": "La négation utilise ne... pas/plus/jamais/ni... ni/personne/rien. À la forme passive, le CD devient sujet et le verbe se conjugue avec être + participe passé (accord avec le sujet).",
+          "definition": "Forme négative : nie l’énoncé. Forme passive : le sujet subit l’action.",
+          "rules": [
+            { "id": "chapter-02-rule-08", "text": "À la forme négative, des/un/une/du/de la deviennent « de/d' » dans certains contextes.", "exceptions": [] },
+            { "id": "chapter-02-rule-09", "text": "À la forme passive, le complément direct devient le sujet; le participe passé s’accorde avec ce sujet.", "exceptions": ["Certains verbes ne se prêtent pas à la transformation passive (verbes sans CD)."] }
+          ],
+          "steps": [],
+          "examples": [
+            { "id": "chapter-02-example-13", "text": "Le hibou dévore la souris. → La souris est dévorée par le hibou.", "highlight": [], "explanation": "CD devient sujet; verbe passif avec accord.", "source": { "page": 18, "section": "2.5", "kind": "source" } },
+            { "id": "chapter-02-example-14", "text": "J’ai des enfants. → Je n’ai pas d’enfants.", "highlight": [], "explanation": "Changement du déterminant à la forme négative.", "source": { "page": 17, "section": "2.5", "kind": "source" } }
+          ],
+          "exceptions": [],
+          "commonMistakes": [],
+          "takeaway": "Vérifier la présence d’un CD pour transformer à la forme passive.",
+          "sourceReferences": [{ "page": 17, "section": "2.5" }, { "page": 18, "section": "2.5" }]
+        },
+        {
+          "id": "chapter-02-concept-08",
+          "title": "Forme emphatique et forme impersonnelle",
+          "explanation": "La forme emphatique met en relief un élément (c’est... qui/que, détachement + reprise). La forme impersonnelle utilise « il » impersonnel; le sujet devient complément du verbe.",
+          "definition": "Emphatique = mise en relief. Impersonnelle = « il » ne représente rien ni personne.",
+          "rules": [],
+          "steps": [],
+          "examples": [
+            { "id": "chapter-02-example-15", "text": "Notre équipe a gagné la médaille. → C’est notre équipe qui a gagné la médaille.", "highlight": [], "explanation": "Mise en relief du sujet.", "source": { "page": 22, "section": "2.5", "kind": "source" } },
+            { "id": "chapter-02-example-16", "text": "Une solution existe. → Il existe une solution.", "highlight": [], "explanation": "Transformation à la forme impersonnelle.", "source": { "page": 23, "section": "2.5", "kind": "source" } }
+          ],
+          "exceptions": [],
+          "commonMistakes": [],
+          "takeaway": "On évite d’abuser du passif et des tournures impersonnelles en rédaction.",
+          "sourceReferences": [{ "page": 22, "section": "2.5" }, { "page": 23, "section": "2.5" }]
+        }
+      ],
+      "summary": [
+        "Les formes se combinent entre elles.",
+        "Forme passive : CD → sujet, être + participe passé accordé.",
+        "Forme emphatique : mise en relief.",
+        "Forme impersonnelle : il impersonnel, sujet devient complément."
+      ],
+      "sourceReferences": [{ "page": 15, "section": "2.5" }]
+    }
+  ],
+  "reviewNotes": [
+    { "id": "chapter-02-review-01", "description": "Certains exercices complets et tableaux détaillés ont été omis dans cette version synthétique; ajouter au fur et à mesure selon les besoins.", "sourcePage": 9 }
+  ]
+}

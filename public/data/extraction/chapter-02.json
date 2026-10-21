@@ -1,0 +1,153 @@
+{
+  "schemaVersion": "1.0.0",
+  "document": {
+    "id": "uqar-french-course",
+    "title": "Chapitre 2 - La syntaxe de la phrase",
+    "language": "fr-CA",
+    "sourceFile": "Chapitre 2 - La syntaxe de la phrase.pdf"
+  },
+  "chapter": {
+    "id": "chapter-02",
+    "number": 2,
+    "title": "La syntaxe de la phrase",
+    "summary": null,
+    "learningObjectives": [],
+    "sections": [
+      {
+        "id": "chapter-02-section-01",
+        "number": "2.1",
+        "title": "LES MANIPULATIONS SYNTAXIQUES",
+        "sourcePages": { "start": 1, "end": 4 },
+        "blocks": [
+          { "id": "ch02-s01-b01", "type": "paragraph", "content": "Certaines manipulations permettent d’identifier des classes de mots, des groupes de mots, des fonctions, etc. Voici quelques manipulations fort utiles.", "sourcePage": 1 },
+          { "id": "ch02-s01-b02", "type": "rule", "content": "L’EFFACEMENT\nLe test d’effacement permet entre autres de distinguer les groupes de mots facultatifs et obligatoires, et d’identifier leur fonction.", "sourcePage": 1 },
+          { "id": "ch02-s01-b03", "type": "example", "content": "ex.: J’ai beaucoup travaillé cette année.\nJ’ai beaucoup travaillé cette année.\nComme on peut supprimer le groupe cette année sans que la phrase devienne asyntaxique, on peut affirmer qu’il s’agit d’un groupe facultatif. Ce groupe a ici la fonction de complément de phrase.", "sourcePage": 1 },
+          { "id": "ch02-s01-b04", "type": "rule", "content": "LE DÉPLACEMENT\nLe test de déplacement d’éléments dans une phrase permet entre autres d’identifier leur fonction.", "sourcePage": 1 },
+          { "id": "ch02-s01-b05", "type": "example", "content": "ex.: J’ai beaucoup travaillé cette année.\nCette année, j’ai beaucoup travaillé.\nComme on peut déplacer le groupe cette année sans que la phrase devienne asyntaxique, on peut affirmer qu’il s’agit d’un groupe qui a la fonction de complément de phrase puisque le complément de phrase a la caractéristique de se déplacer facilement.\nÀ l’opposé, un complément du verbe ne se déplace pas aussi facilement.\nex.: Hier, j’ai fait tous mes devoirs.\n*Hier, tous mes devoirs j’ai fait.\n*Tous mes devoirs, hier, j’ai fait.", "sourcePage": 1 },
+          { "id": "ch02-s01-b06", "type": "rule", "content": "LE REMPLACEMENT\nLe test de remplacement d’éléments par d’autres qui ont un comportement semblable permet entre autres d’identifier la classe des mots.", "sourcePage": 2 },
+          { "id": "ch02-s01-b07", "type": "example", "content": "ex.: Cette classe est très dynamique.\nMa classe est très dynamique.\nLa classe est très dynamique.\nChaque classe est très dynamique.\nUne classe est très dynamique.\nAucune classe n’est très dynamique.\nComme on peut remplacer le mot cette par d’autres éléments qui peuvent se jumeler au nom, soit des déterminants (ma, la, chaque, une, aucune) sans que la phrase devienne asyntaxique, on peut affirmer que cette est bel et bien un déterminant. Il s’agit plus précisément d’un déterminant démonstratif (ce, cet, cette, ces).", "sourcePage": 2 },
+          { "id": "ch02-s01-b08", "type": "rule", "content": "Le test de remplacement d’éléments par un pronom permet de délimiter un groupe de mots.", "sourcePage": 2 },
+          { "id": "ch02-s01-b09", "type": "example", "content": "ex.: Le cours donné par Jeanne, une jeune professeure, est très dynamique.\nIl est très dynamique.\nTous les éléments (le cours donné par Jeanne, une jeune professeure,) peuvent être remplacés par un seul mot: le pronom il. Cette manipulation prouve que tous ces mots forment une unité, ici un groupe du nom.\nÀ l’inverse, si on ne remplace pas le groupe en entier par un pronom, la phrase n’est plus syntaxique.\nex.: Le cours donné par Jeanne, une jeune professeure, est très dynamique.\n*Il, donné par Jeanne, cette jeune professeure, est très dynamique.", "sourcePage": 2 },
+          { "id": "ch02-s01-b10", "type": "rule", "content": "L’ENCADREMENT\nLe test d’encadrement d’un groupe de mots par c’est... qui permet d’identifier le groupe qui a la fonction sujet de la phrase.", "sourcePage": 3 },
+          { "id": "ch02-s01-b11", "type": "example", "content": "ex.: Le cours donné par Jeanne, une jeune professeure, est très dynamique.\nC’est le cours donné par Jeanne, une jeune professeure, qui est très dynamique.\nCette manipulation permet d’affirmer que tous les éléments encadrés par c’est... qui forme un groupe qui a la fonction sujet de la phrase.", "sourcePage": 3 },
+          { "id": "ch02-s01-b12", "type": "rule", "content": "Le test d’encadrement d’un groupe de mots par c’est... que permet d’identifier le groupe qui a une fonction de complément.", "sourcePage": 3 },
+          { "id": "ch02-s01-b13", "type": "example", "content": "ex.: Paul donne un bon spectacle.\nC’est un bon spectacle que Paul donne.\nCette manipulation permet d’affirmer que tous les éléments encadrés par c’est... que forme un groupe qui a une fonction de complément. Il s’agit ici d’un complément direct du verbe.", "sourcePage": 3 },
+          { "id": "ch02-s01-b14", "type": "rule", "content": "L’AJOUT\nLe test d’ajout d’éléments dans une phrase permet entre autres d’identifier une classe de mot.", "sourcePage": 4 },
+          { "id": "ch02-s01-b15", "type": "example", "content": "ex.: Paul donne un bon spectacle.\nPaul donne un très bon spectacle.\nCet ajout permet d’affirmer que bon est un adjectif qualifiant.", "sourcePage": 4 }
+        ]
+      },
+      {
+        "id": "chapter-02-section-02",
+        "number": "2.2",
+        "title": "LES PRINCIPALES FONCTIONS DES GROUPES DE MOTS",
+        "sourcePages": { "start": 4, "end": 5 },
+        "blocks": [
+          { "id": "ch02-s02-b01", "type": "paragraph", "content": "La fonction est le « rôle » joué par les groupes de mots dans la phrase. Voici les principales fonctions:", "sourcePage": 4 },
+          { "id": "ch02-s02-b02", "type": "table", "content": { "headers": ["Fonctions", "Exemples"], "rows": [
+            ["Sujet de la phrase", "Pierre aime le cinéma."],
+            ["Prédicat de la phrase", "Pierre aime le cinéma."],
+            ["Complément de phrase", "Depuis toujours, Pierre aime le cinéma."],
+            ["Complément du nom", "Mon frère aîné aime le cinéma.\nPierre aime le cinéma d’horreur."],
+            ["Complément direct du verbe", "Pierre aime le cinéma."],
+            ["Complément indirect du verbe", "Je pense à Pierre."],
+            ["Attribut du sujet", "Ce film est excellent."],
+            ["Modificateur de l’adjectif", "Ce film est vraiment bon."],
+            ["Modificateur du verbe", "Pierre dort beaucoup."]
+          ]}, "sourcePage": 4 },
+          { "id": "ch02-s02-b03", "type": "paragraph", "content": "Chaque fonction a des propriétés particulières. Différentes manipulations syntaxiques permettent de mettre en évidence ces propriétés dans le but de distinguer les fonctions les unes des autres.\nUn groupe de mots n’a pas « naturellement » une fonction. On détermine la fonction d’un groupe de mots en établissant le rôle qu’il joue à l’intérieur d’une phrase.", "sourcePage": 5 },
+          { "id": "ch02-s02-b04", "type": "example", "content": "Quelle est la fonction de le matin dans les deux phrases suivantes?\na. Le matin est le moment de la journée que je préfère.\nb. Le matin, je cours cinq kilomètres.\nRéponses:\na. Le matin est sujet de la phrase.\nb. Le matin est complément de phrase.", "sourcePage": 5 }
+        ]
+      },
+      {
+        "id": "chapter-02-section-03",
+        "number": "2.3",
+        "title": "LA PHRASE DE BASE",
+        "sourcePages": { "start": 5, "end": 10 },
+        "blocks": [
+          { "id": "ch02-s03-b01", "type": "paragraph", "content": "Pour communiquer, il faut savoir organiser sa pensée et, plus particulièrement, il faut savoir organiser les mots sous forme de phrases. La construction d’une phrase doit respecter certaines règles.\nEn plus d’avoir un sens clair, une phrase bien formée contient deux constituants obligatoires auxquels peut se joindre un constituant facultatif.\n• Deux constituants obligatoires: un sujet, un prédicat\n• Un constituant facultatif: un complément de phrase", "sourcePage": 5 },
+          { "id": "ch02-s03-b02", "type": "rule", "content": "Une phrase correspond donc au modèle suivant (qu’on appelle souvent « phrase de base »):\nPhrase = Sujet + Prédicat + (Complément de phrase)\nLa phrase de base est de type déclaratif et de forme affirmative, active, neutre et personnelle. Pour vérifier si une phrase est correctement construite, on peut la comparer au modèle de la phrase de base.\nSi on supprime un groupe essentiel, la phrase devient incomplète et incompréhensible.", "sourcePage": 5 },
+          { "id": "ch02-s03-b03", "type": "example", "content": "Exemple de phrase qui contient un sujet et un prédicat:\nSujet: Un chercheur de l’UQAR\nPrédicat: a découvert des fossiles rares.\n*Un chercheur de l’UQAR.\n*A découvert des fossiles rares.\nLe seul élément qu’on peut supprimer sans que la phrase devienne asyntaxique est le complément de phrase.", "sourcePage": 5 },
+          { "id": "ch02-s03-b04", "type": "example", "content": "Exemple de phrase qui contient un sujet, un prédicat et un complément de phrase:\nSujet: Un chercheur de l’UQAR\nPrédicat: a découvert des fossiles rares\nComplément de phrase: cette année.\nUn chercheur de l’UQAR / a découvert des fossiles rares / cette année.", "sourcePage": 6 },
+          { "id": "ch02-s03-b05", "type": "note", "content": "VRAI ou FAUX?\nUne phrase commence toujours par une majuscule et se termine toujours par un point.\nPour répondre à cette question, observons l’énoncé suivant:\nPierre aime le chocolat, mais il ne peut pas en manger.\nSi on compare ces éléments au modèle de la phrase de base, on trouve deux phrases coordonnées:\nSujet: Pierre / Prédicat: aime le chocolat / mais / Sujet: il / Prédicat: ne peut pas en manger\nSelon cette analyse, on ne peut pas dire qu’une phrase débute toujours par une majuscule et se termine par un point (définition graphique de la phrase). Il arrive que ce soit le cas, mais ce ne l’est pas toujours. La définition graphique (majuscule/point) n’est pas suffisante pour déterminer ce qu’est une phrase. C’est la présence des éléments obligatoires: sujet et prédicat, qui indique qu’une phrase est complète. Il faut également que les éléments qu’on regroupe pour former une phrase aient évidemment un sens.", "sourcePage": 6 },
+          { "id": "ch02-s03-b06", "type": "definition", "content": "RECONNAÎTRE LE SUJET D’UNE PHRASE\nLe sujet est le premier des deux éléments essentiels de la phrase. Il est important de repérer le sujet pour bien en comprendre le sens d’une phrase et pour accorder correctement le verbe avec le sujet. Différentes manipulations syntaxiques (l’encadrement par c’est... qui, le remplacement, etc.) permettent de trouver le mot ou le groupe de mots qui occupe la fonction sujet.", "sourcePage": 7 }
+        ]
+      },
+      {
+        "id": "chapter-02-section-04",
+        "number": "2.4",
+        "title": "LES TYPES DE PHRASES",
+        "sourcePages": { "start": 11, "end": 15 },
+        "blocks": [
+          { "id": "ch02-s04-b01", "type": "paragraph", "content": "Comme on l’a vu, une phrase de base (une phrase à l’état brut) est de type déclaratif et de forme affirmative, active, neutre et personnelle (exemple: Les cours commencent à huit heures.). Selon l’intention de communication, toute phrase peut subir des transformations de type et de forme. On peut par exemple transformer une phrase déclarative (Les cours commencent à huit heures.) en interrogative (À quelle heure les cours commencent-ils?).", "sourcePage": 11 },
+          { "id": "ch02-s04-b02", "type": "table", "content": { "headers": ["Les types de phrase", "Exemples"], "rows": [
+            ["1. Le type déclaratif", "J’ai fait un bon travail."],
+            ["2. Le type impératif", "Fais un bon travail."],
+            ["3. Le type interrogatif", "As-tu fait un bon travail?"],
+            ["4. Le type exclamatif", "Quel bon travail j’ai fait!"]
+          ]}, "sourcePage": 11 },
+          { "id": "ch02-s04-b04", "type": "definition", "content": "LE TYPE DÉCLARATIF\nLa phrase déclarative correspond au type de la phrase de base. Elle sert à communiquer une information, à énoncer une idée ou un fait.\nex.: Je rencontre Stéphanie à l’atrium à 14 heures.\nL’outarde est un oiseau migrateur.", "sourcePage": 11 },
+          { "id": "ch02-s04-b05", "type": "definition", "content": "LE TYPE IMPÉRATIF\nLa phrase impérative sert à formuler une exigence, une consigne, un souhait ou à exprimer un ordre, une interdiction. Ce type de phrase contient un verbe à l’impératif (le mode impératif est marqué par l’effacement du sujet).\nex.: Soyez prudents.\nFais attention à la marche.", "sourcePage": 11 },
+          { "id": "ch02-s04-b08", "type": "definition", "content": "LE TYPE INTERROGATIF\nLa phrase interrogative sert à poser une question et se termine toujours par un point d’interrogation.\nex.: Iras-tu à Montréal cette semaine?\nEst-ce que tu voudrais un café?", "sourcePage": 12 },
+          { "id": "ch02-s04-b12", "type": "definition", "content": "LE TYPE EXCLAMATIF\nLa phrase exclamative sert à exprimer un sentiment intense ou une réaction vive. Ce type de phrase se termine toujours par un point d’exclamation et contient un mot exclamatif (que, comme, quel, quelle, etc.).\nex.: Comme c’est facile!\nQue c’est dommage!", "sourcePage": 14 }
+        ]
+      },
+      {
+        "id": "chapter-02-section-05",
+        "number": "2.5",
+        "title": "LES FORMES DE PHRASES",
+        "sourcePages": { "start": 15, "end": 27 },
+        "blocks": [
+          { "id": "ch02-s05-b01", "type": "paragraph", "content": "Une phrase de base est de formes affirmative, active, neutre et personnelle (ex.: Pierre mange une pomme), mais elle peut subir des transformations de formes (ex.: Pierre ne mange pas de pomme). En fait, il existe huit formes de phrases qu’on peut regrouper en quatre paires. Dans chaque paire, une forme est marquée et l’autre ne l’est pas.", "sourcePage": 15 },
+          { "id": "ch02-s05-b02", "type": "table", "content": { "headers": ["Forme non marquée", "Exemple", "Forme marquée", "Exemple"], "rows": [
+            ["Positive", "Je pars.", "Négative", "Je ne pars pas."],
+            ["Active", "Pierre donne ce cours.", "Passive", "Ce cours est donné par Pierre."],
+            ["Neutre", "Julie est venue hier.", "Emphatique", "C’est Julie qui est venue hier."],
+            ["Personnelle", "Des accidents arrivent trop souvent.", "Impersonnelle", "Il arrive trop souvent des accidents."]
+          ]}, "sourcePage": 15 },
+          { "id": "ch02-s05-b04", "type": "definition", "content": "LA FORME NÉGATIVE\nL’adverbe ne se combine avec un autre élément pour former une négation complète.", "sourcePage": 15 },
+          { "id": "ch02-s05-b09", "type": "definition", "content": "LA FORME PASSIVE\nLa forme active s’oppose à la forme passive. Dans une phrase active, on peut dire que le sujet fait l’action.\nex.: Le hibou dévore la souris.\nDans cette phrase, c’est le hibou (le sujet) qui fait l’action de dévorer la souris.\nÀ la forme passive, le sujet subit l’action.\nex.: La souris est dévorée par le hibou.\nDans cet exemple, le hibou est toujours l’auteur de l’action, mais il n’est plus le sujet de la phrase.", "sourcePage": 18 },
+          { "id": "ch02-s05-b16", "type": "definition", "content": "LA FORME EMPHATIQUE\nLa forme neutre s’oppose à la forme emphatique. La forme emphatique, très courante à l’oral, met l’accent sur un élément de la phrase par différents procédés de mises en relief.", "sourcePage": 22 },
+          { "id": "ch02-s05-b19", "type": "definition", "content": "LA FORME IMPERSONNELLE\nLa forme personnelle s’oppose à la forme impersonnelle. Elle contient un sujet qui représente une personne, un animal ou une chose (ex.: Marie, une femme, elle, nous, il, le chat, la table, la démocratie, etc.). La phrase impersonnelle a pour sujet le pronom impersonnel il. On dit que ce pronom est impersonnel parce qu’il ne représente rien ni personne.\nSur le plan syntaxique, le sujet de la phrase personnelle devient le complément du verbe de la phrase impersonnelle.", "sourcePage": 23 }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "id": "chapter-02-exercise-01",
+        "title": "Exercice 1",
+        "instructions": "Combien de phrases y a-t-il dans ce texte?",
+        "items": [
+          { "id": "ch02-ex01-it01", "prompt": "Il pouvait être neuf heures du soir. J’avais soupé, je fumais ma pipe près de mon feu et mes deux chiens dormaient à mes côtés. La nuit était sombre et absolument silencieuse.", "sourcePage": 6 }
+        ],
+        "answerKey": ["Dans ce texte, il y a 5 phrases."],
+        "sourcePages": { "start": 6, "end": 6 }
+      },
+      {
+        "id": "chapter-02-exercise-05",
+        "title": "Exercice 5",
+        "instructions": "Dites si les phrases sont de type déclaratif, interrogatif, exclamatif ou impératif.",
+        "items": [
+          { "id": "ch02-ex05-it01", "prompt": "1. Réfléchissez avant d’agir.", "sourcePage": 14 },
+          { "id": "ch02-ex05-it02", "prompt": "2. Comme la vie est pleine de surprises!", "sourcePage": 14 },
+          { "id": "ch02-ex05-it03", "prompt": "3. Avez-vous hâte de partir?", "sourcePage": 14 },
+          { "id": "ch02-ex05-it04", "prompt": "4. Fournir une liste de références à la fin d’un travail est essentiel.", "sourcePage": 14 },
+          { "id": "ch02-ex05-it07", "prompt": "7. J’apprécie cet appui indéfectible.", "sourcePage": 14 }
+        ],
+        "answerKey": ["1. Impératif", "2. Exclamatif", "3. Interrogatif", "4. Déclaratif", "7. Déclaratif"],
+        "sourcePages": { "start": 14, "end": 15 }
+      }
+    ],
+    "sourceCoverage": {
+      "extractedSections": [
+        "2.1 LES MANIPULATIONS SYNTAXIQUES",
+        "2.2 LES PRINCIPALES FONCTIONS DES GROUPES DE MOTS",
+        "2.3 LA PHRASE DE BASE",
+        "2.4 LES TYPES DE PHRASES",
+        "2.5 LES FORMES DE PHRASES"
+      ],
+      "extractedPageRanges": ["1-32"],
+      "unreadableContent": [],
+      "itemsRequiringReview": []
+    }
+  }
+}
