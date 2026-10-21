@@ -16,7 +16,11 @@ import { cn } from "@/lib/utils";
 
 export default function FlashcardsPage() {
   const { data: manifest } = useManifest();
-  const deckEntry = manifest?.ok ? manifest.data.flashcardDecks[0] : undefined;
+  const decks = manifest?.ok ? manifest.data.flashcardDecks : [];
+  const [selectedDeckId, setSelectedDeckId] = useState<string | null>(null);
+  const deckEntry = selectedDeckId
+    ? decks.find((deck) => deck.id === selectedDeckId) ?? decks[0]
+    : decks[0];
   const deckQuery = useFlashcardDeck(deckEntry?.content);
   const { hydrate, flashcards, reviewFlashcard } = useLearnerStore();
 
@@ -25,6 +29,12 @@ export default function FlashcardsPage() {
   const [started, setStarted] = useState(false);
 
   useEffect(() => hydrate(), [hydrate]);
+
+  useEffect(() => {
+    setIndex(0);
+    setFlipped(false);
+    setStarted(false);
+  }, [deckEntry?.id]);
 
   const deck = deckQuery.data?.ok ? deckQuery.data.data : undefined;
   const cards = deck?.cards ?? [];
@@ -64,9 +74,24 @@ export default function FlashcardsPage() {
 
         <PageHeader
           eyebrow="Cartes éclair"
-          title={deck?.title ?? "Révision espacée"}
+          title="Révision espacée"
           description="Retourne la carte, puis note ta difficulté. Le planning se met à jour automatiquement sur cet appareil."
         />
+
+        {decks.length > 0 && (
+          <div className="flex flex-wrap gap-2">
+            {decks.map((deckOption) => (
+              <Button
+                key={deckOption.id}
+                variant={deckEntry?.id === deckOption.id ? "default" : "outline"}
+                size="sm"
+                onClick={() => setSelectedDeckId(deckOption.id)}
+              >
+                {deckOption.title}
+              </Button>
+            ))}
+          </div>
+        )}
 
         {!deckQuery.data && <FlashcardSkeleton />}
 

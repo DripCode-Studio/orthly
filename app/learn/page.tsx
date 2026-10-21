@@ -48,7 +48,7 @@ export default function LearnPage() {
 
         <div className="grid gap-3">
           {chapters.map((chapter) => {
-            const isAvailable = chapter.id === "chapter-01";
+            const isAvailable = chapter.id === "chapter-01" || chapter.id === "chapter-02";
             const chapterCompleted = chapter.lessons.filter((lesson) =>
               progress.completedLessons.includes(lesson.id)
             ).length;
@@ -57,33 +57,51 @@ export default function LearnPage() {
 
             return (
               <Card key={chapter.id} className={cn("flex-row items-center gap-4 py-4")}>
-                <Link href={isAvailable ? `/learn/${chapter.id}` : "#"} className="flex flex-1 items-center gap-4">
-                  <span
-                    className="ml-4 grid size-10 shrink-0 place-items-center rounded-lg font-heading text-sm font-extrabold text-white"
-                    style={{ backgroundColor: chapter.color }}
-                    aria-hidden
-                  >
-                    {String(chapter.number).padStart(2, "0")}
-                  </span>
-                  <CardContent className="min-w-0 flex-1 space-y-2 px-0">
-                    <div className="flex items-center gap-2">
-                      <p className="text-[10px] font-bold uppercase tracking-wide text-muted-foreground">
-                        Chapitre {chapter.number}
-                      </p>
-                      {isAvailable ? <Badge variant="secondary">Disponible</Badge> : <Badge variant="outline">Bientôt</Badge>}
-                    </div>
-                    <h3 className="font-heading text-sm font-extrabold">{chapter.title}</h3>
-                    <p className="truncate text-xs text-muted-foreground">{chapter.description}</p>
-                    {isAvailable && (
-                      <>
-                        <Progress value={chapterPercent} className="max-w-56" aria-label={`Progression du chapitre ${chapter.number}`} />
-                        <p className="text-[10px] text-muted-foreground">
-                          {chapterCompleted} / {chapter.lessons.length} étapes
+                {isAvailable ? (
+                  <Link href={`/learn/${chapter.id}`} className="flex flex-1 items-center gap-4">
+                    <span
+                      className="ml-4 grid size-10 shrink-0 place-items-center rounded-lg font-heading text-sm font-extrabold text-white"
+                      style={{ backgroundColor: chapter.color }}
+                      aria-hidden
+                    >
+                      {String(chapter.number).padStart(2, "0")}
+                    </span>
+                    <CardContent className="min-w-0 flex-1 space-y-2 px-0">
+                      <div className="flex items-center gap-2">
+                        <p className="text-[10px] font-bold uppercase tracking-wide text-muted-foreground">
+                          Chapitre {chapter.number}
                         </p>
-                      </>
-                    )}
-                  </CardContent>
-                </Link>
+                        <Badge variant="secondary">Disponible</Badge>
+                      </div>
+                      <h3 className="font-heading text-sm font-extrabold">{chapter.title}</h3>
+                      <p className="truncate text-xs text-muted-foreground">{chapter.description}</p>
+                      <Progress value={chapterPercent} className="max-w-56" aria-label={`Progression du chapitre ${chapter.number}`} />
+                      <p className="text-[10px] text-muted-foreground">
+                        {chapterCompleted} / {chapter.lessons.length} étapes
+                      </p>
+                    </CardContent>
+                  </Link>
+                ) : (
+                  <div className="flex flex-1 items-center gap-4">
+                    <span
+                      className="ml-4 grid size-10 shrink-0 place-items-center rounded-lg font-heading text-sm font-extrabold text-white opacity-50"
+                      style={{ backgroundColor: chapter.color }}
+                      aria-hidden
+                    >
+                      {String(chapter.number).padStart(2, "0")}
+                    </span>
+                    <CardContent className="min-w-0 flex-1 space-y-2 px-0">
+                      <div className="flex items-center gap-2">
+                        <p className="text-[10px] font-bold uppercase tracking-wide text-muted-foreground">
+                          Chapitre {chapter.number}
+                        </p>
+                        <Badge variant="outline">Bientôt</Badge>
+                      </div>
+                      <h3 className="font-heading text-sm font-extrabold opacity-60">{chapter.title}</h3>
+                      <p className="truncate text-xs text-muted-foreground opacity-60">{chapter.description}</p>
+                    </CardContent>
+                  </div>
+                )}
                 <div className="mr-4 flex w-28 justify-end">
                   {isAvailable ? (
                     <Button asChild size="sm">
