@@ -1,0 +1,24 @@
+{
+  "id": "tcf",
+  "title": "Préparation TCF",
+  "family": "tcf",
+  "description": "Profil parent non activé. Les déclinaisons TCF (Canada, Québec, tout public, IRN) ont des formats et des compétences distincts et doivent être configurées séparément.",
+  "durationSeconds": 0,
+  "questionCount": 0,
+  "passingScorePercent": null,
+  "selectionMode": "blueprint",
+  "skills": ["reading", "listening", "writing", "speaking", "language_structures"],
+  "sections": [],
+  "settings": {
+    "allowReview": true,
+    "showFeedbackDuringExam": false,
+    "showAnswersBeforeSubmission": false,
+    "allowPause": false
+  },
+  "verified": false,
+  "notes": [
+    "Un QCM de grammaire seul ne constitue pas une simulation TCF complète.",
+    "Créer un fichier de profil par déclinaison avant toute simulation.",
+    "Se référer aux exemples officiels de France Éducation international."
+  ]
+}

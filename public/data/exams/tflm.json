@@ -1,0 +1,30 @@
+{
+  "id": "tflm",
+  "title": "Simulation TFLM",
+  "family": "tflm",
+  "description": "Test de français Laval-Montréal : 65 questions à choix multiples en 90 minutes, centrées sur le français écrit.",
+  "durationSeconds": 5400,
+  "questionCount": 65,
+  "passingScorePercent": 60,
+  "selectionMode": "blueprint",
+  "skills": ["reading", "language_structures"],
+  "sections": [
+    { "categoryId": "orthographe_lexicale", "questionCount": 4 },
+    { "categoryId": "orthographe_grammaticale", "questionCount": 24 },
+    { "categoryId": "morphologie", "questionCount": 5 },
+    { "categoryId": "syntaxe", "questionCount": 13 },
+    { "categoryId": "vocabulaire", "questionCount": 19 }
+  ],
+  "settings": {
+    "allowReview": true,
+    "showFeedbackDuringExam": false,
+    "showAnswersBeforeSubmission": false,
+    "allowPause": false
+  },
+  "verified": false,
+  "notes": [
+    "Répartition de référence fournie par l'étudiant : 4 + 24 + 5 + 13 + 19 = 65.",
+    "Seuil de réussite configurable; la valeur 60 % est une référence, non une confirmation officielle.",
+    "À valider contre le format officiel avant d'activer une simulation complète."
+  ]
+}

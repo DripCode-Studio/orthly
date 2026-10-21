@@ -1,0 +1,23 @@
+{
+  "id": "uqar",
+  "title": "Évaluation de français UQAR",
+  "family": "uqar",
+  "description": "Profil configurable à partir des consignes réelles du cours. Le format officiel n'est pas encore confirmé.",
+  "durationSeconds": 0,
+  "questionCount": 0,
+  "passingScorePercent": null,
+  "selectionMode": "blueprint",
+  "skills": ["language_structures"],
+  "sections": [],
+  "settings": {
+    "allowReview": true,
+    "showFeedbackDuringExam": false,
+    "showAnswersBeforeSubmission": false,
+    "allowPause": true
+  },
+  "verified": false,
+  "notes": [
+    "Ne pas inventer le nombre de questions, la durée ni le barème.",
+    "Populer ce profil lorsque les consignes officielles du cours seront fournies."
+  ]
+}
