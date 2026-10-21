@@ -1,3 +1,5 @@
+"use client";
+
 import Link from "next/link";
 import { ArrowRight, BookOpen } from "lucide-react";
 import { chapters } from "@/lib/content";
@@ -7,8 +9,16 @@ import { Badge } from "@/components/ui/badge";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Progress } from "@/components/ui/progress";
 import { cn } from "@/lib/utils";
+import { useLearnerStore } from "@/store/learner-store";
+import { useEffect } from "react";
 
 export default function LearnPage() {
+  const { hydrate, progress } = useLearnerStore();
+
+  useEffect(() => {
+    hydrate();
+  }, [hydrate]);
+
   const totalLessons = chapters.reduce((total, chapter) => total + chapter.lessons.length, 0);
 
   return (
@@ -38,34 +48,55 @@ export default function LearnPage() {
 
         <div className="grid gap-3">
           {chapters.map((chapter) => {
+            const isAvailable = chapter.id === "chapter-01";
+            const chapterCompleted = chapter.lessons.filter((lesson) =>
+              progress.completedLessons.includes(lesson.id)
+            ).length;
+            const chapterPercent =
+              chapter.lessons.length === 0 ? 0 : Math.round((chapterCompleted / chapter.lessons.length) * 100);
+
             return (
               <Card key={chapter.id} className={cn("flex-row items-center gap-4 py-4")}>
-                <span
-                  className="ml-4 grid size-10 shrink-0 place-items-center rounded-lg font-heading text-sm font-extrabold text-white"
-                  style={{ backgroundColor: chapter.color }}
-                  aria-hidden
-                >
-                  {String(chapter.number).padStart(2, "0")}
-                </span>
-                <CardContent className="min-w-0 flex-1 space-y-2 px-0">
-                  <div className="flex items-center gap-2">
-                    <p className="text-[10px] font-bold uppercase tracking-wide text-muted-foreground">
-                      Chapitre {chapter.number}
-                    </p>
-                    <Badge variant="outline">En préparation</Badge>
-                  </div>
-                  <h3 className="font-heading text-sm font-extrabold">{chapter.title}</h3>
-                  <p className="truncate text-xs text-muted-foreground">{chapter.description}</p>
-                  <Progress value={0} className="max-w-56" aria-label={`Progression du chapitre ${chapter.number}`} />
-                  <p className="text-[10px] text-muted-foreground">{chapter.lessons.length} étapes</p>
-                </CardContent>
+                <Link href={isAvailable ? `/learn/${chapter.id}` : "#"} className="flex flex-1 items-center gap-4">
+                  <span
+                    className="ml-4 grid size-10 shrink-0 place-items-center rounded-lg font-heading text-sm font-extrabold text-white"
+                    style={{ backgroundColor: chapter.color }}
+                    aria-hidden
+                  >
+                    {String(chapter.number).padStart(2, "0")}
+                  </span>
+                  <CardContent className="min-w-0 flex-1 space-y-2 px-0">
+                    <div className="flex items-center gap-2">
+                      <p className="text-[10px] font-bold uppercase tracking-wide text-muted-foreground">
+                        Chapitre {chapter.number}
+                      </p>
+                      {isAvailable ? <Badge variant="secondary">Disponible</Badge> : <Badge variant="outline">Bientôt</Badge>}
+                    </div>
+                    <h3 className="font-heading text-sm font-extrabold">{chapter.title}</h3>
+                    <p className="truncate text-xs text-muted-foreground">{chapter.description}</p>
+                    {isAvailable && (
+                      <>
+                        <Progress value={chapterPercent} className="max-w-56" aria-label={`Progression du chapitre ${chapter.number}`} />
+                        <p className="text-[10px] text-muted-foreground">
+                          {chapterCompleted} / {chapter.lessons.length} étapes
+                        </p>
+                      </>
+                    )}
+                  </CardContent>
+                </Link>
                 <div className="mr-4 flex w-28 justify-end">
-                  <Button asChild size="sm" variant="outline">
-                    <Link href={`/learn/${chapter.id}`}>
-                      Ouvrir le chapitre
-                      <ArrowRight className="size-4" />
-                    </Link>
-                  </Button>
+                  {isAvailable ? (
+                    <Button asChild size="sm">
+                      <Link href={`/learn/${chapter.id}`}>
+                        Ouvrir le chapitre
+                        <ArrowRight className="size-4" />
+                      </Link>
+                    </Button>
+                  ) : (
+                    <Button size="sm" variant="outline" disabled>
+                      Bientôt
+                    </Button>
+                  )}
                 </div>
               </Card>
             );

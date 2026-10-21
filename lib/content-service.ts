@@ -73,23 +73,48 @@ export async function loadChapter(path: string): Promise<ContentResult<LessonCha
   if (!result.ok) return result;
 
   const value = result.data;
-  if (!isRecord(value) || !isRecord(value.chapter)) {
-    // Stored chapters are still in the extraction shape; report it clearly
-    // rather than pretending the lesson layer exists.
-    const nested = isRecord(value) && isRecord((value as { chapter?: unknown }).chapter);
+  if (!isRecord(value)) {
     return {
       ok: false,
       error: {
         kind: "invalid_shape",
         path,
-        message: nested
-          ? "Le fichier est au format d'extraction. Il doit être converti au format de leçon (types/lesson.ts)."
-          : "Champ « chapter » manquant."
+        message: "Format JSON invalide pour un chapitre."
       }
     };
   }
 
-  return { ok: true, data: value as unknown as LessonChapter };
+  // Format leçon : top-level avec sections + learningObjectives
+  const hasLessonShape =
+    Array.isArray((value as { sections?: unknown }).sections) &&
+    Array.isArray((value as { learningObjectives?: unknown }).learningObjectives);
+
+  if (hasLessonShape) {
+    return { ok: true, data: value as unknown as LessonChapter };
+  }
+
+  // Format extraction : { chapter: {...} }
+  const hasExtractionShape = isRecord((value as { chapter?: unknown }).chapter);
+
+  if (hasExtractionShape) {
+    return {
+      ok: false,
+      error: {
+        kind: "invalid_shape",
+        path,
+        message: "Le fichier est au format d'extraction. Il doit être converti au format de leçon (types/lesson.ts)."
+      }
+    };
+  }
+
+  return {
+    ok: false,
+    error: {
+      kind: "invalid_shape",
+      path,
+      message: "Le fichier ne respecte pas le schéma de leçon : « sections[] » et « learningObjectives[] » sont requis."
+    }
+  };
 }
 
 export async function loadQuestionBank(path: string): Promise<ContentResult<QuestionBank>> {
