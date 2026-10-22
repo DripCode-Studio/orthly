@@ -1,0 +1,728 @@
+{
+  "schemaVersion": "1.0.0",
+  "chapterId": "chapter-06",
+  "questionSetId": "chapter-06-core",
+  "title": "Pratique — Chapitre 6 : La ponctuation",
+  "questions": [
+    {
+      "id": "ch06-q0001",
+      "type": "single_choice",
+      "prompt": "Quel sens la virgule donne-t-elle à la phrase suivante ?",
+      "stimulus": { "text": "En deux heures, seulement deux cents billets ont été vendus.", "highlightedText": "En deux heures," },
+      "options": [
+        { "id": "A", "text": "Peu de billets ont été vendus, mais en beaucoup de temps.", "explanation": "" },
+        { "id": "B", "text": "Beaucoup de billets ont été vendus, et en peu de temps.", "explanation": "C'est le sens de la phrase sans la virgule : « seulement » porte alors sur « deux cents billets »." },
+        { "id": "C", "text": "Les billets ont été vendus en deux heures exactement.", "explanation": "La virgule ne restricts pas la durée; elle détache « seulement deux cents billets »." },
+        { "id": "D", "text": "La phrase énonce une contradiction entre deux quantités.", "explanation": "Aucune contradiction n'est exprimée : la virgule ne crée pas d'opposition ici." }
+      ],
+      "answer": {
+        "correctOptionIds": ["A"],
+        "explanation": "La virgule après « En deux heures » restreint le nombre de billets : peu de billets ont été vendus, mais en beaucoup de temps. Sans la virgule, « seulement » porte sur « deux cents billets » : beaucoup de billets en peu de temps."
+      },
+      "difficulty": "intermediate",
+      "topicIds": ["ponctuation", "virgule"],
+      "sectionIds": ["chapter-06-section-01"],
+      "learningObjectiveIds": ["chapter-06-objective-01"],
+      "examCategories": ["ponctuation"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 1, "section": "6.1" }],
+      "reviewStatus": "needs_review"
+    },
+    {
+      "id": "ch06-q0002",
+      "type": "single_choice",
+      "prompt": "Que signifie la phrase suivante ?",
+      "stimulus": { "text": "Les policiers, qui étaient insatisfaits, ont démissionné.", "highlightedText": "qui étaient insatisfaits" },
+      "options": [
+        { "id": "A", "text": "Tous les policiers ont démissionné.", "explanation": "" },
+        { "id": "B", "text": "Parmi les policiers, ceux qui étaient insatisfaits ont démissionné.", "explanation": "C'est le sens de la phrase sans les virgules : la subordonnée relative y restreint le groupe." },
+        { "id": "C", "text": "Les policiers insatisfaits ont démissionné, mais pas les autres.", "explanation": "La phrase n'exprime aucune opposition : le point-virgule la marquerait." },
+        { "id": "D", "text": "Les policiers ont démissionné parce qu'ils étaient insatisfaits.", "explanation": "La subordonnée est ici relative (avec « qui » antécédent), non causale." }
+      ],
+      "answer": {
+        "correctOptionIds": ["A"],
+        "explanation": "Les virgules ferment la subordonnée relative explicative : elle précise une information sur les policiers sans restreindre le groupe. Sans virgules, la relative restrictives et la phrase signifie : parmi les policiers, ceux qui étaient insatisfaits ont démissionné."
+      },
+      "difficulty": "intermediate",
+      "topicIds": ["ponctuation", "virgule"],
+      "sectionIds": ["chapter-06-section-01"],
+      "learningObjectiveIds": ["chapter-06-objective-01"],
+      "examCategories": ["ponctuation", "syntaxe"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 1, "section": "6.1" }],
+      "reviewStatus": "needs_review"
+    },
+    {
+      "id": "ch06-q0003",
+      "type": "single_choice",
+      "prompt": "Quelle ponctuation convient à la fin de cette phrase ?",
+      "stimulus": { "text": "Vous viendrez", "highlightedText": "Vous viendrez" },
+      "options": [
+        { "id": "A", "text": "Un point d'exclamation, pour exprimer l'ordre ou l'étonnement.", "explanation": "" },
+        { "id": "B", "text": "Un point d'interrogation, pour exprimer l'invitation ou la question.", "explanation": "Le point d'interrogation convient à une invitation ou à une question; l'ordre et l'étonnement appellent le point d'exclamation." },
+        { "id": "C", "text": "Un point final, parce que la phrase est de type déclaratif.", "explanation": "La phrase n'est pas déclarative : elle exprime un ordre ou une invitation." },
+        { "id": "D", "text": "Des points de suspension, pour marquer une hésitation.", "explanation": "Les points de suspension signaleraient une hésitation du locuteur, ce qui n'est pas le cas ici." }
+      ],
+      "answer": {
+        "correctOptionIds": ["A"],
+        "explanation": "« Vous viendrez! » exprime l'ordre ou l'étonnement; « Vous viendrez? » exprime l'invitation ou la question. Le choix du point dépend donc de l'intention du locuteur."
+      },
+      "difficulty": "beginner",
+      "topicIds": ["ponctuation"],
+      "sectionIds": ["chapter-06-section-01"],
+      "learningObjectiveIds": ["chapter-06-objective-01"],
+      "examCategories": ["ponctuation"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 1, "section": "6.1" }],
+      "reviewStatus": "needs_review"
+    },
+    {
+      "id": "ch06-q0004",
+      "type": "single_choice",
+      "prompt": "Quelle phrase est correctement ponctuée ?",
+      "stimulus": { "text": "Aime-t-il sa nouvelle maison?" },
+      "options": [
+        { "id": "A", "text": "Aime-t-il sa nouvelle maison?", "explanation": "" },
+        { "id": "B", "text": "Aime-t-il sa nouvelle maison.", "explanation": "C'est une phrase interrogative directe : elle doit se terminer par un point d'interrogation." },
+        { "id": "C", "text": "Aime-t-il sa nouvelle maison!", "explanation": "Le point d'exclamation marque l'émotion (surprise, colère, admiration); il convient à une phrase exclamative." },
+        { "id": "D", "text": "Aime-t-il, sa nouvelle maison?", "explanation": "La virgule ne s'emploie pas entre le verbe et son complément direct dans une question fermée." }
+      ],
+      "answer": {
+        "correctOptionIds": ["A"],
+        "explanation": "Le point d'interrogation s'utilise à la fin d'une phrase interrogative directe : « Est-ce que tu souffres? Aime-t-il sa nouvelle maison? Pourquoi refuserions-nous une telle occasion? »"
+      },
+      "difficulty": "beginner",
+      "topicIds": ["ponctuation"],
+      "sectionIds": ["chapter-06-section-01"],
+      "learningObjectiveIds": ["chapter-06-objective-01"],
+      "examCategories": ["ponctuation"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 2, "section": "6.1" }],
+      "reviewStatus": "needs_review"
+    },
+    {
+      "id": "ch06-q0005",
+      "type": "single_choice",
+      "prompt": "Comment se termine une interrogation indirecte ?",
+      "stimulus": { "text": "Je me demande pourquoi il ne vient pas." },
+      "options": [
+        { "id": "A", "text": "Par un point, jamais par un point d'interrogation.", "explanation": "" },
+        { "id": "B", "text": "Par un point d'interrogation, comme une question directe.", "explanation": "C'est exactement l'erreur à éviter : le point d'interrogation est réservé à l'interrogation directe." },
+        { "id": "C", "text": "Par des points de suspension.", "explanation": "Les points de suspension marqueraient une hésitation du locuteur, ce qui n'est pas le cas." },
+        { "id": "D", "text": "Par un point d'exclamation.", "explanation": "La phrase n'exprime aucune émotion : elle est de type déclaratif." }
+      ],
+      "answer": {
+        "correctOptionIds": ["A"],
+        "explanation": "Il ne faut pas mettre de point d'interrogation après une interrogation indirecte : « Dites-moi quelle heure il est. Je me demande pourquoi il ne vient pas. J'ignore comment je dois faire ce travail. »"
+      },
+      "difficulty": "beginner",
+      "topicIds": ["ponctuation"],
+      "sectionIds": ["chapter-06-section-01"],
+      "learningObjectiveIds": ["chapter-06-objective-01"],
+      "examCategories": ["ponctuation", "syntaxe"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 2, "section": "6.1" }],
+      "reviewStatus": "needs_review"
+    },
+    {
+      "id": "ch06-q0006",
+      "type": "single_choice",
+      "prompt": "Quel signe doit suivre l'interjection « Hélas! » ?",
+      "stimulus": { "text": "Ah! Oh! Zut! Chut! Ciel! Hélas! Bon sang!" },
+      "options": [
+        { "id": "A", "text": "Un point d'exclamation.", "explanation": "" },
+        { "id": "B", "text": "Un point d'interrogation.", "explanation": "Aucune question n'est posée : l'interjection exprime une émotion." },
+        { "id": "C", "text": "Un point final.", "explanation": "L'interjection autonome s'accompagne d'un point d'exclamation." },
+        { "id": "D", "text": "Des points de suspension.", "explanation": "Les points de suspension indiqueraient une hésitation ou une réflexion." }
+      ],
+      "answer": {
+        "correctOptionIds": ["A"],
+        "explanation": "On emploie le point d'exclamation après une interjection : « Ah! Oh! Zut! Chut! Ciel! Hélas! Bon sang! » Il sert aussi après une apostrophe, un cri ou une injure : « François! Les enfants! Espèce d'impoli! »"
+      },
+      "difficulty": "beginner",
+      "topicIds": ["ponctuation"],
+      "sectionIds": ["chapter-06-section-01"],
+      "learningObjectiveIds": ["chapter-06-objective-01"],
+      "examCategories": ["ponctuation"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 2, "section": "6.1" }],
+      "reviewStatus": "needs_review"
+    },
+    {
+      "id": "ch06-q0007",
+      "type": "single_choice",
+      "prompt": "Quel est le rôle des points de suspension dans la phrase suivante ?",
+      "stimulus": { "text": "Je sens que tu me caches quelque chose...", "highlightedText": "..." },
+      "options": [
+        { "id": "A", "text": "Ils marquent un sous-entendu.", "explanation": "" },
+        { "id": "B", "text": "Ils marquent la possibilité de poursuivre une énumération.", "explanation": "L'énumération en cours est « quelque chose » : les points de suspension y signaleraient qu'on pourrait continuer la liste." },
+        { "id": "C", "text": "Ils marquent un arrêt volontaire dans la phrase.", "explanation": "Un arrêt volontaire interromp le propos du locuteur, comme dans « Je voudrais te raconter le jour où... Je ne peux pas. »" },
+        { "id": "D", "text": "Ils indiquent une réflexion ou une hésitation.", "explanation": "La réflexion ou l'hésitation concerne le locuteur qui cherche ses mots : « Pourquoi nous marier? Mais... pour être plus heureux! »" }
+      ],
+      "answer": {
+        "correctOptionIds": ["A"],
+        "explanation": "Les points de suspension marquent un sous-entendu : ce que « tu me caches » n'est pas nommé. Ils peuvent aussi signaler une énumération à poursuivre, un arrêt volontaire, une réflexion ou une hésitation."
+      },
+      "difficulty": "intermediate",
+      "topicIds": ["points-de-suspension"],
+      "sectionIds": ["chapter-06-section-01"],
+      "learningObjectiveIds": ["chapter-06-objective-02"],
+      "examCategories": ["ponctuation"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 2, "section": "6.1" }],
+      "reviewStatus": "needs_review"
+    },
+    {
+      "id": "ch06-q0008",
+      "type": "single_choice",
+      "prompt": "Quel est le rôle des points de suspension dans la phrase suivante ?",
+      "stimulus": { "text": "Je voudrais te raconter le jour où... Je ne peux pas.", "highlightedText": "..." },
+      "options": [
+        { "id": "A", "text": "Ils marquent un arrêt volontaire dans la phrase.", "explanation": "" },
+        { "id": "B", "text": "Ils marquent un sous-entendu.", "explanation": "Un sous-entendu laisse entendre une information non dite, comme dans « Je sens que tu me caches quelque chose... »" },
+        { "id": "C", "text": "Ils marquent une réflexion ou une hésitation.", "explanation": "La réflexion ou l'hésitation correspond à « Mais... pour être plus heureux! »" },
+        { "id": "D", "text": "Ils indiquent qu'un passage a été coupé dans une citation.", "explanation": "Cette fonction n'existe qu'à l'intérieur de crochets : « [...] »." }
+      ],
+      "answer": {
+        "correctOptionIds": ["A"],
+        "explanation": "Les points de suspension marquent un arrêt volontaire dans la phrase : le locuteur interrompt son récit, ici parce qu'il « ne peut pas » continuer."
+      },
+      "difficulty": "intermediate",
+      "topicIds": ["points-de-suspension"],
+      "sectionIds": ["chapter-06-section-01"],
+      "learningObjectiveIds": ["chapter-06-objective-02"],
+      "examCategories": ["ponctuation"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 2, "section": "6.1" }],
+      "reviewStatus": "needs_review"
+    },
+    {
+      "id": "ch06-q0009",
+      "type": "single_choice",
+      "prompt": "Quelle ponctuation est correcte à la fin de cette énumération ?",
+      "stimulus": { "text": "Revoyons les livres, les revues, les articles, etc." },
+      "options": [
+        { "id": "A", "text": "etc.", "explanation": "" },
+        { "id": "B", "text": "etc...", "explanation": "La locution latine « et caetera » signifie déjà « et les autres choses » : lui ajouter des points de suspension crée une redondance." },
+        { "id": "C", "text": "etc.! ", "explanation": "Le point d'exclamation n'a rien à faire ici : l'énumération est neutre." },
+        { "id": "D", "text": "etc.?", "explanation": "La phrase n'est pas interrogative : elle est de type impératif." }
+      ],
+      "answer": {
+        "correctOptionIds": ["A"],
+        "explanation": "On place une virgule devant « etc. », mais on ne met pas de points de suspension après : « etc. » est l'abréviation de « et caetera » (« et les autres choses »), et les points de suspension créeraient une redondance."
+      },
+      "difficulty": "intermediate",
+      "topicIds": ["points-de-suspension", "virgule"],
+      "sectionIds": ["chapter-06-section-01", "chapter-06-section-02"],
+      "learningObjectiveIds": ["chapter-06-objective-02", "chapter-06-objective-03"],
+      "examCategories": ["ponctuation"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 4, "section": "6.1" }, { "page": 7, "section": "6.2" }],
+      "reviewStatus": "needs_review"
+    },
+    {
+      "id": "ch06-q0010",
+      "type": "single_choice",
+      "prompt": "Que signifient les points de suspension entre crochets dans la citation suivante ?",
+      "stimulus": { "text": "« ... un trimestre supplémentaire pourra lui être accordé[...] . »" },
+      "options": [
+        { "id": "A", "text": "Qu'un passage de la citation a été coupé.", "explanation": "" },
+        { "id": "B", "text": "Que l'auteur de la citation a laissé sa pensée en suspens.", "explanation": "C'est le rôle des points de suspension sans crochets : un arrêt volontaire, un sous-entendu ou une hésitation." },
+        { "id": "C", "text": "Que l'énumération du texte se poursuit.", "explanation": "L'énumération se poursuivrait sans crochets : « Il a tout perdu : son argent, ses clefs, son passeport... »" },
+        { "id": "D", "text": "Que le texte est ironique.", "explanation": "L'ironie ne se signale pas par les points de suspension entre crochets." }
+      ],
+      "answer": {
+        "correctOptionIds": ["A"],
+        "explanation": "À l'intérieur de crochets, les points de suspension indiquent qu'on a coupé un passage dans une citation."
+      },
+      "difficulty": "advanced",
+      "topicIds": ["points-de-suspension"],
+      "sectionIds": ["chapter-06-section-01"],
+      "learningObjectiveIds": ["chapter-06-objective-02"],
+      "examCategories": ["ponctuation"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 2, "section": "6.1" }],
+      "reviewStatus": "needs_review"
+    },
+    {
+      "id": "ch06-q0011",
+      "type": "single_choice",
+      "prompt": "Quel est le rôle de la virgule dans la phrase suivante ?",
+      "stimulus": { "text": "Tous les jours, j'irai la voir à sa résidence.", "highlightedText": "Tous les jours," },
+      "options": [
+        { "id": "A", "text": "Elle détache un complément de phrase placé au début de la phrase.", "explanation": "" },
+        { "id": "B", "text": "Elle détache un complément du nom placé après le nom.", "explanation": "Ce serait le rôle de la virgule dans « Madame Roy, la présidente, est en voyage d'affaires. »" },
+        { "id": "C", "text": "Elle juxtapose deux sujets.", "explanation": "La juxtaposition de sujets se voit dans « Les femmes, les hommes vivent et meurent heureux. »" },
+        { "id": "D", "text": "Elle détache une phrase incise.", "explanation": "Une phrase incise s'intercale entre deux virgules : « Il aura eu, je le crains, des ennuis à la douane. »" }
+      ],
+      "answer": {
+        "correctOptionIds": ["A"],
+        "explanation": "La virgule détache un complément de phrase placé au début ou au centre de la phrase : « Tous les jours, j'irai la voir à sa résidence. J'irai la voir, tous les jours, à sa résidence. »"
+      },
+      "difficulty": "beginner",
+      "topicIds": ["virgule"],
+      "sectionIds": ["chapter-06-section-02"],
+      "learningObjectiveIds": ["chapter-06-objective-03"],
+      "examCategories": ["ponctuation", "syntaxe"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 5, "section": "6.2" }],
+      "reviewStatus": "needs_review"
+    },
+    {
+      "id": "ch06-q0012",
+      "type": "single_choice",
+      "prompt": "Quel est le rôle de la virgule dans la phrase suivante ?",
+      "stimulus": { "text": "Madame Roy, la présidente, est en voyage d'affaires.", "highlightedText": "la présidente" },
+      "options": [
+        { "id": "A", "text": "Elle détache un complément du nom (groupe nominal) placé après le nom.", "explanation": "" },
+        { "id": "B", "text": "Elle détache un complément de phrase.", "explanation": "Un complément de phrase répond à la question « quand? », « pourquoi? », etc. : « Tous les jours, j'irai la voir. »" },
+        { "id": "C", "text": "Elle juxtapose des compléments du nom.", "explanation": "La juxtaposition de compléments du nom se voit dans « Londres est une ville splendide, vivante, sécuritaire. »" },
+        { "id": "D", "text": "Elle détache une subordonnée relative explicative.", "explanation": "Ce serait le rôle de la virgule dans « Jean, qui avait déjà investi en imagination les profits de la vente, eut du mal à affronter le retour à la réalité. »" }
+      ],
+      "answer": {
+        "correctOptionIds": ["A"],
+        "explanation": "« la présidente » est un groupe nominal qui complète le nom « Madame Roy » : la virgule le détache après le nom. La même virgule peut détacher un groupe adjectival (« Maigre et élancé, il dominait la foule. ») ou une subordonnée relative explicative."
+      },
+      "difficulty": "intermediate",
+      "topicIds": ["virgule"],
+      "sectionIds": ["chapter-06-section-02"],
+      "learningObjectiveIds": ["chapter-06-objective-03"],
+      "examCategories": ["ponctuation", "syntaxe"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 5, "section": "6.2" }],
+      "reviewStatus": "needs_review"
+    },
+    {
+      "id": "ch06-q0013",
+      "type": "single_choice",
+      "prompt": "Quel est le rôle de la virgule dans la phrase suivante ?",
+      "stimulus": { "text": "Tout d'abord, il faut revenir sur le conflit.", "highlightedText": "Tout d'abord," },
+      "options": [
+        { "id": "A", "text": "Elle détache un marqueur de relation ou un organisateur textuel.", "explanation": "" },
+        { "id": "B", "text": "Elle détache un groupe de mots mis en évidence.", "explanation": "La mise en évidence se voit dans « Moi, j'ai bien aimé ce film. »" },
+        { "id": "C", "text": "Elle juxtapose des prédicats.", "explanation": "La juxtaposition de prédicats se voit dans « Ses enfants arrivent de l'école, s'installent dans le salon et mangent une collation. »" },
+        { "id": "D", "text": "Elle détache une apostrophe.", "explanation": "L'apostrophe (vocatif) se voit dans « Chers amis, vous comprenez la gravité de ma situation. »" }
+      ],
+      "answer": {
+        "correctOptionIds": ["A"],
+        "explanation": "« Tout d'abord » est un marqueur de relation ou un organisateur textuel : la virgule le détache en début de phrase. De même, « Nous ne pouvons, par conséquent, répondre à votre demande. »"
+      },
+      "difficulty": "intermediate",
+      "topicIds": ["virgule"],
+      "sectionIds": ["chapter-06-section-02"],
+      "learningObjectiveIds": ["chapter-06-objective-03"],
+      "examCategories": ["ponctuation"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 5, "section": "6.2" }],
+      "reviewStatus": "needs_review"
+    },
+    {
+      "id": "ch06-q0014",
+      "type": "single_choice",
+      "prompt": "Quel est le rôle de la virgule dans la phrase suivante ?",
+      "stimulus": { "text": "Moi, j'ai bien aimé ce film.", "highlightedText": "Moi," },
+      "options": [
+        { "id": "A", "text": "Elle détache un groupe de mots mis en évidence dans une phrase emphatique.", "explanation": "" },
+        { "id": "B", "text": "Elle détache une phrase incidente.", "explanation": "Une phrase incidente s'intercale entre deux virgules : « Il aura eu, je le crains, des ennuis à la douane. »" },
+        { "id": "C", "text": "Elle coordonne deux phrases.", "explanation": "La virgule précède ici le coordonnant « car » : « Je suis contente, car il a enfin réussi l'examen. »" },
+        { "id": "D", "text": "Elle détache un complément du pronom.", "explanation": "Un complément du pronom détaché se voit dans « Maigre et élancé, il dominait la foule. »" }
+      ],
+      "answer": {
+        "correctOptionIds": ["A"],
+        "explanation": "« Moi » est mis en évidence : la virgule détache un groupe de mots dans une phrase emphatique. De même, « Ce qu'il ignorait, c'est que son amie avait décidé de lui faire une surprise. »"
+      },
+      "difficulty": "intermediate",
+      "topicIds": ["virgule"],
+      "sectionIds": ["chapter-06-section-02"],
+      "learningObjectiveIds": ["chapter-06-objective-03"],
+      "examCategories": ["ponctuation"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 5, "section": "6.2" }],
+      "reviewStatus": "needs_review"
+    },
+    {
+      "id": "ch06-q0015",
+      "type": "single_choice",
+      "prompt": "Comment appelle-t-on la construction entre les deux virgules dans la phrase suivante ?",
+      "stimulus": { "text": "Il aura eu, je le crains, des ennuis à la douane.", "highlightedText": "je le crains" },
+      "options": [
+        { "id": "A", "text": "Une phrase incidente.", "explanation": "" },
+        { "id": "B", "text": "Une phrase incise.", "explanation": "Une phrase incise s'intercale dans un discours rapporté direct, entre guillemets : « Je n'irai pas, murmure Léa, sur un ton suppliant. »" },
+        { "id": "C", "text": "Un groupe de mots mis en évidence.", "explanation": "La mise en évidence porte sur un groupe détaché par la virgule : « Moi, j'ai bien aimé ce film. »" },
+        { "id": "D", "text": "Une subordonnée relative explicative.", "explanation": "La subordonnée relative explicative est introduite par « qui », « que », « dont », « où » : « Jean, qui avait déjà investi en imagination les profits de la vente, eut du mal... »" }
+      ],
+      "answer": {
+        "correctOptionIds": ["A"],
+        "explanation": "« je le crains » est une phrase incidente : elle s'intercale entre deux virgules et complète le propos. La phrase incise, elle, s'insère dans un discours rapporté direct."
+      },
+      "difficulty": "intermediate",
+      "topicIds": ["virgule"],
+      "sectionIds": ["chapter-06-section-02"],
+      "learningObjectiveIds": ["chapter-06-objective-03"],
+      "examCategories": ["ponctuation", "syntaxe"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 5, "section": "6.2" }],
+      "reviewStatus": "needs_review"
+    },
+    {
+      "id": "ch06-q0016",
+      "type": "single_choice",
+      "prompt": "Quel est le rôle de la virgule dans la phrase suivante ?",
+      "stimulus": { "text": "Chers amis, vous comprenez la gravité de ma situation.", "highlightedText": "Chers amis," },
+      "options": [
+        { "id": "A", "text": "Elle détache une apostrophe (vocatif).", "explanation": "" },
+        { "id": "B", "text": "Elle juxtapose des sujets.", "explanation": "La juxtaposition de sujets se voit dans « Les femmes, les hommes vivent et meurent heureux. »" },
+        { "id": "C", "text": "Elle coordonne des phrases subordonnées.", "explanation": "Elle coordonne des phrases subordonnées dans « Je ne pense pas qu'il l'ait fait exprès, mais qu'il a simplement oublié. »" },
+        { "id": "D", "text": "Elle détache un marqueur de relation.", "explanation": "Le marqueur de relation se voit dans « Nous ne pouvons, par conséquent, répondre à votre demande. »" }
+      ],
+      "answer": {
+        "correctOptionIds": ["A"],
+        "explanation": "« Chers amis » et « Veuillez agréer, Monsieur, » sont des apostrophes : la virgule détache les mots qui interpellent la personne à qui l'on parle."
+      },
+      "difficulty": "intermediate",
+      "topicIds": ["virgule"],
+      "sectionIds": ["chapter-06-section-02"],
+      "learningObjectiveIds": ["chapter-06-objective-03"],
+      "examCategories": ["ponctuation", "syntaxe"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 5, "section": "6.2" }],
+      "reviewStatus": "needs_review"
+    },
+    {
+      "id": "ch06-q0017",
+      "type": "single_choice",
+      "prompt": "Quel est le rôle de la virgule dans la phrase suivante ?",
+      "stimulus": { "text": "Les femmes, les hommes vivent et meurent heureux.", "highlightedText": "Les femmes," },
+      "options": [
+        { "id": "A", "text": "Elle juxtapose des sujets.", "explanation": "" },
+        { "id": "B", "text": "Elle juxtapose des prédicats.", "explanation": "La juxtaposition de prédicats se voit dans « Ses enfants arrivent de l'école, s'installent dans le salon et mangent une collation. »" },
+        { "id": "C", "text": "Elle juxtapose des compléments du verbe.", "explanation": "La juxtaposition de compléments du verbe se voit dans « Elle a parlé à Jean, à Marie, à Pierre. »" },
+        { "id": "D", "text": "Elle juxtapose des phrases.", "explanation": "La juxtaposition de phrases se voit dans « Elle rit, elle saute, elle crie, elle déborde de joie. »" }
+      ],
+      "answer": {
+        "correctOptionIds": ["A"],
+        "explanation": "« Les femmes » et « les hommes » sont deux sujets juxtaposés : la virgule les sépare. La virgule juxtapose de la même façon prédicats, compléments, attributs, compléments du nom, compléments de phrase et phrases."
+      },
+      "difficulty": "beginner",
+      "topicIds": ["virgule"],
+      "sectionIds": ["chapter-06-section-02"],
+      "learningObjectiveIds": ["chapter-06-objective-03"],
+      "examCategories": ["ponctuation", "syntaxe"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 5, "section": "6.2" }],
+      "reviewStatus": "needs_review"
+    },
+    {
+      "id": "ch06-q0018",
+      "type": "single_choice",
+      "prompt": "Quelle phrase est correctement ponctuée ?",
+      "stimulus": { "text": "Je suis contente, car il a enfin réussi l'examen." },
+      "options": [
+        { "id": "A", "text": "Je suis contente, car il a enfin réussi l'examen.", "explanation": "" },
+        { "id": "B", "text": "Je suis contente car, il a enfin réussi l'examen.", "explanation": "La virgule se place avant le coordonnant, non après : « Je suis contente, car il a enfin réussi l'examen. »" },
+        { "id": "C", "text": "Je suis contente, car il a enfin réussi l'examen;", "explanation": "Le point-virgule sépare des phrases étroitement liées par le sens, pas une phrase d'un coordonnant comme « car »." },
+        { "id": "D", "text": "Je suis contente: car il a enfin réussi l'examen.", "explanation": "Le deux-point annonce une explication, une cause ou une conséquence; ici la virgule suffit." }
+      ],
+      "answer": {
+        "correctOptionIds": ["A"],
+        "explanation": "On met généralement une virgule devant les coordonnants (car, mais, donc, or, puis, après, alors, ensuite) lorsqu'ils coordonnent deux phrases : « Je suis contente, car il a enfin réussi l'examen. »"
+      },
+      "difficulty": "beginner",
+      "topicIds": ["virgule", "coordination"],
+      "sectionIds": ["chapter-06-section-02"],
+      "learningObjectiveIds": ["chapter-06-objective-03"],
+      "examCategories": ["ponctuation"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 5, "section": "6.2" }],
+      "reviewStatus": "needs_review"
+    },
+    {
+      "id": "ch06-q0019",
+      "type": "single_choice",
+      "prompt": "Quelle phrase est correctement ponctuée ?",
+      "stimulus": { "text": "Je ne pense pas qu'il l'ait fait exprès, mais qu'il a simplement oublié." },
+      "options": [
+        { "id": "A", "text": "Je ne pense pas qu'il l'ait fait exprès, mais qu'il a simplement oublié.", "explanation": "" },
+        { "id": "B", "text": "Je ne pense pas qu'il l'ait fait exprès mais, qu'il a simplement oublié.", "explanation": "La virgule précède le coordonnant : « ... exprès, mais qu'il ... »" },
+        { "id": "C", "text": "Je ne pense pas qu'il l'ait fait exprès; mais qu'il a simplement oublié.", "explanation": "Le point-virgule serait possible, mais la règle générale est la virgule devant le coordonnant." },
+        { "id": "D", "text": "Je ne pense pas qu'il l'ait fait exprès : mais qu'il a simplement oublié.", "explanation": "Le deux-point n'a pas sa place devant « mais » : il annonce une énumération, une citation, un discours direct ou une explication." }
+      ],
+      "answer": {
+        "correctOptionIds": ["A"],
+        "explanation": "On met généralement une virgule devant les coordonnants lorsqu'ils coordonnent deux phrases subordonnées : « Je ne pense pas qu'il l'ait fait exprès, mais qu'il a simplement oublié. »"
+      },
+      "difficulty": "intermediate",
+      "topicIds": ["virgule", "coordination"],
+      "sectionIds": ["chapter-06-section-02"],
+      "learningObjectiveIds": ["chapter-06-objective-03"],
+      "examCategories": ["ponctuation"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 5, "section": "6.2" }],
+      "reviewStatus": "needs_review"
+    },
+    {
+      "id": "ch06-q0020",
+      "type": "single_choice",
+      "prompt": "Pourquoi y a-t-il une virgule dans la phrase suivante ?",
+      "stimulus": { "text": "Elle a obtenu la note de passage, c'est-à-dire 60%.", "highlightedText": "c'est-à-dire" },
+      "options": [
+        { "id": "A", "text": "Parce que « c'est-à-dire » est un coordonnant à sens explicatif : la virgule sépare les groupes.", "explanation": "" },
+        { "id": "B", "text": "Parce que la phrase contient une phrase incise.", "explanation": "Une phrase incise s'intercale entre deux virgules à l'intérieur d'une phrase : « Il aura eu, je le crains, des ennuis à la douane. »" },
+        { "id": "C", "text": "Parce que la virgule détache un complément de phrase.", "explanation": "Un complément de phrase répond à « quand? », « pourquoi? » : « Tous les jours, j'irai la voir. »" },
+        { "id": "D", "text": "Parce que la virgule est obligatoire devant « 60% ».", "explanation": "La virgule ne dépend pas du pourcentage : elle dépend du coordonnant à sens explicatif." }
+      ],
+      "answer": {
+        "correctOptionIds": ["A"],
+        "explanation": "On met une virgule pour séparer des groupes joints par un coordonnant à sens explicatif (à savoir, c'est-à-dire, soit, voire) : « Cette dame parle les deux langues officielles de son pays, à savoir l'ourdou et l'anglais. »"
+      },
+      "difficulty": "advanced",
+      "topicIds": ["virgule"],
+      "sectionIds": ["chapter-06-section-02"],
+      "learningObjectiveIds": ["chapter-06-objective-03"],
+      "examCategories": ["ponctuation"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 5, "section": "6.2" }],
+      "reviewStatus": "needs_review"
+    },
+    {
+      "id": "ch06-q0021",
+      "type": "single_choice",
+      "prompt": "Quelle phrase est correctement ponctuée ?",
+      "stimulus": { "text": "Il faut trouver des solutions à la pénurie de logements, et ce, dans les plus brefs délais." },
+      "options": [
+        { "id": "A", "text": "Il faut trouver des solutions à la pénurie de logements, et ce, dans les plus brefs délais.", "explanation": "" },
+        { "id": "B", "text": "Il faut trouver des solutions à la pénurie de logements et ce, dans les plus brefs délais.", "explanation": "L'expression « et ce » est toujours précédée d'une virgule." },
+        { "id": "C", "text": "Il faut trouver des solutions à la pénurie de logements, et ce dans les plus brefs délais.", "explanation": "« et ce » peut aussi être suivie d'une virgule : c'est la forme la plus claire." },
+        { "id": "D", "text": "Il faut trouver des solutions, à la pénurie de logements et ce, dans les plus brefs délais.", "explanation": "La virgule mal placée détacherait le complément du nom « à la pénurie de logements »." }
+      ],
+      "answer": {
+        "correctOptionIds": ["A"],
+        "explanation": "L'expression « et ce » est toujours précédée d'une virgule et peut aussi être suivie d'une virgule. Attention : la virgule après « et ce » est facultative, mais la virgule avant est obligatoire."
+      },
+      "difficulty": "advanced",
+      "topicIds": ["virgule"],
+      "sectionIds": ["chapter-06-section-02"],
+      "learningObjectiveIds": ["chapter-06-objective-03"],
+      "examCategories": ["ponctuation"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 7, "section": "6.2" }],
+      "reviewStatus": "needs_review"
+    },
+    {
+      "id": "ch06-q0022",
+      "type": "single_choice",
+      "prompt": "Quel est le rôle du deux-points dans la phrase suivante ?",
+      "stimulus": { "text": "On pouvait voir trois planètes : Vénus, Mars et Mercure.", "highlightedText": ":" },
+      "options": [
+        { "id": "A", "text": "Il annonce une énumération.", "explanation": "" },
+        { "id": "B", "text": "Il introduit une citation.", "explanation": "Le deux-point introduit une citation dans « Roland Barthes a écrit : « La littérature ne permet pas de marcher... » »" },
+        { "id": "C", "text": "Il introduit un discours direct.", "explanation": "Le discours direct est introduit par un deux-point dans « Mon conseiller financier m'a dit : « Madame, tous vos problèmes d'argent... » »" },
+        { "id": "D", "text": "Il annonce une conséquence.", "explanation": "La conséquence s'annonce aussi par un deux-point, mais ici la seconde proposition est une énumération de planètes." }
+      ],
+      "answer": {
+        "correctOptionIds": ["A"],
+        "explanation": "Le deux-points peut annoncer une énumération, introduire une citation ou un discours direct, ou annoncer une explication, une cause, une conséquence, une conclusion ou une synthèse."
+      },
+      "difficulty": "beginner",
+      "topicIds": ["deux-points"],
+      "sectionIds": ["chapter-06-section-03"],
+      "learningObjectiveIds": ["chapter-06-objective-04"],
+      "examCategories": ["ponctuation"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 9, "section": "6.3" }],
+      "reviewStatus": "needs_review"
+    },
+    {
+      "id": "ch06-q0023",
+      "type": "single_choice",
+      "prompt": "Quel est le rôle du deux-points dans la phrase suivante ?",
+      "stimulus": { "text": "Elle a quitté son mari : il était insupportable.", "highlightedText": ":" },
+      "options": [
+        { "id": "A", "text": "Il annonce la cause.", "explanation": "" },
+        { "id": "B", "text": "Il annonce une énumération.", "explanation": "L'énumération est introduite par « On pouvait voir trois planètes : Vénus, Mars et Mercure. »" },
+        { "id": "C", "text": "Il annonce une conclusion.", "explanation": "La conclusion s'annonce dans « Il arrivait en retard, parlait contre ses collègues et bâclait son travail : il a perdu son emploi. »" },
+        { "id": "D", "text": "Il annonce une synthèse.", "explanation": "La synthèse s'annonce dans « Il résuma ce qu'il venait d'apprendre : peu de choses. »" }
+      ],
+      "answer": {
+        "correctOptionIds": ["A"],
+        "explanation": "Le deux-point annonce la cause : elle a quitté son mari parce qu'il était insupportable. La conséquence, elle, s'annonce dans « Félix lui a dit ses quatre vérités : il a été congédié. »"
+      },
+      "difficulty": "intermediate",
+      "topicIds": ["deux-points"],
+      "sectionIds": ["chapter-06-section-03"],
+      "learningObjectiveIds": ["chapter-06-objective-04"],
+      "examCategories": ["ponctuation", "syntaxe"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 9, "section": "6.3" }],
+      "reviewStatus": "needs_review"
+    },
+    {
+      "id": "ch06-q0024",
+      "type": "single_choice",
+      "prompt": "Quel est le rôle du point-virgule dans la phrase suivante ?",
+      "stimulus": { "text": "Un seul plan de cinéma ne dit pas grand-chose du film ; au montage, il est raccordé à d'autres plans et il prend alors tout son sens.", "highlightedText": ";" },
+      "options": [
+        { "id": "A", "text": "Il sépare des phrases étroitement liées par le sens.", "explanation": "" },
+        { "id": "B", "text": "Il sépare les différents éléments d'une énumération disposée en liste.", "explanation": "Ce rôle se voit dans « Pour vous présenter à l'atelier du peintre Chamberland, vous devez avoir en main le matériel suivant : - des pinceaux ; - de la peinture à l'huile ; ... »" },
+        { "id": "C", "text": "Il annonce une cause.", "explanation": "La cause s'annonce par un deux-point : « Elle a quitté son mari : il était insupportable. »" },
+        { "id": "D", "text": "Il juxtapose des compléments du verbe.", "explanation": "La juxtaposition de compléments se fait à la virgule : « Elle a parlé à Jean, à Marie, à Pierre. »" }
+      ],
+      "answer": {
+        "correctOptionIds": ["A"],
+        "explanation": "Le point-virgule sépare des phrases étroitement liées par le sens : les deux propositions ici s'expliquent l'une l'autre."
+      },
+      "difficulty": "intermediate",
+      "topicIds": ["point-virgule"],
+      "sectionIds": ["chapter-06-section-03"],
+      "learningObjectiveIds": ["chapter-06-objective-04"],
+      "examCategories": ["ponctuation"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 9, "section": "6.3" }],
+      "reviewStatus": "needs_review"
+    },
+    {
+      "id": "ch06-q0025",
+      "type": "single_choice",
+      "prompt": "Dans la liste de matériel ci-dessous, quel signe sépare les éléments ?",
+      "stimulus": { "text": "le matériel suivant : - des pinceaux ; - de la peinture à l'huile ; - des toiles ; - du diluant ; - un sarrau." },
+      "options": [
+        { "id": "A", "text": "Le point-virgule.", "explanation": "" },
+        { "id": "B", "text": "La virgule.", "explanation": "La virgule juxtapose les compléments du verbe (« Elle a parlé à Jean, à Marie, à Pierre. ») ou les éléments d'une énumération dans la phrase; dans une liste, c'est le point-virgule qui convient." },
+        { "id": "C", "text": "Le deux-points.", "explanation": "Le deux-point annonce la liste, mais il ne sépare pas ses éléments : « le matériel suivant : - des pinceaux ; - ... »" },
+        { "id": "D", "text": "Le point final.", "explanation": "Le point final ferme la phrase : il ne peut pas séparer les éléments d'une liste." }
+      ],
+      "answer": {
+        "correctOptionIds": ["A"],
+        "explanation": "Le point-virgule sépare les différents éléments d'une énumération disposés sous forme de liste; le deux-point, lui, annonce la liste."
+      },
+      "difficulty": "intermediate",
+      "topicIds": ["point-virgule", "deux-points"],
+      "sectionIds": ["chapter-06-section-03"],
+      "learningObjectiveIds": ["chapter-06-objective-04"],
+      "examCategories": ["ponctuation"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 9, "section": "6.3" }],
+      "reviewStatus": "needs_review"
+    },
+    {
+      "id": "ch06-q0026",
+      "type": "single_choice",
+      "prompt": "Quel est le rôle des guillemets dans la phrase suivante ?",
+      "stimulus": { "text": "« Penses-tu terminer ton travail à temps? », lui demanda son enseignant.", "highlightedText": "« Penses-tu terminer ton travail à temps? »" },
+      "options": [
+        { "id": "A", "text": "Ils encadrent un discours rapporté direct.", "explanation": "" },
+        { "id": "B", "text": "Ils encadrent une citation courte.", "explanation": "La citation courte est encadrée par un deux-point : « Antoine de Saint-Exupéry a dit : « Fais de ta vie un rêve, et d'un rêve, une réalité. » »" },
+        { "id": "C", "text": "Ils encadrent un mot ou une expression.", "explanation": "Le mot ou l'expression signalé se place aussi entre guillemets : « L'activité d'accueil était plutôt « cool ». »" },
+        { "id": "D", "text": "Ils signalent une coupure dans un passage cité.", "explanation": "La coupure dans une citation se signale par des points de suspension entre crochets : « [...] »" }
+      ],
+      "answer": {
+        "correctOptionIds": ["A"],
+        "explanation": "Les guillemets encadrent un discours rapporté direct. Le point d'interrogation se place avant la guillemet fermante, suivie d'une virgule : « ... », lui demanda son enseignant."
+      },
+      "difficulty": "beginner",
+      "topicIds": ["guillemets"],
+      "sectionIds": ["chapter-06-section-04"],
+      "learningObjectiveIds": ["chapter-06-objective-05"],
+      "examCategories": ["ponctuation"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 11, "section": "6.4" }],
+      "reviewStatus": "needs_review"
+    },
+    {
+      "id": "ch06-q0027",
+      "type": "single_choice",
+      "prompt": "Pourquoi le mot « cool » est-il placé entre guillemets ?",
+      "stimulus": { "text": "L'activité d'accueil était plutôt « cool ».", "highlightedText": "« cool »" },
+      "options": [
+        { "id": "A", "text": "Pour signaler un mot ou une expression.", "explanation": "" },
+        { "id": "B", "text": "Pour encadrer un discours rapporté direct.", "explanation": "Un discours rapporté direct reproduit les paroles de quelqu'un : « Penses-tu terminer ton travail à temps? »" },
+        { "id": "C", "text": "Pour encadrer une citation courte.", "explanation": "Une citation courte est une phrase complète attribuée à un auteur : « Antoine de Saint-Exupéry a dit : « Fais de ta vie un rêve... » »" },
+        { "id": "D", "text": "Pour marquer une hésitation.", "explanation": "L'hésitation se marque par des points de suspension : « Pourquoi nous marier? Mais... pour être plus heureux! »" }
+      ],
+      "answer": {
+        "correctOptionIds": ["A"],
+        "explanation": "Les guillemets encadrent un mot ou une expression : ici, « cool » est un mot d'emprunt qu'on signale au lecteur."
+      },
+      "difficulty": "beginner",
+      "topicIds": ["guillemets"],
+      "sectionIds": ["chapter-06-section-04"],
+      "learningObjectiveIds": ["chapter-06-objective-05"],
+      "examCategories": ["ponctuation", "vocabulaire"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 11, "section": "6.4" }],
+      "reviewStatus": "needs_review"
+    },
+    {
+      "id": "ch06-q0028",
+      "type": "single_choice",
+      "prompt": "Quelle forme de guillemets emploie-t-on en français ?",
+      "stimulus": { "text": "Ce patron a dit à son employé : « Je veux que ton travail soit “sur la coche”. »" },
+      "options": [
+        { "id": "A", "text": "Les petits chevrons doubles « », sauf à l'intérieur d'une citation déjà placée entre guillemets.", "explanation": "" },
+        { "id": "B", "text": "Les guillemets anglais “ ” pour tout le texte.", "explanation": "Les guillemets anglais ne s'emploient qu'à l'intérieur d'une citation déjà placée entre guillemets français." },
+        { "id": "C", "text": "Les guillemets anglais “ ” à l'extérieur et les chevrons « » à l'intérieur.", "explanation": "C'est l'inverse : le français « » est la norme; les guillemets anglais “ ” marquent le second niveau." },
+        { "id": "D", "text": "Les apostrophes doubles '', comme en anglais.", "explanation": "Les guillemets français ne sont pas des apostrophes doubles : ce sont des petits chevrons doubles." }
+      ],
+      "answer": {
+        "correctOptionIds": ["A"],
+        "explanation": "Les guillemets se présentent en français sous la forme de petits chevrons doubles (« »). Les guillemets anglais (“ ”) ne sont utilisés qu'à l'intérieur d'une citation déjà placée entre guillemets."
+      },
+      "difficulty": "intermediate",
+      "topicIds": ["guillemets"],
+      "sectionIds": ["chapter-06-section-04"],
+      "learningObjectiveIds": ["chapter-06-objective-05"],
+      "examCategories": ["ponctuation"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 11, "section": "6.4" }],
+      "reviewStatus": "needs_review"
+    },
+    {
+      "id": "ch06-q0029",
+      "type": "single_choice",
+      "prompt": "Quelle ponctuation convient à la fin de cette phrase exclamative ?",
+      "stimulus": { "text": "Quelle belle journée!", "highlightedText": "Quelle belle journée" },
+      "options": [
+        { "id": "A", "text": "Un point d'exclamation, car la phrase contient un mot exclamatif.", "explanation": "" },
+        { "id": "B", "text": "Un point d'interrogation, car « Quelle » introduit une question.", "explanation": "La phrase n'est pas interrogative : c'est un cri (« Quelle belle journée! »)." },
+        { "id": "C", "text": "Un point final, car la phrase est déclarative.", "explanation": "Le mot exclamatif « quelle » signale une phrase exclamative, qui se termine par un point d'exclamation." },
+        { "id": "D", "text": "Des points de suspension, car le locuteur s'interrompt.", "explanation": "Aucune interruption n'est marquée ici." }
+      ],
+      "answer": {
+        "correctOptionIds": ["A"],
+        "explanation": "Le point d'exclamation se place à la fin d'une phrase exclamative contenant le plus souvent un mot exclamatif tel que « comme », « quel », « que » : « Que nous sommes chanceux d'être ici! Comme tu portes bien cette robe! Ces chiots sont magnifiques! Quelle belle journée! »"
+      },
+      "difficulty": "beginner",
+      "topicIds": ["ponctuation"],
+      "sectionIds": ["chapter-06-section-01"],
+      "learningObjectiveIds": ["chapter-06-objective-01"],
+      "examCategories": ["ponctuation"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 2, "section": "6.1" }],
+      "reviewStatus": "needs_review"
+    },
+    {
+      "id": "ch06-q0030",
+      "type": "single_choice",
+      "prompt": "Quelle phrase est correctement ponctuée ?",
+      "stimulus": { "text": "Oh! La belle surprise que voilà!" },
+      "options": [
+        { "id": "A", "text": "Oh! La belle surprise que voilà!", "explanation": "" },
+        { "id": "B", "text": "Oh. La belle surprise que voilà!", "explanation": "L'interjection appelle le point d'exclamation : « Ah! Oh! Zut! Chut! Ciel! Hélas! Bon sang! »" },
+        { "id": "C", "text": "Oh! La belle surprise que voilà?", "explanation": "La phrase exclamative se termine par un point d'exclamation, non par un point d'interrogation." },
+        { "id": "D", "text": "Oh! La belle surprise que voilà...", "explanation": "Les points de suspension indiqueraient une hésitation ou un arrêt volontaire, ce qui n'est pas le cas." }
+      ],
+      "answer": {
+        "correctOptionIds": ["A"],
+        "explanation": "L'interjection « Oh! » est suivie d'un point d'exclamation, et la phrase exclamative qui suit se termine elle aussi par un point d'exclamation."
+      },
+      "difficulty": "beginner",
+      "topicIds": ["ponctuation"],
+      "sectionIds": ["chapter-06-section-01"],
+      "learningObjectiveIds": ["chapter-06-objective-01"],
+      "examCategories": ["ponctuation"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 4, "section": "6.1" }],
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

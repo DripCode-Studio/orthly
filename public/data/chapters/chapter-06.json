@@ -1,0 +1,815 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "chapter-06",
+  "number": 6,
+  "slug": "la-ponctuation",
+  "title": "La ponctuation",
+  "description": "Donner à chaque signe de ponctuation son rôle : points de fin de phrase, points de suspension, virgule, deux-points, point-virgule et guillemets.",
+  "estimatedMinutes": 80,
+  "color": "#1cb0f6",
+  "learningObjectives": [
+    { "id": "chapter-06-objective-01", "text": "Choisir le point d'interrogation ou le point d'exclamation selon le type de phrase.", "topicIds": ["ponctuation", "phrase-graphique"] },
+    { "id": "chapter-06-objective-02", "text": "Employer les points de suspension à bon escient et éviter la redondance après « etc. ».", "topicIds": ["points-de-suspension"] },
+    { "id": "chapter-06-objective-03", "text": "Placer la virgule selon sa fonction : détacher, juxtaposer ou coordonner.", "topicIds": ["virgule"] },
+    { "id": "chapter-06-objective-04", "text": "Distinguer les rôles du deux-points et du point-virgule.", "topicIds": ["deux-points", "point-virgule"] },
+    { "id": "chapter-06-objective-05", "text": "Utiliser les guillemets français et éviter la confusion avec les guillemets anglais.", "topicIds": ["guillemets"] }
+  ],
+  "sections": [
+    {
+      "id": "chapter-06-section-01",
+      "title": "La ponctuation dans une phrase graphique",
+      "order": 1,
+      "introduction": "La ponctuation est indispensable à la clarté d'un texte : elle permet la précision du message. Un même énoncé peut changer radicalement de sens selon la présence ou l'absence d'une virgule ou d'une paire de guillemets. Les signes de ponctuation servent à organiser, à l'intérieur de la phrase graphique, les mots et les groupes de mots.",
+      "concepts": [
+        {
+          "id": "chapter-06-concept-01",
+          "title": "La ponctuation, organisatrice du sens",
+          "topicIds": ["ponctuation"],
+          "explanation": "Avant de ponctuer, compare deux énoncés qui ne diffèrent que par la ponctuation : tu verras que le signe ne relève pas de la décoration, mais de l'analyse grammaticale. Le point, le point d'interrogation, le point d'exclamation, les points de suspension, la virgule, le point-virgule et le deux-points sont les signes étudiés dans ce chapitre.",
+          "definition": "Les signes de ponctuation servent à organiser, à l'intérieur de la phrase graphique, les mots et les groupes de mots ; l'absence ou la présence d'un signe peut modifier radicalement le sens d'un énoncé.",
+          "rules": [
+            {
+              "id": "chapter-06-rule-01",
+              "text": "La ponctuation est indispensable à la clarté d'un texte : elle permet la précision du message.",
+              "exceptions": [],
+              "source": { "page": 1 }
+            },
+            {
+              "id": "chapter-06-rule-02",
+              "text": "L'absence ou la présence d'un signe de ponctuation peut modifier radicalement le sens d'un énoncé.",
+              "exceptions": [],
+              "source": { "page": 1 }
+            },
+            {
+              "id": "chapter-06-rule-03",
+              "text": "Les signes de ponctuation rencontrés dans ce chapitre sont le point, le point d'interrogation, le point d'exclamation, les points de suspension, la virgule, le point-virgule et le deux-points.",
+              "exceptions": [],
+              "source": { "page": 1 }
+            }
+          ],
+          "steps": [],
+          "examples": [
+            {
+              "id": "chapter-06-example-01",
+              "text": "Le professeur dit : « Christian est un sage! » « Le professeur, dit Christian, est un sage. »",
+              "highlight": [],
+              "explanation": "Sans guillemets ni virgules, on ignore qui dit « Christian est un sage » : la ponctuation attribue la parole au bon locuteur.",
+              "source": { "page": 1, "section": "6.1", "kind": "source" }
+            },
+            {
+              "id": "chapter-06-example-02",
+              "text": "En deux heures, seulement deux cents billets ont été vendus.",
+              "highlight": [],
+              "explanation": "La virgule après « En deux heures » restreint la quantité : peu de billets ont été vendus, mais en beaucoup de temps.",
+              "source": { "page": 1, "section": "6.1", "kind": "source" }
+            },
+            {
+              "id": "chapter-06-example-03",
+              "text": "En deux heures seulement, deux cents billets ont été vendus.",
+              "highlight": [],
+              "explanation": "Sans la virgule, « seulement » porte sur « deux cents billets » : beaucoup de billets ont été vendus en peu de temps.",
+              "source": { "page": 1, "section": "6.1", "kind": "source" }
+            },
+            {
+              "id": "chapter-06-example-04",
+              "text": "Les policiers, qui étaient insatisfaits, ont démissionné.",
+              "highlight": [],
+              "explanation": "Les virgules ferment la subordonnée relative explicative : tous les policiers ont démissionné.",
+              "source": { "page": 1, "section": "6.1", "kind": "source" }
+            },
+            {
+              "id": "chapter-06-example-05",
+              "text": "Les policiers qui étaient insatisfaits ont démissionné.",
+              "highlight": [],
+              "explanation": "Sans virgules, la subordonnée relative restreint l'ensemble : parmi les policiers, ceux qui étaient insatisfaits ont démissionné.",
+              "source": { "page": 1, "section": "6.1", "kind": "source" }
+            }
+          ],
+          "exceptions": [],
+          "commonMistakes": [],
+          "takeaway": "Compare toujours deux phrases qui ne diffèrent que par un signe de ponctuation : c'est le meilleur test du rôle d'un signe.",
+          "sourceReferences": [{ "page": 1, "section": "6.1" }]
+        },
+        {
+          "id": "chapter-06-concept-02",
+          "title": "Les signes de fin de phrase : point, point d'interrogation, point d'exclamation",
+          "topicIds": ["ponctuation", "phrase-graphique"],
+          "explanation": "Le point marque surtout la fin d'une phrase de type déclaratif, ou parfois de type impératif. Le point d'interrogation s'utilise à la fin d'une phrase interrogative directe. Le point d'exclamation marque différentes émotions : surprise, étonnement, peur, colère; il termine une phrase exclamative contenant le plus souvent un mot exclamatif tel que « comme », « quel », « que ». On l'emploie aussi après une interjection, après une apostrophe, un cri ou une injure.",
+          "definition": "Le point marque la fin d'une phrase déclarative, le point d'interrogation celle d'une phrase interrogative directe, le point d'exclamation celle d'une phrase exclamative.",
+          "rules": [
+            {
+              "id": "chapter-06-rule-04",
+              "text": "Le point sert surtout à marquer la fin d'une phrase de type déclaratif, ou parfois de type impératif.",
+              "exceptions": [],
+              "source": { "page": 2 }
+            },
+            {
+              "id": "chapter-06-rule-05",
+              "text": "Le point d'interrogation s'utilise à la fin d'une phrase interrogative directe.",
+              "exceptions": [],
+              "source": { "page": 2 }
+            },
+            {
+              "id": "chapter-06-rule-06",
+              "text": "Le point d'exclamation marque différentes émotions : la surprise, l'étonnement, la peur, la colère. Il se place à la fin d'une phrase exclamative contenant le plus souvent un mot exclamatif tel que « comme », « quel », « que ».",
+              "exceptions": [],
+              "source": { "page": 2 }
+            },
+            {
+              "id": "chapter-06-rule-07",
+              "text": "On emploie le point d'exclamation après une interjection (Ah! Oh! Zut! Chut! Ciel!) et après une apostrophe, un cri ou une injure (François! Les enfants! Espèce d'impoli!).",
+              "exceptions": [],
+              "source": { "page": 2 }
+            },
+            {
+              "id": "chapter-06-rule-08",
+              "text": "Il ne faut pas mettre de point d'interrogation après une interrogation indirecte : la phrase se termine alors par un point.",
+              "exceptions": [],
+              "source": { "page": 2 }
+            }
+          ],
+          "steps": [],
+          "examples": [
+            {
+              "id": "chapter-06-example-06",
+              "text": "Les soldats avançaient même si la peur les tenaillait. Ils savaient ce qui les attendait de l'autre côté du mur.",
+              "highlight": [],
+              "explanation": "Deux phrases déclaratives : chacune se termine par un point.",
+              "source": { "page": 2, "section": "6.1", "kind": "source" }
+            },
+            {
+              "id": "chapter-06-example-07",
+              "text": "Apporte ton cahier.",
+              "highlight": [],
+              "explanation": "Phrase impérative : elle se termine aussi par un point.",
+              "source": { "page": 2, "section": "6.1", "kind": "source" }
+            },
+            {
+              "id": "chapter-06-example-08",
+              "text": "Est-ce que tu souffres? Aime-t-il sa nouvelle maison?",
+              "highlight": [],
+              "explanation": "Phrases interrogatives directes : elles se terminent par un point d'interrogation.",
+              "source": { "page": 2, "section": "6.1", "kind": "source" }
+            },
+            {
+              "id": "chapter-06-example-09",
+              "text": "Que nous sommes chanceux d'être ici! Comme tu portes bien cette robe!",
+              "highlight": [],
+              "explanation": "Phrases exclamatives contenant un mot exclamatif (« que », « comme ») : elles se terminent par un point d'exclamation.",
+              "source": { "page": 2, "section": "6.1", "kind": "source" }
+            },
+            {
+              "id": "chapter-06-example-10",
+              "text": "Ah! Oh! Zut! Chut! Ciel! Hélas! Bon sang!",
+              "highlight": [],
+              "explanation": "Interjections : chacune est suivie d'un point d'exclamation.",
+              "source": { "page": 2, "section": "6.1", "kind": "source" }
+            },
+            {
+              "id": "chapter-06-example-11",
+              "text": "Dites-moi quelle heure il est. Je me demande pourquoi il ne vient pas.",
+              "highlight": [],
+              "explanation": "Interrogations indirectes : aucun point d'interrogation, seulement un point final.",
+              "source": { "page": 2, "section": "6.1", "kind": "source" }
+            },
+            {
+              "id": "chapter-06-example-12",
+              "text": "Vous viendrez! / Vous viendez?",
+              "highlight": [],
+              "explanation": "Le point d'exclamation exprime l'ordre ou l'étonnement; le point d'interrogation, l'invitation ou la question.",
+              "source": { "page": 1, "section": "6.1", "kind": "source" }
+            }
+          ],
+          "exceptions": [],
+          "commonMistakes": [],
+          "takeaway": "Interrogation directe → point d'interrogation. Interrogation indirecte → point. Phrase exclamative → point d'exclamation.",
+          "sourceReferences": [{ "page": 1, "section": "6.1" }, { "page": 2, "section": "6.1" }]
+        },
+        {
+          "id": "chapter-06-concept-03",
+          "title": "Les points de suspension",
+          "topicIds": ["points-de-suspension"],
+          "explanation": "Les points de suspension ont cinq emplois distincts : marquer la possibilité de poursuivre une énumération, indiquer un sous-entendu, marquer un arrêt volontaire dans la phrase, signaler une réflexion ou une hésitation, et, à l'intérieur de crochets, montrer qu'un passage a été coupé dans une citation. Attention : on ne les met jamais après « etc. ».",
+          "definition": "Les points de suspension marquent la possibilité de poursuivre une énumération, un sous-entendu, un arrêt volontaire dans la phrase, ou une réflexion ou une hésitation.",
+          "rules": [
+            {
+              "id": "chapter-06-rule-09",
+              "text": "Les points de suspension servent à marquer la possibilité de poursuivre une énumération.",
+              "exceptions": [],
+              "source": { "page": 2 }
+            },
+            {
+              "id": "chapter-06-rule-10",
+              "text": "Les points de suspension marquent un sous-entendu.",
+              "exceptions": [],
+              "source": { "page": 2 }
+            },
+            {
+              "id": "chapter-06-rule-11",
+              "text": "Les points de suspension marquent un arrêt volontaire dans la phrase.",
+              "exceptions": [],
+              "source": { "page": 2 }
+            },
+            {
+              "id": "chapter-06-rule-12",
+              "text": "Les points de suspension indiquent une réflexion ou une hésitation.",
+              "exceptions": [],
+              "source": { "page": 2 }
+            },
+            {
+              "id": "chapter-06-rule-13",
+              "text": "À l'intérieur de crochets, les points de suspension indiquent qu'on a coupé un passage dans une citation.",
+              "exceptions": [],
+              "source": { "page": 2 }
+            },
+            {
+              "id": "chapter-06-rule-14",
+              "text": "On ne met pas de points de suspension après « etc. » : la locution latine « et caetera » signifie « et les autres choses », et l'emploi des points de suspension crée alors une redondance.",
+              "exceptions": [],
+              "source": { "page": 4 }
+            }
+          ],
+          "steps": [],
+          "examples": [
+            {
+              "id": "chapter-06-example-13",
+              "text": "Il a tout perdu : son argent, ses clefs, son passeport...",
+              "highlight": [],
+              "explanation": "Énumération dont on peut poursuivre la liste.",
+              "source": { "page": 2, "section": "6.1", "kind": "source" }
+            },
+            {
+              "id": "chapter-06-example-14",
+              "text": "Je sens que tu me caches quelque chose...",
+              "highlight": [],
+              "explanation": "Sous-entendu : ce qui est caché n'est pas nommé.",
+              "source": { "page": 2, "section": "6.1", "kind": "source" }
+            },
+            {
+              "id": "chapter-06-example-15",
+              "text": "Je voudrais te raconter le jour où... Je ne peux pas.",
+              "highlight": [],
+              "explanation": "Arrêt volontaire dans la phrase.",
+              "source": { "page": 2, "section": "6.1", "kind": "source" }
+            },
+            {
+              "id": "chapter-06-example-16",
+              "text": "Pourquoi nous marier? Mais... pour être plus heureux!",
+              "highlight": [],
+              "explanation": "Réflexion ou hésitation.",
+              "source": { "page": 2, "section": "6.1", "kind": "source" }
+            },
+            {
+              "id": "chapter-06-example-17",
+              "text": "La Politique relative à la maîtrise du français mentionne : « Si la personne étudiante n'a pas tenté à deux reprises de réussir le cours d'appoint durant le délai de deux trimestres suivant le test de français, un trimestre supplémentaire pourra lui être accordé[...] . »",
+              "highlight": [],
+              "explanation": "À l'intérieur de crochets, les points de suspension signalent qu'un passage de la citation a été coupé.",
+              "source": { "page": 2, "section": "6.1", "kind": "source" }
+            },
+            {
+              "id": "chapter-06-example-18",
+              "text": "Revoyons les livres, les revues, les articles, etc.",
+              "highlight": [],
+              "explanation": "On place une virgule devant « etc. », mais on ne lui ajoute jamais de points de suspension.",
+              "source": { "page": 7, "section": "6.2", "kind": "source" }
+            }
+          ],
+          "exceptions": [],
+          "commonMistakes": [],
+          "takeaway": "« etc. » est déjà une abréviation de « et caetera » : lui ajouter des points de suspension est une redondance.",
+          "sourceReferences": [{ "page": 2, "section": "6.1" }, { "page": 4, "section": "6.1" }, { "page": 7, "section": "6.2" }]
+        }
+      ],
+      "summary": [
+        "La ponctuation organise la phrase graphique et peut changer le sens d'un énoncé.",
+        "Point : phrase déclarative ou impérative. Point d'interrogation : interrogation directe. Point d'exclamation : phrase exclamative, interjection, cri.",
+        "Jamais de point d'interrogation après une interrogation indirecte.",
+        "Les points de suspension signalent une énumération à poursuivre, un sous-entendu, un arrêt, une hésitation, ou une coupure dans une citation.",
+        "Pas de points de suspension après « etc. »."
+      ],
+      "sourceReferences": [{ "page": 1, "section": "6.1" }, { "page": 2, "section": "6.1" }, { "page": 4, "section": "6.1" }]
+    },
+    {
+      "id": "chapter-06-section-02",
+      "title": "La ponctuation dans une phrase syntaxique",
+      "order": 2,
+      "introduction": "Sept signes de ponctuation sont utilisés à l'intérieur de la phrase graphique : la virgule, le point-virgule, le deux-points, les guillemets, les parenthèses, les crochets et les tirets. Ce cours traite les quatre premiers. La virgule est de loin le signe le plus polyvalent : elle détache, juxtapose ou coordonne.",
+      "concepts": [
+        {
+          "id": "chapter-06-concept-04",
+          "title": "Les sept signes à l'intérieur de la phrase graphique",
+          "topicIds": ["ponctuation", "phrase-syntaxique"],
+          "explanation": "Les signes de fin de phrase (point, point d'interrogation, point d'exclamation, points de suspension) ferment la phrase. Sept autres signes s'emploient à l'intérieur de la phrase graphique : la virgule, le point-virgule, le deux-points, les guillemets, les parenthèses, les crochets et les tirets. Le chapitre en étudie les quatre premiers.",
+          "definition": "Sept signes de ponctuation sont utilisés à l'intérieur de la phrase graphique : la virgule, le point-virgule, le deux-points, les guillemets, les parenthèses, les crochets et les tirets.",
+          "rules": [
+            {
+              "id": "chapter-06-rule-15",
+              "text": "Sept signes de ponctuation sont utilisés à l'intérieur de la phrase graphique : la virgule, le point-virgule, le deux-points, les guillemets, les parenthèses, les crochets et les tirets.",
+              "exceptions": [],
+              "source": { "page": 5 }
+            },
+            {
+              "id": "chapter-06-rule-16",
+              "text": "Dans ce cours, nous voyons les quatre premiers : la virgule, le point-virgule, le deux-points et les guillemets.",
+              "exceptions": [],
+              "source": { "page": 5 }
+            }
+          ],
+          "steps": [],
+          "examples": [
+            {
+              "id": "chapter-06-example-19",
+              "text": "On apercevait dans la cuisine des poules, des canards, des lapins et même une chèvre.",
+              "highlight": [],
+              "explanation": "Virgules de séparation dans une énumération : c'est un signe employé à l'intérieur de la phrase graphique.",
+              "source": { "page": 5, "section": "6.2", "kind": "source" }
+            },
+            {
+              "id": "chapter-06-example-20",
+              "text": "Un seul plan de cinéma ne dit pas grand-chose du film ; au montage, il est raccordé à d'autres plans et il prend alors tout son sens.",
+              "highlight": [],
+              "explanation": "Point-virgule entre deux phrases étroitement liées : la phrase reste ouverte, le point final la ferme.",
+              "source": { "page": 9, "section": "6.3", "kind": "source" }
+            }
+          ],
+          "exceptions": [],
+          "commonMistakes": [],
+          "takeaway": "Distingue les signes qui ferment la phrase de ceux qui l'organisent à l'intérieur.",
+          "sourceReferences": [{ "page": 5, "section": "6.2" }, { "page": 9, "section": "6.3" }]
+        },
+        {
+          "id": "chapter-06-concept-05",
+          "title": "Les rôles de la virgule",
+          "topicIds": ["virgule"],
+          "explanation": "La virgule est le signe le plus polyvalent du français. Elle peut détacher (complément de phrase, complément du nom, marqueur de relation, groupe mis en évidence, phrase incise ou incidente, apostrophe), juxtaposer (sujets, prédicats, compléments, attributs, phrases) ou coordonner (phrases, phrases subordonnées, groupes).",
+          "definition": "La virgule sert à détacher, à juxtaposer et à coordonner : ce sont là ses trois grandes familles d'emplois.",
+          "rules": [
+            {
+              "id": "chapter-06-rule-17",
+              "text": "La virgule sert à détacher un complément de phrase placé au début ou au centre de la phrase.",
+              "exceptions": [],
+              "source": { "page": 5 }
+            },
+            {
+              "id": "chapter-06-rule-18",
+              "text": "La virgule sert à détacher un complément du nom ou du pronom (groupe nominal, groupe adjectival ou subordonnée relative explicative) placé immédiatement après le nom ou le pronom, devant le nom ou le pronom, au début de la phrase ou à la fin de la phrase.",
+              "exceptions": [],
+              "source": { "page": 5 }
+            },
+            {
+              "id": "chapter-06-rule-19",
+              "text": "La virgule sert à détacher un marqueur de relation ou un organisateur textuel placé en début de phrase ou dans le corps de la phrase.",
+              "exceptions": [],
+              "source": { "page": 5 }
+            },
+            {
+              "id": "chapter-06-rule-20",
+              "text": "La virgule sert à détacher un groupe de mots mis en évidence dans une phrase emphatique.",
+              "exceptions": [],
+              "source": { "page": 5 }
+            },
+            {
+              "id": "chapter-06-rule-21",
+              "text": "La virgule sert à détacher une phrase incise et une phrase incidente.",
+              "exceptions": [],
+              "source": { "page": 5 }
+            },
+            {
+              "id": "chapter-06-rule-22",
+              "text": "La virgule sert à détacher une apostrophe (mots servant à interpeller des personnes ou des choses personnifiées).",
+              "exceptions": [],
+              "source": { "page": 5 }
+            },
+            {
+              "id": "chapter-06-rule-23",
+              "text": "La virgule sert à juxtaposer des sujets, des prédicats, des compléments du verbe (directs ou indirects), des attributs du sujet, des compléments du nom, des compléments de phrase, des phrases et des phrases subordonnées.",
+              "exceptions": [],
+              "source": { "page": 5 }
+            },
+            {
+              "id": "chapter-06-rule-24",
+              "text": "La virgule sert à coordonner des phrases : on met généralement une virgule devant les coordonnants (car, mais, donc, or, puis, après, alors, ensuite) lorsqu'ils coordonnent deux phrases.",
+              "exceptions": [],
+              "source": { "page": 5 }
+            },
+            {
+              "id": "chapter-06-rule-25",
+              "text": "La virgule sert à coordonner des phrases subordonnées : on met généralement une virgule devant les coordonnants lorsqu'ils coordonnent deux phrases subordonnées.",
+              "exceptions": [],
+              "source": { "page": 5 }
+            },
+            {
+              "id": "chapter-06-rule-26",
+              "text": "La virgule sert à coordonner des groupes : on met une virgule pour séparer des groupes joints par un coordonnant à sens explicatif (à savoir, c'est-à-dire, soit, voire).",
+              "exceptions": [],
+              "source": { "page": 5 }
+            },
+            {
+              "id": "chapter-06-rule-27",
+              "text": "L'expression « et ce » est toujours précédée d'une virgule et peut aussi être suivie d'une virgule.",
+              "exceptions": [],
+              "source": { "page": 7 }
+            },
+            {
+              "id": "chapter-06-rule-28",
+              "text": "On place une virgule devant « etc. ».",
+              "exceptions": [],
+              "source": { "page": 7 }
+            }
+          ],
+          "steps": [
+            { "id": "chapter-06-step-01", "text": "Repère le groupe de mots que la virgule encadre." },
+            { "id": "chapter-06-step-02", "text": "Détermine sa fonction : complément, groupe mis en évidence, incise, apostrophe, élément d'une juxtaposition, ou terme coordonné." },
+            { "id": "chapter-06-step-03", "text": "Place la virgule avant et après ce groupe s'il est encadré, ou seulement avant s'il est en tête de phrase." }
+          ],
+          "examples": [
+            {
+              "id": "chapter-06-example-21",
+              "text": "Tous les jours, j'irai la voir à sa résidence. / J'irai la voir, tous les jours, à sa résidence.",
+              "highlight": [],
+              "explanation": "Complément de phrase détaché, en début de phrase ou au centre de la phrase.",
+              "source": { "page": 5, "section": "6.2", "kind": "source" }
+            },
+            {
+              "id": "chapter-06-example-22",
+              "text": "Madame Roy, la présidente, est en voyage d'affaires.",
+              "highlight": [],
+              "explanation": "Complément du nom (groupe nominal) détaché après le nom.",
+              "source": { "page": 5, "section": "6.2", "kind": "source" }
+            },
+            {
+              "id": "chapter-06-example-23",
+              "text": "Maigre et élancé, il dominait la foule.",
+              "highlight": [],
+              "explanation": "Complément du pronom (groupe adjectival) détaché en début de phrase.",
+              "source": { "page": 5, "section": "6.2", "kind": "source" }
+            },
+            {
+              "id": "chapter-06-example-24",
+              "text": "Tout d'abord, il faut revenir sur le conflit. / Nous ne pouvons, par conséquent, répondre à votre demande.",
+              "highlight": [],
+              "explanation": "Marqueur de relation ou organisateur textuel détaché.",
+              "source": { "page": 5, "section": "6.2", "kind": "source" }
+            },
+            {
+              "id": "chapter-06-example-25",
+              "text": "Moi, j'ai bien aimé ce film. / Ce qu'il ignorait, c'est que son amie avait décidé de lui faire une surprise.",
+              "highlight": [],
+              "explanation": "Groupe de mots mis en évidence dans une phrase emphatique.",
+              "source": { "page": 5, "section": "6.2", "kind": "source" }
+            },
+            {
+              "id": "chapter-06-example-26",
+              "text": "« Je n'irai pas, murmure Léa, sur un ton suppliant. » / Il aura eu, je le crains, des ennuis à la douane.",
+              "highlight": [],
+              "explanation": "Phrase incise (entre guillemets) et phrase incidente (entre deux virgules).",
+              "source": { "page": 5, "section": "6.2", "kind": "source" }
+            },
+            {
+              "id": "chapter-06-example-27",
+              "text": "Chers amis, vous comprenez la gravité de ma situation. / Veuillez agréer, Monsieur, mes salutations.",
+              "highlight": [],
+              "explanation": "Apostrophe : le vocatif est détaché par une virgule.",
+              "source": { "page": 5, "section": "6.2", "kind": "source" }
+            },
+            {
+              "id": "chapter-06-example-28",
+              "text": "Les femmes, les hommes vivent et meurent heureux.",
+              "highlight": [],
+              "explanation": "Juxtaposition de sujets.",
+              "source": { "page": 5, "section": "6.2", "kind": "source" }
+            },
+            {
+              "id": "chapter-06-example-29",
+              "text": "Ses enfants arrivent de l'école, s'installent dans le salon et mangent une collation.",
+              "highlight": [],
+              "explanation": "Juxtaposition de prédicats.",
+              "source": { "page": 5, "section": "6.2", "kind": "source" }
+            },
+            {
+              "id": "chapter-06-example-30",
+              "text": "Elle a parlé à Jean, à Marie, à Pierre.",
+              "highlight": [],
+              "explanation": "Juxtaposition de compléments du verbe.",
+              "source": { "page": 5, "section": "6.2", "kind": "source" }
+            },
+            {
+              "id": "chapter-06-example-31",
+              "text": "Londres est une ville splendide, vivante, sécuritaire.",
+              "highlight": [],
+              "explanation": "Juxtaposition de compléments du nom.",
+              "source": { "page": 5, "section": "6.2", "kind": "source" }
+            },
+            {
+              "id": "chapter-06-example-32",
+              "text": "Elle rit, elle saute, elle crie, elle déborde de joie.",
+              "highlight": [],
+              "explanation": "Juxtaposition de phrases.",
+              "source": { "page": 5, "section": "6.2", "kind": "source" }
+            },
+            {
+              "id": "chapter-06-example-33",
+              "text": "Je suis contente, car il a enfin réussi l'examen.",
+              "highlight": [],
+              "explanation": "Coordination de deux phrases : la virgule précède le coordonnant « car ».",
+              "source": { "page": 5, "section": "6.2", "kind": "source" }
+            },
+            {
+              "id": "chapter-06-example-34",
+              "text": "Je ne pense pas qu'il l'ait fait exprès, mais qu'il a simplement oublié.",
+              "highlight": [],
+              "explanation": "Coordination de deux phrases subordonnées : la virgule précède le coordonnant « mais ».",
+              "source": { "page": 5, "section": "6.2", "kind": "source" }
+            },
+            {
+              "id": "chapter-06-example-35",
+              "text": "Elle a obtenu la note de passage, c'est-à-dire 60%. / Cette dame parle les deux langues officielles de son pays, à savoir l'ourdou et l'anglais.",
+              "highlight": [],
+              "explanation": "Groupes joints par un coordonnant à sens explicatif : la virgule sépare les groupes.",
+              "source": { "page": 5, "section": "6.2", "kind": "source" }
+            },
+            {
+              "id": "chapter-06-example-36",
+              "text": "Il faut trouver des solutions à la pénurie de logements, et ce, dans les plus brefs délais.",
+              "highlight": [],
+              "explanation": "L'expression « et ce » est toujours précédée d'une virgule; elle peut aussi être suivie d'une virgule.",
+              "source": { "page": 7, "section": "6.2", "kind": "source" }
+            }
+          ],
+          "exceptions": [],
+          "commonMistakes": [],
+          "takeaway": "Trois familles d'emplois pour la virgule : détacher, juxtaposer, coordonner. Identifie la famille avant de placer la virgule.",
+          "sourceReferences": [{ "page": 5, "section": "6.2" }, { "page": 7, "section": "6.2" }]
+        }
+      ],
+      "summary": [
+        "Sept signes s'emploient à l'intérieur de la phrase graphique ; le chapitre en traite quatre.",
+        "La virgule détache, juxtapose ou coordonne.",
+        "Devant un coordonnant, la virgule est généralement mise : « Je suis contente, car il a réussi. »",
+        "« et ce » est toujours précédé d'une virgule ; on met une virgule devant « etc. »."
+      ],
+      "sourceReferences": [{ "page": 5, "section": "6.2" }, { "page": 7, "section": "6.2" }]
+    },
+    {
+      "id": "chapter-06-section-03",
+      "title": "Le deux-points et le point-virgule",
+      "order": 3,
+      "introduction": "Le deux-points et le point-virgule sont deux signes de niveau « phrase » : ils séparent deux propositions tout en maintenant le lien entre elles. Le premier annonce, le second relie.",
+      "concepts": [
+        {
+          "id": "chapter-06-concept-06",
+          "title": "Les rôles du deux-points",
+          "topicIds": ["deux-points"],
+          "explanation": "Le deux-points peut annoncer une énumération, introduire une citation ou un discours direct, ou annoncer une explication, une cause, une conséquence, une conclusion ou une synthèse. Dans tous les cas, il ouvre une seconde proposition qui précise, complète ou explique la première.",
+          "definition": "Le deux-points peut annoncer une énumération, introduire une citation ou un discours direct, ou annoncer une explication, une cause, une conséquence, une conclusion ou une synthèse.",
+          "rules": [
+            {
+              "id": "chapter-06-rule-29",
+              "text": "Le deux-points peut annoncer une énumération.",
+              "exceptions": [],
+              "source": { "page": 9 }
+            },
+            {
+              "id": "chapter-06-rule-30",
+              "text": "Le deux-points peut introduire une citation.",
+              "exceptions": [],
+              "source": { "page": 9 }
+            },
+            {
+              "id": "chapter-06-rule-31",
+              "text": "Le deux-points peut introduire un discours direct.",
+              "exceptions": [],
+              "source": { "page": 9 }
+            },
+            {
+              "id": "chapter-06-rule-32",
+              "text": "Le deux-points peut annoncer une explication, une cause, une conséquence, une conclusion ou une synthèse.",
+              "exceptions": [],
+              "source": { "page": 9 }
+            }
+          ],
+          "steps": [],
+          "examples": [
+            {
+              "id": "chapter-06-example-37",
+              "text": "On pouvait voir trois planètes : Vénus, Mars et Mercure.",
+              "highlight": [],
+              "explanation": "Le deux-points annonce l'énumération.",
+              "source": { "page": 9, "section": "6.3", "kind": "source" }
+            },
+            {
+              "id": "chapter-06-example-38",
+              "text": "Roland Barthes a écrit : « La littérature ne permet pas de marcher, mais elle permet de respirer. »",
+              "highlight": [],
+              "explanation": "Le deux-point introduit une citation.",
+              "source": { "page": 9, "section": "6.3", "kind": "source" }
+            },
+            {
+              "id": "chapter-06-example-39",
+              "text": "Mon conseiller financier m'a dit : « Madame, tous vos problèmes d'argent, je m'en occupe personnellement. »",
+              "highlight": [],
+              "explanation": "Le deux-point introduit un discours direct.",
+              "source": { "page": 9, "section": "6.3", "kind": "source" }
+            },
+            {
+              "id": "chapter-06-example-40",
+              "text": "Elle a quitté son mari : il était insupportable.",
+              "highlight": [],
+              "explanation": "Le deux-point annonce la cause.",
+              "source": { "page": 9, "section": "6.3", "kind": "source" }
+            },
+            {
+              "id": "chapter-06-example-41",
+              "text": "Félix lui a dit ses quatre vérités : il a été congédié.",
+              "highlight": [],
+              "explanation": "Le deux-point annonce la conséquence.",
+              "source": { "page": 9, "section": "6.3", "kind": "source" }
+            },
+            {
+              "id": "chapter-06-example-42",
+              "text": "Il arrivait en retard, parlait contre ses collègues et bâclait son travail : il a perdu son emploi.",
+              "highlight": [],
+              "explanation": "Le deux-point annonce la conclusion.",
+              "source": { "page": 9, "section": "6.3", "kind": "source" }
+            },
+            {
+              "id": "chapter-06-example-43",
+              "text": "Il résuma ce qu'il venait d'apprendre : peu de choses.",
+              "highlight": [],
+              "explanation": "Le deux-point annonce la synthèse.",
+              "source": { "page": 9, "section": "6.3", "kind": "source" }
+            }
+          ],
+          "exceptions": [],
+          "commonMistakes": [],
+          "takeaway": "Le deux-point ouvre une proposition qui précise, explique ou résume la précédente : demande-toi laquelle de ces tâches fait la seconde proposition.",
+          "sourceReferences": [{ "page": 9, "section": "6.3" }]
+        },
+        {
+          "id": "chapter-06-concept-07",
+          "title": "Les rôles du point-virgule",
+          "topicIds": ["point-virgule"],
+          "explanation": "Le point-virgule sépare deux propositions plus fortement que la virgule, mais moins que le point. Il relie des phrases étroitement liées par le sens, ou sépare les éléments d'une énumération disposée sous forme de liste.",
+          "definition": "Le point-virgule sépare des phrases étroitement liées par le sens, ou les différents éléments d'une énumération disposés sous forme de liste.",
+          "rules": [
+            {
+              "id": "chapter-06-rule-33",
+              "text": "Le point-virgule sépare des phrases étroitement liées par le sens.",
+              "exceptions": [],
+              "source": { "page": 9 }
+            },
+            {
+              "id": "chapter-06-rule-34",
+              "text": "Le point-virgule sépare les différents éléments d'une énumération disposés sous forme de liste.",
+              "exceptions": [],
+              "source": { "page": 9 }
+            }
+          ],
+          "steps": [],
+          "examples": [
+            {
+              "id": "chapter-06-example-44",
+              "text": "Un seul plan de cinéma ne dit pas grand-chose du film ; au montage, il est raccordé à d'autres plans et il prend alors tout son sens.",
+              "highlight": [],
+              "explanation": "Les deux phrases sont étroitement liées par le sens : le point-virgule les relie sans les opposer.",
+              "source": { "page": 9, "section": "6.3", "kind": "source" }
+            },
+            {
+              "id": "chapter-06-example-45",
+              "text": "Pour vous présenter à l'atelier du peintre Chamberland, vous devez avoir en main le matériel suivant : - des pinceaux ; - de la peinture à l'huile ; - des toiles ; - du diluant ; - un sarrau.",
+              "highlight": [],
+              "explanation": "Énumération disposée sous forme de liste : le deux-point annonce la liste, le point-virgule sépare ses éléments.",
+              "source": { "page": 9, "section": "6.3", "kind": "source" }
+            }
+          ],
+          "exceptions": [],
+          "commonMistakes": [],
+          "takeaway": "Point-virgule = lien étroit entre deux propositions, ou séparation des éléments d'une liste.",
+          "sourceReferences": [{ "page": 9, "section": "6.3" }]
+        }
+      ],
+      "summary": [
+        "Le deux-point annonce : énumération, citation, discours direct, explication, cause, conséquence, conclusion, synthèse.",
+        "Le point-virgule relie des phrases étroitement liées par le sens.",
+        "Le point-virgule sépare aussi les éléments d'une énumération disposée en liste."
+      ],
+      "sourceReferences": [{ "page": 9, "section": "6.3" }]
+    },
+    {
+      "id": "chapter-06-section-04",
+      "title": "Les guillemets",
+      "order": 4,
+      "introduction": "Les guillemets encadrent les paroles d'autrui et les mots que l'on signale. En français, ils se présentent sous la forme de petits chevrons doubles : c'est une distinction à ne jamais oublier.",
+      "concepts": [
+        {
+          "id": "chapter-06-concept-08",
+          "title": "Les rôles des guillemets",
+          "topicIds": ["guillemets"],
+          "explanation": "Les guillemets encadrent un discours rapporté direct, une citation courte, ou un mot ou une expression. Dans le discours rapporté direct, ils vont de pair avec un deux-point et un verbe de parole ; la ponctuation intérieure se place avant la guillemet fermante.",
+          "definition": "Les guillemets encadrent un discours rapporté direct, une citation courte, ou un mot ou une expression.",
+          "rules": [
+            {
+              "id": "chapter-06-rule-35",
+              "text": "Les guillemets encadrent un discours rapporté direct.",
+              "exceptions": [],
+              "source": { "page": 11 }
+            },
+            {
+              "id": "chapter-06-rule-36",
+              "text": "Les guillemets encadrent une citation courte.",
+              "exceptions": [],
+              "source": { "page": 11 }
+            },
+            {
+              "id": "chapter-06-rule-37",
+              "text": "Les guillemets encadrent un mot ou une expression.",
+              "exceptions": [],
+              "source": { "page": 11 }
+            }
+          ],
+          "steps": [],
+          "examples": [
+            {
+              "id": "chapter-06-example-46",
+              "text": "« Penses-tu terminer ton travail à temps? », lui demanda son enseignant.",
+              "highlight": [],
+              "explanation": "Discours rapporté direct : le point d'interrogation se place avant la guillemet fermante, suivie d'une virgule.",
+              "source": { "page": 11, "section": "6.4", "kind": "source" }
+            },
+            {
+              "id": "chapter-06-example-47",
+              "text": "Antoine de Saint-Exupéry a dit : « Fais de ta vie un rêve, et d'un rêve, une réalité. »",
+              "highlight": [],
+              "explanation": "Citation courte introduite par un deux-point.",
+              "source": { "page": 11, "section": "6.4", "kind": "source" }
+            },
+            {
+              "id": "chapter-06-example-48",
+              "text": "L'activité d'accueil était plutôt « cool ».",
+              "highlight": [],
+              "explanation": "Un mot ou une expression placé entre guillemets sert à le signaler.",
+              "source": { "page": 11, "section": "6.4", "kind": "source" }
+            }
+          ],
+          "exceptions": [],
+          "commonMistakes": [],
+          "takeaway": "Guillemets = mots d'autrui ou mot signalé; ils vont de pair avec le deux-point dans le discours rapporté.",
+          "sourceReferences": [{ "page": 11, "section": "6.4" }]
+        },
+        {
+          "id": "chapter-06-concept-09",
+          "title": "Guillemets français et guillemets anglais",
+          "topicIds": ["guillemets"],
+          "explanation": "En français, les guillemets se présentent sous la forme de petits chevrons doubles (« »). Les guillemets anglais prennent la forme d'une double apostrophe (“ ”) : ils ne sont utilisés qu'à l'intérieur d'une citation déjà placée entre guillemets français, afin de distinguer deux niveaux de citation.",
+          "definition": "En français, les guillemets sont de petits chevrons doubles (« ») ; les guillemets anglais (“ ”) ne servent qu'à l'intérieur d'une citation déjà placée entre guillemets français.",
+          "rules": [
+            {
+              "id": "chapter-06-rule-38",
+              "text": "Les guillemets se présentent en français sous la forme de petits chevrons doubles (« »).",
+              "exceptions": [],
+              "source": { "page": 11 }
+            },
+            {
+              "id": "chapter-06-rule-39",
+              "text": "Les guillemets anglais prennent la forme d'une double apostrophe (“ ”). Ils ne sont utilisés qu'à l'intérieur d'une citation déjà placée entre guillemets.",
+              "exceptions": [],
+              "source": { "page": 11 }
+            }
+          ],
+          "steps": [],
+          "examples": [
+            {
+              "id": "chapter-06-example-49",
+              "text": "Ce patron a dit à son employé : « Je veux que ton travail soit “sur la coche”. »",
+              "highlight": [],
+              "explanation": "Citation en français entre guillemets français; les guillemets anglais marquent le second niveau de citation.",
+              "source": { "page": 11, "section": "6.4", "kind": "source" }
+            }
+          ],
+          "exceptions": [],
+          "commonMistakes": [],
+          "takeaway": "Écris « » pour le français; n'emploie “ ” qu'à l'intérieur d'une citation déjà entre « ».",
+          "sourceReferences": [{ "page": 11, "section": "6.4" }]
+        }
+      ],
+      "summary": [
+        "Les guillemets encadrent un discours rapporté direct, une citation courte, ou un mot ou une expression.",
+        "En français, on écrit « » (petits chevrons doubles).",
+        "Les guillemets anglais “ ” ne servent qu'à l'intérieur d'une citation déjà entre guillemets français."
+      ],
+      "sourceReferences": [{ "page": 11, "section": "6.4" }]
+    }
+  ],
+  "reviewNotes": [
+    {
+      "id": "chapter-06-review-01",
+      "description": "Le corrigé de l'exercice 2 comporte 43 réponses pour 44 énononcés : les réponses des énononcés 17 (« Une sortie au grand air lui ferait le plus grand bien se disait-elle ») et 18 (« À bout d'arguments elle haussa les épaules ») manquent, et la numérotation du corrigé est décalée par rapport à celle des énononcés à partir de là. Le corrigé est conservé tel quel dans le fichier d'extraction, sans reconstitution.",
+      "sourcePage": 8
+    },
+    {
+      "id": "chapter-06-review-02",
+      "description": "Les sections 6.1 à 6.4 couvrent les pages 1 à 11 du document source; les cinq exercices et leur corrigé (pages 4 à 17) sont conservés dans le fichier d'extraction.",
+      "sourcePage": 17
+    }
+  ]
+}

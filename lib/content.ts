@@ -81,7 +81,15 @@ export const chapters: Chapter[] = [
     title: "La ponctuation",
     description: "Donner à chaque signe son rôle grammatical.",
     color: "#1cb0f6",
-    lessons: [{ id: "ch06-intro", title: "Les signes essentiels", type: "lesson", durationMinutes: 8 }]
+    // Ids alignés sur les clés de complétion utilisées par la page de leçon
+    // (`${chapterId}:${sectionId}`) : une section terminée compte dans la
+    // progression du chapitre.
+    lessons: [
+      { id: "chapter-06:chapter-06-section-01", title: "La ponctuation dans une phrase graphique", type: "lesson", durationMinutes: 16 },
+      { id: "chapter-06:chapter-06-section-02", title: "La ponctuation dans une phrase syntaxique", type: "lesson", durationMinutes: 22 },
+      { id: "chapter-06:chapter-06-section-03", title: "Le deux-points et le point-virgule", type: "lesson", durationMinutes: 12 },
+      { id: "chapter-06:chapter-06-section-04", title: "Les guillemets", type: "lesson", durationMinutes: 8 }
+    ]
   },
   {
     id: "chapter-07",

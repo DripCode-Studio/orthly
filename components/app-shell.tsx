@@ -34,7 +34,7 @@ export function AppSidebar() {
   const pathname = usePathname();
 
   return (
-    <Sidebar collapsible="icon" className="w-[280px]">
+    <Sidebar collapsible="icon" className="w-[260px] md:w-[280px]">
       <SidebarHeader>
         <Link href="/dashboard" className="flex items-center gap-2 px-3 py-2">
           <span className="grid size-9 shrink-0 place-items-center rounded-[11px_11px_11px_3px] bg-orthly-learning font-heading text-sm font-black text-primary-foreground">
@@ -136,14 +136,14 @@ export function AppShell({ children }: { children: React.ReactNode }) {
     <SidebarProvider>
       <AppSidebar />
       <SidebarInset>
-        <header className="sticky top-0 z-10 flex h-14 items-center gap-2 border-b bg-background/80 px-4 backdrop-blur">
-          <SidebarTrigger />
+        <header className="sticky top-0 z-10 flex h-14 items-center gap-2 border-b bg-background/80 px-4 pl-2 md:pl-4 backdrop-blur">
+          <SidebarTrigger className="ml-0" />
           <Separator orientation="vertical" className="h-5" />
           <Link href="/dashboard" className="font-heading text-sm font-extrabold">
             Orthly
           </Link>
         </header>
-        <div className={cn("flex-1 p-4 md:p-6")}>{children}</div>
+        <div className={cn("flex-1 p-4 md:p-6 lg:p-8")}>{children}</div>
       </SidebarInset>
     </SidebarProvider>
   );

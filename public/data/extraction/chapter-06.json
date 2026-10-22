@@ -1,0 +1,422 @@
+{
+  "schemaVersion": "1.0.0",
+  "document": {
+    "id": "uqar-french-course",
+    "title": "Chapitre 6 - La ponctuation",
+    "language": "fr-CA",
+    "sourceFile": "Chapitre 6 - La ponctuation.pdf"
+  },
+  "chapter": {
+    "id": "chapter-06",
+    "number": 6,
+    "title": "La ponctuation",
+    "summary": null,
+    "learningObjectives": [],
+    "sections": [
+      {
+        "id": "chapter-06-section-01",
+        "number": "6.1",
+        "title": "LA PONCTUATION DANS UNE PHRASE GRAPHIQUE",
+        "sourcePages": {
+          "start": 1,
+          "end": 4
+        },
+        "blocks": [
+          {
+            "id": "ch06-s01-b01",
+            "type": "paragraph",
+            "content": "La ponctuation est indispensable à la clarté d’un texte: elle permet la précision du message. Comparez les couples de phrases suivants et observez comment les signes de ponctuation suffisent à changer le sens d’un même énoncé:\nLe professeur dit: « Christian est un sage! » « Le professeur, dit Christian, est un sage. »\nEn deux heures, seulement deux cents billets ont été vendus. (Peu de billets en beaucoup de temps.)\nEn deux heures seulement, deux cents billets ont été vendus. (Beaucoup de billets en peu de temps.)\nLes policiers, qui étaient insatisfaits, ont démissionné. (Tous les policiers ont démissionné.)\nLes policiers qui étaient insatisfaits ont démissionné. (Parmi les policiers, ceux qui étaient insatisfaits ont démissionné.)\nVous viendrez! (Ordre ou étonnement)\nVous viendrez? (Invitation ou question)",
+            "sourcePage": 1
+          },
+          {
+            "id": "ch06-s01-b02",
+            "type": "paragraph",
+            "content": "Les signes de ponctuation servent à organiser, à l’intérieur de la phrase graphique, les mots et les groupes de mots. L’absence ou la présence d’un signe de ponctuation peut modifier radicalement le sens d’un énoncé. Dans ce qui suit, nous verrons que quelques signes de ponctuation: le point, le point d’interrogation, le point d’exclamation, les points de suspension, la virgule, le point-virgule et le deux-points.",
+            "sourcePage": 1
+          },
+          {
+            "id": "ch06-s01-b03",
+            "type": "table",
+            "content": {
+              "headers": ["Signe de ponctuation", "Rôles", "Exemples"],
+              "rows": [
+                ["Le point", "Le point sert surtout à marquer la fin d’une phrase de type déclaratif ou parfois de type impératif.", "Les soldats avançaient même si la peur les tenaillait. Ils savaient ce qui les attendait de l’autre côté du mur. Ils repensaient à leurs frères disparus et à toute l’horreur qu’ils avaient vue. La guerre ne devrait pas exister. (phrases déclaratives)\nApporte ton cahier. (phrase impérative)"],
+                ["Le point d’interrogation", "Le point d’interrogation s'utilise à la fin d’une phrase interrogative directe.", "Est-ce que tu souffres?\nAime-t-il sa nouvelle maison?\nPourquoi refuserions-nous une telle occasion?"],
+                ["Le point d’exclamation", "Le point d’exclamation sert à marquer différentes émotions: la surprise, l’étonnement, la peur, la colère, etc. Il se place à la fin d’une phrase exclamative contenant le plus souvent un mot exclamatif tel que comme, quel, que, etc.", "Que nous sommes chanceux d’être ici!\nComme tu portes bien cette robe!\nCes chiots sont magnifiques!\nQuelle belle journée!"],
+                ["Le point d’exclamation", "On l’emploie après une interjection.", "Ah! Oh! Zut! Chut! Ciel! Hélas! Bon sang!\nEh bien! Très bien! Tiens! Mon Dieu! Ouf!\nMinute! Non! etc."],
+                ["Le point d’exclamation", "On l’emploie après une apostrophe, un cri, une injure, etc.", "François! Les enfants! Espèce d’impoli!"],
+                ["Les points de suspension", "Les points de suspension servent à marquer la possibilité de poursuivre une énumération.", "Il a tout perdu: son argent, ses clefs, son passeport..."],
+                ["Les points de suspension", "Ils marquent un sous-entendu.", "Je sens que tu me caches quelque chose..."],
+                ["Les points de suspension", "Ils marquent un arrêt volontaire dans la phrase.", "Il m’a laissée pour toujours, il est parti avec...\nJe voudrais te raconter le jour où... Je ne peux pas."],
+                ["Les points de suspension", "Ils indiquent une réflexion ou une hésitation.", "Pourquoi nous marier? Mais... pour être plus heureux!\nElle séjournait dans une grande capitale... à Londres."],
+                ["Les points de suspension", "À l’intérieur de crochets, les points de suspension indiquent qu’on a coupé un passage dans une citation.", "La Politique relative à la maîtrise du français mentionne: « Si la personne étudiante n’a pas tenté à deux reprises de réussir le cours d’appoint durant le délai de deux trimestres suivant le test de français, un trimestre supplémentaire pourra lui être accordé[...]. »"]
+              ]
+            },
+            "sourcePage": 2
+          },
+          {
+            "id": "ch06-s01-b04",
+            "type": "warning",
+            "content": "Attention! Il ne faut pas mettre de point d’interrogation après une interrogation indirecte.\nExemples: Dites-moi quelle heure il est.\nJe me demande pourquoi il ne vient pas.\nJ’ignore comment je dois faire ce travail.\nJe voudrais savoir où nous allons.",
+            "sourcePage": 2
+          },
+          {
+            "id": "ch06-s01-b05",
+            "type": "warning",
+            "content": "Attention! La locution latine et caetera, qu’on a l’habitude d’abréger par etc., signifie « et les autres choses ». L’emploi des points de suspension après etc. crée une redondance. On ne met donc pas de points de suspension après etc.",
+            "sourcePage": 4
+          }
+        ]
+      },
+      {
+        "id": "chapter-06-section-02",
+        "number": "6.2",
+        "title": "LA PONCTUATION DANS UNE PHRASE SYNTAXIQUE",
+        "sourcePages": {
+          "start": 5,
+          "end": 9
+        },
+        "blocks": [
+          {
+            "id": "ch06-s02-b01",
+            "type": "paragraph",
+            "content": "Sept signes de ponctuation sont utilisés à l’intérieur de la phrase graphique: la virgule, le point-virgule, le deux-points, les guillemets, les parenthèses, les crochets et les tirets. Dans ce cours, nous voyons les quatre premiers.",
+            "sourcePage": 5
+          },
+          {
+            "id": "ch06-s02-b02",
+            "type": "table",
+            "content": {
+              "headers": ["Rôles de la virgule", "Exemples"],
+              "rows": [
+                ["La virgule sert à détacher un complément de phrase placé au début ou au centre de la phrase", "Tous les jours, j’irai la voir à sa résidence.\nJ’irai la voir, tous les jours, à sa résidence."],
+                ["La virgule sert à détacher un complément du nom ou du pronom placé immédiatement après le nom ou le pronom, devant le nom ou le pronom, au début de la phrase ou à la fin de la phrase", "Madame Roy, la présidente, est en voyage d’affaires. (GN)\nMaigre et élancé, il dominait la foule. (GAdj)\nJe l’ai revu dans son nouveau poste, heureux et souriant. (GAdj)\nJean, qui avait déjà investi en imagination les profits de la vente, eut du mal à affronter le retour à la réalité. (subordonnée relative explicative)"],
+                ["La virgule sert à détacher un marqueur de relation ou un organisateur textuel placé en début de phrase ou dans le corps de la phrase.", "Tout d’abord, il faut revenir sur le conflit.\nNous ne pouvons, par conséquent, répondre à votre demande."],
+                ["La virgule sert à détacher un groupe de mots mis en évidence dans une phrase emphatique", "Moi, j’ai bien aimé ce film.\nCe qu’il ignorait, c’est que son amie avait décidé de lui faire une surprise."],
+                ["La virgule sert à détacher une phrase incise et une phrase incidente", "« Je n’irai pas, murmure Léa, sur un ton suppliant. » (phrase incise)\nIl aura eu, je le crains, des ennuis à la douane. (phrase incidente)"],
+                ["La virgule sert à détacher une apostrophe (mots servant à interpeller des personnes ou des choses personnifiées)", "Chers amis, vous comprenez la gravité de ma situation.\nVeuillez agréer, Monsieur, mes salutations."],
+                ["La virgule sert à juxtaposer des sujets", "Les femmes, les hommes vivent et meurent heureux."],
+                ["La virgule sert à juxtaposer des prédicats", "Ses enfants arrivent de l’école, s’installent dans le salon et mangent une collation."],
+                ["La virgule sert à juxtaposer des compléments du verbe (directs ou indirects)", "On apercevait dans la cuisine des poules, des canards, des lapins et même une chèvre.\nElle a parlé à Jean, à Marie, à Pierre."],
+                ["La virgule sert à juxtaposer des attributs du sujet", "Cet adolescent paraît enthousiaste, dynamique, enjoué quand il effectue son travail."],
+                ["La virgule sert à juxtaposer des compléments du nom", "Londres est une ville splendide, vivante, sécuritaire."],
+                ["La virgule sert à juxtaposer des compléments de phrase", "Depuis qu’elle habite en ville, chaque jour, Martine prend l’autobus."],
+                ["La virgule sert à juxtaposer des phrases", "Elle rit, elle saute, elle crie, elle déborde de joie."],
+                ["La virgule sert à juxtaposer des phrases subordonnées", "Il faut qu’il fasse ses devoirs, qu’il range sa chambre et qu’il prépare son repas."],
+                ["La virgule sert à coordonner des phrases. On met généralement une virgule devant les coordonnants (car, mais, donc, or, puis, après, alors, ensuite, etc.) lorsqu’ils coordonnent deux phrases.", "Je suis contente, car il a enfin réussi l’examen.\nJe me suis levée en retard, donc je n’ai pas pu me rendre au travail à pied."],
+                ["La virgule sert à coordonner des phrases subordonnées. On met généralement une virgule devant les coordonnants (car, mais, donc, or, puis, après, alors, ensuite, etc.) lorsqu’ils coordonnent deux phrases subordonnées.", "Je ne pense pas qu’il l’ait fait exprès, mais qu’il a simplement oublié."],
+                ["La virgule sert à coordonner des groupes. On met une virgule pour séparer des groupes joints par un coordonnant à sens explicatif (à savoir, c’est-à-dire, soit, voire, etc.).", "Elle a obtenu la note de passage, c’est-à-dire 60%.\nCette dame parle les deux langues officielles de son pays, à savoir l’ourdou et l’anglais."]
+              ]
+            },
+            "sourcePage": 5
+          },
+          {
+            "id": "ch06-s02-b03",
+            "type": "note",
+            "content": "Attention! L’expression et ce est toujours précédée d’une virgule et peut aussi être suivie d’une virgule.\nex.: Il faut trouver des solutions à la pénurie de logements, et ce, dans les plus brefs délais.\nOn place une virgule devant etc.:\nex.: Revoyons les livres, les revues, les articles, etc.",
+            "sourcePage": 7
+          }
+        ]
+      },
+      {
+        "id": "chapter-06-section-03",
+        "number": "6.3",
+        "title": "LE DEUX-POINTS ET LE POINT-VIRGULE",
+        "sourcePages": {
+          "start": 9,
+          "end": 10
+        },
+        "blocks": [
+          {
+            "id": "ch06-s03-b01",
+            "type": "table",
+            "content": {
+              "headers": ["Signe de ponctuation", "Rôles", "Exemples"],
+              "rows": [
+                ["Le deux-points", "Le deux-points peut annoncer une énumération.", "On pouvait voir trois planètes: Vénus, Mars et Mercure."],
+                ["Le deux-points", "Le deux-points peut introduire une citation.", "Roland Barthes a écrit: « La littérature ne permet pas de marcher, mais elle permet de respirer. »"],
+                ["Le deux-points", "Le deux-points peut introduire un discours direct.", "Mon conseiller financier m’a dit: « Madame, tous vos problèmes d’argent, je m’en occupe personnellement. »"],
+                ["Le deux-points", "Le deux-points peut annoncer une explication, une cause, une conséquence, une conclusion, une synthèse.", "Elle a quitté son mari: il était insupportable. (cause)\nFélix lui a dit ses quatre vérités: il a été congédié. (conséquence)\nIl arrivait en retard, parlait contre ses collègues et bâclait son travail: il a perdu son emploi. (conclusion)\nIl résuma ce qu’il venait d’apprendre: peu de choses. (synthèse)"],
+                ["Le point-virgule", "Le point-virgule sépare des phrases étroitement liées par le sens.", "Un seul plan de cinéma ne dit pas grand-chose du film; au montage, il est raccordé à d’autres plans et il prend alors tout son sens."],
+                ["Le point-virgule", "Le point-virgule sépare les différents éléments d’une énumération disposés sous forme de liste.", "Pour vous présenter à l’atelier du peintre Chamberland, vous devez avoir en main le matériel suivant:\n- des pinceaux;\n- de la peinture à l’huile;\n- des toiles;\n- du diluant;\n- un sarrau."]
+              ]
+            },
+            "sourcePage": 9
+          }
+        ]
+      },
+      {
+        "id": "chapter-06-section-04",
+        "number": "6.4",
+        "title": "LES GUILLEMETS",
+        "sourcePages": {
+          "start": 11,
+          "end": 11
+        },
+        "blocks": [
+          {
+            "id": "ch06-s04-b01",
+            "type": "table",
+            "content": {
+              "headers": ["Rôles", "Exemples"],
+              "rows": [
+                ["Encadrer un discours rapporté direct", "« Penses-tu terminer ton travail à temps? », lui demanda son enseignant."],
+                ["Encadrer une citation courte", "Antoine de Saint-Exupéry a dit: « Fais de ta vie un rêve, et d’un rêve, une réalité. »"],
+                ["Encadrer un mot ou une expression", "L’activité d’accueil était plutôt « cool »."]
+              ]
+            },
+            "sourcePage": 11
+          },
+          {
+            "id": "ch06-s04-b02",
+            "type": "warning",
+            "content": "Attention!\nLes guillemets se présentent en français sous la forme de petits chevrons doubles (« »).\nLes guillemets anglais prennent la forme d’une double apostrophe (“ ”). Ils ne sont utilisés qu’à l’intérieur d’une citation déjà placée entre guillemets.\nex.: Ce patron a dit à son employé: « Je veux que ton travail soit “sur la coche ”. »",
+            "sourcePage": 11
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "id": "chapter-06-exercise-01",
+        "title": "Exercice 1",
+        "instructions": "Placez le bon point dans les phrases suivantes. Il faut parfois ajouter plus d’un signe de ponctuation.",
+        "items": [
+          { "id": "ch06-ex01-it01", "prompt": "1. Quelle belle journée s'exclama son amie en ouvrant la fenêtre", "sourcePage": 4 },
+          { "id": "ch06-ex01-it02", "prompt": "2. On ne saura jamais combien d'hommes ont péri dans cette guerre fratricide", "sourcePage": 4 },
+          { "id": "ch06-ex01-it03", "prompt": "3. Oh La belle surprise que voilà", "sourcePage": 4 },
+          { "id": "ch06-ex01-it04", "prompt": "4. Quelle heure est-il", "sourcePage": 4 },
+          { "id": "ch06-ex01-it05", "prompt": "5. Je me demande quel temps il fait à Vancouver", "sourcePage": 4 },
+          { "id": "ch06-ex01-it06", "prompt": "6. Voulez-vous qu'on vous réveille me demanda l'aubergiste", "sourcePage": 4 },
+          { "id": "ch06-ex01-it07", "prompt": "7. Comment sera le monde dans cent ans Personne ne peut répondre à une telle question", "sourcePage": 4 }
+        ],
+        "answerKey": [
+          "1. « Quelle belle journée! » s'exclama son amie en ouvrant la fenêtre.",
+          "2. On ne saura jamais combien d'hommes ont péri dans cette guerre fratricide.",
+          "3. Oh! La belle surprise que voilà!",
+          "4. Quelle heure est-il?",
+          "5. Je me demande quel temps il fait à Vancouver.",
+          "6. Voulez-vous qu'on vous réveille? me demanda l'aubergiste.",
+          "7. Comment sera le monde dans cent ans? Personne ne peut répondre à une telle question."
+        ],
+        "sourcePages": { "start": 4, "end": 4 }
+      },
+      {
+        "id": "chapter-06-exercise-02",
+        "title": "Exercice 2",
+        "instructions": "Placez les virgules aux bons endroits et justifiez votre choix.",
+        "items": [
+          { "id": "ch06-ex02-it01", "prompt": "1. La trille emblème floral de l'Ontario pousse dans les sous-bois.", "sourcePage": 7 },
+          { "id": "ch06-ex02-it02", "prompt": "2. Pierre veux-tu remettre cette lettre à Diane?", "sourcePage": 7 },
+          { "id": "ch06-ex02-it03", "prompt": "3. Elle vient de finir un roman de Marguerite Yourcenar son autrice préférée.", "sourcePage": 7 },
+          { "id": "ch06-ex02-it04", "prompt": "4. Dites-moi donc chère voisine si vous avez gagné à la loterie.", "sourcePage": 7 },
+          { "id": "ch06-ex02-it05", "prompt": "5. Annie mon enfant unique et Patrick se fréquentaient depuis deux ans.", "sourcePage": 7 },
+          { "id": "ch06-ex02-it06", "prompt": "6. Catherine la mère d'Aurélie continuait de l'excuser.", "sourcePage": 7 },
+          { "id": "ch06-ex02-it07", "prompt": "7. Écoute Pierre tu sais que nous te considérons comme un ami.", "sourcePage": 7 },
+          { "id": "ch06-ex02-it08", "prompt": "8. Elle se levait la nuit disait-on et marchait dans la maison comme une automate.", "sourcePage": 7 },
+          { "id": "ch06-ex02-it09", "prompt": "9. Maman peux-tu t'imaginer ce que j'ai ressenti alors?", "sourcePage": 7 },
+          { "id": "ch06-ex02-it10", "prompt": "10. Une jeune femme la mère du poupon s'approcha du médecin.", "sourcePage": 8 },
+          { "id": "ch06-ex02-it11", "prompt": "11. Tu te rappelles Claude les héros de notre enfance?", "sourcePage": 8 },
+          { "id": "ch06-ex02-it12", "prompt": "12. Distrait Albert observait le jeu des enfants depuis un certain temps. C'était la seule distraction qu'offrait la salle de classe si l'on exceptait le professeur.", "sourcePage": 8 },
+          { "id": "ch06-ex02-it13", "prompt": "13. Madame Lepic une remplaçante sortit brusquement l'élève de sa rêverie.", "sourcePage": 8 },
+          { "id": "ch06-ex02-it14", "prompt": "14. Alyssa qui avait le nez dans ses devoirs depuis plusieurs heures commençait à avoir faim.", "sourcePage": 8 },
+          { "id": "ch06-ex02-it15", "prompt": "15. Derrière la maison on apercevait un magnifique verger.", "sourcePage": 8 },
+          { "id": "ch06-ex02-it16", "prompt": "16. Ce qu'il ignorait c'est que son amie avait décidé de lui faire une surprise.", "sourcePage": 8 },
+          { "id": "ch06-ex02-it17", "prompt": "17. Une sortie au grand air lui ferait le plus grand bien se disait-elle.", "sourcePage": 8 },
+          { "id": "ch06-ex02-it18", "prompt": "18. À bout d'arguments elle haussa les épaules.", "sourcePage": 8 },
+          { "id": "ch06-ex02-it19", "prompt": "19. Elle se prépara à partir dépitée devant sa mauvaise foi.", "sourcePage": 8 },
+          { "id": "ch06-ex02-it20", "prompt": "20. Le cheval qu'on dit la plus noble conquête de l'homme tient une place spéciale dans notre imaginaire.", "sourcePage": 8 },
+          { "id": "ch06-ex02-it21", "prompt": "21. Rome capitale de l'Italie est riche en monuments historiques.", "sourcePage": 8 },
+          { "id": "ch06-ex02-it22", "prompt": "22. Ils sont rentrés tard de leur expédition complètement fourbus.", "sourcePage": 8 },
+          { "id": "ch06-ex02-it23", "prompt": "23. Le jeune pilote pris de panique fit un bel effort pour éviter le drame.", "sourcePage": 8 },
+          { "id": "ch06-ex02-it24", "prompt": "24. Le garçon qui n'avait encore jamais vu un tel phénomène fut pris de panique.", "sourcePage": 8 },
+          { "id": "ch06-ex02-it25", "prompt": "25. Nous francophones d'Amérique nous savons combien il faut lutter pour obtenir la reconnaissance de nos droits.", "sourcePage": 8 },
+          { "id": "ch06-ex02-it26", "prompt": "26. À la fin de cette partie de hockey j'avais le sentiment d'avoir fait mon possible.", "sourcePage": 8 },
+          { "id": "ch06-ex02-it27", "prompt": "27. Son ami est rentré tard ivre comme d'habitude.", "sourcePage": 8 },
+          { "id": "ch06-ex02-it28", "prompt": "28. Quand on aime on essaie de se voir le plus souvent possible.", "sourcePage": 8 },
+          { "id": "ch06-ex02-it29", "prompt": "29. Plus une idée est belle plus la phrase est sonore. (Flaubert)", "sourcePage": 8 },
+          { "id": "ch06-ex02-it30", "prompt": "30. Si tout ici-bas était excellent il n'y aurait rien d'excellent. (Diderot)", "sourcePage": 8 },
+          { "id": "ch06-ex02-it31", "prompt": "31. Qui trop embrasse mal étreint.", "sourcePage": 8 },
+          { "id": "ch06-ex02-it32", "prompt": "32. Fatiguée par des mois de privation démoralisée par les récents bombardements la population de la ville assiégée aspirait à la paix.", "sourcePage": 8 },
+          { "id": "ch06-ex02-it33", "prompt": "33. Il y a peut-être quelque chose d'artificiel à faire une catégorie spéciale pour le comique de mots car la plupart des effets comiques que nous avons étudiés jusqu'ici se produisaient déjà par l'intermédiaire du langage. (Bergson)", "sourcePage": 9 },
+          { "id": "ch06-ex02-it34", "prompt": "34. Le bonheur c'est de marcher dans la nature à la rencontre de qui on aime.", "sourcePage": 9 },
+          { "id": "ch06-ex02-it35", "prompt": "35. Quand on est mort c'est pour toujours.", "sourcePage": 9 },
+          { "id": "ch06-ex02-it36", "prompt": "36. Il était arrivé à la dernière minute essoufflé d'avoir couru les cheveux en broussaille et la chemise boutonnée de travers mais plein d'enthousiasme pour l'expédition qui s'annonçait.", "sourcePage": 9 },
+          { "id": "ch06-ex02-it37", "prompt": "37. Pas de nouvelles bonnes nouvelles.", "sourcePage": 9 },
+          { "id": "ch06-ex02-it38", "prompt": "38. Petit à petit l'oiseau fait son nid.", "sourcePage": 9 },
+          { "id": "ch06-ex02-it39", "prompt": "39. Là mêlée à la foule Nadia avait tout vu.", "sourcePage": 9 },
+          { "id": "ch06-ex02-it40", "prompt": "40. Tout le temps qu'il ne consacrait pas aux malades il l'employait à écrire.", "sourcePage": 9 },
+          { "id": "ch06-ex02-it41", "prompt": "41. Par un sursaut de volonté reprenant courage il se précipita sur son adversaire.", "sourcePage": 9 },
+          { "id": "ch06-ex02-it42", "prompt": "42. Les jeunes se sont installés autour du feu et tandis que les vieux discutaient ils ont chanté.", "sourcePage": 9 },
+          { "id": "ch06-ex02-it43", "prompt": "43. Les chiens aboient la caravane passe.", "sourcePage": 9 },
+          { "id": "ch06-ex02-it44", "prompt": "44. Après une réussite aussi inattendue il méritait de faire la fête avec ses amis.", "sourcePage": 9 }
+        ],
+        "answerKey": [
+          "1. La trille, emblème floral de l'Ontario, pousse dans les sous-bois.",
+          "2. Pierre, veux-tu remettre cette lettre à Diane?",
+          "3. Elle vient de finir un roman de Marguerite Yourcenar, son autrice préférée.",
+          "4. Dites-moi donc, chère voisine, si vous avez gagné à la loterie.",
+          "5. Annie, mon enfant unique, et Patrick se fréquentaient depuis deux ans.",
+          "6. Catherine, la mère d'Aurélie, continuait de l'excuser.",
+          "7. Écoute, Pierre, tu sais que nous te considérons comme un ami.",
+          "8. Elle se levait la nuit, disait-on, et marchait dans la maison comme une automate.",
+          "9. Maman, peux-tu t'imaginer ce que j'ai ressenti alors?",
+          "10. Une jeune femme, la mère du poupon, s'approcha du médecin.",
+          "11. Tu te rappelles, Claude, les héros de notre enfance?",
+          "12. Distrait, Albert observait le jeu des enfants depuis un certain temps. C'était la seule distraction qu'offrait la salle de classe, si l'on exceptait le professeur.",
+          "13. Madame Lepic, une remplaçante, sortit brusquement l'élève de sa rêverie.",
+          "14. Alyssa, qui avait le nez dans ses devoirs depuis plusieurs heures, commençait à avoir faim.",
+          "15. Derrière la maison, on apercevait un magnifique verger.",
+          "16. Ce qu'il ignorait, c'est que son amie avait décidé de lui faire une surprise.",
+          "17. Une sortie au grand air lui ferait le plus grand bien, se disait-elle.",
+          "18. À bout d'arguments, elle haussa les épaules.",
+          "19. Le cheval, qu'on dit la plus noble conquête de l'homme, tient une place spéciale dans notre imaginaire.",
+          "20. Rome, capitale de l'Italie, est riche en monuments historiques.",
+          "21. Ils sont rentrés tard de leur expédition, complètement fourbus.",
+          "22. Le jeune pilote, pris de panique, fit un bel effort pour éviter le drame.",
+          "23. Le garçon, qui n'avait encore jamais vu un tel phénomène, fut pris de panique.",
+          "24. Nous, francophones d'Amérique, nous savons combien il faut lutter pour obtenir la reconnaissance de nos droits.",
+          "25. À la fin de cette partie de hockey, j'avais le sentiment d'avoir fait mon possible.",
+          "26. Son ami est rentré tard, ivre comme d'habitude.",
+          "27. Quand on aime, on essaie de se voir le plus souvent possible.",
+          "28. Plus une idée est belle, plus la phrase est sonore. (Flaubert)",
+          "29. Si tout ici-bas était excellent, il n'y aurait rien d'excellent. (Diderot)",
+          "30. Qui trop embrasse, mal étreint.",
+          "31. Fatiguée par des mois de privation, démoralisée par les récents bombardements, la population de la ville assiégée aspirait à la paix.",
+          "32. Il y a peut-être quelque chose d'artificiel à faire une catégorie spéciale pour le comique de mots, car la plupart des effets comiques que nous avons étudiés jusqu'ici se produisaient déjà par l'intermédiaire du langage. (Bergson)",
+          "33. Le bonheur, c'est de marcher dans la nature à la rencontre de qui on aime.",
+          "34. Quand on est mort, c'est pour toujours.",
+          "35. Il était arrivé à la dernière minute, essoufflé d'avoir couru, les cheveux en broussaille et la chemise boutonnée de travers, mais plein d'enthousiasme pour l'expédition qui s'annonçait.",
+          "36. Pas de nouvelles, bonnes nouvelles.",
+          "37. Petit à petit, l'oiseau fait son nid.",
+          "38. Là, mêlée à la foule, Nadia avait tout vu.",
+          "39. Tout le temps qu’il ne consacrait pas aux malades, il l'employait à écrire.",
+          "40. Par un sursaut de volonté, reprenant courage, il se précipita sur son adversaire.",
+          "41. Les jeunes se sont installés autour du feu et, tandis que les vieux discutaient, ils ont chanté.",
+          "42. Les chiens aboient, la caravane passe.",
+          "43. Après une réussite aussi inattendue, il méritait de faire la fête avec ses amis."
+        ],
+        "sourcePages": { "start": 7, "end": 9 }
+      },
+      {
+        "id": "chapter-06-exercise-03",
+        "title": "Exercice 3",
+        "instructions": "Placez un point-virgule ou un deux-points dans les phrases suivantes.",
+        "items": [
+          { "id": "ch06-ex03-it01", "prompt": "1. Il n'y avait que deux retardataires Jean et Louise.", "sourcePage": 10 },
+          { "id": "ch06-ex03-it02", "prompt": "2. Pour l'intégriste, le monde est l'objet d'une lutte entre deux forces toujours bien identifiables le Bien et le Mal.", "sourcePage": 10 },
+          { "id": "ch06-ex03-it03", "prompt": "3. Ceux qui gagnent à la loterie croient bénéficier d'une chance spéciale ceux qui perdent se disent qu'ils finiront bien par gagner.", "sourcePage": 10 },
+          { "id": "ch06-ex03-it04", "prompt": "4. Ils regardaient l'endroit qu'ils allaient quitter, ce coin de paradis où ils avaient passé des vacances merveilleuses la plage de sable blanc, les cocotiers, la barre de récifs.", "sourcePage": 10 }
+        ],
+        "answerKey": [
+          "1. Il n'y avait que deux retardataires: Jean et Louise.",
+          "2. Pour l'intégriste, le monde est l'objet d'une lutte entre deux forces toujours bien identifiables: le Bien et le Mal.",
+          "3. Ceux qui gagnent à la loterie croient bénéficier d'une chance spéciale; ceux qui perdent se disent qu'ils finiront bien par gagner.",
+          "4. Ils regardaient l'endroit qu'ils allaient quitter, ce coin de paradis où ils avaient passé des vacances merveilleuses: la plage de sable blanc, les cocotiers, la barre de récifs."
+        ],
+        "sourcePages": { "start": 10, "end": 10 }
+      },
+      {
+        "id": "chapter-06-exercise-04",
+        "title": "Exercice 4",
+        "instructions": "Ponctuez ce texte en vous servant de la virgule, du point-virgule et du deux-points.",
+        "items": [
+          {
+            "id": "ch06-ex04-it01",
+            "prompt": "Il existe des cultures où il n'y a pas de public lecteur cultures orales dans une partie du continent africain ou sud-américain cultures minoritaires en Europe et en Amérique par exemple. Il existe des cultures minoritaires florissantes d'autres au contraire opprimées et méprisées d'autres enfin en voie d'extinction. Il existe des micro-cultures comme c'est le cas de l'Islande ou du Québec où la littérature et l'institution littéraire s'épanouissent et où s'est développé un réel public lecteur. Les petites littératures vacillent donc entre une gloire un peu surfaite et le désespoir de n'arriver à engendrer que de l'indifférence.",
+            "sourcePage": 10
+          }
+        ],
+        "answerKey": [
+          "Il existe des cultures où il n'y a pas de public lecteur: cultures orales dans une partie du continent africain ou sud-américain, cultures minoritaires en Europe et en Amérique, par exemple. Il existe des cultures minoritaires florissantes; d'autres, au contraire, opprimées et méprisées; d'autres, enfin, en voie d'extinction. Il existe des micro-cultures, comme c'est le cas de l'Islande ou du Québec, où la littérature et l'institution littéraire s'épanouissent et où s'est développé un réel public lecteur. Les petites littératures vacillent donc entre une gloire un peu surfaite et le désespoir de n'arriver à engendrer que de l'indifférence."
+        ],
+        "sourcePages": { "start": 10, "end": 10 }
+      },
+      {
+        "id": "chapter-06-exercise-05",
+        "title": "Exercice 5",
+        "instructions": "Ponctuez chacun des petits textes suivants. Tenez compte de la présence des majuscules qui indiquent la plupart du temps le début d’une nouvelle phrase.",
+        "items": [
+          {
+            "id": "ch06-ex05-it01",
+            "prompt": "1. Au moment de partir la mère cria à ses enfants Ne m’attendez pas pour souper je pars en escapade pour quelques jours avec votre père Sans perdre une seule seconde ses deux garçons et sa fille horrifiés par une telle nouvelle se précipitèrent dehors Ils voulurent lui barrer le chemin mais ils arrivèrent trop tard La mère libérée de ses trois trentenaires filait déjà à toute allure en se promettant de profiter de ses vacances Depuis plus de trois décennies elle se consacrait au bien-être de sa famille Bon le temps de penser à elle était arrivé",
+            "sourcePage": 11
+          },
+          {
+            "id": "ch06-ex05-it02",
+            "prompt": "2. Subitement le journaliste quitta son fauteuil Il était agité nerveux anxieux Il venait de lire un article intitulé La révolte des riches dans le journal La prospérité Il avait peur de perdre tous ses avoirs car une crise économique s’annonçait Que pouvait-il faire Il était impossible pour lui de se résigner à renoncer à toutes les choses auxquelles il tenait tant sa voiture de sport son yacht son autocaravane son chalet dans les Laurentides ses immeubles d’habitation etc Heureusement il finit par se calmer car il était bien placé pour savoir que les journalistes exagèrent souvent",
+            "sourcePage": 11
+          },
+          {
+            "id": "ch06-ex05-it03",
+            "prompt": "3. Pierre-Alexandre tu t’en vas comme ça sans dire au revoir sans un seul regret Crois-tu que je vais te laisser faire As-tu penser aux enfants Je me demande pourquoi tu agis ainsi T’ai-je blessé Suis-je responsable de ton départ Je ne sais pas comment on a pu en arriver là Cesse de m’ignorer Réponds-moi M’entends-tu Quel goujat",
+            "sourcePage": 12
+          },
+          {
+            "id": "ch06-ex05-it04",
+            "prompt": "4. Le travail que nous allons faire cette semaine exige une bonne méthodologie À l’intérieur de votre travail je devrai retrouver les éléments suivants une page de présentation une table des matières une bibliographie une introduction et une conclusion Pour faire une bonne analyse vous devrez exploiter le roman les analyses littéraires les revues les notes de cours etc",
+            "sourcePage": 12
+          },
+          {
+            "id": "ch06-ex05-it05",
+            "prompt": "5. Mon mari qui porte son vieux blouson de cuir est venu me chercher à ma sortie de l’hôpital Aujourd’hui je ne veux ni fleurs ni chocolats ni bijoux Je veux seulement son regard réconfortant et sa présence apaisante Il me les offre sans retenue mais il cache mal ses larmes J’aurais voulu lui dire que je suis sûre que Quelquefois le silence est préférable",
+            "sourcePage": 12
+          },
+          {
+            "id": "ch06-ex05-it06",
+            "prompt": "6. Immédiatement sans plus attendre je me serais couchée sur le capot de son char pour observer le passage de la comète Je n’ai pas pu Maxime voulait que j’attende Selon lui les astres demandent du respect car ils nous ont précédés dans l’Univers",
+            "sourcePage": 12
+          },
+          {
+            "id": "ch06-ex05-it07",
+            "prompt": "7. Monsieur Duguay est très âgé Depuis la mort de Marlene Dietrich 1992 il souhaite faire un long séjour à Paris Il voudrait vivre dans la Ville Lumière qui l’a tant fait rêver et arpenter les mêmes trottoirs que l’actrice américaine a arpentés avant lui Assis à une terrasse il pourrait lire Le Monde en sirotant un café et en imaginant la célèbre femme fatale mystérieuse et sophistiquée assise à ses côtés Depuis qu’il l’a vue dans son film L’impératrice rouge il est follement amoureux d’elle Toute sa vie il a idéalisé cette femme Quel amoureux éperdu Quelle vie gâchée pour une chimère",
+            "sourcePage": 12
+          },
+          {
+            "id": "ch06-ex05-it08",
+            "prompt": "8. Subitement Vincent s’aperçut que Monsieur Tremblay qui n’avait pas quitté la classe l’avait vu Il baissa les yeux Il promit de tout remettre en ordre de laver le tableau d’essuyer le plancher Ne recommence jamais car tu auras une punition dont tu te souviendras longtemps lui dit son professeur",
+            "sourcePage": 12
+          },
+          {
+            "id": "ch06-ex05-it09",
+            "prompt": "9. Justine depuis son adolescence aime courir les boutiques Elle achète des souliers des sacs à main des robes des pantalons des chandails etc Elle renouvelle sa garde-robe à toutes les saisons Parfois elle a tellement de vêtements qu’elle en oublie Quelle dépensière Sa sœur qui n’a que onze ans rêve déjà du jour où ses parents lui remettront sa propre carte de crédit Où s’en va-t-on",
+            "sourcePage": 13
+          }
+        ],
+        "answerKey": [
+          "1. Au moment de partir, la mère cria à ses enfants: « Ne m’attendez pas pour souper, je pars en escapade pour quelques jours avec votre père. » Sans perdre une seule seconde, ses deux garçons et sa fille, horrifiés par une telle nouvelle, se précipitèrent dehors. Ils voulurent lui barrer le chemin, mais ils arrivèrent trop tard. La mère, libérée de ses trois trentenaires, filait déjà à toute allure en se promettant de profiter de ses vacances. Depuis plus de trois décennies, elle se consacrait au bien-être de sa famille. Bon! le temps de penser à elle était arrivé.",
+          "2. Subitement, le journaliste quitta son fauteuil. Il était agité, nerveux, anxieux. Il venait de lire un article intitulé « La révolte des riches » dans le journal La prospérité. Il avait peur de perdre tous ses avoirs, car une crise économique s’annonçait. Que pouvait-il faire? Il était impossible pour lui de se résigner à renoncer à toutes les choses auxquelles il tenait tant: sa voiture de sport, son yacht, son autocaravane, son chalet dans les Laurentides, ses immeubles d’habitation, etc. Heureusement, il finit par se calmer, car il était bien placé pour savoir que les journalistes exagèrent souvent.",
+          "3. Pierre-Alexandre, tu t’en vas comme ça, sans dire au revoir, sans un seul regret. Crois-tu que je vais te laisser faire? As-tu pensé aux enfants? Je me demande pourquoi tu agis ainsi. T’ai-je blessé? Suis-je responsable de ton départ? Je ne sais pas comment on a pu en arriver là. Cesse de m’ignorer! Réponds-moi! M’entends-tu? Quel goujat!",
+          "4. Le travail que nous allons faire cette semaine exige une bonne méthodologie. À l’intérieur de votre travail, je devrai retrouver les éléments suivants: une page de présentation, une table des matières, une bibliographie, une introduction et une conclusion. Pour faire une bonne analyse, vous devrez exploiter le roman, les analyses littéraires, les revues, les notes de cours, etc.",
+          "5. Mon mari, qui porte son vieux blouson de cuir, est venu me chercher à ma sortie de l’hôpital. Aujourd’hui, je ne veux ni fleurs, ni chocolats, ni bijoux. Je veux seulement son regard réconfortant et sa présence apaisante. Il me les offre sans retenue, mais il cache mal ses larmes. J’aurais voulu lui dire que je suis sûre que... Quelquefois, le silence est préférable.",
+          "6. Immédiatement, sans plus attendre, je me serais couchée sur le capot de son « char » pour observer le passage de la comète. Je n’ai pas pu: Maxime voulait que j’attende. Selon lui, les astres demandent du respect, car ils nous ont précédés dans l’Univers.",
+          "7. Monsieur Duguay est très âgé. Depuis la mort de Marlene Dietrich (1992), il souhaite faire un long séjour à Paris. Il voudrait vivre dans la Ville Lumière, qui l’a tant fait rêver, et arpenter les mêmes trottoirs que l’actrice américaine a arpentés avant lui. Assis à une terrasse, il pourrait lire Le Monde en sirotant un café et en imaginant la célèbre femme fatale, mystérieuse et sophistiquée, assise à ses côtés. Depuis qu’il l’a vue dans son film L’impératrice rouge, il est follement amoureux d’elle. Toute sa vie, il a idéalisé cette femme. Quel amoureux éperdu! Quelle vie gâchée pour une chimère!",
+          "8. Subitement, Vincent s’aperçut que Monsieur Tremblay, qui n’avait pas quitté la classe, l’avait vu. Il baissa les yeux. Il promit de tout remettre en ordre, de laver le tableau, d’essuyer le plancher. « Ne recommence jamais, car tu auras une punition dont tu te souviendras longtemps », lui dit son professeur.",
+          "9. Justine, depuis son adolescence, aime courir les boutiques. Elle achète des souliers, des sacs à main, des robes, des pantalons, des chandails, etc. Elle renouvelle sa garde-robe à toutes les saisons. Parfois, elle a tellement de vêtements qu’elle en oublie. Quelle dépensière! Sa sœur, qui n’a que onze ans, rêve déjà du jour où ses parents lui remettront leur propre carte de crédit. Où s’en va-t-on?"
+        ],
+        "sourcePages": { "start": 11, "end": 13 }
+      }
+    ],
+    "sourceCoverage": {
+      "extractedSections": [
+        "6.1 LA PONCTUATION DANS UNE PHRASE GRAPHIQUE",
+        "6.2 LA PONCTUATION DANS UNE PHRASE SYNTAXIQUE",
+        "6.3 LE DEUX-POINTS ET LE POINT-VIRGULE",
+        "6.4 LES GUILLEMETS",
+        "CORRIGÉS DES EXERCICES"
+      ],
+      "extractedPageRanges": [
+        "1-17"
+      ],
+      "unreadableContent": [],
+      "itemsRequiringReview": [
+        {
+          "id": "ch06-review-01",
+          "description": "Le corrigé de l'exercice 2 comporte 43 réponses pour 44 énononcés : les réponses des énononcés 17 (« Une sortie au grand air lui ferait le plus grand bien se disait-elle ») et 18 (« À bout d'arguments elle haussa les épaules ») manquent, et la numérotation du corrigé est décalée par rapport à celle des énononcés à partir de là. Le corrigé est conservé tel quel, sans reconstitution.",
+          "sourcePage": 8,
+          "status": "needs_review"
+        }
+      ]
+    }
+  }
+}
