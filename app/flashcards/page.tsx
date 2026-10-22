@@ -135,7 +135,7 @@ export default function FlashcardsPage() {
               <Badge variant="outline">
                 Carte {index + 1} / {cards.length}
               </Badge>
-              <Badge variant="secondary">{card.type.replace("_", " ")}</Badge>
+              <Badge variant="secondary">{(card.type || "").replace("_", " ")}</Badge>
             </div>
 
             <button
