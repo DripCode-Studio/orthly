@@ -121,7 +121,7 @@ export function Dashboard() {
                   ? 0
                   : Math.round((chapterCompleted / chapter.lessons.length) * 100);
               const isDone = chapterCompleted === chapter.lessons.length && chapter.lessons.length > 0;
-              const isAvailable = chapter.id === "chapter-01" || chapter.id === "chapter-02" || chapter.id === "chapter-03" || chapter.id === "chapter-04" || chapter.id === "chapter-05";
+              const isAvailable = chapter.id === "chapter-01" || chapter.id === "chapter-02" || chapter.id === "chapter-03" || chapter.id === "chapter-04" || chapter.id === "chapter-05" || chapter.id === "chapter-06";
 
               return (
                 <Card
