@@ -1,0 +1,605 @@
+{
+  "schemaVersion": "1.0.0",
+  "document": {
+    "id": "uqar-french-course",
+    "title": "Chapitre 5 - La phrase complexe",
+    "language": "fr-CA",
+    "sourceFile": "Chapitre 5 - La phrase complexe.pdf"
+  },
+  "chapter": {
+    "id": "chapter-05",
+    "number": 5,
+    "title": "La phrase complexe",
+    "summary": null,
+    "learningObjectives": [],
+    "sections": [
+      {
+        "id": "chapter-05-section-01",
+        "number": "5.1",
+        "title": "LA JUXTAPOSITION",
+        "sourcePages": {
+          "start": 1,
+          "end": 3
+        },
+        "blocks": [
+          {
+            "id": "ch05-s01-b01",
+            "type": "paragraph",
+            "content": "Comme on l’a vu précédemment, une phrase correspond au modèle suivant (qu’on appelle souvent « phrase de base ») :\nPhrase = Sujet + Prédicat + (Complément de phrase)\nDifférents modes de jonction permettent de joindre des phrases entre elles.\nPrenons la phrase suivante :\nL’équipe en génie civil a fini en première position : elle s’est rapidement démarquée, car elle a suivi un entraînement constant.\nSi on compare ces éléments au modèle de la phrase de base, on trouve trois phrases :\n1. L’équipe en génie civil a fini en première position\n2. elle s’est rapidement démarquée\n3. elle a suivi un entraînement constant.\nLa première phrase est juxtaposée à la deuxième par un deux-points, la deuxième est coordonnée à la troisième par une conjonction de coordination (car).\nLes principaux mécanismes de jonction de phrases sont la juxtaposition, la coordination et la subordination. Ces procédés permettent de relier des idées, de les opposer, de les expliquer. C’est en agençant des phrases qu’on finit par construire un raisonnement, un paragraphe, un texte, etc.",
+            "sourcePage": 1
+          },
+          {
+            "id": "ch05-s01-b02",
+            "type": "paragraph",
+            "content": "La juxtaposition consiste à lier des phrases à l’aide d’un signe de ponctuation. Même s’il n’y a pas de connecteur ou de marqueur de relation qui rend explicite le rapport entre les phrases, une juxtaposition peut servir à exprimer l'addition (par exemple dans une énumération), à introduire une explication, une cause, une conséquence, à opposer deux idées, etc.",
+            "sourcePage": 1
+          },
+          {
+            "id": "ch05-s01-b03",
+            "type": "table",
+            "content": {
+              "headers": ["Signe de ponctuation", "Exemple", "Rapport exprimé"],
+              "rows": [
+                ["virgule", "Elle se couche, elle ferme les yeux, elle dort profondément.", "La juxtaposition par la virgule permet d’exprimer l’addition, la succession."],
+                ["virgule", "Certains font très attention à leur alimentation, d’autres se contentent de n’importe quoi.", "La juxtaposition par la virgule permet d’exprimer l’opposition."],
+                ["deux-points", "Les spectateurs quittent les gradins : l’orage arrive.\nNous pouvons partir : tout est prêt.", "Le deux-point amène l’explication, la cause."],
+                ["deux-points", "Les hôtels étaient complets : ils couchèrent à la belle étoile.", "Le deux-points amène la conséquence."],
+                ["point-virgule", "Il est sédentaire ; son frère ne fait que rêver.", "La juxtaposition par le point-virgule permet d’exprimer l’opposition."],
+                ["point-virgule", "Le professeur claqua la porte ; les étudiants restèrent muets.", "Le point-virgule sépare des phrases étroitement liées par le sens."]
+              ]
+            },
+            "sourcePage": 2
+          }
+        ]
+      },
+      {
+        "id": "chapter-05-section-02",
+        "number": "5.2",
+        "title": "LA COORDINATION",
+        "sourcePages": {
+          "start": 3,
+          "end": 5
+        },
+        "blocks": [
+          {
+            "id": "ch05-s02-b01",
+            "type": "paragraph",
+            "content": "La coordination consiste à relier des phrases à l’aide d’un coordonnant (conjonction de coordination ou adverbe) qui marque un rapport particulier entre les phrases (addition, succession, cause, conséquence, explication, opposition, etc.).\nex. : Je ferai ma recherche / et / je serai chez toi à 17 h.\nLa conjonction de coordination et n’appartient ni à la 1re ni à la 2e phrase.\nLes deux phrases sont autonomes : elles pourraient exister seules.\nLes principaux coordonnants sont mais, ou, et, donc, car, ni, or, cependant, toutefois, pourtant, puis, ensuite, c’est pourquoi, etc.",
+            "sourcePage": 3
+          },
+          {
+            "id": "ch05-s02-b02",
+            "type": "table",
+            "content": {
+              "headers": ["Coordonnant", "Exemple", "Rapport exprimé"],
+              "rows": [
+                ["et", "Yan et Léa se sont rencontrés par hasard et ont décidé d’aller danser.", "succession"],
+                ["mais", "Je pars pour Montréal tantôt, mais je serai de retour lundi.", "opposition"],
+                ["car", "Ne prenez pas ces médicaments, car ils sont périmés.", "cause"],
+                ["donc", "Luc a enfin annoncé la nouvelle, il n’est donc plus nécessaire de feindre l’ignorance.\nJe pense, donc je suis.", "conséquence"],
+                ["or", "La logique de son raisonnement est implacable, or ses idées sont impopulaires.", "opposition"],
+                ["par conséquent", "Les températures ne cessent d’augmenter. Par conséquent, les périodes caniculaires se multiplient et s’allongent.", "conséquence"],
+                ["c'est pourquoi", "La population semble mécontente, c’est pourquoi le gouvernement pense organiser une consultation.", "conséquence"]
+              ]
+            },
+            "sourcePage": 3
+          },
+          {
+            "id": "ch05-s02-b03",
+            "type": "note",
+            "content": "Plusieurs coordonnants doivent généralement être précédés d’une virgule, entre autres mais, car, donc, or, puis, ensuite. Même s’il y a une virgule devant le coordonnant, on dit que les phrases sont coordonnées parce que le coordonnant crée un lien plus explicite, plus marquant, que le signe de ponctuation.",
+            "sourcePage": 3
+          },
+          {
+            "id": "ch05-s02-b04",
+            "type": "paragraph",
+            "content": "La coordination et la juxtaposition peuvent entraîner l’effacement d’éléments communs.\nex. : Yan et Léa se sont rencontrés par hasard et ont décidé d’aller danser.\nDans la 2e phrase, on n’a pas répété le sujet, car il est facilement repérable. Cet effacement est fréquent dans la coordination ou la juxtaposition.",
+            "sourcePage": 4
+          }
+        ]
+      },
+      {
+        "id": "chapter-05-section-03",
+        "number": "5.3",
+        "title": "LA SUBORDINATION",
+        "sourcePages": {
+          "start": 6,
+          "end": 18
+        },
+        "blocks": [
+          {
+            "id": "ch05-s03-b01",
+            "type": "paragraph",
+            "content": "Contrairement à la jonction par coordination ou juxtaposition, où des phrases ne font que s’enchaîner, se suivre, avec la subordination, une phrase (la subordonnée) est enchâssée dans une autre à l’aide d’un subordonnant (ou conjonction de subordination). La subordonnée n’est pas une phrase autonome : elle dépend syntaxiquement de l’autre. En fait, il y a subordination lorsqu’une phrase en contient une autre.\nex. : Je ferai ma recherche / et / je me rendrai chez toi. (Ici, deux phrases autonomes sont simplement coordonnées.)\nex. : Quand j’aurai fait ma recherche, je me rendrai chez toi. (Ici, la subordonnée occupe la place du complément de phrase.)\nLa subordonnée est elle-même une phrase : elle contient un sujet et un prédicat, auquel s’ajoute un subordonnant :\nex. : Quand j’aurai fait ma recherche (Subordonnant + sujet + prédicat)",
+            "sourcePage": 6
+          },
+          {
+            "id": "ch05-s03-b02",
+            "type": "table",
+            "content": {
+              "headers": ["Une subordonnée peut prendre", "Exemples"],
+              "rows": [
+                ["1. La place d'un groupe de l'adjectif", "Le chapeau bleu est sur la table. (GAdj)\n→ Le chapeau qui est bleu est sur la table. (Subordonnée relative)"],
+                ["2. La place d'un groupe du nom (ou d’un groupe prépositionnel)", "Je regrette le départ de Pierre. (GN)\n→ Je regrette que Pierre parte. (Subordonnée complétive)"],
+                ["3. La place d'un groupe adverbial ou d’un groupe prépositionnel", "Demain, j'irai le chercher. (GAdv)\n→ Quand le soleil se lèvera, j'irai le chercher. (Subordonnée complément de phrase)"]
+              ]
+            },
+            "sourcePage": 6
+          },
+          {
+            "id": "ch05-s03-b03",
+            "type": "definition",
+            "content": "LES SUBORDONNÉES COMPLÉTIVES\nLes subordonnées complétives peuvent souvent remplacer un groupe du nom ou un groupe prépositionnel.\nex. : Je veux ton succès. → Je veux que tu réussisses.\nJe suis convaincu de ton succès. → Je suis convaincu que tu réussiras.\nLes subordonnées complétives dépendent généralement d’un verbe, d’un nom, d’un pronom ou d’un adjectif. Elles sont souvent introduites par une conjonction de subordination, que étant la plus couramment employée.",
+            "sourcePage": 7
+          },
+          {
+            "id": "ch05-s03-b04",
+            "type": "rule",
+            "content": "Il est possible de transformer une interrogation directe (ex. : Comment vas-tu ?) en interrogation indirecte (ex. : Je me demande comment tu vas.). On construit l’interrogation indirecte à l’aide d’une subordonnée complétive en respectant certaines règles :\n• L'interrogation indirecte se termine par un point (et non par un point d’interrogation) puisque l’interrogation indirecte est de type déclaratif.\n• Dans l’interrogation indirecte, on ne peut utiliser l’inversion du sujet ni la formule est-ce que ou est-ce qui (qu’on réserve à l’interrogation directe).",
+            "sourcePage": 8
+          },
+          {
+            "id": "ch05-s03-b05",
+            "type": "definition",
+            "content": "LES SUBORDONNÉES RELATIVES\nLes subordonnées relatives sont toujours introduites par un pronom de reprise appelé pronom relatif.\nSoit les deux phrases suivantes :\nMarc-Antoine serait un bon candidat.\nMarc-Antoine enseigne les mathématiques.\nSi on remplace Marc-Antoine dans la 2e phrase par le pronom relatif qui, on obtient :\nMarc-Antoine, qui enseigne les mathématiques, serait un bon candidat.\nLe pronom relatif qui a pour antécédent le nom Marc-Antoine.\nPronoms relatifs de forme simple : qui, que, quoi, dont, où, lequel, laquelle, lesquels, lesquelles.\nTous ces pronoms peuvent être précédés d’une préposition.\nPronoms relatifs de forme composée : à qui, avec qui, chez qui, pour laquelle, de laquelle, pendant lequel, etc.\nAttention à la contraction de lequel, lesquels, lesquelles avec les prépositions à et de :\nà + lequel = auquel (contraction de à et le)\nà + lesquels = auxquels (contraction de à et les)\nde + lequel = duquel (contraction de de et le)\nde + lesquels = desquels (contraction de de et les)",
+            "sourcePage": 10
+          },
+          {
+            "id": "ch05-s03-b06",
+            "type": "table",
+            "content": {
+              "headers": ["Les pronoms et leur fonction", "Exemples"],
+              "rows": [
+                ["QUI\nFonction : sujet", "La forêt [qui a brûlé] était magnifique.\nPhrase 1 : La forêt était magnifique.\nPhrase 2 : La forêt a brûlé.\nDans la phrase 2, la forêt est sujet, c’est pourquoi on a choisi qui."],
+                ["QUE\nFonction : complément direct", "La forêt [que je traverse] est magnifique.\nPhrase 1 : La forêt est magnifique.\nPhrase 2 : Je traverse la forêt.\nDans la phrase 2, la forêt est un complément direct, c’est pourquoi on a choisi que."],
+                ["DONT\nFonction : complément indirect (qui commence avec un de)", "La forêt [dont Pierre parle] est magnifique.\nPhrase 1 : La forêt est magnifique.\nPhrase 2 : Pierre parle de la forêt.\nDans la phrase 2, de la forêt est un complément indirect (qui commence par de), c’est pourquoi on a choisi dont."],
+                ["À LAQUELLE\nFonction : complément indirect (qui commence par à)", "La forêt [à laquelle Pierre pense] est magnifique.\nPhrase 1 : La forêt est magnifique.\nPhrase 2 : Pierre pense à la forêt.\nDans la phrase 2, à la forêt est un complément indirect (qui commence par à), c’est pourquoi on a choisi à laquelle."],
+                ["OÙ\nFonction : complément indirect ou complément de phrase (de lieu ou de temps)", "La forêt [où Pierre habite] est magnifique.\nPhrase 1 : La forêt est magnifique.\nPhrase 2 : Pierre habite dans la forêt.\nDans la phrase 2, dans la forêt est un complément indirect (de lieu), c’est pourquoi on a choisi où."],
+                ["DONT\nFonction : complément du nom (qui commence avec un de)", "La forêt [dont la gestion a été confiée aux citoyens] est magnifique.\nPhrase 1 : La forêt est magnifique.\nPhrase 2 : La gestion de la forêt a été confiée aux citoyens.\nDans la phrase 2, de la forêt est un complément du nom (qui commence par de), c’est pourquoi on a choisi dont."]
+              ]
+            },
+            "sourcePage": 11
+          },
+          {
+            "id": "ch05-s03-b07",
+            "type": "definition",
+            "content": "LES SUBORDONNÉES COMPLÉMENTS DE PHRASE\nex. : Quand le soleil se lèvera, j'irai le chercher.\nLa subordonnée complément de phrase contient généralement une conjonction de subordination, un groupe qui occupe la fonction sujet et un groupe qui occupe la fonction prédicat :\nex. : Quand le soleil se lèvera (Conjonction de subordination + GN (sujet) + GV (prédicat))\nLes subordonnées compléments de phrase expriment différentes valeurs, comme le temps, la cause, la conséquence, le but, la condition, la concession, la comparaison, etc.",
+            "sourcePage": 14
+          },
+          {
+            "id": "ch05-s03-b08",
+            "type": "table",
+            "content": {
+              "headers": ["Valeurs", "Quelques conjonctions de subordination"],
+              "rows": [
+                ["Condition", "si, dans la mesure où, à condition que, etc."],
+                ["But", "pour que, afin que, pour ne pas que, afin de, etc."],
+                ["Cause", "comme, parce que, puisque, étant donné que, etc."],
+                ["Conséquence", "de sorte que, au point que, si bien que, etc."],
+                ["Opposition", "tandis que, alors que, etc."],
+                ["Comparaison", "comme, de même que, etc."],
+                ["Concession", "même si, bien que, quoique, etc."],
+                ["Temps", "alors que, pendant que, quand, avant que, etc."]
+              ]
+            },
+            "sourcePage": 15
+          }
+        ]
+      },
+      {
+        "id": "chapter-05-section-04",
+        "number": "5.4",
+        "title": "CONFUSION HOMOPHONIQUE",
+        "sourcePages": {
+          "start": 19,
+          "end": 20
+        },
+        "blocks": [
+          {
+            "id": "ch05-s04-b01",
+            "type": "rule",
+            "content": "Confusion homophonique entre quand, quant et qu’en\nQuand est une conjonction qu’on peut souvent remplacer par lorsque ou à quel moment.\nRemplacement : ex. : Il est parti chez lui quand il en a eu assez de m’entendre chanter. → Il est parti chez lui lorsqu’il en a eu assez de m’entendre chanter.\nQuant à est une locution prépositive généralement suivie d’un nom ou d’un pronom qui signifie « pour ce qui est de, en ce qui concerne ».\nRemplacement : ex. : Je n’y crois pas du tout, quant à Louis, il n’y croit pas non plus. → Je n’y crois pas du tout, en ce qui concerne Louis, il n’y croit pas non plus.\nQu’en est la forme élidée de la conjonction que suivi du mot en. Le mot en pouvant être une préposition ou un pronom.\nRemplacement : ex. : Je pense qu’en été, il fait trop chaud pour construire cet abri. → Je pense que en été, il fait trop chaud pour construire cet abri.",
+            "sourcePage": 19
+          },
+          {
+            "id": "ch05-s04-b02",
+            "type": "rule",
+            "content": "Par ailleurs, il ne faut pas confondre quant à et tant qu’à. Tant qu’à se construit avec un verbe et signifie « s’il le faut ».",
+            "sourcePage": 20
+          },
+          {
+            "id": "ch05-s04-b03",
+            "type": "rule",
+            "content": "Confusion homophonique entre ou et où\nLe mot ou est une conjonction de coordination qu’on peut remplacer par ou bien.\nRemplacement : ex. : Ce soir, tu viens chez moi ou je vais chez toi. → Ce soir, tu viens chez moi ou bien je vais chez toi.\nLe mot où est un pronom relatif ou un mot interrogatif.\nRemplacement : ex. : Les troupes se sont rendues où le général voulait. → *Les troupes se sont rendues ou bien le général voulait. (Comme le remplacement ne fonctionne pas, on peut affirmer que le mot ou n’est pas une conjonction de coordination, mais un pronom relatif. Le mot prend donc un accent grave : où.)",
+            "sourcePage": 20
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "id": "chapter-05-exercise-01",
+        "title": "Exercice 1",
+        "instructions": "Lisez le texte suivant qui parle du Saint-Laurent et observez comment les phrases sont juxtaposées ou coordonnées. Sauriez-vous dire quelle logique unissent certaines phrases juxtaposées ou coordonnées (simple succession, explication, cause, conséquence, opposition, etc.) ?",
+        "items": [
+          {
+            "id": "ch05-ex01-it01",
+            "prompt": "Comment dire le Saint-Laurent — à la fois fleuve, estuaire, golfe —, sa beauté éblouissante ? Comment dire ses écosystèmes d’une phénoménale richesse, pourtant menacés de toutes parts ? Difficile de parler aujourd’hui du Saint-Laurent sans évoquer les changements climatiques qui entraînent des transformations dans les grands courants marins qui influencent à leur tour les masses d’eau du golfe et de l’estuaire : ainsi plus chaudes et plus pauvres en oxygène, de telles masses d’eau menacent la biodiversité, l’équilibre de la vie qui prospère dans le fleuve ainsi que l’existence des personnes et des communautés vivant de la pêche. Par ailleurs, les scientifiques de la mer, comme j’aime les appeler afin de rassembler sous un seul terme toutes leurs spécificités, m’ont aussi appris que connaître, aimer et sauver la nature vont souvent de pair.\nCependant, pris dans le tourbillon affolé de nos vies, nous finissons trop souvent par oublier ce territoire maritime, proche et lointain, secret et précieux, pourtant garant de notre futur. J’en discutais récemment avec Anne-Marie Asselin, qui a été notre cheffe de mission au cours de l’Expédition bleue en 2022 : c’est fou comme nous sommes, un peu partout, un peu tout le temps, téléphone à la main, hyperconnectés et en même temps complètement déconnectés des écosystèmes dont nous faisons partie. Or, cette déconnexion est périlleuse : nos choix de consommation, nos comportements au quotidien, tout comme les décisions politiques en matière d’encadrement et de protection, affectent ces écosystèmes dont nous sommes partie prenante. Le plus grand danger, me disait Lyne Morissette, chercheuse réputée en écologie de la conservation, c’est notre apathie.",
+            "sourcePage": 4
+          }
+        ],
+        "answerKey": [
+          "Difficile de parler... estuaire : ainsi plus chaudes... (Juxtaposition avec deux-points : conséquence)\n...menacent la biodiversité... Par ailleurs, les scientifiques... (Coordination avec par ailleurs : addition d'une autre idée sous un angle différent)\n...vont souvent de pair. Cependant, pris dans le tourbillon... (Coordination avec cependant : opposition/transition)\nJ'en discutais... 2022 : c'est fou comme nous sommes... (Juxtaposition avec deux-points : explication)\nOr, cette déconnexion est périlleuse : nos choix de consommation... (Juxtaposition avec deux-points : explication)"
+        ],
+        "sourcePages": {
+          "start": 4,
+          "end": 5
+        }
+      },
+      {
+        "id": "chapter-05-exercise-02",
+        "title": "Exercice 2",
+        "instructions": "Transformez les éléments en gras de la colonne de gauche en subordonnée complétive (colonne du centre).",
+        "items": [
+          { "id": "ch05-ex02-it01", "prompt": "1. Je m’attends à sa venue.", "sourcePage": 7 },
+          { "id": "ch05-ex02-it02", "prompt": "2. Nous étions certains des résultats.", "sourcePage": 7 },
+          { "id": "ch05-ex02-it03", "prompt": "3. J’ai la preuve de son innocence.", "sourcePage": 7 }
+        ],
+        "answerKey": [
+          "1. Je m’attends à ce qu’il vienne. (complément indirect du verbe)",
+          "2. Nous étions certains qu'ils réussiraient. (complément de l’adjectif)",
+          "3. J’ai la preuve qu'il est innocent. (complément du nom)"
+        ],
+        "sourcePages": {
+          "start": 7,
+          "end": 7
+        }
+      },
+      {
+        "id": "chapter-05-exercise-03",
+        "title": "Exercice 3",
+        "instructions": "Transformez les interrogations directes en interrogations indirectes.",
+        "items": [
+          { "id": "ch05-ex03-it01", "prompt": "1. Pourquoi n’arrive-t-il pas ? → Je me demande...", "sourcePage": 8 },
+          { "id": "ch05-ex03-it02", "prompt": "2. Comment est-ce que tu t’appelles ? → J’ignore...", "sourcePage": 8 },
+          { "id": "ch05-ex03-it03", "prompt": "3. Est-ce que nous allons au cinéma ce soir ? → J’ai besoin de savoir...", "sourcePage": 8 },
+          { "id": "ch05-ex03-it04", "prompt": "4. Comment a-t-elle trouvé la solution ? → J’aimerais découvrir...", "sourcePage": 8 }
+        ],
+        "answerKey": [
+          "1. Je me demande pourquoi il n’arrive pas.",
+          "2. J’ignore comment tu t’appelles.",
+          "3. J’ai besoin de savoir si nous allons au cinéma ce soir.",
+          "4. J’aimerais découvrir comment elle a trouvé la solution."
+        ],
+        "sourcePages": {
+          "start": 8,
+          "end": 8
+        }
+      },
+      {
+        "id": "chapter-05-exercise-04",
+        "title": "Exercice 4",
+        "instructions": "Corrigez les interrogations suivantes.",
+        "items": [
+          { "id": "ch05-ex04-it01", "prompt": "1. Je voudrais savoir qui est-ce qui m’a remplacé pendant mon absence.", "sourcePage": 8 },
+          { "id": "ch05-ex04-it02", "prompt": "2. Le cours enseigne aux élèves qu’est-ce que c’est une phrase.", "sourcePage": 8 },
+          { "id": "ch05-ex04-it03", "prompt": "3. Pourquoi est-ce que les étudiants ont-ils quitté la salle ?", "sourcePage": 8 },
+          { "id": "ch05-ex04-it04", "prompt": "4. Qu’est-ce que j’aime est l’analyse du comportement de mes professeurs.", "sourcePage": 8 },
+          { "id": "ch05-ex04-it05", "prompt": "5. Le patron m’a demandé qu’est-ce que je faisais au bureau ce matin.", "sourcePage": 8 },
+          { "id": "ch05-ex04-it06", "prompt": "6. Nous nous demandons pourquoi le local a-t-il été changé ?", "sourcePage": 8 },
+          { "id": "ch05-ex04-it07", "prompt": "7. Qu’est-ce qui m’a surpris, c’est l’attitude des étudiants.", "sourcePage": 8 },
+          { "id": "ch05-ex04-it08", "prompt": "8. Je me demande comment tu vas ?", "sourcePage": 8 }
+        ],
+        "answerKey": [
+          "1. Je voudrais savoir qui m’a remplacé pendant mon absence. (interrogation indirecte)",
+          "2. Le cours enseigne aux élèves ce qu’est une phrase.",
+          "3. Pourquoi les étudiants ont-ils quitté la salle ? OU Pourquoi est-ce que les étudiants ont quitté la salle ? (interrogation directe)",
+          "4. Ce que j’aime est l’analyse du comportement de mes professeurs.",
+          "5. Le patron m’a demandé ce que je faisais au bureau ce matin. (interrogation indirecte)",
+          "6. Nous nous demandons pourquoi le local a été changé. (interrogation indirecte)",
+          "7. Ce qui m’a surpris, c’est l’attitude des étudiants.",
+          "8. Je me demande comment tu vas. (interrogation indirecte, pas de point d'interrogation)"
+        ],
+        "sourcePages": {
+          "start": 8,
+          "end": 8
+        }
+      },
+      {
+        "id": "chapter-05-exercise-05",
+        "title": "Exercice 5",
+        "instructions": "Dans l’introduction d’un texte argumentatif, il est très fréquent qu’on pose une question. Il faudra veiller à bien formuler sa question en choisissant l’interrogation directe ou indirecte. Repérez la question qu’on pose dans les trois introductions suivantes. Indiquez l’introduction qui propose une interrogation directe, une interrogation indirecte, une interrogation mal formulée.",
+        "items": [
+          {
+            "id": "ch05-ex05-it01",
+            "prompt": "1. Le discours sur l’immigration se déshumanise. Le ton des discussions donne souvent l’impression qu’il n’est pas véritablement question d’humains dont la vie est peut-être en danger. Le présent texte réfléchira à cette question en se demandant si le fait de parler d’immigration sur un ton désinvolte n’insensibilise pas les éventuelles populations d’accueil.[...]",
+            "sourcePage": 9
+          },
+          {
+            "id": "ch05-ex05-it02",
+            "prompt": "2. Le discours sur l’immigration se déshumanise. Le ton des discussions donne souvent l’impression qu’il n’est pas véritablement question d’humains dont la vie est peut-être en danger. Il est temps de se poser la question suivante : est-ce que le fait de parler d’immigration sur un ton désinvolte insensibilise les éventuelles populations d’accueil ?[...]",
+            "sourcePage": 9
+          },
+          {
+            "id": "ch05-ex05-it03",
+            "prompt": "3. Le discours sur l’immigration se déshumanise. Le ton des discussions donne souvent l’impression qu’il n’est pas véritablement question d’humains dont la vie est peut-être en danger. Le présent texte réfléchira à cette question en se demandant est-ce que le fait de parler d’immigration sur un ton désinvolte n’insensibilise pas les éventuelles populations d’accueil ?[...]",
+            "sourcePage": 9
+          }
+        ],
+        "answerKey": [
+          "1. Interrogation indirecte",
+          "2. Interrogation directe",
+          "3. Interrogation mal formulée (On ne peut utiliser la locution est-ce que dans une forme indirecte, ni mettre un point d’interrogation dans une interrogation indirecte.)"
+        ],
+        "sourcePages": {
+          "start": 9,
+          "end": 9
+        }
+      },
+      {
+        "id": "chapter-05-exercise-06",
+        "title": "Exercice 6",
+        "instructions": "Appliquez les étapes 1, 2 et 3 puis ajoutez les pronoms relatifs : qui, que, dont, où",
+        "items": [
+          { "id": "ch05-ex06-it01", "prompt": "1. J’aimerais retrouver l’appel ______ j’ai manqué hier.", "sourcePage": 12 },
+          { "id": "ch05-ex06-it02", "prompt": "2. J’aimerais retrouver la personne ______ a disparu.", "sourcePage": 12 },
+          { "id": "ch05-ex06-it03", "prompt": "3. L’histoire ______ j’ai entendu parler est passionnante.", "sourcePage": 12 },
+          { "id": "ch05-ex06-it04", "prompt": "4. L’histoire ______ vous me racontez est passionnante.", "sourcePage": 12 }
+        ],
+        "answerKey": [
+          "1. que (P2 : J’ai manqué cet appel hier. 'cet appel' est complément direct)",
+          "2. qui (P2 : Cette personne a disparu. 'Cette personne' est sujet)",
+          "3. dont (P2 : J’ai entendu parler de cette histoire. 'de cette histoire' est complément indirect)",
+          "4. que (P2 : Vous me racontez cette histoire. 'cette histoire' est complément direct)"
+        ],
+        "sourcePages": {
+          "start": 12,
+          "end": 12
+        }
+      },
+      {
+        "id": "chapter-05-exercise-07",
+        "title": "Exercice 7",
+        "instructions": "Ajoutez les pronoms relatifs : qui, que, dont, où.",
+        "items": [
+          { "id": "ch05-ex07-it01", "prompt": "1. J’ai aimé cette histoire _____ la fin est joyeuse.", "sourcePage": 13 },
+          { "id": "ch05-ex07-it02", "prompt": "2. J’entends le téléphone _____ sonne.", "sourcePage": 13 },
+          { "id": "ch05-ex07-it03", "prompt": "3. Je suis retourné dans la ville _____ je suis né.", "sourcePage": 13 },
+          { "id": "ch05-ex07-it04", "prompt": "4. J'ai acheté pour souper les denrées _____ j'avais besoin.", "sourcePage": 13 },
+          { "id": "ch05-ex07-it05", "prompt": "5. Les tours _____ il connaît sont des plus étonnants.", "sourcePage": 13 },
+          { "id": "ch05-ex07-it06", "prompt": "6. La personne _____ je vais vous présenter réglera votre problème.", "sourcePage": 13 },
+          { "id": "ch05-ex07-it07", "prompt": "7. J’habite dans la maison _____ le toit est bleu.", "sourcePage": 13 },
+          { "id": "ch05-ex07-it08", "prompt": "8. Le jour _____ j’ai quitté ma ville natale est déjà loin.", "sourcePage": 13 },
+          { "id": "ch05-ex07-it09", "prompt": "9. J’ai adopté un chat _____ le pelage est noir et blanc.", "sourcePage": 13 }
+        ],
+        "answerKey": [
+          "1. dont", "2. qui", "3. où", "4. dont", "5. que", "6. que", "7. dont", "8. où", "9. dont"
+        ],
+        "sourcePages": {
+          "start": 13,
+          "end": 13
+        }
+      },
+      {
+        "id": "chapter-05-exercise-08",
+        "title": "Exercice 8",
+        "instructions": "Ajoutez les pronoms relatifs : qui ou lequel, laquelle, lesquels, lesquelles précédé d’une préposition (ex. : à qui, à laquelle, avec qui, avec lequel, chez qui, chez lesquels, pour qui, pour lequel, contre qui, contre lequel, devant qui, devant laquelle, etc.)",
+        "items": [
+          { "id": "ch05-ex08-it01", "prompt": "1. Le professeur _______________ je fais référence est connu de tous.", "sourcePage": 14 },
+          { "id": "ch05-ex08-it02", "prompt": "2. L’homme _______________ je travaille est mon grand-père.", "sourcePage": 14 },
+          { "id": "ch05-ex08-it03", "prompt": "3. La troupe _______________ je danse vient de Moscou.", "sourcePage": 14 },
+          { "id": "ch05-ex08-it04", "prompt": "4. La jeune fille _______________ je m’adresse porte un uniforme vert.", "sourcePage": 14 },
+          { "id": "ch05-ex08-it05", "prompt": "5. Le drame _______________ je fais allusion s’est produit l’année dernière.", "sourcePage": 14 },
+          { "id": "ch05-ex08-it06", "prompt": "6. La jeune fille _______________ j’ai voté a quand même été élue.", "sourcePage": 14 },
+          { "id": "ch05-ex08-it07", "prompt": "7. Les idées _______________ j’ai voté sont stimulantes.", "sourcePage": 14 },
+          { "id": "ch05-ex08-it08", "prompt": "8. La personne _______________ j’habite est fort sympathique.", "sourcePage": 14 },
+          { "id": "ch05-ex08-it09", "prompt": "9. La maison _______________ j’habite est fort jolie.", "sourcePage": 14 }
+        ],
+        "answerKey": [
+          "1. à qui / auquel",
+          "2. pour qui / pour lequel",
+          "3. pour laquelle",
+          "4. à qui / à laquelle",
+          "5. auquel",
+          "6. pour qui / pour laquelle",
+          "7. pour lesquelles",
+          "8. chez qui / chez laquelle / avec qui / avec laquelle",
+          "9. dans laquelle / où"
+        ],
+        "sourcePages": {
+          "start": 14,
+          "end": 14
+        }
+      },
+      {
+        "id": "chapter-05-exercise-09",
+        "title": "Exercice 9",
+        "instructions": "Corrigez le choix des pronoms relatifs.",
+        "items": [
+          { "id": "ch05-ex09-it01", "prompt": "1. Les histoires qu’il se souvient ne sont pas racontables.", "sourcePage": 14 },
+          { "id": "ch05-ex09-it02", "prompt": "2. Les cas qu’il parle devraient demeurer secrets.", "sourcePage": 14 },
+          { "id": "ch05-ex09-it03", "prompt": "3. La solution que je pense est coûteuse.", "sourcePage": 14 },
+          { "id": "ch05-ex09-it04", "prompt": "4. Je vais faire la liste des personnes que j’ai besoin de parler avec pour mon projet.", "sourcePage": 14 },
+          { "id": "ch05-ex09-it05", "prompt": "5. Les excuses à les quelles il avait eu recours sont douteuses.", "sourcePage": 14 }
+        ],
+        "answerKey": [
+          "1. Les histoires dont il se souvient ne sont pas racontables. (P2 : Il se souvient de ces histoires.)",
+          "2. Les cas dont il parle devraient demeurer secrets. (P2 : Il parle des cas.)",
+          "3. La solution à laquelle je pense est coûteuse. (P2 : Je pense à la solution.)",
+          "4. Je vais faire la liste des personnes avec qui / avec lesquelles j’ai besoin de parler pour mon projet. (P2 : J'ai besoin de parler avec des personnes pour mon projet.)",
+          "5. Les excuses auxquelles il avait eu recours sont douteuses. (P2 : Il a eu recours à des excuses. Attention : il faut fusionner la préposition à et le déterminant les.)"
+        ],
+        "sourcePages": {
+          "start": 14,
+          "end": 14
+        }
+      },
+      {
+        "id": "chapter-05-exercise-10",
+        "title": "Exercice 10",
+        "instructions": "Une bonne lecture implique de bien comprendre les liens logiques qui unissent des éléments dans un texte. Précisez la valeur indiquée par les subordonnées compléments de phrase en gras : but, cause, conséquence, comparaison, concession, condition, temps, opposition.",
+        "items": [
+          { "id": "ch05-ex10-it01", "prompt": "1. Si le gouvernement gérait mieux les finances, les contribuables paieraient moins d’impôt.", "sourcePage": 15 },
+          { "id": "ch05-ex10-it02", "prompt": "2. Pour que le monde numérique ne représente pas un danger, il faudrait minutieusement encadrer son fonctionnement.", "sourcePage": 15 },
+          { "id": "ch05-ex10-it03", "prompt": "3. Comme les règles ne sont pas bien définies, les propriétaires de sites Internet font la loi et causent du tort aux individus.", "sourcePage": 15 },
+          { "id": "ch05-ex10-it04", "prompt": "4. Les réseaux sociaux devraient être interdits aux moins de 16 ans parce que ces plateformes ont un pouvoir d’influence beaucoup trop grand en regard de la capacité d’analyse.", "sourcePage": 15 },
+          { "id": "ch05-ex10-it05", "prompt": "5. Les réseaux sociaux sont tellement populaires et utiles qu’ils permettent aux gens de se retrouver et de se sentir moins seuls.", "sourcePage": 15 },
+          { "id": "ch05-ex10-it06", "prompt": "6. La communication virtuelle est superficielle de sorte que les individus ne savent plus comment nouer des relations profondes.", "sourcePage": 15 },
+          { "id": "ch05-ex10-it07", "prompt": "7. L’intelligence artificielle permet de grandes avancées sur le plan médical, par exemple en facilitant la détection de maladies rares, tandis que sur le plan scolaire, elle facilite la tricherie et nuit au développement des compétences intellectuelles.", "sourcePage": 15 },
+          { "id": "ch05-ex10-it08", "prompt": "8. Le développement récent de l’intelligence artificielle a fait et fait encore couler beaucoup d’encre, comme l’a fait, il y a au moins 20 ans, l’arrivée d’Internet.", "sourcePage": 15 },
+          { "id": "ch05-ex10-it09", "prompt": "9. Même si les individus font des efforts pour réduire leur empreinte écologique, l’intensité des changements climatiques ne diminuera pas si les gouvernements n’adoptent des orientations claires.", "sourcePage": 15 },
+          { "id": "ch05-ex10-it10", "prompt": "10. Bien que les gouvernements fassent des efforts dans la lutte contre les changements climatiques, la population ne semble pas prête à changer ses habitudes et à penser aux générations futures.", "sourcePage": 15 }
+        ],
+        "answerKey": [
+          "1. Condition",
+          "2. But",
+          "3. Cause",
+          "4. Cause",
+          "5. Conséquence (corrélation)",
+          "6. Conséquence",
+          "7. Opposition",
+          "8. Comparaison",
+          "9. Concession / Condition",
+          "10. Concession"
+        ],
+        "sourcePages": {
+          "start": 15,
+          "end": 16
+        }
+      },
+      {
+        "id": "chapter-05-exercise-11",
+        "title": "Exercice 11",
+        "instructions": "Tous les éléments soulignés sont des subordonnées compléments de phrase. À quelle valeur renvoient-elles : but, cause, conséquence, comparaison, concession, condition, temps ?",
+        "items": [
+          { "id": "ch05-ex11-it01", "prompt": "1. Même si on entend dire qu’on doit enseigner aux élèves à bien utiliser la technologie, je crois que le téléphone en classe nuit au développement des connaissances.", "sourcePage": 17 },
+          { "id": "ch05-ex11-it02", "prompt": "2. En fait, le cellulaire est un objet de distraction, tout comme le serait une bande dessinée qui traînerait sur le pupitre d’un élève.", "sourcePage": 17 },
+          { "id": "ch05-ex11-it03", "prompt": "3. Laisserait-on les élèves lire une bande dessinée pendant qu’un enseignant donne ses explications ?", "sourcePage": 17 },
+          { "id": "ch05-ex11-it04", "prompt": "4. À mon sens, pour que les élèves se libèrent de leur cellulaire, il faut simplement l’interdire, ce qui demande de faire preuve d’autorité.", "sourcePage": 17 },
+          { "id": "ch05-ex11-it05", "prompt": "5. On met beaucoup l’accent sur la bienveillance, comme s’il s’agissait de marchands de tapis.", "sourcePage": 17 },
+          { "id": "ch05-ex11-it06", "prompt": "6. Nous avons le devoir de protéger ce droit, et si nous ne le faisons pas, nous ne faisons pas notre devoir.", "sourcePage": 17 }
+        ],
+        "answerKey": [
+          "1. Concession",
+          "2. Comparaison",
+          "3. Temps",
+          "4. But",
+          "5. Comparaison",
+          "6. Condition"
+        ],
+        "sourcePages": {
+          "start": 17,
+          "end": 18
+        }
+      },
+      {
+        "id": "chapter-05-exercise-12",
+        "title": "Exercice 12",
+        "instructions": "Indiquez si les phrases sont juxtaposées, coordonnées ou subordonnées.",
+        "items": [
+          { "id": "ch05-ex12-it01", "prompt": "1. Il ralentit, s'arrêta, repartit brusquement.", "sourcePage": 18 },
+          { "id": "ch05-ex12-it02", "prompt": "2. J’espère que tu viendras.", "sourcePage": 18 },
+          { "id": "ch05-ex12-it03", "prompt": "3. Il va faire de l'orage : le ciel est noir.", "sourcePage": 18 },
+          { "id": "ch05-ex12-it04", "prompt": "4. Il mange tous les jours au restaurant, mais il est maigre comme un fil.", "sourcePage": 18 },
+          { "id": "ch05-ex12-it05", "prompt": "5. Lorsque le chat est parti, les souris dansent.", "sourcePage": 18 },
+          { "id": "ch05-ex12-it06", "prompt": "6. Le gourmand dévore, le gourmet déguste.", "sourcePage": 18 },
+          { "id": "ch05-ex12-it07", "prompt": "7. La pluie tombait et la mer était agitée.", "sourcePage": 18 }
+        ],
+        "answerKey": [
+          "1. Juxtaposition de trois phrases",
+          "2. Subordination",
+          "3. Juxtaposition de deux phrases",
+          "4. Coordination de deux phrases",
+          "5. Subordination",
+          "6. Juxtaposition de deux phrases",
+          "7. Coordination de deux phrases"
+        ],
+        "sourcePages": {
+          "start": 18,
+          "end": 18
+        }
+      },
+      {
+        "id": "chapter-05-exercise-13",
+        "title": "Exercice 13",
+        "instructions": "Choisissez quand, quant ou qu’en.",
+        "items": [
+          { "id": "ch05-ex13-it01", "prompt": "1. Chaque année, _____________ vient l’été, toute la famille s’installe au chalet.", "sourcePage": 19 },
+          { "id": "ch05-ex13-it02", "prompt": "2. Nous allons prendre le modèle CX-33. _____________ pensez-vous ?", "sourcePage": 19 },
+          { "id": "ch05-ex13-it03", "prompt": "3. Je fais tout ce que je veux, ce _____________ disent mes amis, je m’en moque.", "sourcePage": 19 },
+          { "id": "ch05-ex13-it04", "prompt": "4. Richard a tout oublié. _____________ à moi, j’y pense encore tous les jours.", "sourcePage": 19 },
+          { "id": "ch05-ex13-it05", "prompt": "5. J’ai des tas de factures à payer. _____________ penses-tu me rendre mon argent ?", "sourcePage": 19 }
+        ],
+        "answerKey": [
+          "1. quand",
+          "2. Qu’en",
+          "3. qu’en",
+          "4. Quant",
+          "5. Quand"
+        ],
+        "sourcePages": {
+          "start": 19,
+          "end": 19
+        }
+      },
+      {
+        "id": "chapter-05-exercise-14",
+        "title": "Exercice 14",
+        "instructions": "Choisissez quant à ou tant qu’à.",
+        "items": [
+          { "id": "ch05-ex14-it01", "prompt": "1. _____________ travailler pendant les vacances, mieux vaut ne pas louer de chalet.", "sourcePage": 20 },
+          { "id": "ch05-ex14-it02", "prompt": "2. J’aime bien le chocolat. _____________ mon frère, il n’en supporte pas l’odeur.", "sourcePage": 20 },
+          { "id": "ch05-ex14-it03", "prompt": "3. Mon chien passera les vacances chez mes parents. _____________ chat, on ne lui a pas encore trouvé de place.", "sourcePage": 20 },
+          { "id": "ch05-ex14-it04", "prompt": "4. _____________ y être, restons une nuit de plus ici.", "sourcePage": 20 }
+        ],
+        "answerKey": [
+          "1. Tant qu’à",
+          "2. Quant à",
+          "3. Quant au",
+          "4. Tant qu’à"
+        ],
+        "sourcePages": {
+          "start": 20,
+          "end": 20
+        }
+      },
+      {
+        "id": "chapter-05-exercise-15",
+        "title": "Exercice 15",
+        "instructions": "Choisissez ou ou où.",
+        "items": [
+          { "id": "ch05-ex15-it01", "prompt": "1. Il faut qu’il se décide maintenant : _________ il me le donne _________ il le garde.", "sourcePage": 20 },
+          { "id": "ch05-ex15-it02", "prompt": "2. Marc-Antoine, _________ as-tu mis mon livre de comptabilité financière ?", "sourcePage": 20 },
+          { "id": "ch05-ex15-it03", "prompt": "3. C’est la dernière fois que je te le demande, dis-le-moi _________ je me fâche.", "sourcePage": 20 },
+          { "id": "ch05-ex15-it04", "prompt": "4. La ville _________ je suis né a été rasée par un formidable incendie qui a eu lieu en 1950.", "sourcePage": 20 },
+          { "id": "ch05-ex15-it05", "prompt": "5. Je n’en peux plus de chercher, dis-moi _________ tu as rangé mes outils de jardinage.", "sourcePage": 20 }
+        ],
+        "answerKey": [
+          "1. ou / ou",
+          "2. où",
+          "3. ou",
+          "4. où",
+          "5. où"
+        ],
+        "sourcePages": {
+          "start": 20,
+          "end": 20
+        }
+      }
+    ],
+    "sourceCoverage": {
+      "extractedSections": [
+        "5.1 LA JUXTAPOSITION",
+        "5.2 LA COORDINATION",
+        "5.3 LA SUBORDINATION",
+        "5.4 CONFUSION HOMOPHONIQUE",
+        "CORRIGÉS DES EXERCICES"
+      ],
+      "extractedPageRanges": [
+        "1-26"
+      ],
+      "unreadableContent": [],
+      "itemsRequiringReview": []
+    }
+  }
+}

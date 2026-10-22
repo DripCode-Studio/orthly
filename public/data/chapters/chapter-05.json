@@ -1,0 +1,633 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "chapter-05",
+  "number": 5,
+  "slug": "la-phrase-complexe",
+  "title": "La phrase complexe",
+  "description": "Relier des phrases entre elles par la juxtaposition, la coordination et la subordination, choisir les pronoms relatifs, construire une interrogation indirecte et résoudre les confusions homophoniques du chapitre.",
+  "estimatedMinutes": 75,
+  "color": "#58cc02",
+  "learningObjectives": [
+    { "id": "chapter-05-objective-01", "text": "Distinguer la juxtaposition, la coordination et la subordination dans un texte.", "topicIds": ["phrase-jonction"] },
+    { "id": "chapter-05-objective-02", "text": "Identifier le rapport exprimé par un signe de ponctuation ou par un coordonnant.", "topicIds": ["juxtaposition", "coordination"] },
+    { "id": "chapter-05-objective-03", "text": "Construire et analyser une subordonnée complétive, relative ou complément de phrase.", "topicIds": ["subordination", "pronoms-relatifs"] },
+    { "id": "chapter-05-objective-04", "text": "Transformer une interrogation directe en interrogation indirecte.", "topicIds": ["interrogation-indirecte"] },
+    { "id": "chapter-05-objective-05", "text": "Résoudre les confusions homophoniques entre quand, quant à et qu'en, et entre ou et où.", "topicIds": ["homophones"] }
+  ],
+  "sections": [
+    {
+      "id": "chapter-05-section-01",
+      "title": "La juxtaposition",
+      "order": 1,
+      "introduction": "Relier deux phrases par un simple signe de ponctuation : c'est la juxtaposition. Le rapport n'est pas marqué par un connecteur, mais la ponctuation peut encore exprimer une addition, une explication, une conséquence ou une opposition.",
+      "concepts": [
+        {
+          "id": "chapter-05-concept-01",
+          "title": "Les trois mécanismes de jonction",
+          "topicIds": ["phrase-jonction"],
+          "explanation": "Une phrase complexe réunit plusieurs phrases. Trois mécanismes permettent de les joindre : la juxtaposition, la coordination et la subordination. C'est en agençant des phrases qu'on construit un raisonnement, un paragraphe, un texte.",
+          "definition": "Les principaux mécanismes de jonction de phrases sont la juxtaposition, la coordination et la subordination.",
+          "rules": [
+            {
+              "id": "chapter-05-rule-01",
+              "text": "La phrase de base se décrit ainsi : Phrase = Sujet + Prédicat + (Complément de phrase).",
+              "exceptions": [],
+              "source": { "page": 1 }
+            },
+            {
+              "id": "chapter-05-rule-02",
+              "text": "La juxtaposition lie les phrases à l'aide d'un signe de ponctuation, sans connecteur.",
+              "exceptions": [],
+              "source": { "page": 1 }
+            },
+            {
+              "id": "chapter-05-rule-03",
+              "text": "La coordination lie les phrases à l'aide d'un coordonnant (conjonction de coordination ou adverbe) qui marque un rapport particulier.",
+              "exceptions": [],
+              "source": { "page": 3 }
+            },
+            {
+              "id": "chapter-05-rule-04",
+              "text": "Avec la subordination, une phrase (la subordonnée) est enchâssée dans une autre à l'aide d'un subordonnant.",
+              "exceptions": [],
+              "source": { "page": 6 }
+            }
+          ],
+          "steps": [],
+          "examples": [
+            {
+              "id": "chapter-05-example-01",
+              "text": "L’équipe en génie civil a fini en première position : elle s’est rapidement démarquée, car elle a suivi un entraînement constant.",
+              "highlight": [],
+              "explanation": "Trois phrases : la première est juxtaposée à la deuxième par un deux-points, la deuxième est coordonnée à la troisième par la conjonction de coordination « car ».",
+              "source": { "page": 1, "section": "5.1", "kind": "source" }
+            }
+          ],
+          "exceptions": [],
+          "commonMistakes": [],
+          "takeaway": "Avant d'analyser une phrase complexe, repère d'abord les phrases simples qu'elle contient, puis le mécanisme qui les joint.",
+          "sourceReferences": [{ "page": 1, "section": "5.1" }, { "page": 3, "section": "5.2" }, { "page": 6, "section": "5.3" }]
+        },
+        {
+          "id": "chapter-05-concept-02",
+          "title": "Le rapport exprimé par le signe de ponctuation",
+          "topicIds": ["juxtaposition"],
+          "explanation": "Même sans connecteur, un signe de ponctuation peut exprimer un rapport logique entre deux phrases. Le deux-points annonce le plus souvent une explication ou une conséquence; le point-virgule marque l'opposition ou unit des phrases étroitement liées; la virgule exprime l'addition, la succession ou l'opposition.",
+          "definition": "La juxtaposition consiste à lier des phrases à l'aide d'un signe de ponctuation, qui peut exprimer l'addition, l'explication, la cause, la conséquence ou l'opposition.",
+          "rules": [
+            {
+              "id": "chapter-05-rule-05",
+              "text": "La virgule exprime l'addition, la succession (énumération) ou l'opposition.",
+              "exceptions": [],
+              "source": { "page": 2 }
+            },
+            {
+              "id": "chapter-05-rule-06",
+              "text": "Le deux-points amène l'explication, la cause ou la conséquence.",
+              "exceptions": [],
+              "source": { "page": 2 }
+            },
+            {
+              "id": "chapter-05-rule-07",
+              "text": "Le point-virgule exprime l'opposition ou sépare des phrases étroitement liées par le sens.",
+              "exceptions": [],
+              "source": { "page": 2 }
+            }
+          ],
+          "steps": [],
+          "examples": [
+            {
+              "id": "chapter-05-example-02",
+              "text": "Elle se couche, elle ferme les yeux, elle dort profondément.",
+              "highlight": [],
+              "explanation": "Trois phrases juxtaposées par la virgule : le rapport exprimé est l'addition, la succession.",
+              "source": { "page": 2, "section": "5.1", "kind": "source" }
+            },
+            {
+              "id": "chapter-05-example-03",
+              "text": "Les hôtels étaient complets : ils couchèrent à la belle étoile.",
+              "highlight": [],
+              "explanation": "Le deux-point amène la conséquence.",
+              "source": { "page": 2, "section": "5.1", "kind": "source" }
+            },
+            {
+              "id": "chapter-05-example-04",
+              "text": "Il est sédentaire ; son frère ne fait que rêver.",
+              "highlight": [],
+              "explanation": "Le point-virgule exprime l'opposition.",
+              "source": { "page": 2, "section": "5.1", "kind": "source" }
+            }
+          ],
+          "exceptions": [],
+          "commonMistakes": [],
+          "takeaway": "Devant un deux-points, un point-virgule ou une virgule, demande-toi quelle relation logique est exprimée : addition, explication, conséquence ou opposition.",
+          "sourceReferences": [{ "page": 1, "section": "5.1" }, { "page": 2, "section": "5.1" }]
+        }
+      ],
+      "summary": [
+        "Trois mécanismes de jonction : juxtaposition, coordination, subordination.",
+        "La juxtaposition passe par un signe de ponctuation : virgule, deux-points ou point-virgule.",
+        "Chaque signe exprime un rapport : addition, succession, explication, cause, conséquence ou opposition."
+      ],
+      "sourceReferences": [{ "page": 1, "section": "5.1" }, { "page": 2, "section": "5.1" }]
+    },
+    {
+      "id": "chapter-05-section-02",
+      "title": "La coordination",
+      "order": 2,
+      "introduction": "La coordination relie deux phrases autonomes à l'aide d'un coordonnant qui rend explicite le rapport entre elles : addition, cause, conséquence, opposition. Le coordonnant appartient à aucune des deux phrases.",
+      "concepts": [
+        {
+          "id": "chapter-05-concept-03",
+          "title": "Le coordonnant et le rapport qu'il marque",
+          "topicIds": ["coordination"],
+          "explanation": "Un coordignant est une conjonction de coordination ou un adverbe qui relie deux phrases autonomes et précise la relation qui les unit. Chaque coordonnant correspond à un rapport dominant : « car » à la cause, « donc » à la conséquence, « mais » et « or » à l'opposition.",
+          "definition": "La coordination consiste à relier des phrases à l'aide d'un coordonnant (conjonction de coordination ou adverbe) qui marque un rapport particulier entre les phrases.",
+          "rules": [
+            {
+              "id": "chapter-05-rule-08",
+              "text": "Les principaux coordonnants sont mais, ou, et, donc, car, ni, or, cependant, toutefois, pourtant, puis, ensuite, c'est pourquoi.",
+              "exceptions": [],
+              "source": { "page": 3 }
+            },
+            {
+              "id": "chapter-05-rule-09",
+              "text": "Le coordonnant n'appartient ni à la 1re ni à la 2e phrase : les deux phrases sont autonomes et pourraient exister seules.",
+              "exceptions": [],
+              "source": { "page": 3 }
+            },
+            {
+              "id": "chapter-05-rule-10",
+              "text": "Plusieurs coordonnants doivent généralement être précédés d'une virgule : mais, car, donc, or, puis, ensuite.",
+              "exceptions": ["Même avec la virgule, les phrases restent coordonnées : le coordonnant crée un lien plus explicite que le signe de ponctuation."],
+              "source": { "page": 3 }
+            },
+            {
+              "id": "chapter-05-rule-11",
+              "text": "La coordination peut entraîner l'effacement d'éléments communs : dans la 2e phrase, le sujet n'est pas répété lorsqu'il est facilement repérable.",
+              "exceptions": [],
+              "source": { "page": 4 }
+            }
+          ],
+          "steps": [],
+          "examples": [
+            {
+              "id": "chapter-05-example-05",
+              "text": "Je ferai ma recherche et je serai chez toi à 17 h.",
+              "highlight": [],
+              "explanation": "Deux phrases autonomes liées par « et » : la conjonction n'appartient ni à la 1re ni à la 2e phrase.",
+              "source": { "page": 3, "section": "5.2", "kind": "source" }
+            },
+            {
+              "id": "chapter-05-example-06",
+              "text": "Ne prenez pas ces médicaments, car ils sont périmés.",
+              "highlight": [],
+              "explanation": "Coordination avec « car » : le rapport exprimé est la cause.",
+              "source": { "page": 3, "section": "5.2", "kind": "source" }
+            },
+            {
+              "id": "chapter-05-example-07",
+              "text": "La logique de son raisonnement est implacable, or ses idées sont impopulaires.",
+              "highlight": [],
+              "explanation": "Coordination avec « or » : le rapport exprimé est l'opposition.",
+              "source": { "page": 3, "section": "5.2", "kind": "source" }
+            },
+            {
+              "id": "chapter-05-example-08",
+              "text": "Yan et Léa se sont rencontrés par hasard et ont décidé d’aller danser.",
+              "highlight": [],
+              "explanation": "Effacement d'éléments communs : dans la 2e phrase, le sujet n'est pas répété, car il est facilement repérable.",
+              "source": { "page": 4, "section": "5.2", "kind": "source" }
+            }
+          ],
+          "exceptions": [],
+          "commonMistakes": [],
+          "takeaway": "Un coordignant appartient à aucune des phrases qu'il relie : si tu peux isoler chacune des deux phrases, elles sont coordonnées.",
+          "sourceReferences": [{ "page": 3, "section": "5.2" }, { "page": 4, "section": "5.2" }]
+        }
+      ],
+      "summary": [
+        "Le coordonnant n'appartient à aucune des phrases reliées : celles-ci restent autonomes.",
+        "« car » exprime la cause, « donc » la conséquence, « mais » et « or » l'opposition.",
+        "La virgule précède souvent le coordonnant, sans changer la nature de la jonction.",
+        "L'effacement d'éléments communs est fréquent dans la coordination et la juxtaposition."
+      ],
+      "sourceReferences": [{ "page": 3, "section": "5.2" }, { "page": 4, "section": "5.2" }]
+    },
+    {
+      "id": "chapter-05-section-03",
+      "title": "La subordination",
+      "order": 3,
+      "introduction": "Avec la subordination, une phrase est enchâssée dans une autre : la subordonnée n'est pas autonome, elle dépend syntaxiquement de la phrase principale. Il y a subordination lorsqu'une phrase en contient une autre.",
+      "concepts": [
+        {
+          "id": "chapter-05-concept-04",
+          "title": "La subordonnée : une phrase enchâssée",
+          "topicIds": ["subordination"],
+          "explanation": "La subordonnée est elle-même une phrase : elle contient un sujet et un prédicat, auquel s'ajoute un subordonnant. Selon la fonction qu'elle occupe dans la phrase principale, on distingue les subordonnées complétives, relatives et compléments de phrase.",
+          "definition": "La subordonnée est une phrase enchâssée dans une autre à l'aide d'un subordonnant ; elle dépend syntaxiquement de la phrase principale.",
+          "rules": [
+            {
+              "id": "chapter-05-rule-12",
+              "text": "Une subordonnée peut prendre la place d'un groupe de l'adjectif (subordonnée relative).",
+              "exceptions": [],
+              "source": { "page": 6 }
+            },
+            {
+              "id": "chapter-05-rule-13",
+              "text": "Une subordonnée peut prendre la place d'un groupe du nom ou d'un groupe prépositionnel (subordonnée complétive).",
+              "exceptions": [],
+              "source": { "page": 6 }
+            },
+            {
+              "id": "chapter-05-rule-14",
+              "text": "Une subordonnée peut prendre la place d'un groupe adverbial ou d'un groupe prépositionnel (subordonnée complément de phrase).",
+              "exceptions": [],
+              "source": { "page": 6 }
+            },
+            {
+              "id": "chapter-05-rule-15",
+              "text": "La subordonnée complément de phrase contient généralement une conjonction de subordination, un groupe sujet et un groupe prédicat.",
+              "exceptions": [],
+              "source": { "page": 14 }
+            }
+          ],
+          "steps": [],
+          "examples": [
+            {
+              "id": "chapter-05-example-09",
+              "text": "Quand j’aurai fait ma recherche, je me rendrai chez toi.",
+              "highlight": [],
+              "explanation": "La subordonnée « Quand j'aurai fait ma recherche » occupe la place du complément de phrase : « je ferai ma recherche / et / je me rendrai chez toi » serait une simple coordination.",
+              "source": { "page": 6, "section": "5.3", "kind": "source" }
+            },
+            {
+              "id": "chapter-05-example-10",
+              "text": "Je regrette que Pierre parte.",
+              "highlight": [],
+              "explanation": "La subordonnée complétive « que Pierre parte » remplace le groupe du nom « le départ de Pierre ».",
+              "source": { "page": 6, "section": "5.3", "kind": "source" }
+            }
+          ],
+          "exceptions": [],
+          "commonMistakes": [],
+          "takeaway": "Pose la question : la phrase enchâssée peut-elle exister seule ? Si non, c'est une subordonnée.",
+          "sourceReferences": [{ "page": 6, "section": "5.3" }, { "page": 14, "section": "5.3" }]
+        },
+        {
+          "id": "chapter-05-concept-05",
+          "title": "Les subordonnées complétives et l'interrogation indirecte",
+          "topicIds": ["subordination", "interrogation-indirecte"],
+          "explanation": "Les subordonnées complétives remplacent souvent un groupe du nom ou un groupe prépositionnel. Elles dépendent d'un verbe, d'un nom, d'un pronom ou d'un adjectif et sont introduites le plus souvent par « que ». C'est aussi la structure qui permet de transformer une interrogation directe en interrogation indirecte.",
+          "definition": "Les subordonnées complétives dépendent généralement d'un verbe, d'un nom, d'un pronom ou d'un adjectif et sont souvent introduites par la conjonction de subordination « que ».",
+          "rules": [
+            {
+              "id": "chapter-05-rule-16",
+              "text": "Les subordonnées complétives peuvent souvent remplacer un groupe du nom ou un groupe prépositionnel : Je veux ton succès → Je veux que tu réussisses.",
+              "exceptions": [],
+              "source": { "page": 7 }
+            },
+            {
+              "id": "chapter-05-rule-17",
+              "text": "L'interrogation indirecte se termine par un point (et non par un point d'interrogation), puisqu'elle est de type déclaratif.",
+              "exceptions": [],
+              "source": { "page": 8 }
+            },
+            {
+              "id": "chapter-05-rule-18",
+              "text": "Dans l'interrogation indirecte, on ne peut utiliser l'inversion du sujet ni la formule « est-ce que » ou « est-ce qui », réservées à l'interrogation directe.",
+              "exceptions": [],
+              "source": { "page": 8 }
+            }
+          ],
+          "steps": [
+            { "id": "chapter-05-step-01", "text": "Repérer la question directe à transformer." },
+            { "id": "chapter-05-step-02", "text": "La placer dans une subordonnée complétive introduite par « que », « si », « comment », « pourquoi », etc." },
+            { "id": "chapter-05-step-03", "text": "Retirer l'inversion du sujet et la formule « est-ce que », puis terminer par un point." }
+          ],
+          "examples": [
+            {
+              "id": "chapter-05-example-11",
+              "text": "Je me demande comment tu vas.",
+              "highlight": [],
+              "explanation": "Interrogation indirecte issue de « Comment vas-tu ? » : pas d'inversion du sujet et un point final au lieu d'un point d'interrogation.",
+              "source": { "page": 8, "section": "5.3", "kind": "source" }
+            },
+            {
+              "id": "chapter-05-example-12",
+              "text": "Je suis convaincu que tu réussiras.",
+              "highlight": [],
+              "explanation": "Subordonnée complétive dépendant de l'adjectif « convaincu » ; « que » est la conjonction la plus couramment employée.",
+              "source": { "page": 7, "section": "5.3", "kind": "source" }
+            }
+          ],
+          "exceptions": [],
+          "commonMistakes": [],
+          "takeaway": "Dans une interrogation indirecte : jamais d'inversion du sujet, jamais « est-ce que », et un point final.",
+          "sourceReferences": [{ "page": 7, "section": "5.3" }, { "page": 8, "section": "5.3" }]
+        },
+        {
+          "id": "chapter-05-concept-06",
+          "title": "Les subordonnées relatives et les pronoms relatifs",
+          "topicIds": ["subordination", "pronoms-relatifs"],
+          "explanation": "Une subordonnée relative est toujours introduite par un pronom de reprise, le pronom relatif, qui remplace un nom (son antécédent). Le choix du pronom dépend de la fonction du nom repris dans la 2e phrase : sujet, complément direct, complément indirect ou complément du nom.",
+          "definition": "Les subordonnées relatives sont toujours introduites par un pronom de reprise appelé pronom relatif : qui, que, quoi, dont, où, lequel, laquelle, lesquels, lesquelles.",
+          "rules": [
+            {
+              "id": "chapter-05-rule-19",
+              "text": "« Qui » remplit la fonction de sujet ; « que » remplit la fonction de complément direct.",
+              "exceptions": [],
+              "source": { "page": 11 }
+            },
+            {
+              "id": "chapter-05-rule-20",
+              "text": "« Dont » remplit la fonction de complément indirect ou de complément du nom qui commence par « de ».",
+              "exceptions": [],
+              "source": { "page": 11 }
+            },
+            {
+              "id": "chapter-05-rule-21",
+              "text": "« Où » remplit la fonction de complément indirect ou de complément de phrase, de lieu ou de temps.",
+              "exceptions": [],
+              "source": { "page": 11 }
+            },
+            {
+              "id": "chapter-05-rule-22",
+              "text": "Tous les pronoms relatifs peuvent être précédés d'une préposition : à qui, avec qui, chez qui, pour laquelle, de laquelle, pendant lequel.",
+              "exceptions": [],
+              "source": { "page": 10 }
+            },
+            {
+              "id": "chapter-05-rule-23",
+              "text": "Attention à la contraction de lequel, lesquels, lesquelles avec « à » et « de » : à + lequel = auquel, à + lesquels = auxquels, de + lequel = duquel, de + lesquels = desquels.",
+              "exceptions": [],
+              "source": { "page": 10 }
+            }
+          ],
+          "steps": [
+            { "id": "chapter-05-step-04", "text": "Écrire la 2e phrase avec le nom à la place du pronom relatif." },
+            { "id": "chapter-05-step-05", "text": "Repérer la fonction du nom dans cette 2e phrase : sujet, complément direct, complément indirect ou complément du nom." },
+            { "id": "chapter-05-step-06", "text": "Choisir le pronom relatif correspondant : qui, que, dont, où, ou la forme en lequel/lequel/lesquels." }
+          ],
+          "examples": [
+            {
+              "id": "chapter-05-example-13",
+              "text": "La forêt qui a brûlé était magnifique.",
+              "highlight": [],
+              "explanation": "Dans la 2e phrase (« La forêt a brûlé »), la forêt est sujet : on a choisi « qui ».",
+              "source": { "page": 11, "section": "5.3", "kind": "source" }
+            },
+            {
+              "id": "chapter-05-example-14",
+              "text": "La forêt que je traverse est magnifique.",
+              "highlight": [],
+              "explanation": "Dans la 2e phrase (« Je traverse la forêt »), la forêt est un complément direct : on a choisi « que ».",
+              "source": { "page": 11, "section": "5.3", "kind": "source" }
+            },
+            {
+              "id": "chapter-05-example-15",
+              "text": "La forêt dont Pierre parle est magnifique.",
+              "highlight": [],
+              "explanation": "Dans la 2e phrase (« Pierre parle de la forêt »), « de la forêt » est un complément indirect : on a choisi « dont ».",
+              "source": { "page": 11, "section": "5.3", "kind": "source" }
+            },
+            {
+              "id": "chapter-05-example-16",
+              "text": "Marc-Antoine, qui enseigne les mathématiques, serait un bon candidat.",
+              "highlight": [],
+              "explanation": "Le pronom relatif « qui » a pour antécédent le nom « Marc-Antoine » : il le reprend dans la 2e phrase.",
+              "source": { "page": 10, "section": "5.3", "kind": "source" }
+            }
+          ],
+          "exceptions": [],
+          "commonMistakes": [],
+          "takeaway": "Pour choisir le pronom relatif, écris la 2e phrase complète et regarde la fonction du nom repris.",
+          "sourceReferences": [{ "page": 10, "section": "5.3" }, { "page": 11, "section": "5.3" }]
+        },
+        {
+          "id": "chapter-05-concept-07",
+          "title": "Les subordonnées compléments de phrase et leurs valeurs",
+          "topicIds": ["subordination"],
+          "explanation": "La subordonnée complément de phrase exprime une valeur logique : temps, cause, conséquence, but, condition, concession, comparaison ou opposition. Chaque valeur correspond à des conjonctions de subordination précises.",
+          "definition": "Les subordonnées compléments de phrase expriment différentes valeurs : temps, cause, conséquence, but, condition, concession, comparaison, opposition.",
+          "rules": [
+            {
+              "id": "chapter-05-rule-24",
+              "text": "Valeur condition : si, dans la mesure où, à condition que.",
+              "exceptions": [],
+              "source": { "page": 15 }
+            },
+            {
+              "id": "chapter-05-rule-25",
+              "text": "Valeur but : pour que, afin que, pour ne pas que, afin de.",
+              "exceptions": [],
+              "source": { "page": 15 }
+            },
+            {
+              "id": "chapter-05-rule-26",
+              "text": "Valeur cause : comme, parce que, puisque, étant donné que.",
+              "exceptions": [],
+              "source": { "page": 15 }
+            },
+            {
+              "id": "chapter-05-rule-27",
+              "text": "Valeur conséquence : de sorte que, au point que, si bien que.",
+              "exceptions": [],
+              "source": { "page": 15 }
+            },
+            {
+              "id": "chapter-05-rule-28",
+              "text": "Valeur opposition : tandis que, alors que.",
+              "exceptions": [],
+              "source": { "page": 15 }
+            },
+            {
+              "id": "chapter-05-rule-29",
+              "text": "Valeur comparaison : comme, de même que.",
+              "exceptions": [],
+              "source": { "page": 15 }
+            },
+            {
+              "id": "chapter-05-rule-30",
+              "text": "Valeur concession : même si, bien que, quoique.",
+              "exceptions": [],
+              "source": { "page": 15 }
+            },
+            {
+              "id": "chapter-05-rule-31",
+              "text": "Valeur temps : alors que, pendant que, quand, avant que.",
+              "exceptions": [],
+              "source": { "page": 15 }
+            }
+          ],
+          "steps": [],
+          "examples": [
+            {
+              "id": "chapter-05-example-17",
+              "text": "Quand le soleil se lèvera, j'irai le chercher.",
+              "highlight": [],
+              "explanation": "Subordonnée complément de phrase : conjonction de subordination + GN (sujet) + GV (prédicat). Sa valeur est le temps.",
+              "source": { "page": 14, "section": "5.3", "kind": "source" }
+            },
+            {
+              "id": "chapter-05-example-18",
+              "text": "Les réseaux sociaux devraient être interdits aux moins de 16 ans parce que ces plateformes ont un pouvoir d’influence beaucoup trop grand en regard de la capacité d’analyse.",
+              "highlight": [],
+              "explanation": "La subordonnée complément de phrase introduite par « parce que » exprime la cause.",
+              "source": { "page": 15, "section": "5.3", "kind": "source" }
+            },
+            {
+              "id": "chapter-05-example-19",
+              "text": "Même si les individus font des efforts pour réduire leur empreinte écologique, l’intensité des changements climatiques ne diminuera pas si les gouvernements n’adoptent des orientations claires.",
+              "highlight": [],
+              "explanation": "« Même si » exprime la concession; « si » à la fin de la phrase exprime la condition.",
+              "source": { "page": 15, "section": "5.3", "kind": "source" }
+            }
+          ],
+          "exceptions": [],
+          "commonMistakes": [],
+          "takeaway": "La conjonction de subordination indique la valeur de la subordonnée : mémorise la liste des valeurs et de leurs conjonctions.",
+          "sourceReferences": [{ "page": 14, "section": "5.3" }, { "page": 15, "section": "5.3" }]
+        }
+      ],
+      "summary": [
+        "La subordonnée est enchâssée dans la phrase principale : elle n'est pas autonome.",
+        "Selon sa fonction : complétive (que), relative (pronoun relatif) ou complément de phrase (temps, cause, but…).",
+        "Interrogation indirecte : pas d'inversion du sujet, pas de « est-ce que », un point final.",
+        "Le pronom relatif se choisit selon la fonction du nom repris : qui (sujet), que (CD), dont (CI), où (lieu, temps)."
+      ],
+      "sourceReferences": [{ "page": 6, "section": "5.3" }, { "page": 15, "section": "5.3" }]
+    },
+    {
+      "id": "chapter-05-section-04",
+      "title": "La confusion homophonique",
+      "order": 4,
+      "introduction": "Trois paires de mots se prononcent pareil : quand, quant à et qu'en ; ou et où ; quant à et tant qu'à. Le test de remplacement permet de trancher rapidement.",
+      "concepts": [
+        {
+          "id": "chapter-05-concept-08",
+          "title": "Quand, quant à et qu'en",
+          "topicIds": ["homophones"],
+          "explanation": "« Quand » est une conjonction de temps qu'on peut remplacer par « lorsque » ou « à quel moment ». « Quant à » est une locution prépositive suivie d'un nom ou d'un pronom, qui signifie « pour ce qui est de, en ce qui concerne ». « Qu'en » est la forme élidée de « que » suivi de « en ».",
+          "definition": "Quand est une conjonction ; quant à est une locution prépositionnelle ; qu'en est la forme élidée de la conjonction « que » suivi du mot « en ».",
+          "rules": [
+            {
+              "id": "chapter-05-rule-32",
+              "text": "« Quand » se remplace par « lorsque » ou « à quel moment ».",
+              "exceptions": [],
+              "source": { "page": 19 }
+            },
+            {
+              "id": "chapter-05-rule-33",
+              "text": "« Quant à » se remplace par « en ce qui concerne » ou « pour ce qui est de » et est généralement suivi d'un nom ou d'un pronom.",
+              "exceptions": [],
+              "source": { "page": 19 }
+            },
+            {
+              "id": "chapter-05-rule-34",
+              "text": "« Qu'en » est la forme élidée de « que » + « en », où « en » peut être une préposition ou un pronom.",
+              "exceptions": [],
+              "source": { "page": 19 }
+            },
+            {
+              "id": "chapter-05-rule-35",
+              "text": "« Quant à » ne se confond pas avec « tant qu'à » : « tant qu'à » se construit avec un verbe et signifie « s'il le faut ».",
+              "exceptions": [],
+              "source": { "page": 20 }
+            }
+          ],
+          "steps": [],
+          "examples": [
+            {
+              "id": "chapter-05-example-20",
+              "text": "Il est parti chez lui lorsqu’il en a eu assez de m’entendre chanter.",
+              "highlight": [],
+              "explanation": "Test de remplacement réussi : « quand » peut devenir « lorsqu'il ».",
+              "source": { "page": 19, "section": "5.4", "kind": "source" }
+            },
+            {
+              "id": "chapter-05-example-21",
+              "text": "Je n’y crois pas du tout, en ce qui concerne Louis, il n’y croit pas non plus.",
+              "highlight": [],
+              "explanation": "Test de remplacement réussi : « quant à » peut devenir « en ce qui concerne ».",
+              "source": { "page": 19, "section": "5.4", "kind": "source" }
+            },
+            {
+              "id": "chapter-05-example-22",
+              "text": "Je pense que en été, il fait trop chaud pour construire cet abri.",
+              "highlight": [],
+              "explanation": "« Qu'en » est la forme élidée : « que en été » se complète en « que, en été, il fait trop chaud ».",
+              "source": { "page": 19, "section": "5.4", "kind": "source" }
+            },
+            {
+              "id": "chapter-05-example-23",
+              "text": "Tant qu’à travailler pendant les vacances, mieux vaut ne pas louer de chalet.",
+              "highlight": [],
+              "explanation": "« Tant qu'à » se construit avec un verbe et signifie « s'il le faut ».",
+              "source": { "page": 20, "section": "5.4", "kind": "source" }
+            }
+          ],
+          "exceptions": [],
+          "commonMistakes": [],
+          "takeaway": "Devant un blanc, remplace le mot par son synonyme : si la phrase reste correcte, tu as le bon mot.",
+          "sourceReferences": [{ "page": 19, "section": "5.4" }, { "page": 20, "section": "5.4" }]
+        },
+        {
+          "id": "chapter-05-concept-09",
+          "title": "Ou et où",
+          "topicIds": ["homophones"],
+          "explanation": "« Ou » est une conjonction de coordination qu'on peut remplacer par « ou bien ». « Où » est un pronom relatif ou un mot interrogatif : le remplacement par « ou bien » échoue, ce qui le distingue.",
+          "definition": "Le mot « ou » est une conjonction de coordination ; le mot « où » est un pronom relatif ou un mot interrogatif.",
+          "rules": [
+            {
+              "id": "chapter-05-rule-36",
+              "text": "« Ou » se remplace par « ou bien » ; si le remplacement fonctionne, c'est une conjonction de coordination.",
+              "exceptions": [],
+              "source": { "page": 20 }
+            },
+            {
+              "id": "chapter-05-rule-37",
+              "text": "« Où » ne peut pas être remplacé par « ou bien » : c'est un pronom relatif ou un mot interrogatif, et il porte l'accent grave.",
+              "exceptions": [],
+              "source": { "page": 20 }
+            }
+          ],
+          "steps": [],
+          "examples": [
+            {
+              "id": "chapter-05-example-24",
+              "text": "Ce soir, tu viens chez moi ou bien je vais chez toi.",
+              "highlight": [],
+              "explanation": "Le remplacement par « ou bien » fonctionne : « ou » est bien une conjonction de coordination.",
+              "source": { "page": 20, "section": "5.4", "kind": "source" }
+            },
+            {
+              "id": "chapter-05-example-25",
+              "text": "Les troupes se sont rendues où le général voulait.",
+              "highlight": [],
+              "explanation": "Le remplacement par « ou bien » échoue : « où » est un pronom relatif.",
+              "source": { "page": 20, "section": "5.4", "kind": "source" }
+            }
+          ],
+          "exceptions": [],
+          "commonMistakes": [],
+          "takeaway": "« ou » sans accent relie deux idées ; « où » avec accent grave indique un lieu ou remplace un antécédent.",
+          "sourceReferences": [{ "page": 20, "section": "5.4" }]
+        }
+      ],
+      "summary": [
+        "« Quand » (conjonction de temps), « quant à » (locution prépositionnelle), « qu'en » (que + en).",
+        "« Tant qu'à » signifie « s'il le faut » et se construit avec un verbe.",
+        "« Ou » se remplace par « ou bien » ; « où » ne se remplace pas."
+      ],
+      "sourceReferences": [{ "page": 19, "section": "5.4" }, { "page": 20, "section": "5.4" }]
+    }
+  ],
+  "reviewNotes": [
+    {
+      "id": "chapter-05-review-01",
+      "description": "L'extraction source s'arrête à la page 20 pour les sections 5.1 à 5.4; le corrigé des exercices (pages 21 à 26) est conservé dans le fichier d'extraction.",
+      "sourcePage": 20
+    }
+  ]
+}

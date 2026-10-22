@@ -1,0 +1,536 @@
+{
+  "schemaVersion": "1.0.0",
+  "chapterId": "chapter-05",
+  "questionSetId": "chapter-05-core",
+  "title": "Pratique — Chapitre 5 : La phrase complexe",
+  "questions": [
+    {
+      "id": "ch05-q0001",
+      "type": "single_choice",
+      "prompt": "Comment classer la phrase suivante ?",
+      "stimulus": { "text": "Il va faire de l'orage : le ciel est noir." },
+      "options": [
+        { "id": "A", "text": "Une juxtaposition de deux phrases", "explanation": "" },
+        { "id": "B", "text": "Une coordination de deux phrases", "explanation": "Aucun coordonnant ne relie les deux phrases." },
+        { "id": "C", "text": "Une subordination", "explanation": "Aucune subordonnée n'est enchâssée dans l'autre phrase." },
+        { "id": "D", "text": "Un groupe nominal", "explanation": "La phrase contient bien deux propositions, pas un seul groupe nominal." }
+      ],
+      "answer": {
+        "correctOptionIds": ["A"],
+        "explanation": "Les deux propositions sont reliées par un deux-points, sans connecteur : c'est une juxtaposition. Le deux-points introduit ici une explication (le ciel est noir explique l'orage)."
+      },
+      "difficulty": "beginner",
+      "topicIds": ["phrase-jonction"],
+      "sectionIds": ["chapter-05-section-01"],
+      "learningObjectiveIds": ["chapter-05-objective-01"],
+      "examCategories": ["syntaxe"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 18, "section": "5.3" }],
+      "reviewStatus": "needs_review"
+    },
+    {
+      "id": "ch05-q0002",
+      "type": "single_choice",
+      "prompt": "Quel rapport la virgule exprime-t-elle dans la phrase suivante ?",
+      "stimulus": { "text": "Certains font très attention à leur alimentation, d’autres se contentent de n’importe quoi.", "highlightedText": "d’autres se contentent" },
+      "options": [
+        { "id": "A", "text": "L'addition, la succession", "explanation": "" },
+        { "id": "B", "text": "L'opposition", "explanation": "Ce serait le rapport exprimé si les deux idées s'opposaient." },
+        { "id": "C", "text": "L'explication", "explanation": "L'explication serait amenée par un deux-points." },
+        { "id": "D", "text": "La conséquence", "explanation": "La conséquence serait elle aussi amenée par un deux-points." }
+      ],
+      "answer": {
+        "correctOptionIds": ["B"],
+        "explanation": "La virgule exprime ici l'opposition : certains font attention à leur alimentation, d'autres se contentent de n'importe quoi. L'addition par la virgule convient à une énumération (elle se couche, elle ferme les yeux, elle dort)."
+      },
+      "difficulty": "beginner",
+      "topicIds": ["juxtaposition"],
+      "sectionIds": ["chapter-05-section-01"],
+      "learningObjectiveIds": ["chapter-05-objective-02"],
+      "examCategories": ["ponctuation"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 2, "section": "5.1" }],
+      "reviewStatus": "needs_review"
+    },
+    {
+      "id": "ch05-q0003",
+      "type": "single_choice",
+      "prompt": "Quel rapport le deux-points exprime-t-il dans la phrase suivante ?",
+      "stimulus": { "text": "Les hôtels étaient complets : ils couchèrent à la belle étoile.", "highlightedText": ":" },
+      "options": [
+        { "id": "A", "text": "La conséquence", "explanation": "" },
+        { "id": "B", "text": "L'addition", "explanation": "L'addition s'exprime plutôt par la virgule." },
+        { "id": "C", "text": "L'opposition", "explanation": "L'opposition par deux-points est moins courante; le point-virgule l'exprime." },
+        { "id": "D", "text": "La comparaison", "explanation": "La comparaison serait marquée par une conjonction de subordination comme « comme »." }
+      ],
+      "answer": {
+        "correctOptionIds": ["A"],
+        "explanation": "Le deux-point amène ici la conséquence : les hôtels étant complets, les voyageurs couchèrent à la belle étoile."
+      },
+      "difficulty": "beginner",
+      "topicIds": ["juxtaposition"],
+      "sectionIds": ["chapter-05-section-01"],
+      "learningObjectiveIds": ["chapter-05-objective-02"],
+      "examCategories": ["ponctuation", "syntaxe"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 2, "section": "5.1" }],
+      "reviewStatus": "needs_review"
+    },
+    {
+      "id": "ch05-q0004",
+      "type": "single_choice",
+      "prompt": "Quel est le rapport exprimé par le coordonnant en évidence ?",
+      "stimulus": { "text": "Ne prenez pas ces médicaments, car ils sont périmés.", "highlightedText": "car" },
+      "options": [
+        { "id": "A", "text": "La cause", "explanation": "" },
+        { "id": "B", "text": "La conséquence", "explanation": "La conséquence serait marquée par « donc » ou « par conséquent »." },
+        { "id": "C", "text": "L'opposition", "explanation": "L'opposition serait marquée par « mais » ou « or »." },
+        { "id": "D", "text": "La succession", "explanation": "La succession serait marquée par « et » ou « puis »." }
+      ],
+      "answer": {
+        "correctOptionIds": ["A"],
+        "explanation": "« Car » introduit la cause : les médicaments sont périmés, c'est pourquoi il ne faut pas les prendre."
+      },
+      "difficulty": "beginner",
+      "topicIds": ["coordination"],
+      "sectionIds": ["chapter-05-section-02"],
+      "learningObjectiveIds": ["chapter-05-objective-02"],
+      "examCategories": ["syntaxe"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 3, "section": "5.2" }],
+      "reviewStatus": "needs_review"
+    },
+    {
+      "id": "ch05-q0005",
+      "type": "single_choice",
+      "prompt": "Quel est le rapport exprimé par le coordonnant en évidence ?",
+      "stimulus": { "text": "La logique de son raisonnement est implacable, or ses idées sont impopulaires.", "highlightedText": "or" },
+      "options": [
+        { "id": "A", "text": "L'opposition", "explanation": "" },
+        { "id": "B", "text": "La cause", "explanation": "La cause serait marquée par « car » ou « parce que »." },
+        { "id": "C", "text": "La conséquence", "explanation": "La conséquence serait marquée par « donc »." },
+        { "id": "D", "text": "L'addition", "explanation": "L'addition serait marquée par « et » ou « de plus »." }
+      ],
+      "answer": {
+        "correctOptionIds": ["A"],
+        "explanation": "« Or » introduit un contraste entre deux idées : le raisonnement est implacable, mais les idées sont impopulaires."
+      },
+      "difficulty": "beginner",
+      "topicIds": ["coordination"],
+      "sectionIds": ["chapter-05-section-02"],
+      "learningObjectiveIds": ["chapter-05-objective-02"],
+      "examCategories": ["syntaxe"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 3, "section": "5.2" }],
+      "reviewStatus": "needs_review"
+    },
+    {
+      "id": "ch05-q0006",
+      "type": "single_choice",
+      "prompt": "Dans la phrase suivante, la virgule précède le coordonnant « mais ». Quelle est la nature de la jonction ?",
+      "stimulus": { "text": "Il mange tous les jours au restaurant, mais il est maigre comme un fil." },
+      "options": [
+        { "id": "A", "text": "Une coordination, car le coordonnant crée un lien explicite entre deux phrases autonomes", "explanation": "" },
+        { "id": "B", "text": "Une juxtaposition, car il y a une virgule", "explanation": "La virgule seule ne suffit pas : c'est le coordonnant qui crée le lien." },
+        { "id": "C", "text": "Une subordination, car « il est maigre comme un fil » dépend de la première phrase", "explanation": "Aucune subordonnée n'est enchâssée ici." },
+        { "id": "D", "text": "Un groupe nominal avec apposition", "explanation": "Ce n'est pas un groupe nominal." }
+      ],
+      "answer": {
+        "correctOptionIds": ["A"],
+        "explanation": "Même avec une virgule devant le coordonnant, les phrases sont coordonnées : le coordonnant crée un lien plus explicite que le signe de ponctuation."
+      },
+      "difficulty": "intermediate",
+      "topicIds": ["coordination"],
+      "sectionIds": ["chapter-05-section-02"],
+      "learningObjectiveIds": ["chapter-05-objective-01", "chapter-05-objective-02"],
+      "examCategories": ["syntaxe", "ponctuation"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 3, "section": "5.2" }],
+      "reviewStatus": "needs_review"
+    },
+    {
+      "id": "ch05-q0007",
+      "type": "single_choice",
+      "prompt": "Quel est le mécanisme de jonction dominant dans la phrase suivante ?",
+      "stimulus": { "text": "J’espère que tu viendras." },
+      "options": [
+        { "id": "A", "text": "Une subordination", "explanation": "" },
+        { "id": "B", "text": "Une juxtaposition", "explanation": "Aucun signe de ponctuation ne relie ici deux phrases autonomes." },
+        { "id": "C", "text": "Une coordination", "explanation": "Il n'y a pas de coordonnant entre deux phrases autonomes." },
+        { "id": "D", "text": "Une phrase simple", "explanation": "La phrase contient une subordonnée complétive." }
+      ],
+      "answer": {
+        "correctOptionIds": ["A"],
+        "explanation": "« que tu viendras » est une subordonnée complétive : elle dépend du verbe « j'espère » et ne peut exister seule."
+      },
+      "difficulty": "beginner",
+      "topicIds": ["subordination"],
+      "sectionIds": ["chapter-05-section-03"],
+      "learningObjectiveIds": ["chapter-05-objective-01", "chapter-05-objective-03"],
+      "examCategories": ["syntaxe"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 18, "section": "5.3" }],
+      "reviewStatus": "needs_review"
+    },
+    {
+      "id": "ch05-q0008",
+      "type": "single_choice",
+      "prompt": "Quel pronom relatif faut-il insérer ?",
+      "stimulus": { "text": "J’aimerais retrouver la personne ______ a disparu.", "highlightedText": "______" },
+      "options": [
+        { "id": "A", "text": "qui", "explanation": "" },
+        { "id": "B", "text": "que", "explanation": "« que » remplacerait un complément direct, pas un sujet." },
+        { "id": "C", "text": "dont", "explanation": "« dont » remplacerait un complément indirect commençant par « de »." },
+        { "id": "D", "text": "où", "explanation": "« où » remplacerait un lieu ou un temps." }
+      ],
+      "answer": {
+        "correctOptionIds": ["A"],
+        "explanation": "Dans la 2e phrase (« Cette personne a disparu »), la personne est sujet : on choisit « qui »."
+      },
+      "difficulty": "beginner",
+      "topicIds": ["pronoms-relatifs"],
+      "sectionIds": ["chapter-05-section-03"],
+      "learningObjectiveIds": ["chapter-05-objective-03"],
+      "examCategories": ["syntaxe"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 12, "section": "5.3" }],
+      "reviewStatus": "needs_review"
+    },
+    {
+      "id": "ch05-q0009",
+      "type": "single_choice",
+      "prompt": "Quel pronom relatif faut-il insérer ?",
+      "stimulus": { "text": "L’histoire ______ j’ai entendu parler est passionnante.", "highlightedText": "______" },
+      "options": [
+        { "id": "A", "text": "dont", "explanation": "" },
+        { "id": "B", "text": "qui", "explanation": "« qui » remplacerait un sujet." },
+        { "id": "C", "text": "que", "explanation": "« que » remplacerait un complément direct, sans préposition." },
+        { "id": "D", "text": "où", "explanation": "« où » remplacerait un lieu ou un temps." }
+      ],
+      "answer": {
+        "correctOptionIds": ["A"],
+        "explanation": "Dans la 2e phrase (« J'ai entendu parler de cette histoire »), « de cette histoire » est un complément indirect : on choisit « dont »."
+      },
+      "difficulty": "intermediate",
+      "topicIds": ["pronoms-relatifs"],
+      "sectionIds": ["chapter-05-section-03"],
+      "learningObjectiveIds": ["chapter-05-objective-03"],
+      "examCategories": ["syntaxe"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 12, "section": "5.3" }],
+      "reviewStatus": "needs_review"
+    },
+    {
+      "id": "ch05-q0010",
+      "type": "single_choice",
+      "prompt": "Quelle correction est juste ?",
+      "stimulus": { "text": "Les cas qu’il parle devraient demeurer secrets." },
+      "options": [
+        { "id": "A", "text": "Les cas dont il parle devraient demeurer secrets.", "explanation": "" },
+        { "id": "B", "text": "Les cas qui il parle devraient demeurer secrets.", "explanation": "« qui » ne peut pas être sujet d'un verbe transitif comme « parler »." },
+        { "id": "C", "text": "Les cas que il parle devraient demeurer secrets.", "explanation": "« que » remplacerait un complément direct sans préposition." },
+        { "id": "D", "text": "Les cas où il parle devraient demeurer secrets.", "explanation": "« où » indiquerait un lieu ou un temps." }
+      ],
+      "answer": {
+        "correctOptionIds": ["A"],
+        "explanation": "La 2e phrase est « Il parle des cas » : « des cas » est un complément indirect commençant par « de », on choisit donc « dont »."
+      },
+      "difficulty": "intermediate",
+      "topicIds": ["pronoms-relatifs"],
+      "sectionIds": ["chapter-05-section-03"],
+      "learningObjectiveIds": ["chapter-05-objective-03"],
+      "examCategories": ["syntaxe", "orthographe_grammaticale"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 14, "section": "5.3" }],
+      "reviewStatus": "needs_review"
+    },
+    {
+      "id": "ch05-q0011",
+      "type": "single_choice",
+      "prompt": "Quelle correction est juste ?",
+      "stimulus": { "text": "Les excuses à les quelles il avait eu recours sont douteuses." },
+      "options": [
+        { "id": "A", "text": "Les excuses auxquelles il avait eu recours sont douteuses.", "explanation": "" },
+        { "id": "B", "text": "Les excuses à lesquelles il avait eu recours sont douteuses.", "explanation": "« lesquelles » ne peut pas suivre la préposition « à » : il faut la forme contractée." },
+        { "id": "C", "text": "Les excuses desquelles il avait eu recours sont douteuses.", "explanation": "« desquelles » exprimerait un complément du nom commençant par « de », pas une préposition « à »." },
+        { "id": "D", "text": "Les excuses que il avait eu recours sont douteuses.", "explanation": "« que » ne convient pas ici." }
+      ],
+      "answer": {
+        "correctOptionIds": ["A"],
+        "explanation": "La 2e phrase est « Il a eu recours à des excuses » : la préposition « à » se contracte avec « les » en « auxquelles » (à + les)."
+      },
+      "difficulty": "advanced",
+      "topicIds": ["pronoms-relatifs"],
+      "sectionIds": ["chapter-05-section-03"],
+      "learningObjectiveIds": ["chapter-05-objective-03"],
+      "examCategories": ["syntaxe", "orthographe_grammaticale"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 14, "section": "5.3" }],
+      "reviewStatus": "needs_review"
+    },
+    {
+      "id": "ch05-q0012",
+      "type": "single_choice",
+      "prompt": "Quelle est la valeur de la subordonnée complétive de phrase en évidence ?",
+      "stimulus": { "text": "Si le gouvernement gérait mieux les finances, les contribuables paieraient moins d’impôt.", "highlightedText": "Si le gouvernement gérait mieux les finances" },
+      "options": [
+        { "id": "A", "text": "La condition", "explanation": "" },
+        { "id": "B", "text": "La cause", "explanation": "La cause serait marquée par « parce que », « comme » ou « puisque »." },
+        { "id": "C", "text": "Le but", "explanation": "Le but serait marqué par « pour que » ou « afin que »." },
+        { "id": "D", "text": "La comparaison", "explanation": "La comparaison serait marquée par « comme » ou « de même que »." }
+      ],
+      "answer": {
+        "correctOptionIds": ["A"],
+        "explanation": "La conjonction « si » introduit la condition : si cette condition est remplie, la conséquence s'ensuit."
+      },
+      "difficulty": "beginner",
+      "topicIds": ["subordination"],
+      "sectionIds": ["chapter-05-section-03"],
+      "learningObjectiveIds": ["chapter-05-objective-03"],
+      "examCategories": ["syntaxe"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 15, "section": "5.3" }],
+      "reviewStatus": "needs_review"
+    },
+    {
+      "id": "ch05-q0013",
+      "type": "single_choice",
+      "prompt": "Quelle est la valeur de la subordonnée complétive de phrase en évidence ?",
+      "stimulus": { "text": "Pour que le monde numérique ne représente pas un danger, il faudrait minutieusement encadrer son fonctionnement.", "highlightedText": "Pour que le monde numérique ne représente pas un danger" },
+      "options": [
+        { "id": "A", "text": "Le but", "explanation": "" },
+        { "id": "B", "text": "La conséquence", "explanation": "La conséquence serait marquée par « de sorte que » ou « si bien que »." },
+        { "id": "C", "text": "La condition", "explanation": "La condition serait marquée par « si »." },
+        { "id": "D", "text": "L'opposition", "explanation": "L'opposition serait marquée par « tandis que » ou « alors que »." }
+      ],
+      "answer": {
+        "correctOptionIds": ["A"],
+        "explanation": "« Pour que » exprime le but : encadrer le fonctionnement du monde numérique est nécessaire pour éviter un danger."
+      },
+      "difficulty": "beginner",
+      "topicIds": ["subordination"],
+      "sectionIds": ["chapter-05-section-03"],
+      "learningObjectiveIds": ["chapter-05-objective-03"],
+      "examCategories": ["syntaxe"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 15, "section": "5.3" }],
+      "reviewStatus": "needs_review"
+    },
+    {
+      "id": "ch05-q0014",
+      "type": "single_choice",
+      "prompt": "Quelle est la valeur de la subordonnée complétive de phrase en évidence ?",
+      "stimulus": { "text": "Bien que les gouvernements fassent des efforts dans la lutte contre les changements climatiques, la population ne semble pas prête à changer ses habitudes.", "highlightedText": "Bien que les gouvernements fassent des efforts dans la lutte contre les changements climatiques" },
+      "options": [
+        { "id": "A", "text": "La concession", "explanation": "" },
+        { "id": "B", "text": "L'opposition", "explanation": "L'opposition stricte serait marquée par « tandis que »." },
+        { "id": "C", "text": "La cause", "explanation": "La cause serait marquée par « puisque » ou « étant donné que »." },
+        { "id": "D", "text": "Le temps", "explanation": "Le temps serait marqué par « pendant que » ou « quand »." }
+      ],
+      "answer": {
+        "correctOptionIds": ["A"],
+        "explanation": "« Bien que » exprime la concession : on reconnaît un obstacle, un point qui empêche l'accomplissement du reste."
+      },
+      "difficulty": "intermediate",
+      "topicIds": ["subordination"],
+      "sectionIds": ["chapter-05-section-03"],
+      "learningObjectiveIds": ["chapter-05-objective-03"],
+      "examCategories": ["syntaxe"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 15, "section": "5.3" }],
+      "reviewStatus": "needs_review"
+    },
+    {
+      "id": "ch05-q0015",
+      "type": "single_choice",
+      "prompt": "Quelle est la valeur de la subordonnée complétive de phrase en évidence ?",
+      "stimulus": { "text": "Le développement récent de l’intelligence artificielle a fait et fait encore couler beaucoup d’encre, comme l’a fait, il y a au moins 20 ans, l’arrivée d’Internet.", "highlightedText": "comme l’a fait, il y a au moins 20 ans, l’arrivée d’Internet" },
+      "options": [
+        { "id": "A", "text": "La comparaison", "explanation": "" },
+        { "id": "B", "text": "La cause", "explanation": "La cause serait marquée par « puisque »." },
+        { "id": "C", "text": "La conséquence", "explanation": "La conséquence serait marquée par « de sorte que »." },
+        { "id": "D", "text": "Le but", "explanation": "Le but serait marqué par « afin que »." }
+      ],
+      "answer": {
+        "correctOptionIds": ["A"],
+        "explanation": "La subordonnée introduite par « comme » met en parallèle l'arrivée d'Internet et celle de l'intelligence artificielle : c'est une comparaison."
+      },
+      "difficulty": "intermediate",
+      "topicIds": ["subordination"],
+      "sectionIds": ["chapter-05-section-03"],
+      "learningObjectiveIds": ["chapter-05-objective-03"],
+      "examCategories": ["syntaxe", "coherence_textuelle"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 15, "section": "5.3" }],
+      "reviewStatus": "needs_review"
+    },
+    {
+      "id": "ch05-q0016",
+      "type": "single_choice",
+      "prompt": "Quelle transformation donne une interrogation indirecte correcte ?",
+      "stimulus": { "text": "Comment est-ce que tu t’appelles ? → J’ignore...", "highlightedText": "Comment est-ce que tu t’appelles ?" },
+      "options": [
+        { "id": "A", "text": "J’ignore comment tu t’appelles.", "explanation": "" },
+        { "id": "B", "text": "J’ignore comment est-ce que tu t’appelles.", "explanation": "On ne peut pas utiliser la formule « est-ce que » dans une interrogation indirecte." },
+        { "id": "C", "text": "J’ignore comment tu t’appelles-tu ?", "explanation": "L'inversion du sujet est interdite dans l'interrogation indirecte, et le point d'interrogation ne convient pas." },
+        { "id": "D", "text": "J’ignore est-ce que tu t’appelles.", "explanation": "La formule « est-ce que » est réservée à l'interrogation directe." }
+      ],
+      "answer": {
+        "correctOptionIds": ["A"],
+        "explanation": "Dans l'interrogation indirecte, on retire l'inversion du sujet et la formule « est-ce que », et on termine par un point."
+      },
+      "difficulty": "beginner",
+      "topicIds": ["interrogation-indirecte"],
+      "sectionIds": ["chapter-05-section-03"],
+      "learningObjectiveIds": ["chapter-05-objective-04"],
+      "examCategories": ["syntaxe"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 8, "section": "5.3" }],
+      "reviewStatus": "needs_review"
+    },
+    {
+      "id": "ch05-q0017",
+      "type": "single_choice",
+      "prompt": "Quelle phrase est une interrogation indirecte correctement formulée ?",
+      "stimulus": { "text": "..." },
+      "options": [
+        { "id": "A", "text": "Je me demande comment tu vas.", "explanation": "" },
+        { "id": "B", "text": "Je me demande comment tu vas ?", "explanation": "L'interrogation indirecte se termine par un point, pas par un point d'interrogation." },
+        { "id": "C", "text": "Je me demande est-ce que tu vas.", "explanation": "On ne peut pas utiliser la formule « est-ce que » dans une interrogation indirecte." },
+        { "id": "D", "text": "Je me demande comment est-ce que tu vas.", "explanation": "La formule « est-ce que » est réservée à l'interrogation directe." }
+      ],
+      "answer": {
+        "correctOptionIds": ["A"],
+        "explanation": "L'interrogation indirecte est de type déclaratif : pas d'inversion du sujet, pas de « est-ce que », un point final."
+      },
+      "difficulty": "intermediate",
+      "topicIds": ["interrogation-indirecte"],
+      "sectionIds": ["chapter-05-section-03"],
+      "learningObjectiveIds": ["chapter-05-objective-04"],
+      "examCategories": ["syntaxe"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 8, "section": "5.3" }],
+      "reviewStatus": "needs_review"
+    },
+    {
+      "id": "ch05-q0018",
+      "type": "single_choice",
+      "prompt": "Quel mot faut-il employer ?",
+      "stimulus": { "text": "Richard a tout oublié. _____________ à moi, j’y pense encore tous les jours.", "highlightedText": "_____________" },
+      "options": [
+        { "id": "A", "text": "Quant", "explanation": "" },
+        { "id": "B", "text": "Quand", "explanation": "« quand » exprime le temps, il ne convient pas ici." },
+        { "id": "C", "text": "Qu'en", "explanation": "« qu'en » est la forme élidée de « que » + « en »." },
+        { "id": "D", "text": "Tant qu'à", "explanation": "« tant qu'à » se construit avec un verbe et signifie « s'il le faut »." }
+      ],
+      "answer": {
+        "correctOptionIds": ["A"],
+        "explanation": "« Quant à » signifie « en ce qui concerne » : on peut remplacer « quant à moi » par « en ce qui me concerne »."
+      },
+      "difficulty": "beginner",
+      "topicIds": ["homophones"],
+      "sectionIds": ["chapter-05-section-04"],
+      "learningObjectiveIds": ["chapter-05-objective-05"],
+      "examCategories": ["orthographe_lexicale"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 19, "section": "5.4" }],
+      "reviewStatus": "needs_review"
+    },
+    {
+      "id": "ch05-q0019",
+      "type": "single_choice",
+      "prompt": "Quel mot faut-il employer ?",
+      "stimulus": { "text": "Nous allons prendre le modèle CX-33. _____________ pensez-vous ?", "highlightedText": "_____________" },
+      "options": [
+        { "id": "A", "text": "Qu'en", "explanation": "" },
+        { "id": "B", "text": "Quand", "explanation": "« quand » exprime le temps." },
+        { "id": "C", "text": "Quant", "explanation": "« quant » seul ne convient pas : il faudrait « quant à » suivi d'un nom ou d'un pronom." },
+        { "id": "D", "text": "Où", "explanation": "« où » est un pronom relatif ou un mot interrogatif." }
+      ],
+      "answer": {
+        "correctOptionIds": ["A"],
+        "explanation": "La question est « Qu'en pensez-vous ? » : c'est la forme élidée de « que » suivi de « en », où « en » est le pronom « en » de « en pensez-vous »."
+      },
+      "difficulty": "intermediate",
+      "topicIds": ["homophones"],
+      "sectionIds": ["chapter-05-section-04"],
+      "learningObjectiveIds": ["chapter-05-objective-05"],
+      "examCategories": ["orthographe_lexicale"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 19, "section": "5.4" }],
+      "reviewStatus": "needs_review"
+    },
+    {
+      "id": "ch05-q0020",
+      "type": "single_choice",
+      "prompt": "Quel mot faut-il employer ?",
+      "stimulus": { "text": "Marc-Antoine, _________ as-tu mis mon livre de comptabilité financière ?", "highlightedText": "_________" },
+      "options": [
+        { "id": "A", "text": "où", "explanation": "" },
+        { "id": "B", "text": "ou", "explanation": "« ou » est une conjonction de coordination qu'on peut remplacer par « ou bien »." },
+        { "id": "C", "text": "qu'en", "explanation": "« qu'en » est la forme élidée de « que » + « en »." },
+        { "id": "D", "text": "quant", "explanation": "« quant à » exige un nom ou un pronom après lui." }
+      ],
+      "answer": {
+        "correctOptionIds": ["A"],
+        "explanation": "« Où » est ici un mot interrogatif : on ne peut pas le remplacer par « ou bien », contrairement à la conjonction « ou »."
+      },
+      "difficulty": "beginner",
+      "topicIds": ["homophones"],
+      "sectionIds": ["chapter-05-section-04"],
+      "learningObjectiveIds": ["chapter-05-objective-05"],
+      "examCategories": ["orthographe_lexicale"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 20, "section": "5.4" }],
+      "reviewStatus": "needs_review"
+    },
+    {
+      "id": "ch05-q0021",
+      "type": "single_choice",
+      "prompt": "Quel mot faut-il employer ?",
+      "stimulus": { "text": "Il faut qu’il se décide maintenant : _________ il me le donne _________ il le garde.", "highlightedText": "_________ il me le donne _________ il le garde" },
+      "options": [
+        { "id": "A", "text": "ou / ou", "explanation": "" },
+        { "id": "B", "text": "où / où", "explanation": "« où » n'exprime pas l'alternative, mais un lieu ou un antécédent." },
+        { "id": "C", "text": "ou / où", "explanation": "La seconde occurrence exprime elle aussi une alternative." },
+        { "id": "D", "text": "où / ou", "explanation": "La première occurrence n'indique pas un lieu." }
+      ],
+      "answer": {
+        "correctOptionIds": ["A"],
+        "explanation": "Les deux occurrences expriment une alternative : « ou il me le donne ou il le garde ». On peut remplacer chacune par « ou bien »."
+      },
+      "difficulty": "intermediate",
+      "topicIds": ["homophones"],
+      "sectionIds": ["chapter-05-section-04"],
+      "learningObjectiveIds": ["chapter-05-objective-05"],
+      "examCategories": ["orthographe_lexicale"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 20, "section": "5.4" }],
+      "reviewStatus": "needs_review"
+    },
+    {
+      "id": "ch05-q0022",
+      "type": "single_choice",
+      "prompt": "Quel mot faut-il employer ?",
+      "stimulus": { "text": "J’aime bien le chocolat. _____________ mon frère, il n’en supporte pas l’odeur.", "highlightedText": "_____________" },
+      "options": [
+        { "id": "A", "text": "Quant à", "explanation": "" },
+        { "id": "B", "text": "Tant qu'à", "explanation": "« tant qu'à » se construit avec un verbe et signifie « s'il le faut »." },
+        { "id": "C", "text": "Quand", "explanation": "« quand » exprime le temps." },
+        { "id": "D", "text": "Qu'en", "explanation": "« qu'en » est la forme élidée de « que » + « en »." }
+      ],
+      "answer": {
+        "correctOptionIds": ["A"],
+        "explanation": "« Quant à mon frère » équivaut à « en ce qui concerne mon frère » : la locution prépositionnelle est suivie d'un nom ou d'un pronom."
+      },
+      "difficulty": "intermediate",
+      "topicIds": ["homophones"],
+      "sectionIds": ["chapter-05-section-04"],
+      "learningObjectiveIds": ["chapter-05-objective-05"],
+      "examCategories": ["orthographe_lexicale"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 20, "section": "5.4" }],
+      "reviewStatus": "needs_review"
+    }
+  ]
+}
