@@ -15,13 +15,15 @@
     { "id": "chapter-01-core", "chapterId": "chapter-01", "title": "Pratique — Chapitre 1", "content": "questions/chapter-01.json" },
     { "id": "chapter-02-core", "chapterId": "chapter-02", "title": "Pratique — Chapitre 2", "content": "questions/chapter-02.json" },
     { "id": "chapter-03-core", "chapterId": "chapter-03", "title": "Pratique — Chapitre 3", "content": "questions/chapter-03.json" },
-    { "id": "chapter-04-core", "chapterId": "chapter-04", "title": "Pratique — Chapitre 4", "content": "questions/chapter-04.json" }
+    { "id": "chapter-04-core", "chapterId": "chapter-04", "title": "Pratique — Chapitre 4", "content": "questions/chapter-04.json" },
+    { "id": "chapter-05-core", "chapterId": "chapter-05", "title": "Pratique — Chapitre 5", "content": "questions/chapter-05.json" }
   ],
   "flashcardDecks": [
     { "id": "chapter-01-core", "chapterId": "chapter-01", "title": "Cartes éclair — Chapitre 1", "content": "flashcards/chapter-01.json" },
     { "id": "chapter-02-core", "chapterId": "chapter-02", "title": "Cartes éclair — Chapitre 2", "content": "flashcards/chapter-02.json" },
     { "id": "chapter-03-core", "chapterId": "chapter-03", "title": "Cartes éclair — Chapitre 3", "content": "flashcards/chapter-03.json" },
-    { "id": "chapter-04-core", "chapterId": "chapter-04", "title": "Cartes éclair — Chapitre 4", "content": "flashcards/chapter-04.json" }
+    { "id": "chapter-04-core", "chapterId": "chapter-04", "title": "Cartes éclair — Chapitre 4", "content": "flashcards/chapter-04.json" },
+    { "id": "chapter-05-core", "chapterId": "chapter-05", "title": "Cartes éclair — Chapitre 5", "content": "flashcards/chapter-05.json" }
   ],
   "exams": [
     { "id": "tflm", "title": "Simulation TFLM", "content": "exams/tflm.json", "verified": false },

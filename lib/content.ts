@@ -65,7 +65,15 @@ export const chapters: Chapter[] = [
     title: "La phrase complexe",
     description: "Relier les propositions avec précision.",
     color: "#58cc02",
-    lessons: [{ id: "ch05-intro", title: "Coordination et subordination", type: "lesson", durationMinutes: 10 }]
+    // Ids alignés sur les clés de complétion utilisées par la page de leçon
+    // (`${chapterId}:${sectionId}`) : une section terminée compte dans la
+    // progression du chapitre.
+    lessons: [
+      { id: "chapter-05:chapter-05-section-01", title: "La juxtaposition", type: "lesson", durationMinutes: 10 },
+      { id: "chapter-05:chapter-05-section-02", title: "La coordination", type: "lesson", durationMinutes: 10 },
+      { id: "chapter-05:chapter-05-section-03", title: "La subordination", type: "lesson", durationMinutes: 18 },
+      { id: "chapter-05:chapter-05-section-04", title: "La confusion homophonique", type: "lesson", durationMinutes: 8 }
+    ]
   },
   {
     id: "chapter-06",
