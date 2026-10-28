@@ -1,0 +1,91 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "chapter-07-core",
+  "chapterId": "chapter-07",
+  "title": "Pratique — Chapitre 7 : Le lexique",
+  "description": "Registres, mot juste, anglicismes, impropriétés, barbarismes, pléonasmes, paronymes.",
+  "language": "fr-CA",
+  "difficulty": "intermediate",
+  "estimatedMinutes": 40,
+  "tags": ["lexique", "anglicismes", "paronymes"],
+  "reviewStatus": "ready",
+  "questions": [
+    {
+      "id": "ch07-q01",
+      "type": "multipleChoice",
+      "topic": "registers",
+      "difficulty": "beginner",
+      "prompt": "Quel registre privilégier dans un travail universitaire ?",
+      "options": [
+        { "id": "a", "text": "Populaire" },
+        { "id": "b", "text": "Familier" },
+        { "id": "c", "text": "Courant ou soutenu" },
+        { "id": "d", "text": "Argotique" }
+      ],
+      "answer": "c",
+      "explanation": "À l'université, le langage courant est acceptable au même titre que le registre soutenu.",
+      "source": { "page": 2 },
+      "reviewStatus": "ready"
+    },
+    {
+      "id": "ch07-q02",
+      "type": "fillInBlank",
+      "topic": "word-choice",
+      "difficulty": "intermediate",
+      "prompt": "Le médecin a ___________ une faute professionnelle.",
+      "answer": "commis",
+      "acceptableAnswers": ["commis"],
+      "explanation": "« Commettre une faute » est plus précis que « faire une faute ».",
+      "source": { "page": 4 },
+      "reviewStatus": "ready"
+    },
+    {
+      "id": "ch07-q03",
+      "type": "multipleChoice",
+      "topic": "lexical-errors",
+      "difficulty": "intermediate",
+      "prompt": "« Il a fait une demande pour un emploi » est un anglicisme. Quelle correction est appropriée ?",
+      "options": [
+        { "id": "a", "text": "Il a demandé un emploi." },
+        { "id": "b", "text": "Il a posé sa candidature pour un emploi." },
+        { "id": "c", "text": "Il a appliqué pour un emploi." },
+        { "id": "d", "text": "Il a requis pour un emploi." }
+      ],
+      "answer": "b",
+      "explanation": "« Poser sa candidature » / « postuler » corrige l'anglicisme « appliquer pour ». ",
+      "source": { "page": 9 },
+      "reviewStatus": "ready"
+    },
+    {
+      "id": "ch07-q04",
+      "type": "fillInBlank",
+      "topic": "redundancy-paronyms",
+      "difficulty": "intermediate",
+      "prompt": "Corrigez le pléonasme : « Monter en haut de l'escalier. » → Monter ___________ de l'escalier.",
+      "answer": "l'escalier",
+      "acceptableAnswers": ["les marches"],
+      "explanation": "« Monter » implique déjà le mouvement vers le haut; « en haut » est redondant.",
+      "source": { "page": 28 },
+      "reviewStatus": "ready"
+    },
+    {
+      "id": "ch07-q05",
+      "type": "multipleChoice",
+      "topic": "redundancy-paronyms",
+      "difficulty": "intermediate",
+      "prompt": "Parmi les paires suivantes, laquelle est correcte dans ce contexte : « L'avocat a réussi à ___________ la clémence du juge. »",
+      "options": [
+        { "id": "a", "text": "évoquer" },
+        { "id": "b", "text": "invoquer" }
+      ],
+      "answer": "b",
+      "explanation": "« Invoquer la clémence » signifie demander/puiser dans un argument; « évoquer » signifie rappeler à l'esprit.",
+      "source": { "page": 32 },
+      "reviewStatus": "ready"
+    }
+  ],
+  "metadata": {
+    "createdAt": "2026-10-20T00:00:00.000Z",
+    "lastModified": "2026-10-20T00:00:00.000Z"
+  }
+}

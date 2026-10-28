@@ -1,0 +1,162 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "chapter-07",
+  "number": 7,
+  "slug": "le-lexique",
+  "title": "Le lexique",
+  "description": "Registres de langue, mot juste, anglicismes, impropriétés, barbarismes, archaïsmes, pléonasmes, paronymes.",
+  "estimatedMinutes": 60,
+  "color": "#ce82ff",
+  "learningObjectives": [
+    { "id": "chapter-07-objective-01", "text": "Distinguer les registres de langue et éviter les ruptures de registre.", "topicIds": ["registers"] },
+    { "id": "chapter-07-objective-02", "text": "Choisir le mot juste et le plus précis.", "topicIds": ["word-choice"] },
+    { "id": "chapter-07-objective-03", "text": "Reconnaître et corriger les anglicismes, impropriétés, barbarismes et archaïsmes.", "topicIds": ["lexical-errors"] },
+    { "id": "chapter-07-objective-04", "text": "Éviter les pléonasmes et distinguer les paronymes.", "topicIds": ["redundancy-paronyms"] }
+  ],
+  "sections": [
+    {
+      "id": "chapter-07-section-01",
+      "title": "Les registres de langue",
+      "order": 1,
+      "introduction": "On s'exprime différemment selon le contexte. On distingue généralement les registres populaire, familier, courant et soutenu.",
+      "concepts": [],
+      "summary": [
+        "Registres : populaire, familier, courant, soutenu.",
+        "Adapter son registre à la situation de communication.",
+        "Éviter les ruptures de registre."
+      ],
+      "sourceReferences": [{ "page": 1, "section": "7.1" }]
+    },
+    {
+      "id": "chapter-07-section-02",
+      "title": "Le mot juste",
+      "order": 2,
+      "introduction": "Le vocabulaire constitue la matière première de la langue. Le choix des mots est donc particulièrement crucial pour communiquer efficacement. L’emploi du mot le plus précis permet clarté et concision.",
+      "concepts": [
+        {
+          "id": "chapter-07-concept-02-01",
+          "title": "Privilégier la précision plutôt que la généralité",
+          "explanation": "Éviter les mots trop vagues ou généraux permet d’être plus clair et plus concis. Souvent, un seul mot précis vaut mieux qu’une longue périphrase.",
+          "definition": "Choisir le mot le plus juste et le plus précis selon le contexte.",
+          "rules": [
+            {
+              "id": "chapter-07-rule-02-01",
+              "text": "Remplacer les termes trop généraux par des termes plus précis.",
+              "exceptions": [],
+              "source": { "page": 4 }
+            },
+            {
+              "id": "chapter-07-rule-02-02",
+              "text": "Se méfier des verbes être, faire et avoir qui sont souvent trop vagues.",
+              "exceptions": [],
+              "source": { "page": 4 }
+            }
+          ],
+          "steps": [],
+          "examples": [
+            {
+              "id": "chapter-07-example-02-01",
+              "text": "Voile triangulaire à l’avant du navire → foc",
+              "highlight": [],
+              "explanation": "Un mot spécifique remplace une périphrase.",
+              "source": { "page": 4, "section": "7.2", "kind": "source" }
+            },
+            {
+              "id": "chapter-07-example-02-02",
+              "text": "Les chercheurs déplorent ce phénomène. (plutôt que « Les chercheurs disent... »)",
+              "highlight": [],
+              "explanation": "Un verbe plus précis indique l’intention des chercheurs.",
+              "source": { "page": 4, "section": "7.2", "kind": "source" }
+            },
+            {
+              "id": "chapter-07-example-02-03",
+              "text": "Les résultats infirment l’hypothèse. (plutôt que « L’hypothèse est infirmée... »)",
+              "highlight": [],
+              "explanation": "Passer à la forme active avec un verbe précis évite le verbe « être » trop vague.",
+              "source": { "page": 4, "section": "7.2", "kind": "source" }
+            },
+            {
+              "id": "chapter-07-example-02-04",
+              "text": "Occuper un poste. / Commettre une faute professionnelle.",
+              "highlight": [],
+              "explanation": "Des verbes plus justes remplacent « avoir un poste » ou « faire une faute ».",
+              "source": { "page": 4, "section": "7.2", "kind": "source" }
+            }
+          ],
+          "exceptions": [],
+          "commonMistakes": [],
+          "takeaway": "Privilégier la précision et la concision au détriment des mots trop généraux.",
+          "sourceReferences": [{ "page": 4, "section": "7.2" }]
+        },
+        {
+          "id": "chapter-07-concept-02-02",
+          "title": "Connaître le sens selon le contexte",
+          "explanation": "Un même mot peut avoir plusieurs sens ou changer de genre selon le contexte. De même, la construction syntaxique peut modifier le sens d'un verbe.",
+          "definition": "Il faut toujours vérifier le sens exact d'un mot dans son contexte, idéalement à l'aide d'un dictionnaire récent.",
+          "rules": [
+            {
+              "id": "chapter-07-rule-02-03",
+              "text": "Vérifier le sens, le genre et les emplois d'un mot selon le contexte.",
+              "exceptions": [],
+              "source": { "page": 5 }
+            },
+            {
+              "id": "chapter-07-rule-02-04",
+              "text": "Tenir compte de la construction syntaxique (transitif direct, transitif indirect, intransitif) pour bien interpréter un verbe.",
+              "exceptions": [],
+              "source": { "page": 5 }
+            }
+          ],
+          "steps": [],
+          "examples": [
+            {
+              "id": "chapter-07-example-02-05",
+              "text": "mousse (n. m.) : jeune garçon de moins de seize ans qui fait l'apprentissage du métier de marin. / mousse (n. f.) : plante généralement verte, rase et douce.",
+              "highlight": [],
+              "explanation": "Le même mot change de genre et de sens selon ce qu'il désigne.",
+              "source": { "page": 5, "section": "7.2", "kind": "source" }
+            },
+            {
+              "id": "chapter-07-example-02-06",
+              "text": "Tu ne dois pas discuter les consignes! (transitif direct)",
+              "highlight": [],
+              "explanation": "Ici, « discuter » signifie « mettre en doute, contester ».",
+              "source": { "page": 5, "section": "7.2", "kind": "source" }
+            },
+            {
+              "id": "chapter-07-example-02-07",
+              "text": "Elles discutaient d'un dossier important. (transitif indirect)",
+              "highlight": [],
+              "explanation": "Ici, « discuter » signifie « échanger des idées, des arguments ».",
+              "source": { "page": 5, "section": "7.2", "kind": "source" }
+            }
+          ],
+          "exceptions": [],
+          "commonMistakes": [],
+          "takeaway": "Le contexte et la construction déterminent le sens exact du mot.",
+          "sourceReferences": [{ "page": 5, "section": "7.2" }]
+        }
+      ],
+      "summary": [
+        "Précision et concision.",
+        "Vérifier le sens selon le contexte et la construction.",
+        "Éviter les verbes trop vagues (être, faire, avoir) et privilégier un vocabulaire plus juste."
+      ],
+      "sourceReferences": [{ "page": 4, "section": "7.2" }, { "page": 5, "section": "7.2" }]
+    },
+    {
+      "id": "chapter-07-section-03",
+      "title": "Les écarts lexicaux",
+      "order": 3,
+      "introduction": "Anglicismes, impropriétés, barbarismes, archaïsmes, pléonasmes, redondances, paronymes.",
+      "concepts": [],
+      "summary": [
+        "Anglicismes lexicaux/sémantiques/syntaxiques.",
+        "Impropriétés, barbarismes, archaïsmes.",
+        "Pléonasmes à éviter, paronymes à distinguer."
+      ],
+      "sourceReferences": [{ "page": 8, "section": "7.3" }]
+    }
+  ],
+  "reviewNotes": []
+}

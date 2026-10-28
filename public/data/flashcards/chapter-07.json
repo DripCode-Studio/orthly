@@ -1,0 +1,73 @@
+{
+  "schemaVersion": "1.0.0",
+  "chapterId": "chapter-07",
+  "deckId": "chapter-07-core",
+  "title": "Cartes éclair — Chapitre 7 : Le lexique",
+  "cards": [
+    {
+      "id": "ch07-fc01",
+      "chapterId": "chapter-07",
+      "topicIds": ["registers"],
+      "type": "definition",
+      "front": "Les quatre principaux registres de langue ?",
+      "back": "Populaire, familier, courant, soutenu.",
+      "example": null,
+      "tags": ["registres"],
+      "difficulty": "beginner",
+      "origin": "source",
+      "sourceRef": { "page": 1 }
+    },
+    {
+      "id": "ch07-fc02",
+      "chapterId": "chapter-07",
+      "topicIds": ["lexical-errors"],
+      "type": "definition",
+      "front": "Anglicisme lexical vs sémantique",
+      "back": "Lexical : emprunt direct d'un mot anglais (toaster) alors qu'un mot français existe. Sémantique : mot français utilisé dans un sens anglais (articulé au sens d'éloquent).",
+      "example": null,
+      "tags": ["anglicismes"],
+      "difficulty": "intermediate",
+      "origin": "source",
+      "sourceRef": { "page": 8 }
+    },
+    {
+      "id": "ch07-fc03",
+      "chapterId": "chapter-07",
+      "topicIds": ["redundancy-paronyms"],
+      "type": "rule",
+      "front": "Pléonasme vs redondance",
+      "back": "Pléonasme : répétition inutile et fautive (monter en haut). Redondance : répétition volontaire à des fins d'insistance (Marie-Claude, elle, ...).",
+      "example": null,
+      "tags": ["pleonasme"],
+      "difficulty": "intermediate",
+      "origin": "source",
+      "sourceRef": { "page": 28 }
+    },
+    {
+      "id": "ch07-fc04",
+      "chapterId": "chapter-07",
+      "topicIds": ["redundancy-paronyms"],
+      "type": "rule",
+      "front": "Différencier amener/emmener",
+      "back": "Amener : vers le lieu où se trouve la personne qui parle. Emmener : loin du lieu où se trouve la personne qui parle.",
+      "example": null,
+      "tags": ["paronymes"],
+      "difficulty": "intermediate",
+      "origin": "source",
+      "sourceRef": { "page": 32 }
+    },
+    {
+      "id": "ch07-fc05",
+      "chapterId": "chapter-07",
+      "topicIds": ["redundancy-paronyms"],
+      "type": "rule",
+      "front": "Différencier invoquer/évoquer",
+      "back": "Invoquer : faire appel à (invoquer la clémence). Évoquer : rappeler à l'esprit (évoquer un souvenir).",
+      "example": null,
+      "tags": ["paronymes"],
+      "difficulty": "intermediate",
+      "origin": "source",
+      "sourceRef": { "page": 32 }
+    }
+  ]
+}
