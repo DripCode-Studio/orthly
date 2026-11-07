@@ -19,7 +19,8 @@
     { "id": "chapter-05-core", "chapterId": "chapter-05", "title": "Pratique — Chapitre 5", "content": "questions/chapter-05.json" },
     { "id": "chapter-06-core", "chapterId": "chapter-06", "title": "Pratique — Chapitre 6", "content": "questions/chapter-06.json" },
     { "id": "chapter-07-core", "chapterId": "chapter-07", "title": "Pratique — Chapitre 7", "content": "questions/chapter-07.json" },
-    { "id": "chapter-08-core", "chapterId": "chapter-08", "title": "Pratique — Chapitre 8", "content": "questions/chapter-08.json" }
+    { "id": "chapter-08-core", "chapterId": "chapter-08", "title": "Pratique — Chapitre 8", "content": "questions/chapter-08.json" },
+    { "id": "tflm-core", "chapterId": "tflm", "title": "Banque TFLM — Structures de la langue", "content": "questions/tflm-core.json" }
   ],
   "flashcardDecks": [
     { "id": "chapter-01-core", "chapterId": "chapter-01", "title": "Cartes éclair — Chapitre 1", "content": "flashcards/chapter-01.json" },
@@ -34,7 +35,12 @@
   "exams": [
     { "id": "tflm", "title": "Simulation TFLM", "content": "exams/tflm.json", "verified": false },
     { "id": "uqar", "title": "Évaluation de français UQAR", "content": "exams/uqar.json", "verified": false },
-    { "id": "tcf", "title": "Préparation TCF", "content": "exams/tcf/tcf-common.json", "verified": false }
+    { "id": "tcf", "title": "Préparation TCF", "content": "exams/tcf/tcf-common.json", "verified": false },
+    { "id": "tflm-simulation-01", "title": "TFLM Simulation 01 — Fondamentaux", "content": "exams/tflm-simulation-01.json", "verified": false },
+    { "id": "tflm-simulation-02", "title": "TFLM Simulation 02 — Grammaire et accords", "content": "exams/tflm-simulation-02.json", "verified": false },
+    { "id": "tflm-simulation-03", "title": "TFLM Simulation 03 — Syntaxe et conjugaison", "content": "exams/tflm-simulation-03.json", "verified": false },
+    { "id": "tflm-simulation-04", "title": "TFLM Simulation 04 — Maîtrise du français écrit", "content": "exams/tflm-simulation-04.json", "verified": false },
+    { "id": "tflm-simulation-05", "title": "TFLM Simulation 05 — Simulation avancée", "content": "exams/tflm-simulation-05.json", "verified": false }
   ],
   "glossary": { "content": "glossary.json" }
 }
