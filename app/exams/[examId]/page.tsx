@@ -31,9 +31,12 @@ export default function ExamPage() {
   const examEntry = manifest?.ok ? manifest.data.exams.find((exam) => exam.id === examId) : undefined;
   const examQuery = useExamBlueprint(examEntry?.content);
 
-  // Load the TFLM question bank for TFLM simulations.
+  const exam = examQuery.data?.ok ? examQuery.data.data : undefined;
+
+  const bankId = exam?.questionBankId ?? "tflm-core";
+  // Load the question bank for this exam.
   const bankEntry = manifest?.ok
-    ? manifest.data.questionBanks.find((b) => b.id === "tflm-core")
+    ? manifest.data.questionBanks.find((b) => b.id === bankId)
     : undefined;
   const bankQuery = useQuestionBank(bankEntry?.content);
 
@@ -47,8 +50,6 @@ export default function ExamPage() {
   const [submitted, setSubmitted] = useState(false);
 
   useEffect(() => hydrate(), [hydrate]);
-
-  const exam = examQuery.data?.ok ? examQuery.data.data : undefined;
 
   const seed = useMemo(() => {
     let s = 0;
