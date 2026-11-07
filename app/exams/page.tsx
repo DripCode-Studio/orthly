@@ -31,7 +31,7 @@ export default function ExamsPage() {
 
         {manifest?.ok && (
           <div className="grid gap-3">
-            {exams.map((exam) => (
+            {exams.filter((exam) => !exam.id.startsWith("tflm-simulation")).map((exam) => (
               <Card key={exam.id} className="flex-row items-center gap-4 py-4">
                 <span className="ml-4 grid size-10 shrink-0 place-items-center rounded-lg bg-orthly-navy/10">
                   <GraduationCap className="size-5 text-orthly-navy" />
@@ -54,7 +54,14 @@ export default function ExamsPage() {
                   </p>
                 </CardContent>
                 <div className="mr-4 flex w-32 justify-end">
-                  {exam.verified && exam.id !== "uqar" && exam.id !== "tcf" ? (
+                  {exam.id === "tflm" ? (
+                    <Button asChild size="sm">
+                      <Link href="/exams/tflm">
+                        Voir les simulations
+                        <ArrowRight className="size-4" />
+                      </Link>
+                    </Button>
+                  ) : exam.verified ? (
                     <Button asChild size="sm">
                       <Link href={`/exams/${exam.id}`}>
                         Démarrer
