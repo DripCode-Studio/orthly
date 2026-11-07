@@ -1,0 +1,45 @@
+{
+  "id": "tflm-simulation-05",
+  "title": "TFLM Simulation 05 — Simulation avancée",
+  "family": "tflm",
+  "description": "Simulation pratique TFLM — 65 QCM portant sur les structures de la langue française. Examen non officiel (pratique).",
+  "durationSeconds": 5400,
+  "questionCount": 65,
+  "passingScorePercent": null,
+  "selectionMode": "blueprint",
+  "skills": [
+    "language_structures"
+  ],
+  "sections": [
+    {
+      "categoryId": "orthographe_lexicale",
+      "questionCount": 4
+    },
+    {
+      "categoryId": "orthographe_grammaticale",
+      "questionCount": 24
+    },
+    {
+      "categoryId": "morphologie",
+      "questionCount": 5
+    },
+    {
+      "categoryId": "syntaxe",
+      "questionCount": 13
+    },
+    {
+      "categoryId": "vocabulaire",
+      "questionCount": 19
+    }
+  ],
+  "settings": {
+    "allowReview": true,
+    "showFeedbackDuringExam": false,
+    "showAnswersBeforeSubmission": false,
+    "allowPause": true
+  },
+  "verified": false,
+  "notes": [
+    "Simulation pratique non officielle. Questions issues de la banque TFLM (reviewStatus needs_review)."
+  ]
+}

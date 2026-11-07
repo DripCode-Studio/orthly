@@ -1,0 +1,884 @@
+{
+  "schemaVersion": "1.0.0",
+  "document": {
+    "id": "uqar-french-course",
+    "title": "Chapitre 8 - La structure du paragraphe et du texte",
+    "language": "fr-CA",
+    "sourceFile": "Chapitre 8 La structure du paragraphe et du texte.pdf"
+  },
+  "chapter": {
+    "id": "chapter-08",
+    "number": 8,
+    "title": "La structure du paragraphe et du texte",
+    "summary": null,
+    "learningObjectives": [],
+    "sections": [
+      {
+        "id": "chapter-08-section-01",
+        "number": "1",
+        "title": "LES COMPOSANTES DU TEXTE ARGUMENTATIF",
+        "sourcePages": {
+          "start": 3,
+          "end": 4
+        },
+        "blocks": [
+          {
+            "id": "ch08-s01-b01",
+            "type": "paragraph",
+            "content": "Le texte argumentatif devrait toujours comporter une entrée en matière (introduction), une argumentation structurée en quelques paragraphes selon la longueur du texte et le nombre d’idées à aborder (développement) et une synthèse finale (conclusion).",
+            "sourcePage": 3
+          },
+          {
+            "id": "ch08-s01-b02",
+            "type": "table",
+            "content": {
+              "headers": ["", ""],
+              "rows": [
+                [
+                  "INTRODUCTION\nEntrée en matière, présentation du sujet, prise de position",
+                  "L’introduction remplit une double fonction: présenter clairement le fil conducteur du texte et capter l’attention du lecteur. On pourrait la diviser selon les parties suivantes:\nSujet amené: une entrée en matière ou une mise en contexte servant à introduire le sujet et à capter l’attention (ex.: considérations historiques, lien avec l’actualité, etc.)\nSujet posé: la formulation claire et complète de la question ou de la problématique à laquelle cherche à répondre le texte. C’est l’aspect le plus essentiel de l’introduction, qui doit rendre intelligible l’enjeu traité. On peut reproduire textuellement la question qui est posée ou la reformuler dans ses mots sans en changer l’essence.\nThèse (position défendue): Il s’agit de la prise de position défendue tout au long du texte. N’hésitez pas à exprimer clairement votre opinion, c’est-à-dire votre accord ou votre désaccord en regard de la question posée. Toutes les positions peuvent être bonnes: il s’agit de défendre efficacement la position adoptée.\nSujet divisé: présentation des grandes lignes du développement ou des aspects qui y sont abordés. Comme on cherche à piquer la curiosité, il s’agit davantage de donner un aperçu de la structure de l’argumentation que de dresser la liste des arguments à venir."
+                ],
+                [
+                  "DÉVELOPPEMENT\nEnsemble des arguments qui appuient la thèse",
+                  "Le cœur de l’argumentation prend forme dans les paragraphes de développement.\nArgument 1 (paragraphe qui présente et illustre l’argument 1)\nArgument 2 (paragraphe qui présente et illustre l’argument 2)\nArgument 3 (paragraphe qui présente et illustre l’argument 3)"
+                ],
+                [
+                  "CONCLUSION\nConsolidation de la position prise",
+                  "Synthèse ou rappel des arguments présentés: Sans répéter les idées du texte, la conclusion est une occasion pour reformuler les grands mouvements de l’argumentaire afin de faire apparaître leur cohérence.\nUne réaffirmation de la thèse: À la lumière de tous les arguments développés dans le texte, il est maintenant possible de réaffirmer l’opinion de départ en lui donnant une plus forte apparence de certitude.\nUne ouverture (facultative): La finale de la conclusion peut ouvrir sur une idée non développée dans le texte: une réflexion, une nouvelle question ou des incertitudes qui subsistent à propos du sujet du texte, un regard vers l’avenir, etc., tout en donnant une impression de complétude à l’ensemble de la structure."
+                ]
+              ]
+            },
+            "sourcePage": 3
+          }
+        ]
+      },
+      {
+        "id": "chapter-08-section-02",
+        "number": "2",
+        "title": "AVANT DE RÉDIGER",
+        "sourcePages": {
+          "start": 5,
+          "end": 7
+        },
+        "blocks": [
+          {
+            "id": "ch08-s02-b01",
+            "type": "paragraph",
+            "content": "Avant de se lancer dans la rédaction, mieux vaut passer par quelques étapes préparatoires qui faciliteront la rédaction.",
+            "sourcePage": 5
+          },
+          {
+            "id": "ch08-s02-b02",
+            "type": "table",
+            "content": {
+              "headers": ["", "Moyens", "Exemples"],
+              "rows": [
+                [
+                  "Choisir un sujet",
+                  "Si vous avez un choix à faire entre plusieurs sujets, prenez le temps de les lire plusieurs fois et demandez-vous à propos duquel vous pouvez émettre une opinion claire, à propos duquel vous avez le plus d’idées, le plus de connaissances.\nUne fois votre choix fait, ne revenez pas en arrière.",
+                  ""
+                ],
+                [
+                  "Bien comprendre la question ou le sujet choisi",
+                  "Tenir compte de tous les aspects de la question\nLes sujets comportent souvent deux volets mis en relation: un objet (ce dont on parle) et une intention (une orientation).\nAssurez-vous de comprendre le sens de chaque mot. Recourez au dictionnaire.",
+                  "• La fréquentation des réseaux sociaux nuit-elle aux relations humaines?\n• Étudier à l’université, est-ce un gage de succès?\n• Le gaspillage alimentaire devrait-il faire l’objet d’amendes?\n• L’exposition aux écrans nuit-elle à l’humain?"
+                ],
+                [
+                  "Bien comprendre la question ou le sujet choisi",
+                  "Trouver les mots de jonction\nQuelle relation la question établit-elle entre les deux aspects de la question? Cette relation orientera votre prise de position et le développement de votre texte.",
+                  "• Est-ce que la fréquentation des réseaux sociaux nuit aux relations humaines?\n• Est-ce que la fréquentation des réseaux sociaux favorise les relations humaines?\n• Est-ce que la fréquentation des réseaux sociaux transforme les relations humaines?"
+                ],
+                [
+                  "Chercher des idées",
+                  "Faire des associations d’idées\nSur une feuille brouillon, notez les mots auxquels vous associez les mots-clés du sujet choisi.",
+                  "Sujet: L’exposition aux écrans nuit-elle à l’humain?\n• exposition → passivité\n• écrans → artificiel, virtuel, vide, absence de contact\n• humain → vivant, empathie, amitié, rencontre"
+                ],
+                [
+                  "Chercher des idées",
+                  "Utiliser un dictionnaire\nLe dictionnaire est un générateur d’idées insoupçonné! Prenez le temps de chercher les mots-clés dans le dictionnaire, vous y trouverez des synonymes, des définitions précises, des sens figurés, des pistes auxquelles vous n’avez pas pensé.",
+                  "Idées générées grâce au dictionnaire\nLe mot exposition → exposer, subir\nLe mot écran → surface vitrée, image, appareil électronique, dissimule, affichage\nLe mot humain → sensible, espèce, naturel\nLe mot nuire → causer des dommages, du tort, pénaliser, défavoriser, porter préjudice, nuisible, empêcher"
+                ],
+                [
+                  "Chercher des idées",
+                  "Organiser ses idées\nLancez vos idées en vrac: tous les arguments qui vous viennent, même ceux qui vont contre votre opinion.\nUtilisez les idées générées précédemment.\nMême si on a l’impression d’avoir amplement d’idées, il est important à cette étape de mettre sur papier toutes les idées pour ne pas perdre de temps à les rechercher par la suite.",
+                  "Sujet: L’exposition aux écrans nuit-elle à l’humain?\nIdées en vrac\nL’exposition aux écrans\n• nuit à la santé des yeux\n• entraîne plus de myopie\n• capte trop l’attention et on oublie de vivre dans la « vraie vie »\n• permet de communiquer avec les autres\n• affecte le sommeil (hormone)\n• peut rendre dépressif\n• peut entraîner le repli sur soi\n• peut faire perdre le contact avec la réalité\n• donne accès à des connaissances\n• empêche de bouger\n• peut affecter le poids en raison de la passivité du corps\n• ne permet pas de développer de l’empathie en raison du manque de contact réel"
+                ],
+                [
+                  "Chercher des idées",
+                  "Regrouper ses idées (plan)\nRegroupez sous le même aspect les idées qui se recoupent et sélectionnez les arguments qui vous semblent les plus pertinents.\nRassemblez ce qui constitue un argument (une affirmation par exemple) et ce qui constitue une preuve pour défendre cette affirmation (un fait, un exemple, une valeur, une définition, une comparaison, etc.).\nVous pouvez entre autres choisir un argument adverse et trouver des preuves pour le déconstruire (voir réfutation).\nLes idées peuvent se regrouper autour de certains aspects: scientifique, social, économique, psychologique, etc.",
+                  "L’exposition aux écrans\n• Entraîne de la sédentarité (affecte la santé physique)\nObésité, maladie cardiaque, nombre d’heures d’écran en hausse, ne plus jouer dehors\n• A un effet sur le sommeil et la concentration\nLa lumière bleue nuit au sommeil\nMoins d’heures de sommeil qu’avant = concentration en baisse = consommation de produits stimulants\n• Peut entraîner un repli sur soi (aspect affectif)\nImpression de ne pas être seul\nDivertissement très attractif\nMais difficulté à faire des rencontres avec d’autres humains\n= Moins de développement de l’empathie"
+                ]
+              ]
+            },
+            "sourcePage": 5
+          }
+        ]
+      },
+      {
+        "id": "chapter-08-section-03",
+        "number": "3",
+        "title": "LA RÉDACTION",
+        "sourcePages": {
+          "start": 8,
+          "end": 18
+        },
+        "blocks": [
+          {
+            "id": "ch08-s03-b01",
+            "type": "paragraph",
+            "content": "Une fois ses idées à peu près en place (essentiellement deux ou trois arguments différents bien définis et formulés sous forme de phrases), on peut passer à la rédaction.",
+            "sourcePage": 8
+          },
+          {
+            "id": "ch08-s03-b02",
+            "type": "table",
+            "content": {
+              "headers": ["", "", "Exemples"],
+              "rows": [
+                [
+                  "Sujet amené\nEntrée en matière, mise en contexte, captation de l’attention",
+                  "À partir de quel élément pertinent vais-je amener mon sujet?\n• À partir de considérations historiques\n• En faisant un lien avec l’actualité\n• En amenant un exemple\n• En posant une question\n• Etc.",
+                  "• L’humain n’a pas toujours eu un rapport étroit avec les écrans. En fait, ce rapport est plutôt récent.\n• Les écrans ont envahi nos vies depuis une trentaine d’années, on parle souvent de surexposition aux écrans. Cet enjeu est devenu à ce point préoccupant que plusieurs gouvernements formulent des recommandations sur le nombre d’heures à passer devant un écran selon l’âge."
+                ],
+                [
+                  "Sujet posé\nFormulation claire et complète de la question à laquelle cherche à répondre le texte",
+                  "De quelle façon vais-je poser mon sujet?\n• En reproduisant textuellement le sujet proposé\n• En reformulant la question posée dans mes propres mots sans en changer le sens\n• En le présentant sous forme d’interrogation indirecte\n• Etc.",
+                  "• L’exposition aux écrans nuit-elle à l’humain?\n• Le fait de passer quotidiennement plusieurs heures devant un écran de téléphone ou autre a-t-il des conséquences néfastes pour l’humain?\n• Dans ce contexte/Néanmoins/Alors, on peut se demander si l’exposition aux écrans nuit à l’humain."
+                ],
+                [
+                  "Thèse\nPosition défendue",
+                  "Comment vais-je annoncer ma position?",
+                  "• À mon avis, l’exposition aux écrans peut être très dommageable.\n• À cette question, je répondrais oui, mais avec réserve.\n• Je suis en faveur d’une diminution du temps passé devant les écrans."
+                ],
+                [
+                  "Sujet divisé\nPrésentation des grandes lignes du développement",
+                  "Comment diviser mon sujet?\n• En présentant les aspects très brièvement.\nImportant: ne pas donner trop de détails.",
+                  "• Dans ce texte, nous aborderons des conséquences liées à la santé physique et psychologique de l’exposition aux écrans.\n• Pour répondre à la question, nous traiterons de la sédentarité, des effets sur le sommeil et du repli sur soi que peut entraîner l’exposition aux écrans."
+                ]
+              ]
+            },
+            "sourcePage": 8
+          },
+          {
+            "id": "ch08-s03-b03",
+            "type": "paragraph",
+            "content": "Le cœur de l’argumentation prend forme dans les paragraphes de développement. Le modèle largement utilisé au Québec, dans les examens et les travaux scolaires, comprend deux ou trois paragraphes substantiels, soit un par idée principale (ou argument principal). Une affirmation seule ne peut suffire à défendre une opinion, à convaincre, c’est pourquoi chaque paragraphe est une sorte de démonstration qui s’appuie sur des « preuves ».",
+            "sourcePage": 11
+          },
+          {
+            "id": "ch08-s03-b04",
+            "type": "paragraph",
+            "content": "Un texte argumentatif est constitué d’arguments qui permettent de défendre une thèse, de soutenir une opinion pour convaincre ou influencer un destinataire. Ces arguments peuvent être fondés sur des faits, des postulats, des valeurs, des croyances, des expériences vécues ou des exemples. Les arguments peuvent faire appel à des sentiments, se bâtir à partir d’une définition, faire appel à un témoignage, à une narration, à une autorité, procéder par questionnement, par comparaison, par réfutation, etc.",
+            "sourcePage": 11
+          },
+          {
+            "id": "ch08-s03-b05",
+            "type": "table",
+            "content": {
+              "headers": ["Thèse", "Exemple d’argument", "Type d’argument ou procédé"],
+              "rows": [
+                [
+                  "On devrait ouvrir des centres de consommation supervisée pour assister les personnes souffrant de dépendance aux drogues.",
+                  "1. Selon le Centre canadien sur la dépendance, les centres de consommation supervisée réduisent les risques de surdosage et de contamination.",
+                  "Argument fondé sur un fait accompagné d’une source (autorité)"
+                ],
+                [
+                  "On devrait ouvrir des centres de consommation supervisée pour assister les personnes souffrant de dépendance aux drogues.",
+                  "2. J’ai la certitude que le simple geste de sortir de l’isolement pour introduire des professionnels dans son cycle infernal de consommation signale chez la personne dépendante la volonté de changer sa vie.",
+                  "Argument fondé sur des croyances"
+                ],
+                [
+                  "On devrait ouvrir des centres de consommation supervisée pour assister les personnes souffrant de dépendance aux drogues.",
+                  "3. L’ouverture de centres de consommation supervisée indique qu’on confère de la dignité aux personnes dépendantes aux drogues, plutôt que de criminaliser leur parcours.",
+                  "Argument fondé sur des valeurs"
+                ],
+                [
+                  "On devrait ouvrir des centres de consommation supervisée pour assister les personnes souffrant de dépendance aux drogues.",
+                  "4. Les centres de consommation supervisée offrent un soutien essentiel. Une femme qui a développé une dépendance en raison d’une condition médicale particulière raconte que la fréquentation d’un centre de consommation supervisée lui a permis d’arrêter les drogues de rue. Elle a tissé des liens avec les intervenants et avec d’autres usagers, ce qui lui a permis de survivre.",
+                  "Recours à la narration, au témoignage"
+                ],
+                [
+                  "On devrait ouvrir des centres de consommation supervisée pour assister les personnes souffrant de dépendance aux drogues.",
+                  "5. La dépendance peut se définir comme le besoin compulsif de consommer une substance malgré des conséquences néfastes. Il est donc faux ou simpliste de croire que la seule volonté permet le sevrage à une substance.",
+                  "Recours à une définition"
+                ],
+                [
+                  "",
+                  "6. Voulons-nous vivre dans un monde qui criminalise des gens qui ont simplement besoin de soins?",
+                  "Recours au questionnement"
+                ],
+                [
+                  "",
+                  "7. Il est commun d’entendre l’idée que les centres de consommation supervisée sont nuisibles, car ils encouragent la consommation de drogue. Rien n’est plus faux! Cette idée, superficielle, ne tient pas compte de tous les effets positifs que les centres apportent en permettant aux consommateurs d’entrer en contact avec des intervenants qualifiés qui, à long terme, pourront les amener à sortir de la dépendance.",
+                  "Recours à la réfutation"
+                ]
+              ]
+            },
+            "sourcePage": 12
+          },
+          {
+            "id": "ch08-s03-b06",
+            "type": "paragraph",
+            "content": "Trouver des arguments ne suffit pas, le fait de bien les présenter, c’est-à-dire dans des paragraphes bien structurés, leur donnera une plus grande force de conviction. Chacun de ces paragraphes doit:",
+            "sourcePage": 14
+          },
+          {
+            "id": "ch08-s03-b07",
+            "type": "list",
+            "content": [
+              "Comporter des organisateurs textuels et des marqueurs de relation explicitant la structure logique du paragraphe et sa place dans la progression du texte;",
+              "Exposer une idée ou un argument principal dès le début;",
+              "Appuyer l'argument à l’aide d’exemples, d’explications, etc.;",
+              "Justifier cette idée en développant ses différents aspects;",
+              "Se conclure avec une phrase de synthèse qui fait progresser l'argumentaire; il ne s’agit pas de répéter l’idée principale mais de la préciser, de la renforcer, pour mener la réflexion plus loin. Il peut également s’agir d’une phrase de transition qui nous amènerait vers le paragraphe suivant."
+            ],
+            "sourcePage": 14
+          },
+          {
+            "id": "ch08-s03-b08",
+            "type": "table",
+            "content": {
+              "headers": ["", ""],
+              "rows": [
+                ["Affirmation", "Tout d’abord, une trop grande exposition aux écrans a des effets physiques importants."],
+                ["Argument", "La sédentarité associée au temps passé devant les écrans est contraire à ce dont le corps a besoin pour être en santé: le mouvement. À preuve, les médecins signalent des maladies qu’on voyait peu avant chez les jeunes, comme de l’obésité, et chez les gens de tout âge, des problèmes de posture."],
+                ["Explications", "En effet, la captivité qu’entraîne l’écran exige peu de mouvements, ce qui ne permet pas une grande dépense de calories et accroît les risques de surpoids. De plus, l’immobilité devant l’écran dans des postures inadéquates conduit à des maux de dos ou d’épaules qui sont devenus le quotidien de bien des commis de bureau."],
+                ["Conclusion du paragraphe", "Toutes ces répercussions importantes sur le corps indiquent que le temps passé devant les écrans n’est pas sans conséquences."]
+              ]
+            },
+            "sourcePage": 15
+          },
+          {
+            "id": "ch08-s03-b09",
+            "type": "paragraph",
+            "content": "Ordre des paragraphes. Un bon développement argumentatif est organisé de façon à obtenir un effet convaincant. Après l’écriture de trois paragraphes argumentatifs par exemple, on peut se rendre compte que l’ordre dans lequel on les a rédigés n’est pas nécessairement celui qui donne le plus de force et de clarté au texte. On peut donc se poser quelques questions. Avec quel paragraphe débuter? Avec celui qui présente l’argument le plus rassembleur? Est-ce que je poursuis avec l’argument qui demande plus d’explications? Est-ce que je termine en force avec l’argument ou le paragraphe qui me semble le plus percutant, celui qui pourra peut-être émouvoir le destinataire ou avec l’argument qui me semble irréfutable? Par ailleurs, peut-être qu’un certain ordre des paragraphes s’impose pour simplement permettre au lecteur de comprendre la logique développée. Dans tous les cas, n’oubliez pas d’ajuster les organisateurs textuels (ex.: Tout d’abord – Ensuite – Enfin ou D’une part – D’autre part – Dans un autre ordre d’idées, etc.) selon l’ordre choisi.",
+            "sourcePage": 16
+          },
+          {
+            "id": "ch08-s03-b10",
+            "type": "paragraph",
+            "content": "Le paragraphe de conclusion sert à consolider la position prise dans le texte. C’est notre dernière chance de faire adhérer le lecteur ou la lectrice à notre position.",
+            "sourcePage": 17
+          },
+          {
+            "id": "ch08-s03-b11",
+            "type": "table",
+            "content": {
+              "headers": ["", "", "Exemple"],
+              "rows": [
+                [
+                  "Synthèse ou rappel des arguments et réaffirmation de la prise de position",
+                  "Comment vais-je rappeler (résumer) l’ensemble de mes arguments sans les présenter dans les mêmes mots tout en réaffirmant mon opinion?",
+                  "• Pour conclure, je demeure convaincue que les effets corporels évidents et beaucoup trop fréquents, de même que le repli psychologique qu’entraîne de toute évidence l’exposition aux écrans peuvent malheureusement déséquilibrer l’humain."
+                ],
+                [
+                  "Ouverture (facultative)",
+                  "Comment vais-je conclure mon texte?\n• Par une question?\n• En ouvrant vers une piste non abordée?\n• En proposant une solution?",
+                  "• Quel avenir réserve-t-on à la jeune génération qui n’aura jamais connu un monde sans écrans? Pensons-nous à leur développement quand on dépose entre leurs mains d’innombrables appareils électroniques?\n• Il serait bon que l’humain trouve en lui la force de résister à l’attraction que les écrans exercent sur lui et qu’il apprenne à y recourir avec modération."
+                ]
+              ]
+            },
+            "sourcePage": 17
+          }
+        ]
+      },
+      {
+        "id": "chapter-08-section-04",
+        "number": "4",
+        "title": "QUELQUES STRATÉGIES ARGUMENTATIVES",
+        "sourcePages": {
+          "start": 19,
+          "end": 22
+        },
+        "blocks": [
+          {
+            "id": "ch08-s04-b01",
+            "type": "paragraph",
+            "content": "Une des formules les plus communes de l’argumentation consiste à procéder par addition d’arguments (faits, preuves, exemples, appel à l’autorité, etc.) qui soutiennent tous directement la même thèse ou qui défendent la même idée. Cette stratégie permet de présenter et de développer un maximum d’arguments pour défendre sa thèse.",
+            "sourcePage": 19
+          },
+          {
+            "id": "ch08-s04-b02",
+            "type": "table",
+            "content": {
+              "headers": ["", ""],
+              "rows": [
+                [
+                  "Question\nLes romans présentant des scènes potentiellement dérangeantes (violence, racisme, transphobie, etc.) devraient-ils être obligatoirement accompagnés d’un avertissement aux lecteurs et aux lectrices?",
+                  "Question\nLes romans présentant des scènes potentiellement dérangeantes (violence, racisme, transphobie, etc.) devraient-ils être obligatoirement accompagnés d’un avertissement aux lecteurs et aux lectrices?"
+                ],
+                [
+                  "Opinion défendue\nNon, les traumavertissements (trigger warning) ne devraient pas être utilisés de manière systématique.",
+                  "Opinion défendue\nNon, les traumavertissements (trigger warning) ne devraient pas être utilisés de manière systématique."
+                ],
+                [
+                  "Plan des paragraphes\n1er aspect en faveur de la thèse: Manque d’efficacité de cette mesure\nArgument: appel à l’autorité (des recherches)\nExplications: effet inverse, augmentation de l’anxiété\nConclusion du paragraphe: résumé",
+                  "Texte\nTout d’abord, les recherches semblent toutes confirmer l’inefficacité des mises en garde au début des romans.\nEn fait, ce genre d’avertissement augmenterait l’angoisse des lecteurs et des lectrices plutôt que de les protéger.\nEn focalisant la lecture dès le départ sur le trauma, l’avertissement amène les personnes sensibles à anticiper le pire.\nEn résumé, les traumavertissements ne seraient pas une solution fonctionnelle et pourraient même être nuisibles, suscitant plus d’émotions négatives que d’effets positifs sur la santé mentale."
+                ],
+                [
+                  "2e aspect en faveur de la thèse: Cette pratique peut mener à l’interdiction de diffuser certaines œuvres\nArgument: recours à un exemple d’œuvre présentée dans un cours universitaire\nExplications: effet nuisible à long terme, manque de contact avec des œuvres différentes, avec des émotions différentes\nConclusion du paragraphe: résumé",
+                  "Par ailleurs, il nous semble important de souligner un second risque, celui de s’appuyer sur ces avertissements pour interdire des œuvres en raison des thèmes bouleversants qu’elles explorent.\nPrenons l’exemple d’un cours universitaire où serait présenté un livre abordant le suicide. En présence d’un avertissement au début du livre, certaines personnes plus vulnérables, touchées de près ou de loin par cette problématique, pourraient refuser de lire le roman afin d’éviter d’être exposées à une telle scène.\nÀ long terme, cette stratégie d’évitement risque de nuire aux élèves, qui se privent d’un espace d’analyse critique pouvant les amener plus loin dans leur réflexion.\nLa présence d’avertissements peut éloigner la littérature d’un de ses rôles, celui de nous exposer à des situations diverses, dont certaines plus bouleversantes, afin d’élargir nos horizons."
+                ]
+              ]
+            },
+            "sourcePage": 19
+          },
+          {
+            "id": "ch08-s04-b03",
+            "type": "paragraph",
+            "content": "Comme l’accumulation d’arguments laisse peu de place à la réfutation de contre-arguments, on pourra par exemple intégrer dans un paragraphe la réfutation d’une thèse adverse.",
+            "sourcePage": 20
+          },
+          {
+            "id": "ch08-s04-b04",
+            "type": "paragraph",
+            "content": "Une autre approche consiste à présenter successivement deux perspectives opposées du problème afin d’arriver à une synthèse ou à une position intermédiaire, ou encore pour trancher entre les deux, défendre l’une des deux positions et réfuter l’autre.",
+            "sourcePage": 21
+          },
+          {
+            "id": "ch08-s04-b05",
+            "type": "table",
+            "content": {
+              "headers": ["", ""],
+              "rows": [
+                [
+                  "Thèse\n• Arguments en faveur de la thèse que l’on veut défendre (les côtés positifs par exemple).\n• On prendra soin d’illustrer les arguments proposés.",
+                  "Les réseaux sociaux présentent des avantages incontestables. Sur le plan de la socialisation, ils peuvent faciliter les échanges. On n’a qu’à penser aux familles ou aux réseaux d’amis dont les membres sont disséminés sur un large territoire et qui, grâce aux réseaux sociaux, continuent d’entretenir des liens forts sur une base quotidienne et à peu de coûts. On pense aux étudiants qui vivent à l’étranger, aux travailleurs étrangers qui, en attente du retour au pays, peuvent « vivre » à distance le quotidien de leur famille, ou aux nombreux « migrants » forcés à l’exil qui trouveront, on l’espère, du réconfort dans leur nouvelle communauté, sans pour autant devoir couper les ponts avec leurs racines. De plus, les réseaux sociaux permettront souvent aux nombreux « migrants » de trouver dans leur communauté d’accueil des alliés, par exemple des compatriotes déjà installés qui faciliteront leur transition. Il est vrai que tous ces échanges passent à travers un écran, il reste qu’un contact avec l’autre est quand même possible."
+                ],
+                [
+                  "Antithèse (ou réfutation)\n• La confrontation de la thèse avec des arguments opposés permet d’explorer l’autre côté d’une question et d’approfondir la réflexion\n• Arguments opposés à la thèse défendue précédemment",
+                  "En apparence fluides et conviviaux, les réseaux sociaux présentent évidemment de nombreuses failles, car le monde virtuel a ses limites. Il est vrai que, sur le plan humain, on peut y tisser des liens. Toutefois, on remarquera que la possibilité constante d’entrer en contact avec son cercle restreint, par exemple même si on est à l’étranger, peut retarder la création de liens étroits avec des nouvelles personnes et l’intégration dans un nouveau milieu « vivant » et non virtuel.\nDe plus, sur les réseaux sociaux, il est très aisé pour des gens habiles et mal intentionnés qui peuvent projeter une fausse image d’eux-mêmes de berner des individus, ce qui, comme on le sait, peut mener à des abus graves de toutes sortes (économiques, affectifs, etc.). Personne n’est complètement à l’abri de ce genre de manipulation. Derrière un écran, certains filtres comme la retenue naturelle tombent, et on peut du jour au lendemain être victime d’une fausse rumeur et perdre pied. Les humains que nous sommes, tous plus ou moins en proie à la solitude, peuvent s’y perdre, perdre en quelque sorte le contact avec la réalité et préférer le monde virtuel."
+                ],
+                [
+                  "Synthèse (par exemple des avantages et des inconvénients)\n• Thèse personnelle (avec ajout d’au moins un argument)\nLa synthèse doit permettre de dépasser l’apparente contradiction entre la thèse et l’antithèse pour arriver à une position plus nuancée.",
+                  "À la lumière des faits exposés précédemment, on comprendra que les réseaux sociaux peuvent être des outils formidables... s’ils sont utilisés avec discernement.\nEn fait, on pourrait difficilement, de nos jours, ignorer leur présence. Il faut donc s’éduquer pour développer des réflexes qui nous éloigneront des risques liés par exemple à la divulgation d’information privée et qui nous amèneront à contre-vérifier l’information qu’on trouve en ligne pour s’assurer de sa véracité. Par ailleurs, malgré leurs limites, on a vu les réseaux sociaux favoriser la mobilisation autour de certaines luttes, par exemple contre le racisme aux États-Unis. Pour arriver à de vrais changements dans la société, la lutte doit sortir du virtuel, mais au moins, elle peut trouver dans les réseaux un espace de diffusion de départ.\nBien qu’on puisse voir le pire sur les réseaux sociaux, ils peuvent aussi à l’occasion se transformer en espace de solidarité! Pensons aux levées de fonds rapides pour aider des populations en détresse. C’est pourquoi il serait trop facile de les rejeter du revers de la main."
+                ]
+              ]
+            },
+            "sourcePage": 21
+          }
+        ]
+      },
+      {
+        "id": "chapter-08-section-05",
+        "number": "5",
+        "title": "LA COHÉRENCE TEXTUELLE",
+        "sourcePages": {
+          "start": 23,
+          "end": 41
+        },
+        "blocks": [
+          {
+            "id": "ch08-s05-b01",
+            "type": "paragraph",
+            "content": "Différents éléments assurent la cohérence d’un texte. Savoir construire des phrases claires et complètes est essentiel, mais ce n’est pas suffisant pour communiquer la complexité de la pensée. En plus d’appliquer la « grammaire de la phrase », il faut donc apprivoiser la « grammaire du texte ». L’unité d’un texte repose entre autres sur la compatibilité des temps utilisés, sur la progression de l’information et sur les liens logiques entre les idées et les phrases.",
+            "sourcePage": 23
+          },
+          {
+            "id": "ch08-s05-b02",
+            "type": "list",
+            "content": [
+              "Continuité et répétition: Un texte doit comporter dans son développement des éléments récurrents, c’est-à-dire des éléments qui se répètent d’une phrase à l’autre, pour constituer un fil conducteur qui assure la continuité thématique du texte.",
+              "Progression: Un texte doit comporter dans son développement des éléments apportant une information nouvelle. Cette contrainte gouverne toute communication: on transmet à autrui un message pour lui apporter une information qu’il ignore.",
+              "La cohésion repose sur l’équilibre entre ces deux exigences. Si la répétition est insuffisante, la continuité n’est pas assurée, on perd le fil des idées. Au contraire, si la progression est réduite, le texte fait du surplace.",
+              "L’information progresse dans un texte à l’aide entre autres des « reprises ». On utilise la « reprise », le fait de reprendre des mots par d’autres mots, pour éviter les répétitions, et à certains moments pour amener le texte plus loin, en précisant l’information."
+            ],
+            "sourcePage": 23
+          },
+          {
+            "id": "ch08-s05-b03",
+            "type": "paragraph",
+            "content": "Quelques types de reprises: Reprise par un pronom, Reprise par un nom ou un groupe du nom, Reprise par la reformulation.",
+            "sourcePage": 24
+          },
+          {
+            "id": "ch08-s05-b04",
+            "type": "paragraph",
+            "content": "La cohérence d’un texte dépend, entre autres, de la compatibilité des temps utilisés. La forme du verbe varie en fonction de plusieurs facteurs: le mode, le temps, l’aspect, les personnes, le nombre, la voix.",
+            "sourcePage": 28
+          },
+          {
+            "id": "ch08-s05-b05",
+            "type": "paragraph",
+            "content": "L’aspect. L’aspect renvoie à la manière dont on envisage la durée d’une action, d’un événement, indépendamment de sa position sur la ligne du temps.",
+            "sourcePage": 29
+          },
+          {
+            "id": "ch08-s05-b06",
+            "type": "table",
+            "content": {
+              "headers": ["Aspect non accompli", "Aspect accompli"],
+              "rows": [
+                ["On peut voir un événement en cours de réalisation, de déroulement.", "On considère l’événement comme ayant franchi sa fin, comme étant terminé."],
+                ["Je danse", "J’ai dansé"]
+              ]
+            },
+            "sourcePage": 29
+          },
+          {
+            "id": "ch08-s05-b07",
+            "type": "paragraph",
+            "content": "On exprime l’aspect non accompli à travers les temps simples (conjugaison en un seul mot). On exprime l’aspect accompli à travers les temps composés (auxiliaire de conjugaison + participe passé). L'opposition accompli/non accompli traverse toutes les époques.",
+            "sourcePage": 29
+          },
+          {
+            "id": "ch08-s05-b08",
+            "type": "table",
+            "content": {
+              "headers": ["Aspect non accompli", "Aspect accompli"],
+              "rows": [
+                ["Je crois comprendre.", "Je crois avoir compris."],
+                ["Je souhaite qu’il gagne.", "Je souhaite qu’il ait gagné."],
+                ["Il chante bien.", "Il a très bien chanté."],
+                ["Je dansais.", "J’avais dansé."],
+                ["Je danserai.", "J’aurai dansé."],
+                ["Je danserais.", "J’aurais dansé."],
+                ["Rentre dimanche.", "Sois rentré dimanche."]
+              ]
+            },
+            "sourcePage": 29
+          },
+          {
+            "id": "ch08-s05-b09",
+            "type": "paragraph",
+            "content": "Les modes. Les modes permettent entre autres d’exprimer une attitude à l’égard d’un énoncé.",
+            "sourcePage": 30
+          },
+          {
+            "id": "ch08-s05-b10",
+            "type": "list",
+            "content": [
+              "L’indicatif présente un fait présent, passé ou futur dans sa réalité. C’est le mode de la certitude, de l’affirmation.",
+              "L'impératif est le mode de l’injonction, du conseil, de la recommandation. Les verbes à l’impératif se conjuguent à trois personnes seulement: la 2e du singulier, la 1re et la 2e du pluriel.",
+              "Le subjonctif s’éloigne de la réalité d’un fait pour exprimer le doute, l’incertitude, le souhait, l’ordre, la nécessité, la volonté, la crainte, le regret, la supposition, le résultat recherché, l’éventualité, etc."
+            ],
+            "sourcePage": 30
+          },
+          {
+            "id": "ch08-s05-b11",
+            "type": "table",
+            "content": {
+              "headers": ["Subjonctif", "Indicatif"],
+              "rows": [
+                ["Il est possible qu’il vienne. (possibilité)", "Je t’annonce qu’il viendra demain."],
+                ["Il faut qu’il soit là. (nécessité)", "Je sais qu’il est là."],
+                ["J’ai peur qu’il ne vienne pas. (doute, peur)", "Je dis qu’il sera là demain."],
+                ["Je veux qu’elle comprenne. (souhait)", "Je sais qu’elle comprend."],
+                ["Je suis surprise qu’elle soit arrivée en retard. (sentiment: ici la surprise)", "J’ai constaté qu’elle était arrivée en retard."]
+              ]
+            },
+            "sourcePage": 30
+          },
+          {
+            "id": "ch08-s05-b12",
+            "type": "table",
+            "content": {
+              "headers": ["Quelques conjonctions qui exigent le subjonctif", "Exemples"],
+              "rows": [
+                ["avant que", "J’arriverai avant que Paul parte."],
+                ["afin que/pour que", "Le médecin surveille sa patiente afin qu’elle se rétablisse rapidement."],
+                ["quoi que/quoique", "Quoi qu’on fasse, les choses ne changent pas.\nQuoique j'aie travaillé 10 ans en France, je n’ai plus de contact avec mes collègues."],
+                ["à condition que/pourvu que", "Nous y arriverons à condition que tu te concentres."],
+                ["de peur que/de crainte que", "De peur que le chien parte, je l’ai enfermé dans le sous-sol."],
+                ["sans que", "Il fait à sa tête sans qu’on puisse le raisonner."]
+              ]
+            },
+            "sourcePage": 31
+          },
+          {
+            "id": "ch08-s05-b13",
+            "type": "table",
+            "content": {
+              "headers": ["Quelques conjonctions qui exigent l’indicatif", "Exemples"],
+              "rows": [
+                ["après que", "J’arriverai après que Paul sera parti."],
+                ["aussitôt que", "Aussitôt que je lui ai parlé, la tension a disparu."],
+                ["dès que", "Dès que le jour se lève, il ne tient plus en place."],
+                ["puisque", "Puisqu’il le faut, je t’accompagnerai."]
+              ]
+            },
+            "sourcePage": 31
+          },
+          {
+            "id": "ch08-s05-b14",
+            "type": "paragraph",
+            "content": "On doit normalement recourir à l’infinitif lorsque le verbe de la subordonnée a le même sujet que le verbe de la phrase enchâssante.",
+            "sourcePage": 32
+          },
+          {
+            "id": "ch08-s05-b15",
+            "type": "paragraph",
+            "content": "Distinguer le passé composé, l’imparfait et le plus-que-parfait. Le passé composé marque l’aspect accompli d’un fait ou d’un événement. L’imparfait présente un événement en cours dans le passé et peut donner une impression de continuité. Le plus-que-parfait marque l’aspect achevé d’un fait ou d’un événement par rapport à un autre temps du passé.",
+            "sourcePage": 33
+          },
+          {
+            "id": "ch08-s05-b16",
+            "type": "paragraph",
+            "content": "Distinguer le futur simple et le futur antérieur. Le futur simple situe un événement dans l’avenir. Le futur antérieur exprime l’aspect accompli d’un événement antérieur à un autre dans le futur.",
+            "sourcePage": 34
+          },
+          {
+            "id": "ch08-s05-b17",
+            "type": "paragraph",
+            "content": "Distinguer le conditionnel présent et le conditionnel passé. Le conditionnel présent peut exprimer un futur hypothétique, c’est-à-dire incertain. Le conditionnel passé peut exprimer l’incertitude ou le regret. Le conditionnel présent et le conditionnel passé peuvent aussi exprimer la politesse.",
+            "sourcePage": 35
+          },
+          {
+            "id": "ch08-s05-b18",
+            "type": "paragraph",
+            "content": "Quelques structures avec des si: Si + présent, futur simple. Si + imparfait, conditionnel présent. Si + plus-que-parfait, conditionnel passé.",
+            "sourcePage": 36
+          },
+          {
+            "id": "ch08-s05-b19",
+            "type": "paragraph",
+            "content": "La cohérence d’un texte dépend d'abord de sa structure logique, puis des mots qui expriment cette structure au lecteur: les connecteurs. Ces mots ou ces groupes de mots, qui peuvent être de différentes classes, peuvent avoir la fonction de coordonnant ou de subordonnant. Ils contribuent au sens du texte et non seulement à sa forme. Modifier un seul de ces mots peut totalement changer la signification d’une phrase.",
+            "sourcePage": 37
+          },
+          {
+            "id": "ch08-s05-b20",
+            "type": "table",
+            "content": {
+              "headers": ["Lien logique", "Exemples de connecteurs"],
+              "rows": [
+                ["Cause ou raison", "Car, en effet, c’est pourquoi, donc, ainsi, parce que"],
+                ["Identité, union ou similitude", "Pareillement, de même, ainsi que, tout comme"],
+                ["Opposition, contradiction ou différence", "Au contraire, mais, tandis que"],
+                ["Inclusion", "Dans le cadre, incluant, avec, notamment"],
+                ["Addition", "De plus, et, aussi, non seulement... mais aussi, en outre, sans compter"],
+                ["Alternative", "Soit... soit, ou... ou, ou bien, d’une part... d’autre part"],
+                ["Condition ou hypothèse", "Si, à moins que, dans le cas où"],
+                ["Concession", "Même si, malgré, pourtant"],
+                ["Exception", "Néanmoins, sauf, excepté, nonobstant, à l’exception de, mis à part"],
+                ["Ordre, priorité ou hiérarchie", "Premièrement, tout d’abord, deuxièmement, ensuite, en premier lieu"],
+                ["Succession (antériorité ou postériorité)", "Ensuite, avant, après quoi, puis"],
+                ["Simultanéité", "Pendant, alors que, quand, dès lors, à la fois, en même temps"],
+                ["But (à atteindre ou à éviter)", "Afin de, pour, de peur que, parce que"],
+                ["Restriction", "Cependant, toutefois, mis à part, sauf"],
+                ["Exemplification, précision ou explication", "Par exemple, c’est le cas de, en particulier, entre autres, comme"],
+                ["Comparaison ou analogie", "Comme, ainsi que, de même"]
+              ]
+            },
+            "sourcePage": 38
+          },
+          {
+            "id": "ch08-s05-b21",
+            "type": "paragraph",
+            "content": "Ils arrivent aussi que les liens logiques soient implicites et ne requièrent pas de connecteurs pour apparaître évidents à la lecture. Dans ces situations, abuser des marqueurs de relation peut devenir un tic qui alourdit inutilement le texte. Certaines transitions ne représentent par ailleurs aucun lien logique particulier: le texte passe naturellement d’une idée à une autre sans avoir à recourir à des connecteurs. Encore une fois, en abuser alourdirait inutilement le texte.",
+            "sourcePage": 39
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "id": "chapter-08-exercise-01",
+        "title": "Exercice 1",
+        "instructions": "Identifiez le type d’argument ou le procédé utilisé: fait, postulat, valeur, croyance, exemple, sentiment, questionnement, réfutation, témoignage, comparaison, etc.",
+        "items": [
+          { "id": "ch08-ex01-it01", "prompt": "1. Il est facile d’installer un enfant devant un écran pendant qu’on vaque à d’autres tâches. Mais peut-on réellement croire que l’enfant développera son plein potentiel en étant constamment en « relation » avec un écran?", "sourcePage": 13 },
+          { "id": "ch08-ex01-it02", "prompt": "2. Le développement d’un individu ne peut pas être délégué à une « machine ». Pour grandir, s’épanouir et vivre en société, l’enfant et l’adulte doivent être confrontés à d’autres humains et apprendre à négocier avec eux. L’empathie ne peut se développer sans véritable contact humain.", "sourcePage": 13 },
+          { "id": "ch08-ex01-it03", "prompt": "3. La sédentarité qu’entraînent les écrans est contraire à ce dont le corps a besoin pour être en santé: le mouvement. D’ailleurs, plusieurs médecins signalent une épidémie d’obésité chez les jeunes et même du diabète, ce qui était rare il y a quelques années seulement.", "sourcePage": 13 },
+          { "id": "ch08-ex01-it04", "prompt": "4. Dans une classe, les écrans, comme les cellulaires, distraient les élèves, tout comme le ferait un jeu laissé à la disposition d’un groupe d’élèves.", "sourcePage": 13 },
+          { "id": "ch08-ex01-it05", "prompt": "5. Certains diront que l’exposition aux écrans, par la quantité d’information à laquelle il donne accès, est un objet extrêmement stimulant pour les élèves. Or, malgré toute l’information qui devient soudainement accessible en quelques clics, on ne remarque pas une hausse des connaissances chez les élèves.", "sourcePage": 13 }
+        ],
+        "answerKey": [
+          "1. Recours au questionnement",
+          "2. Argument fondé sur des croyances et des valeurs",
+          "3. Argument fondé sur des faits",
+          "4. Recours à la comparaison",
+          "5. Recours à la réfutation"
+        ],
+        "sourcePages": { "start": 13, "end": 13 }
+      },
+      {
+        "id": "chapter-08-exercise-02",
+        "title": "Exercice 2",
+        "instructions": "Indiquez ce que les éléments surlignés reprennent.",
+        "items": [
+          { "id": "ch08-ex02-it01", "prompt": "1. Victime d’une insolation qui s’est transformée en fièvre, je dus rester au lit plusieurs semaines. Pendant tout ce temps, Jim et la police cherchèrent Christine en vain. Et cette recherche inutile se poursuivit des mois durant. Les journaux étaient pleins de l’étrange disparition de la fille aux cheveux roux.", "sourcePage": 25 },
+          { "id": "ch08-ex02-it02", "prompt": "2. On le sait: on manque d’enseignants et cet obstacle ne sera pas facilement franchi.", "sourcePage": 25 },
+          { "id": "ch08-ex02-it03", "prompt": "3. La recherche sur les effets de la méditation chez les enfants est embryonnaire, alors que le potentiel de cette pratique est immense.", "sourcePage": 25 },
+          { "id": "ch08-ex02-it04", "prompt": "4. Dans les sociétés de tradition orale, écrire le savoir représentait un recul, car l’écriture provoquerait l’atrophie de la mémoire.", "sourcePage": 25 }
+        ],
+        "answerKey": [
+          "1. « tout ce temps » reprend « plusieurs semaines » et « cette recherche inutile » reprend « Jim et la police cherchèrent Christine en vain »",
+          "2. « cet obstacle » reprend « on manque d’enseignants »",
+          "3. « cette pratique » reprend « la méditation chez les enfants »",
+          "4. « l’écriture » reprend « écrire le savoir »"
+        ],
+        "sourcePages": { "start": 25, "end": 25 }
+      },
+      {
+        "id": "chapter-08-exercise-03",
+        "title": "Exercice 3",
+        "instructions": "Complétez les phrases.",
+        "items": [
+          { "id": "ch08-ex03-it01", "prompt": "1. Le passage « l’accord des participes passés » est repris par", "sourcePage": 26 },
+          { "id": "ch08-ex03-it02", "prompt": "2. Le passage « supprimer tous les accords avec le verbe avoir » est repris par", "sourcePage": 26 },
+          { "id": "ch08-ex03-it03", "prompt": "3. Le passage « les fautes les plus courantes relevées dans cette étude » est repris par", "sourcePage": 26 },
+          { "id": "ch08-ex03-it04", "prompt": "4. Le passage « un “s” muet » est repris par", "sourcePage": 26 }
+        ],
+        "answerKey": [
+          "1. cette règle grammaticale",
+          "2. cela",
+          "3. celles",
+          "4. Ce “s” muet"
+        ],
+        "sourcePages": { "start": 26, "end": 26 }
+      },
+      {
+        "id": "chapter-08-exercise-04",
+        "title": "Exercice 4",
+        "instructions": "Corrigez les erreurs de reprise.",
+        "items": [
+          { "id": "ch08-ex04-it01", "prompt": "1. À la fin du concert, l’assistance est restée silencieuse l’espace de quelques secondes. Puis ils se levèrent d’un bond et applaudirent à tout rompre.", "sourcePage": 26 },
+          { "id": "ch08-ex04-it02", "prompt": "2. La maison d'édition où Michel et Julie travaillaient connaissait de sérieux problèmes financiers. Par conséquent, ils avaient dû procéder à des suppressions de postes.", "sourcePage": 27 },
+          { "id": "ch08-ex04-it03", "prompt": "3. La petite bande d'adolescents avait leurs habitudes.", "sourcePage": 27 },
+          { "id": "ch08-ex04-it04", "prompt": "4. Le patron me demanda de me rendre à l'usine tôt le lendemain matin pour que celui-ci puisse me présenter aux employés.", "sourcePage": 27 },
+          { "id": "ch08-ex04-it05", "prompt": "5. Sortant de l'auto accidentée, Catherine était sous le choc. On l'emmena à l'hôpital car celle-ci semblait avoir du mal à marcher.", "sourcePage": 27 },
+          { "id": "ch08-ex04-it06", "prompt": "6. Anatole était grossier. Il lui arrivait souvent d'insulter les gens. Sa vulgarité de ce dernier était consternante.", "sourcePage": 27 }
+        ],
+        "answerKey": [
+          "1. À la fin du concert, l’assistance est restée silencieuse l’espace de quelques secondes. Puis elle se leva d’un bond et applaudit à tout rompre.",
+          "2. La maison d'édition où Michel et Julie travaillaient connaissait de sérieux problèmes financiers. Par conséquent, elle avait dû procéder à des suppressions de postes.",
+          "3. La petite bande d'adolescents avait ses habitudes.",
+          "4. Le patron me demanda de me rendre à l'usine tôt le lendemain matin pour qu’il puisse me présenter aux employés.",
+          "5. Sortant de l'auto accidentée, Catherine était sous le choc. On l'emmena à l'hôpital car elle semblait avoir du mal à marcher.",
+          "6. Anatole était grossier. Il lui arrivait souvent d'insulter les gens. Sa vulgarité était consternante."
+        ],
+        "sourcePages": { "start": 26, "end": 27 }
+      },
+      {
+        "id": "chapter-08-exercise-05",
+        "title": "Exercice 5",
+        "instructions": "Tentez, dans les phrases suivantes, de trouver une autre solution que l’emploi de ces formules un peu vides et quelquefois fautives (cela, celui-ci, ce dernier, etc.).",
+        "items": [
+          { "id": "ch08-ex05-it01", "prompt": "1. Étant donné que l’enseignante associée était accueillante, cela a permis aux élèves de poser beaucoup de questions.", "sourcePage": 27 },
+          { "id": "ch08-ex05-it02", "prompt": "2. Plusieurs professeurs ne savent pas se servir du tableau interactif ou font un usage minimal de celui-ci.", "sourcePage": 27 },
+          { "id": "ch08-ex05-it03", "prompt": "3. Le fait de placer des tubes dans cette position, cela permet de mieux répartir le poids.", "sourcePage": 27 },
+          { "id": "ch08-ex05-it04", "prompt": "4. Le sujet qui s’en remet à une autorité attribue à cette dernière une compétence particulière.", "sourcePage": 28 },
+          { "id": "ch08-ex05-it05", "prompt": "5. Malgré peu de talent en dessin, cela n’empêche pas Pierre de peindre toute la journée.", "sourcePage": 28 },
+          { "id": "ch08-ex05-it06", "prompt": "6. En étant patiente, cela me permet de prendre le temps nécessaire pour guider les élèves.", "sourcePage": 28 },
+          { "id": "ch08-ex05-it07", "prompt": "7. Je trouve que l’utilisation des appareils électroniques dans le cadre scolaire a beaucoup augmenté et les écoles ont perdu le contrôle sur l’utilisation de ceux-ci.", "sourcePage": 28 }
+        ],
+        "answerKey": [
+          "1. L’enseignante associée était accueillante, ce qui a permis aux élèves de poser beaucoup de questions.",
+          "2. Plusieurs professeurs ne savent pas se servir du tableau interactif ou en font un usage minimal.",
+          "3. Le fait de placer des tubes dans cette position permet de mieux répartir le poids.",
+          "4. Le sujet qui s’en remet à une autorité lui attribue une compétence particulière.",
+          "5. Le peu de talent de Pierre en dessin ne l’empêche pas de peindre toute la journée.",
+          "6. Être patiente me permet de prendre le temps nécessaire.",
+          "7. Je trouve que l’utilisation des appareils électroniques dans le cadre scolaire a beaucoup augmenté et les écoles en ont perdu le contrôle."
+        ],
+        "sourcePages": { "start": 27, "end": 28 }
+      },
+      {
+        "id": "chapter-08-exercise-06",
+        "title": "Exercice 6",
+        "instructions": "Reliez les deux phrases en choisissant le mode qui convient: indicatif, infinitif ou subjonctif.",
+        "items": [
+          { "id": "ch08-ex06-it01", "prompt": "1. Nous irons au cinéma. Tu as fini de travailler. (après que)", "sourcePage": 32 },
+          { "id": "ch08-ex06-it02", "prompt": "2. Ils travaillent. Leurs collègues sont en congé. (pendant que)", "sourcePage": 32 },
+          { "id": "ch08-ex06-it03", "prompt": "3. Nous avons tout fait. Tu prends des forces après ton accident. (pour que)", "sourcePage": 32 },
+          { "id": "ch08-ex06-it04", "prompt": "4. Ils ont conduit toute la nuit. Ils n’ont pas pris de pause. (sans)", "sourcePage": 32 },
+          { "id": "ch08-ex06-it05", "prompt": "5. Elle a insisté. Il part. (pour que)", "sourcePage": 32 }
+        ],
+        "answerKey": [
+          "1. Nous irons au cinéma après que tu auras fini de travailler.",
+          "2. Ils travaillent pendant que leurs collègues sont en congé.",
+          "3. Nous avons tout fait pour que tu prennes des forces après ton accident.",
+          "4. Ils ont conduit toute la nuit sans prendre de pause.",
+          "5. Elle a insisté pour qu’il parte."
+        ],
+        "sourcePages": { "start": 32, "end": 32 }
+      },
+      {
+        "id": "chapter-08-exercise-07",
+        "title": "Exercice 7",
+        "instructions": "Conjuguez les verbes en choisissant, selon le contexte et les locutions présentes, le mode indicatif ou subjonctif.",
+        "items": [
+          { "id": "ch08-ex07-it01", "prompt": "1. Pour qu’on __________________ (partir) à l’heure prévue, il faut accélérer le processus.", "sourcePage": 32 },
+          { "id": "ch08-ex07-it02", "prompt": "2. Quoi qu’on __________________ (dire), quoi qu’on __________________ (faire), la situation n’évolue guère.", "sourcePage": 33 },
+          { "id": "ch08-ex07-it03", "prompt": "3. Après que vous __________________ (dormir), vous vous sentirez mieux.", "sourcePage": 33 },
+          { "id": "ch08-ex07-it04", "prompt": "4. Afin qu’il ne me __________________ pas (voir), je me suis assise derrière une colonne.", "sourcePage": 33 },
+          { "id": "ch08-ex07-it05", "prompt": "5. Bien qu’elle __________________ (avoir) été prévenue, elle a oublié la rencontre.", "sourcePage": 33 },
+          { "id": "ch08-ex07-it06", "prompt": "6. J'ai peur qu'on __________________ (être) en retard.", "sourcePage": 33 },
+          { "id": "ch08-ex07-it07", "prompt": "7. Ta tante espère qu’il se __________________ (faire) remettre à sa place.", "sourcePage": 33 },
+          { "id": "ch08-ex07-it08", "prompt": "8. Ta tante souhaite qu’il se __________________ (faire) remettre à sa place.", "sourcePage": 33 },
+          { "id": "ch08-ex07-it09", "prompt": "9. Il faut que tu __________________ (vivre) si tu veux voir ce combat.", "sourcePage": 33 },
+          { "id": "ch08-ex07-it10", "prompt": "10. Je suppose que tu __________________ (avoir) raison.", "sourcePage": 33 },
+          { "id": "ch08-ex07-it11", "prompt": "11. Je crains que ton frère ne __________________ (pouvoir) nous accompagner.", "sourcePage": 33 },
+          { "id": "ch08-ex07-it12", "prompt": "12. Je suis convaincu qu’il __________________ (faire) beau demain.", "sourcePage": 33 },
+          { "id": "ch08-ex07-it13", "prompt": "13. Je serais étonné que vous __________________ (pouvoir) entrer sans votre carte.", "sourcePage": 33 },
+          { "id": "ch08-ex07-it14", "prompt": "14. Je ne m’attendais pas à ce que tu __________________ (venir).", "sourcePage": 33 },
+          { "id": "ch08-ex07-it15", "prompt": "15. Je n’entends pas ce que tu me __________________ (dire).", "sourcePage": 33 },
+          { "id": "ch08-ex07-it16", "prompt": "16. Il prétend que les Grands Lacs __________________ (être) salés.", "sourcePage": 33 },
+          { "id": "ch08-ex07-it17", "prompt": "17. Il doute que les Grands Lacs __________________ (être) salés.", "sourcePage": 33 },
+          { "id": "ch08-ex07-it18", "prompt": "18. On vient de m’apprendre qu’elle __________________ (être) malade.", "sourcePage": 33 },
+          { "id": "ch08-ex07-it19", "prompt": "19. J’ai peur qu’il __________________ (mourir) avant que je puisse le voir.", "sourcePage": 33 },
+          { "id": "ch08-ex07-it20", "prompt": "20. En préparation à son marathon, il faut qu’il __________________ (courir) tous les matins.", "sourcePage": 33 }
+        ],
+        "answerKey": [
+          "1. parte", "2. dise / fasse", "3. aurez dormi", "4. voie", "5. ait", "6. soit", "7. fera", "8. fasse", "9. vives", "10. as", "11. puisse", "12. fera", "13. puissiez", "14. viennes", "15. dis", "16. sont", "17. soient", "18. est", "19. meure", "20. coure"
+        ],
+        "sourcePages": { "start": 32, "end": 33 }
+      },
+      {
+        "id": "chapter-08-exercise-08",
+        "title": "Exercice 8",
+        "instructions": "Choisissez le passé composé, l’imparfait et le plus-que-parfait.",
+        "items": [
+          { "id": "ch08-ex08-it01", "prompt": "1. J’(errer) _______________ dans le bureau, cherchant un livre que je (commencer) _______________ la veille.", "sourcePage": 34 },
+          { "id": "ch08-ex08-it02", "prompt": "2. Hier, les routes (être) _______________ dangereuses: il (pleuvoir) _______________ la nuit précédente et la température (baisser) _______________.", "sourcePage": 34 },
+          { "id": "ch08-ex08-it03", "prompt": "3. Nous savions que, la semaine précédente, la vie lui (faire) _______________ une belle surprise.", "sourcePage": 34 },
+          { "id": "ch08-ex08-it04", "prompt": "4. Ce matin, j’(voir) _______________ Raymonde au café, elle (être) _______________ encore fâchée en raison de ce qui (se passer) _______________ la veille.", "sourcePage": 34 }
+        ],
+        "answerKey": [
+          "1. errais / avais commencé",
+          "2. étaient / avait plu / avait baissé",
+          "3. avait fait",
+          "4. ai vu / était / s’était passé"
+        ],
+        "sourcePages": { "start": 34, "end": 34 }
+      },
+      {
+        "id": "chapter-08-exercise-09",
+        "title": "Exercice 9",
+        "instructions": "Choisissez le futur simple ou le futur antérieur.",
+        "items": [
+          { "id": "ch08-ex09-it01", "prompt": "1. Nous (visiter) _______________ la Gaspésie quand nous (trouver) _______________ de l’hébergement.", "sourcePage": 35 },
+          { "id": "ch08-ex09-it02", "prompt": "2. Quand les élèves (terminer) _______________ leurs exercices, ils (pouvoir) _______________ prendre une pause dans la cour, puis (revenir) _______________ en classe.", "sourcePage": 35 },
+          { "id": "ch08-ex09-it03", "prompt": "3. Quand Paul (avoir) _______________ 80 ans, il ne (se souvenir) _______________ plus très bien de ses jeunes années, mais il (pouvoir) _______________ dire qu’il (avoir) _______________ une belle vie.", "sourcePage": 35 },
+          { "id": "ch08-ex09-it04", "prompt": "4. L’année prochaine à la même date, ce sera fait: nous (terminer) _______________ nos études.", "sourcePage": 35 }
+        ],
+        "answerKey": [
+          "1. visiterons / aurons trouvé",
+          "2. auront terminé / pourront / reviendront",
+          "3. aura / se souviendra / pourra / aura eu",
+          "4. aurons terminé"
+        ],
+        "sourcePages": { "start": 35, "end": 35 }
+      },
+      {
+        "id": "chapter-08-exercise-10",
+        "title": "Exercice 10",
+        "instructions": "Choisissez le conditionnel présent ou le conditionnel passé.",
+        "items": [
+          { "id": "ch08-ex10-it01", "prompt": "1. Nous (visiter) _______________ la Gaspésie mais nous avons manqué de temps.", "sourcePage": 36 },
+          { "id": "ch08-ex10-it02", "prompt": "2. Personne n’avait prévu que ça (se terminer) _______________ ainsi.", "sourcePage": 36 },
+          { "id": "ch08-ex10-it03", "prompt": "3. J’(vouloir) _______________ être comédien, mais c’est beaucoup trop exigeant.", "sourcePage": 36 },
+          { "id": "ch08-ex10-it04", "prompt": "4. Est-ce que je (pouvoir) _______________ utiliser votre téléphone?", "sourcePage": 36 },
+          { "id": "ch08-ex10-it05", "prompt": "5. Selon les bruits qui courent, elle (mentir) _______________.", "sourcePage": 36 }
+        ],
+        "answerKey": [
+          "1. aurions visité",
+          "2. se terminerait",
+          "3. aurais voulu",
+          "4. pourrais",
+          "5. aurait menti"
+        ],
+        "sourcePages": { "start": 36, "end": 36 }
+      },
+      {
+        "id": "chapter-08-exercise-11",
+        "title": "Exercice 11",
+        "instructions": "Choisissez le bon temps de verbe.",
+        "items": [
+          { "id": "ch08-ex11-it01", "prompt": "1. Si je change de métier, je (devenir) _______________ boulangère.", "sourcePage": 36 },
+          { "id": "ch08-ex11-it02", "prompt": "2. Si je changeais de métier, je (devenir) _______________ boulangère.", "sourcePage": 36 },
+          { "id": "ch08-ex11-it03", "prompt": "3. Si j’avais changé de métier, je (devenir) _______________ boulangère.", "sourcePage": 36 }
+        ],
+        "answerKey": [
+          "1. deviendrai",
+          "2. deviendrais",
+          "3. serais devenue"
+        ],
+        "sourcePages": { "start": 36, "end": 36 }
+      },
+      {
+        "id": "chapter-08-exercise-12",
+        "title": "Exercice 12",
+        "instructions": "Choisissez le bon temps de verbe.",
+        "items": [
+          { "id": "ch08-ex12-it01", "prompt": "La notion de traumavertissement, néologisme formé des termes « traumatisme » et « avertissement », (utiliser) _______________ pour désigner les mises en garde censées prévenir le public de la présence de sujets risquant de heurter sa sensibilité. Dans le monde littéraire québécois, elle (entraîner) _______________ la question suivante: est-ce que les romans présentant des scènes potentiellement dérangeantes (devoir) _______________ obligatoirement être accompagnés d’un avertissement aux lecteurs et aux lectrices? Cet enjeu d’actualité (diviser) _______________ l’opinion. Dans le présent texte, nous (soutenir) _______________ que les traumavertissements ne (devoir) _______________ pas être utilisés de manière systématique. Pour appuyer notre propos, nos arguments (porter) _______________ sur le manque d’efficacité de cette solution et sur le danger de censurer ou d’écarter des œuvres littéraires marquantes en raison de leurs thématiques.", "sourcePage": 36 }
+        ],
+        "answerKey": [
+          "est utilisée / entraîne / doivent / divise / soutiendrons / ne devraient pas / porteront"
+        ],
+        "sourcePages": { "start": 36, "end": 36 }
+      },
+      {
+        "id": "chapter-08-exercise-13",
+        "title": "Exercice 13",
+        "instructions": "Identifier le type de lien logique dans la phrase. Précisez si ce lien est explicite (marqué par un connecteur) ou implicite.",
+        "items": [
+          { "id": "ch08-ex13-it01", "prompt": "1. Il faisait si froid dehors que même les arbres semblaient grelotter.", "sourcePage": 40 },
+          { "id": "ch08-ex13-it02", "prompt": "2. Nous avons poursuivi la randonnée malgré la pluie.", "sourcePage": 40 },
+          { "id": "ch08-ex13-it03", "prompt": "3. Elle passait sa vie rivée à son instrument, elle aimait tant la musique.", "sourcePage": 40 },
+          { "id": "ch08-ex13-it04", "prompt": "4. Il était si fatigué, pourtant il a continué à travailler jusqu’à tard dans la nuit.", "sourcePage": 40 },
+          { "id": "ch08-ex13-it05", "prompt": "5. Tant que les ingrédients sont frais, on peut cuisiner un excellent repas pour pas cher.", "sourcePage": 40 },
+          { "id": "ch08-ex13-it06", "prompt": "6. Sans qu’elle ne s’en rende compte, il faisait déjà nuit.", "sourcePage": 40 },
+          { "id": "ch08-ex13-it07", "prompt": "7. L’armée de César ne saurait tarder. La neige doit fondre dans les montagnes.", "sourcePage": 40 }
+        ],
+        "answerKey": [
+          "1. Conséquence; explicite",
+          "2. Restriction; explicite",
+          "3. Cause; implicite",
+          "4. Opposition; explicite",
+          "5. Condition; explicite",
+          "6. Restriction; explicite",
+          "7. Condition; implicite"
+        ],
+        "sourcePages": { "start": 40, "end": 40 }
+      },
+      {
+        "id": "chapter-08-exercise-14",
+        "title": "Exercice 14",
+        "instructions": "Identifiez la nature des liens logiques en gras dans le paragraphe suivant.",
+        "items": [
+          {
+            "id": "ch08-ex14-it01",
+            "prompt": "La science occupe une place importante mais singulière dans notre culture. D’une part, il n’y a guère d’aspect de notre vie qui n’ait été influencée par elle – plus précisément par les technologies issues de la science. D’autre part, ses résultats, concepts et méthodes semblent pourtant n’avoir que bien peu pénétré les consciences et restent, trop largement encore, étrangers au grand public.",
+            "sourcePage": 41
+          }
+        ],
+        "answerKey": [
+          "mais [restriction], D’une part [division/opposition], guère [restriction], plus précisément [précision/explication], D’autre part [division/opposition], pourtant [opposition/restriction]"
+        ],
+        "sourcePages": { "start": 41, "end": 41 }
+      },
+      {
+        "id": "chapter-08-exercise-15",
+        "title": "Exercice 15",
+        "instructions": "Repérez et identifiez les liens logiques dans l’extrait suivant.",
+        "items": [
+          {
+            "id": "ch08-ex15-it01",
+            "prompt": "La démocratie, qu'on aime qualifier de pilier de notre société, trouve sa force dans notre exercice du droit de vote, un acte qui, en apparence simple, revêt une importance capitale. C’est un fait indéniable que sans l’engagement actif des citoyens, la démocratie perd de sa substance. Plus encore, soit elle s’effrite dans la corruption, soit elle facilite l’avènement de nouvelles tyrannies. Toutefois, il serait naïf de croire que le simple acte de voter suffit à garantir une démocratie saine et robuste. En effet, l’efficacité d’une démocratie repose sur un électorat bien informé et engagé. C’est pourquoi l’éducation civique doit être au cœur de notre système éducatif. Seule une population bien informée et engagée peut permettre à la démocratie de prospérer et de se développer.",
+            "sourcePage": 41
+          }
+        ],
+        "answerKey": [
+          "de [analogie], dans [cause], sans [condition], Plus encore [addition], soit [alternance], soit [alternance], Toutefois [restriction], En effet [explication], sur [cause/condition], C'est pourquoi [conséquence], Seule [restriction]"
+        ],
+        "sourcePages": { "start": 41, "end": 41 }
+      }
+    ],
+    "sourceCoverage": {
+      "extractedSections": [
+        "1 LES COMPOSANTES DU TEXTE ARGUMENTATIF",
+        "2 AVANT DE RÉDIGER",
+        "3 LA RÉDACTION",
+        "4 QUELQUES STRATÉGIES ARGUMENTATIVES",
+        "5 LA COHÉRENCE TEXTUELLE",
+        "CORRIGÉS DES EXERCICES"
+      ],
+      "extractedPageRanges": [
+        "2-45"
+      ],
+      "unreadableContent": [],
+      "itemsRequiringReview": []
+    }
+  }
+}

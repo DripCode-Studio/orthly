@@ -110,7 +110,16 @@ export const chapters: Chapter[] = [
     title: "La structure du paragraphe et du texte",
     description: "Construire un texte cohérent, clair et bien enchaîné.",
     color: "#ff9600",
-    lessons: [{ id: "ch08-intro", title: "Idée principale et cohésion", type: "lesson", durationMinutes: 10 }]
+    // Ids alignés sur les clés de complétion utilisées par la page de leçon
+    // (`${chapterId}:${sectionId}`) : une section terminée compte dans la
+    // progression du chapitre.
+    lessons: [
+      { id: "chapter-08:chapter-08-section-01", title: "Les composantes du texte argumentatif", type: "lesson", durationMinutes: 12 },
+      { id: "chapter-08:chapter-08-section-02", title: "Avant de rédiger", type: "lesson", durationMinutes: 12 },
+      { id: "chapter-08:chapter-08-section-03", title: "La rédaction", type: "lesson", durationMinutes: 18 },
+      { id: "chapter-08:chapter-08-section-04", title: "Quelques stratégies argumentatives", type: "lesson", durationMinutes: 10 },
+      { id: "chapter-08:chapter-08-section-05", title: "La cohérence textuelle", type: "lesson", durationMinutes: 20 }
+    ]
   }
 ];
 
