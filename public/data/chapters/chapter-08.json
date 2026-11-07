@@ -1,0 +1,374 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "chapter-08",
+  "number": 8,
+  "slug": "structure-paragraphe-texte",
+  "title": "La structure du paragraphe et du texte",
+  "description": "Maîtriser la structure du texte argumentatif (introduction, développement, conclusion), les étapes de préparation et de rédaction, les stratégies argumentatives et la cohérence textuelle (reprises, temps, modes, connecteurs).",
+  "estimatedMinutes": 120,
+  "color": "#8b5cf6",
+  "learningObjectives": [
+    { "id": "chapter-08-objective-01", "text": "Identifier et rédiger les composantes d'un texte argumentatif (introduction, développement, conclusion).", "topicIds": ["text-structure", "introduction", "conclusion"] },
+    { "id": "chapter-08-objective-02", "text": "Préparer la rédaction: choisir et comprendre le sujet, chercher et organiser les idées.", "topicIds": ["pre-writing", "idea-generation"] },
+    { "id": "chapter-08-objective-03", "text": "Rédiger une introduction (sujet amené, sujet posé, thèse, sujet divisé) et des paragraphes de développement structurés.", "topicIds": ["introduction", "development", "paragraph-structure"] },
+    { "id": "chapter-08-objective-04", "text": "Appliquer des stratégies argumentatives (addition, thèse/antithèse, synthèse).", "topicIds": ["argumentation-strategies"] },
+    { "id": "chapter-08-objective-05", "text": "Assurer la cohérence textuelle: reprises, compatibilité des temps et des modes, connecteurs et liens logiques.", "topicIds": ["textual-coherence", "reprise", "tense-aspect", "connectors"] }
+  ],
+  "sections": [
+    {
+      "id": "chapter-08-section-01",
+      "title": "Les composantes du texte argumentatif",
+      "order": 1,
+      "introduction": "Le texte argumentatif devrait toujours comporter une entrée en matière (introduction), une argumentation structurée en quelques paragraphes selon la longueur du texte et le nombre d'idées à aborder (développement) et une synthèse finale (conclusion).",
+      "concepts": [
+        {
+          "id": "chapter-08-concept-01",
+          "title": "Les trois composantes du texte argumentatif",
+          "explanation": "Tout texte argumentatif repose sur trois parties: l'introduction (entrée en matière, présentation du sujet, prise de position), le développement (ensemble des arguments qui appuient la thèse) et la conclusion (consolidation de la position prise).",
+          "definition": "Le texte argumentatif comporte une introduction, un développement et une conclusion.",
+          "rules": [
+            { "id": "chapter-08-rule-01", "text": "Le texte argumentatif devrait toujours comporter une entrée en matière (introduction), une argumentation structurée en quelques paragraphes (développement) et une synthèse finale (conclusion).", "exceptions": [], "source": { "page": 3 } }
+          ],
+          "steps": [],
+          "examples": [
+            { "id": "chapter-08-ex-01", "text": "Introduction — Développement — Conclusion", "highlight": [], "explanation": "Les trois composantes fondamentales du texte argumentatif.", "source": { "page": 3, "kind": "source" } }
+          ],
+          "exceptions": [],
+          "commonMistakes": [],
+          "takeaway": "Un texte argumentatif se structure toujours en trois parties: introduction, développement, conclusion.",
+          "topicIds": ["text-structure"],
+          "sourceReferences": [{ "page": 3 }]
+        },
+        {
+          "id": "chapter-08-concept-02",
+          "title": "L'introduction",
+          "explanation": "L'introduction remplit une double fonction: présenter clairement le fil conducteur du texte et capter l'attention du lecteur. On la divise selon quatre parties: sujet amené, sujet posé, thèse (position défendue) et sujet divisé.",
+          "definition": "Entrée en matière, présentation du sujet, prise de position.",
+          "rules": [
+            { "id": "chapter-08-rule-02", "text": "Sujet amené: entrée en matière ou mise en contexte servant à introduire le sujet et à capter l'attention.", "exceptions": [], "source": { "page": 3 } },
+            { "id": "chapter-08-rule-03", "text": "Sujet posé: formulation claire et complète de la question ou de la problématique à laquelle cherche à répondre le texte (aspect le plus essentiel).", "exceptions": [], "source": { "page": 3 } },
+            { "id": "chapter-08-rule-04", "text": "Thèse (position défendue): prise de position défendue tout au long du texte; toutes les positions peuvent être bonnes, il s'agit de défendre efficacement la position adoptée.", "exceptions": [], "source": { "page": 3 } },
+            { "id": "chapter-08-rule-05", "text": "Sujet divisé: présentation des grandes lignes du développement; donner un aperçu de la structure de l'argumentation plutôt que la liste des arguments.", "exceptions": [], "source": { "page": 3 } }
+          ],
+          "steps": [],
+          "examples": [],
+          "exceptions": [],
+          "commonMistakes": [],
+          "takeaway": "L'introduction présente le sujet, pose la question, annonce la thèse et divise le sujet.",
+          "topicIds": ["introduction"],
+          "sourceReferences": [{ "page": 3 }]
+        },
+        {
+          "id": "chapter-08-concept-03",
+          "title": "La conclusion",
+          "explanation": "La conclusion sert à consolider la position prise. Elle comprend une synthèse ou un rappel des arguments, une réaffirmation de la thèse et, facultativement, une ouverture.",
+          "definition": "Consolidation de la position prise.",
+          "rules": [
+            { "id": "chapter-08-rule-06", "text": "Synthèse ou rappel des arguments présentés: reformuler les grands mouvements de l'argumentaire sans répéter les idées du texte.", "exceptions": [], "source": { "page": 3 } },
+            { "id": "chapter-08-rule-07", "text": "Réaffirmation de la thèse: à la lumière de tous les arguments, réaffirmer l'opinion de départ en lui donnant une plus forte apparence de certitude.", "exceptions": [], "source": { "page": 3 } },
+            { "id": "chapter-08-rule-08", "text": "Ouverture (facultative): ouvrir sur une idée non développée (réflexion, nouvelle question, regard vers l'avenir) tout en donnant une impression de complétude.", "exceptions": [], "source": { "page": 3 } }
+          ],
+          "steps": [],
+          "examples": [],
+          "exceptions": [],
+          "commonMistakes": [],
+          "takeaway": "La conclusion synthétise, réaffirme la thèse et peut s'ouvrir.",
+          "topicIds": ["conclusion"],
+          "sourceReferences": [{ "page": 3 }]
+        }
+      ],
+      "summary": ["Introduction, développement et conclusion forment le texte argumentatif.", "L'introduction présente, pose, défend et divise.", "La conclusion synthétise, réaffirme et peut s'ouvrir."],
+      "sourceReferences": [{ "page": 3 }]
+    },
+    {
+      "id": "chapter-08-section-02",
+      "title": "Avant de rédiger",
+      "order": 2,
+      "introduction": "Avant de se lancer dans la rédaction, mieux vaut passer par quelques étapes préparatoires qui faciliteront la rédaction.",
+      "concepts": [
+        {
+          "id": "chapter-08-concept-04",
+          "title": "Choisir et comprendre le sujet",
+          "explanation": "On choisit un sujet sur lequel on peut émettre une opinion claire et dont on a des connaissances. On tient compte de tous les aspects de la question (objet et intention) et on trouve les mots de jonction qui orientent la prise de position.",
+          "definition": "Étapes préparatoires à la rédaction: choisir le sujet et bien comprendre la question.",
+          "rules": [
+            { "id": "chapter-08-rule-09", "text": "Les sujets comportent souvent deux volets mis en relation: un objet (ce dont on parle) et une intention (une orientation).", "exceptions": [], "source": { "page": 5 } },
+            { "id": "chapter-08-rule-10", "text": "Il faut trouver les mots de jonction qui établissent la relation entre les deux aspects de la question; cette relation oriente la prise de position.", "exceptions": [], "source": { "page": 5 } }
+          ],
+          "steps": [],
+          "examples": [],
+          "exceptions": [],
+          "commonMistakes": [],
+          "takeaway": "Bien comprendre le sujet et ses mots de jonction avant de rédiger.",
+          "topicIds": ["pre-writing"],
+          "sourceReferences": [{ "page": 5 }]
+        },
+        {
+          "id": "chapter-08-concept-05",
+          "title": "Chercher et organiser les idées",
+          "explanation": "On fait des associations d'idées, on consulte le dictionnaire, on lance les idées en vrac puis on les regroupe autour d'aspects (scientifique, social, économique, psychologique) en associant affirmation et preuve.",
+          "definition": "Étapes de recherche et d'organisation des idées pour le développement.",
+          "rules": [
+            { "id": "chapter-08-rule-11", "text": "Regrouper sous le même aspect les idées qui se recoupent et sélectionner les arguments les plus pertinents.", "exceptions": [], "source": { "page": 5 } },
+            { "id": "chapter-08-rule-12", "text": "Rassembler ce qui constitue un argument (une affirmation) et ce qui constitue une preuve (fait, exemple, valeur, définition, comparaison, etc.).", "exceptions": [], "source": { "page": 5 } }
+          ],
+          "steps": [],
+          "examples": [],
+          "exceptions": [],
+          "commonMistakes": [],
+          "takeaway": "Chercher, organiser et regrouper les idées par aspect avant la rédaction.",
+          "topicIds": ["idea-generation"],
+          "sourceReferences": [{ "page": 5 }]
+        }
+      ],
+      "summary": ["Choisir et comprendre le sujet.", "Chercher, organiser et regrouper les idées."],
+      "sourceReferences": [{ "page": 5 }]
+    },
+    {
+      "id": "chapter-08-section-03",
+      "title": "La rédaction",
+      "order": 3,
+      "introduction": "Une fois ses idées à peu près en place, on peut passer à la rédaction de l'introduction, du développement et de la conclusion.",
+      "concepts": [
+        {
+          "id": "chapter-08-concept-06",
+          "title": "Rédiger l'introduction",
+          "explanation": "L'introduction se rédige en quatre moments: sujet amené (entrée en matière, mise en contexte, captation de l'attention), sujet posé (formulation de la question), thèse (annonce de la position) et sujet divisé (présentation des grandes lignes du développement, sans trop de détails).",
+          "definition": "Rédaction des quatre parties de l'introduction.",
+          "rules": [
+            { "id": "chapter-08-rule-13", "text": "Le sujet amené amène le sujet à partir de considérations historiques, d'un lien avec l'actualité, d'un exemple ou d'une question.", "exceptions": [], "source": { "page": 8 } },
+            { "id": "chapter-08-rule-14", "text": "Le sujet posé se formule en reproduisant le sujet proposé, en le reformulant ou en l'interrogation indirecte.", "exceptions": [], "source": { "page": 8 } },
+            { "id": "chapter-08-rule-15", "text": "Le sujet divisé présente les aspects très brièvement; il ne faut pas donner trop de détails.", "exceptions": [], "source": { "page": 8 } }
+          ],
+          "steps": [],
+          "examples": [],
+          "exceptions": [],
+          "commonMistakes": [],
+          "takeaway": "L'introduction se construit en quatre moments successifs.",
+          "topicIds": ["introduction"],
+          "sourceReferences": [{ "page": 8 }]
+        },
+        {
+          "id": "chapter-08-concept-07",
+          "title": "Le paragraphe de développement",
+          "explanation": "Le développement comprend deux ou trois paragraphes substantiels, un par idée principale. Chaque paragraphe est une démonstration qui s'appuie sur des « preuves » et doit comporter des organisateurs textuels, exposer l'argument principal dès le début, l'appuyer d'exemples et d'explications, le justifier et se conclure par une phrase de synthèse ou de transition.",
+          "definition": "Structure et rôle du paragraphe de développement.",
+          "rules": [
+            { "id": "chapter-08-rule-16", "text": "Chaque paragraphe de développement doit comporter des organisateurs textuels, exposer une idée ou un argument principal dès le début, l'appuyer d'exemples et d'explications, le justifier et se conclure par une phrase de synthèse ou de transition.", "exceptions": [], "source": { "page": 14 } }
+          ],
+          "steps": [
+            { "id": "chapter-08-step-01", "text": "Affirmation: poser l'idée principale." },
+            { "id": "chapter-08-step-02", "text": "Argument: présenter le raisonnement." },
+            { "id": "chapter-08-step-03", "text": "Explications: développer et illustrer." },
+            { "id": "chapter-08-step-04", "text": "Conclusion du paragraphe: synthétiser ou faire la transition." }
+          ],
+          "examples": [
+            { "id": "chapter-08-ex-02", "text": "Tout d'abord, une trop grande exposition aux écrans a des effets physiques importants.", "highlight": [], "explanation": "Exemple d'affirmation ouvrant un paragraphe de développement.", "source": { "page": 15, "kind": "source" } }
+          ],
+          "exceptions": [],
+          "commonMistakes": [],
+          "takeaway": "Un paragraphe de développement est une démonstration structurée en quatre moments.",
+          "topicIds": ["development", "paragraph-structure"],
+          "sourceReferences": [{ "page": 11 }, { "page": 14 }, { "page": 15 }]
+        },
+        {
+          "id": "chapter-08-concept-08",
+          "title": "Les types d'arguments",
+          "explanation": "Un texte argumentatif est constitué d'arguments qui peuvent être fondés sur des faits, des postulats, des valeurs, des croyances, des expériences vécues ou des exemples, et qui peuvent faire appel à des sentiments, à une définition, à un témoignage, à une narration, à une autorité, au questionnement, à la comparaison ou à la réfutation.",
+          "definition": "Les fondements et procédés argumentatifs.",
+          "rules": [],
+          "steps": [],
+          "examples": [],
+          "exceptions": [],
+          "commonMistakes": [],
+          "takeaway": "Les arguments se fondent sur des faits, des valeurs, des croyances, des témoignages, etc.",
+          "topicIds": ["argumentation"],
+          "sourceReferences": [{ "page": 11 }, { "page": 12 }]
+        },
+        {
+          "id": "chapter-08-concept-09",
+          "title": "L'ordre des paragraphes et la conclusion",
+          "explanation": "L'ordre des paragraphes doit être choisi pour donner le plus de force et de clarté au texte; on ajuste les organisateurs textuels en conséquence. Le paragraphe de conclusion consolide la position prise: synthèse ou rappel des arguments, réaffirmation de la thèse, ouverture facultative.",
+          "definition": "Choix de l'ordre des paragraphes et rédaction de la conclusion.",
+          "rules": [
+            { "id": "chapter-08-rule-17", "text": "Ajuster les organisateurs textuels (Tout d'abord – Ensuite – Enfin, D'une part – D'autre part, etc.) selon l'ordre choisi.", "exceptions": [], "source": { "page": 16 } }
+          ],
+          "steps": [],
+          "examples": [],
+          "exceptions": [],
+          "commonMistakes": [],
+          "takeaway": "L'ordre des paragraphes influence la force du texte; la conclusion consolide la position.",
+          "topicIds": ["development", "conclusion"],
+          "sourceReferences": [{ "page": 16 }, { "page": 17 }]
+        }
+      ],
+      "summary": ["L'introduction se rédige en quatre moments.", "Le développement est structuré en paragraphes démonstratifs.", "La conclusion consolide la position."],
+      "sourceReferences": [{ "page": 8 }]
+    },
+    {
+      "id": "chapter-08-section-04",
+      "title": "Quelques stratégies argumentatives",
+      "order": 4,
+      "introduction": "Différentes stratégies permettent d'organiser l'argumentation: l'addition d'arguments, la thèse et l'antithèse, la synthèse.",
+      "concepts": [
+        {
+          "id": "chapter-08-concept-10",
+          "title": "L'addition d'arguments",
+          "explanation": "On procède par addition d'arguments (faits, preuves, exemples, appel à l'autorité, etc.) qui soutiennent tous directement la même thèse. On peut intégrer dans un paragraphe la réfutation d'une thèse adverse.",
+          "definition": "Stratégie d'accumulation d'arguments en faveur de la thèse.",
+          "rules": [],
+          "steps": [],
+          "examples": [],
+          "exceptions": [],
+          "commonMistakes": [],
+          "takeaway": "L'addition d'arguments accumule des preuves en faveur de la thèse.",
+          "topicIds": ["argumentation-strategies"],
+          "sourceReferences": [{ "page": 19 }, { "page": 20 }]
+        },
+        {
+          "id": "chapter-08-concept-11",
+          "title": "La thèse et l'antithèse",
+          "explanation": "On présente successivement deux perspectives opposées du problème pour arriver à une synthèse ou à une position intermédiaire, ou pour trancher entre les deux positions.",
+          "definition": "Présentation de deux perspectives opposées.",
+          "rules": [],
+          "steps": [],
+          "examples": [],
+          "exceptions": [],
+          "commonMistakes": [],
+          "takeaway": "La thèse et l'antithèse confrontent deux perspectives opposées.",
+          "topicIds": ["argumentation-strategies"],
+          "sourceReferences": [{ "page": 21 }]
+        },
+        {
+          "id": "chapter-08-concept-12",
+          "title": "La synthèse",
+          "explanation": "La synthèse permet de dépasser l'apparente contradiction entre la thèse et l'antithèse pour arriver à une position plus nuancée, avec ajout d'au moins un argument.",
+          "definition": "Position nuancée dépassant la contradiction thèse/antithèse.",
+          "rules": [],
+          "steps": [],
+          "examples": [],
+          "exceptions": [],
+          "commonMistakes": [],
+          "takeaway": "La synthèse nuance la position en dépassant la contradiction.",
+          "topicIds": ["argumentation-strategies"],
+          "sourceReferences": [{ "page": 21 }]
+        }
+      ],
+      "summary": ["Addition d'arguments, thèse/antithèse, synthèse: trois stratégies."],
+      "sourceReferences": [{ "page": 19 }]
+    },
+    {
+      "id": "chapter-08-section-05",
+      "title": "La cohérence textuelle",
+      "order": 5,
+      "introduction": "La cohérence d'un texte repose sur la continuité et la progression de l'information, sur la compatibilité des temps et des modes, et sur les liens logiques entre les idées.",
+      "concepts": [
+        {
+          "id": "chapter-08-concept-13",
+          "title": "Continuité et progression",
+          "explanation": "Un texte doit comporter des éléments récurrents (continuité) et des éléments apportant une information nouvelle (progression). La cohésion repose sur l'équilibre entre ces deux exigences.",
+          "definition": "Équilibre entre répétition (continuité) et information nouvelle (progression).",
+          "rules": [
+            { "id": "chapter-08-rule-18", "text": "Si la répétition est insuffisante, la continuité n'est pas assurée; si la progression est réduite, le texte fait du surplace.", "exceptions": [], "source": { "page": 23 } }
+          ],
+          "steps": [],
+          "examples": [],
+          "exceptions": [],
+          "commonMistakes": [],
+          "takeaway": "Équilibrer continuité et progression pour assurer la cohésion.",
+          "topicIds": ["textual-coherence"],
+          "sourceReferences": [{ "page": 23 }]
+        },
+        {
+          "id": "chapter-08-concept-14",
+          "title": "Les reprises",
+          "explanation": "On utilise la reprise (reprendre des mots par d'autres mots) pour éviter les répétitions et faire progresser l'information. Types: reprise par un pronom, par un nom ou groupe du nom, par la reformulation.",
+          "definition": "Reprendre des mots par d'autres mots pour assurer la progression.",
+          "rules": [],
+          "steps": [],
+          "examples": [],
+          "exceptions": [],
+          "commonMistakes": [
+            { "id": "ch08-cm-01", "incorrect": "l'assistance... ils se levèrent", "correct": "l'assistance... elle se leva", "explanation": "Erreur de reprise: le pronom doit reprendre le nom collectif au féminin singulier.", "source": { "page": 26 } }
+          ],
+          "takeaway": "Les reprises assurent la progression tout en évitant les répétitions.",
+          "topicIds": ["reprise"],
+          "sourceReferences": [{ "page": 24 }, { "page": 26 }]
+        },
+        {
+          "id": "chapter-08-concept-15",
+          "title": "L'aspect",
+          "explanation": "L'aspect renvoie à la manière dont on envisage la durée d'une action, indépendamment de sa position sur la ligne du temps. Aspect non accompli: événement en cours (temps simples). Aspect accompli: événement terminé (temps composés).",
+          "definition": "Manière d'envisager la durée d'une action.",
+          "rules": [
+            { "id": "chapter-08-rule-19", "text": "L'aspect non accompli s'exprime par les temps simples; l'aspect accompli s'exprime par les temps composés.", "exceptions": [], "source": { "page": 29 } }
+          ],
+          "steps": [],
+          "examples": [
+            { "id": "chapter-08-ex-03", "text": "Je danse (non accompli) / J'ai dansé (accompli)", "highlight": [], "explanation": "Opposition de l'aspect non accompli et accompli.", "source": { "page": 29, "kind": "source" } }
+          ],
+          "exceptions": [],
+          "commonMistakes": [],
+          "takeaway": "L'aspect distingue l'événement en cours de l'événement terminé.",
+          "topicIds": ["tense-aspect"],
+          "sourceReferences": [{ "page": 29 }]
+        },
+        {
+          "id": "chapter-08-concept-16",
+          "title": "Les modes",
+          "explanation": "Les modes expriment une attitude à l'égard d'un énoncé: l'indicatif (certitude, affirmation), l'impératif (injonction, conseil) et le subjonctif (doute, souhait, volonté, etc.). Certaines conjonctions exigent le subjonctif (avant que, afin que, quoique...) ou l'indicatif (après que, aussitôt que, dès que, puisque). L'infinitif s'emploie quand le verbe de la subordonnée a le même sujet que le verbe enchâssant.",
+          "definition": "Modes verbaux: indicatif, impératif, subjonctif.",
+          "rules": [
+            { "id": "chapter-08-rule-20", "text": "L'indicatif présente un fait dans sa réalité; l'impératif exprime l'injonction; le subjonctif exprime le doute, le souhait, la volonté, etc.", "exceptions": [], "source": { "page": 30 } },
+            { "id": "chapter-08-rule-21", "text": "Certaines conjonctions exigent le subjonctif (avant que, afin que/pour que, quoique, à condition que, de peur que, sans que) ou l'indicatif (après que, aussitôt que, dès que, puisque).", "exceptions": [], "source": { "page": 31 } },
+            { "id": "chapter-08-rule-22", "text": "On recourt à l'infinitif lorsque le verbe de la subordonnée a le même sujet que le verbe de la phrase enchâssante.", "exceptions": [], "source": { "page": 32 } }
+          ],
+          "steps": [],
+          "examples": [],
+          "exceptions": [],
+          "commonMistakes": [],
+          "takeaway": "Le mode exprime l'attitude du locuteur; certaines conjonctions imposent le mode.",
+          "topicIds": ["tense-aspect", "subjonctif"],
+          "sourceReferences": [{ "page": 30 }, { "page": 31 }, { "page": 32 }]
+        },
+        {
+          "id": "chapter-08-concept-17",
+          "title": "Les temps du passé, du futur et du conditionnel",
+          "explanation": "Passé composé (aspect accompli), imparfait (événement en cours dans le passé), plus-que-parfait (aspect achevé par rapport à un autre temps du passé). Futur simple (événement dans l'avenir) et futur antérieur (aspect accompli antérieur à un autre événement futur). Conditionnel présent (futur hypothétique, politesse) et conditionnel passé (incertitude, regret, politesse). Structures avec si: si + présent → futur; si + imparfait → conditionnel présent; si + plus-que-parfait → conditionnel passé.",
+          "definition": "Emploi des temps du passé, du futur et du conditionnel.",
+          "rules": [
+            { "id": "chapter-08-rule-23", "text": "Le passé composé marque l'aspect accompli; l'imparfait présente un événement en cours dans le passé; le plus-que-parfait marque l'aspect achevé par rapport à un autre temps du passé.", "exceptions": [], "source": { "page": 33 } },
+            { "id": "chapter-08-rule-24", "text": "Le futur simple situe un événement dans l'avenir; le futur antérieur exprime l'aspect accompli d'un événement antérieur à un autre dans le futur.", "exceptions": [], "source": { "page": 34 } },
+            { "id": "chapter-08-rule-25", "text": "Si + présent → futur simple; si + imparfait → conditionnel présent; si + plus-que-parfait → conditionnel passé.", "exceptions": [], "source": { "page": 36 } }
+          ],
+          "steps": [],
+          "examples": [],
+          "exceptions": [],
+          "commonMistakes": [],
+          "takeaway": "Choisir le temps selon l'aspect et la position sur la ligne du temps.",
+          "topicIds": ["tense-aspect"],
+          "sourceReferences": [{ "page": 33 }, { "page": 34 }, { "page": 35 }, { "page": 36 }]
+        },
+        {
+          "id": "chapter-08-concept-18",
+          "title": "Les connecteurs et les liens logiques",
+          "explanation": "La cohérence d'un texte dépend d'abord de sa structure logique, puis des connecteurs qui l'expriment. Modifier un seul connecteur peut changer la signification d'une phrase. Les liens peuvent être explicites (marqués par un connecteur) ou implicites.",
+          "definition": "Mots ou groupes de mots exprimant les liens logiques entre les idées.",
+          "rules": [
+            { "id": "chapter-08-rule-26", "text": "Les connecteurs contribuent au sens du texte et non seulement à sa forme; modifier un seul de ces mots peut totalement changer la signification d'une phrase.", "exceptions": [], "source": { "page": 37 } }
+          ],
+          "steps": [],
+          "examples": [],
+          "exceptions": [],
+          "commonMistakes": [],
+          "takeaway": "Les connecteurs expriment la structure logique du texte.",
+          "topicIds": ["connectors"],
+          "sourceReferences": [{ "page": 37 }, { "page": 38 }, { "page": 39 }]
+        }
+      ],
+      "summary": ["Continuité et progression équilibrent la cohésion.", "Les reprises évitent les répétitions.", "L'aspect, les modes et les temps assurent la compatibilité.", "Les connecteurs expriment les liens logiques."],
+      "sourceReferences": [{ "page": 23 }]
+    }
+  ],
+  "reviewNotes": []
+}
