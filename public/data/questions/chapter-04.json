@@ -1,83 +1,143 @@
 {
   "schemaVersion": "1.0.0",
-  "id": "chapter-04-core",
   "chapterId": "chapter-04",
+  "questionSetId": "chapter-04-core",
   "title": "Pratique — Chapitre 4 : Les accords",
-  "description": "Exercices pratiques sur les accords du verbe, du groupe nominal, des participes passés et des mots tout, quelque, même, tel.",
-  "language": "fr-CA",
-  "difficulty": "intermediate",
-  "estimatedMinutes": 60,
-  "tags": ["accords", "verbe-sujet", "participe-passé", "groupe-nominal"],
-  "reviewStatus": "ready",
   "questions": [
     {
       "id": "ch04-q01",
-      "type": "fillInBlank",
-      "topic": "verb-subject-agreement",
+      "type": "single_choice",
+      "prompt": "Choisissez la forme correcte du verbe pour compléter la phrase.",
+      "stimulus": {
+        "text": "Les expériences de l'enfance (marquer) ___________ toute la vie.",
+        "blankText": "Les expériences de l'enfance ___ toute la vie."
+      },
+      "options": [
+        { "id": "A", "text": "marque" },
+        { "id": "B", "text": "marquent" },
+        { "id": "C", "text": "marquait" },
+        { "id": "D", "text": "marqué" }
+      ],
+      "answer": {
+        "correctOptionIds": ["B"],
+        "explanation": "Le sujet « Les expériences de l'enfance » est au pluriel, le verbe s'accorde au pluriel."
+      },
       "difficulty": "intermediate",
-      "prompt": "Les expériences de l'enfance (marquer) ___________ toute la vie.",
-      "answer": "marquent",
-      "acceptableAnswers": ["marquent"],
-      "explanation": "Le sujet « Les expériences de l'enfance » est au pluriel, le verbe s'accorde au pluriel.",
-      "hint": "Repérez le noyau du sujet.",
-      "source": { "page": 6, "exercise": "Exercice 2" },
+      "topicIds": ["chapter-04-concept-01"],
+      "sectionIds": ["chapter-04-section-01"],
+      "learningObjectiveIds": ["chapter-04-objective-01"],
+      "examCategories": ["conjugaison_accord"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 6, "section": "Exercice 2" }],
       "reviewStatus": "ready"
     },
     {
       "id": "ch04-q02",
-      "type": "fillInBlank",
-      "topic": "verb-subject-agreement",
+      "type": "single_choice",
+      "prompt": "Choisissez la forme correcte du verbe pour compléter la phrase.",
+      "stimulus": {
+        "text": "Le souvenir des bons moments que nous avons passés me (donner) ___________ chaud au cœur.",
+        "blankText": "Le souvenir des bons moments que nous avons passés me ___ chaud au cœur."
+      },
+      "options": [
+        { "id": "A", "text": "donne" },
+        { "id": "B", "text": "donnent" },
+        { "id": "C", "text": "donnaient" },
+        { "id": "D", "text": "donné" }
+      ],
+      "answer": {
+        "correctOptionIds": ["A"],
+        "explanation": "Le sujet « Le souvenir » est au singulier."
+      },
       "difficulty": "intermediate",
-      "prompt": "Le souvenir des bons moments que nous avons passés me (donner) ___________ chaud au cœur.",
-      "answer": "donne",
-      "acceptableAnswers": ["donne"],
-      "explanation": "Le sujet « Le souvenir » est au singulier.",
-      "hint": "Ne confondez pas avec le complément.",
-      "source": { "page": 6, "exercise": "Exercice 2" },
+      "topicIds": ["chapter-04-concept-01"],
+      "sectionIds": ["chapter-04-section-01"],
+      "learningObjectiveIds": ["chapter-04-objective-01"],
+      "examCategories": ["conjugaison_accord"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 6, "section": "Exercice 2" }],
       "reviewStatus": "ready"
     },
     {
       "id": "ch04-q03",
-      "type": "fillInBlank",
-      "topic": "nominal-agreement",
+      "type": "single_choice",
+      "prompt": "Choisissez la forme correcte du déterminant numéral pour compléter la phrase.",
+      "stimulus": {
+        "text": "Ce livre comporte (200) ___________ pages.",
+        "blankText": "Ce livre comporte ___ pages."
+      },
+      "options": [
+        { "id": "A", "text": "deux cent" },
+        { "id": "B", "text": "deux cents" },
+        { "id": "C", "text": "deux-cent" },
+        { "id": "D", "text": "deux centes" }
+      ],
+      "answer": {
+        "correctOptionIds": ["B"],
+        "explanation": "200 se termine par 0 et est multiplié ; « cents » prend un s."
+      },
       "difficulty": "intermediate",
-      "prompt": "Ce livre comporte (200) ___________ pages.",
-      "answer": "deux-cents",
-      "acceptableAnswers": ["deux cents", "deux-cents"],
-      "explanation": "200 se termine par 0 et est multiplié ; « cents » prend un s.",
-      "hint": "Règle pour « vingt » et « cent » multipliés et terminant le nombre.",
-      "source": { "page": 14, "exercise": "Exercice 7" },
+      "topicIds": ["chapter-04-concept-02"],
+      "sectionIds": ["chapter-04-section-01"],
+      "learningObjectiveIds": ["chapter-04-objective-02"],
+      "examCategories": ["orthographe_grammaticale"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 14, "section": "Exercice 7" }],
       "reviewStatus": "ready"
     },
     {
       "id": "ch04-q04",
-      "type": "fillInBlank",
-      "topic": "participle-agreement",
+      "type": "single_choice",
+      "prompt": "Choisissez la forme correcte du participe passé pour compléter la phrase.",
+      "stimulus": {
+        "text": "Les efforts que nous avons (faire) ___________ ont été stériles.",
+        "blankText": "Les efforts que nous avons ___ ont été stériles."
+      },
+      "options": [
+        { "id": "A", "text": "fait" },
+        { "id": "B", "text": "faite" },
+        { "id": "C", "text": "faits" },
+        { "id": "D", "text": "faites" }
+      ],
+      "answer": {
+        "correctOptionIds": ["C"],
+        "explanation": "Participe passé employé avec avoir : accord avec le CD « que » (remplaçant « les efforts ») placé avant."
+      },
       "difficulty": "intermediate",
-      "prompt": "Les efforts que nous avons (faire) ___________ ont été stériles.",
-      "answer": "faits",
-      "acceptableAnswers": ["faits"],
-      "explanation": "Participe passé employé avec avoir : accord avec le CD « que » (remplaçant « les efforts ») placé avant.",
-      "hint": "CD placé avant le verbe avec avoir ?",
-      "source": { "page": 29, "exercise": "Exercice 16" },
+      "topicIds": ["chapter-04-concept-03"],
+      "sectionIds": ["chapter-04-section-02"],
+      "learningObjectiveIds": ["chapter-04-objective-03"],
+      "examCategories": ["conjugaison_accord"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 29, "section": "Exercice 16" }],
       "reviewStatus": "ready"
     },
     {
       "id": "ch04-q05",
-      "type": "fillInBlank",
-      "topic": "participle-agreement",
+      "type": "single_choice",
+      "prompt": "Choisissez la forme correcte du participe passé pour compléter la phrase.",
+      "stimulus": {
+        "text": "Elles se sont (absenter) ___________ durant une bonne heure.",
+        "blankText": "Elles se sont ___ durant une bonne heure."
+      },
+      "options": [
+        { "id": "A", "text": "absenté" },
+        { "id": "B", "text": "absentée" },
+        { "id": "C", "text": "absentés" },
+        { "id": "D", "text": "absentées" }
+      ],
+      "answer": {
+        "correctOptionIds": ["D"],
+        "explanation": "Verbe essentiellement pronominal : accord avec le sujet « elles »."
+      },
       "difficulty": "intermediate",
-      "prompt": "Elles se sont (absenter) ___________ durant une bonne heure.",
-      "answer": "absentées",
-      "acceptableAnswers": ["absentées"],
-      "explanation": "Verbe essentiellement pronominal : accord avec le sujet « elles ».",
-      "hint": "Verbe existant uniquement à la forme pronominale.",
-      "source": { "page": 33, "exercise": "Exercice 19" },
+      "topicIds": ["chapter-04-concept-03"],
+      "sectionIds": ["chapter-04-section-02"],
+      "learningObjectiveIds": ["chapter-04-objective-03"],
+      "examCategories": ["conjugaison_accord"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 33, "section": "Exercice 19" }],
       "reviewStatus": "ready"
     }
-  ],
-  "metadata": {
-    "createdAt": "2026-10-20T00:00:00.000Z",
-    "lastModified": "2026-10-20T00:00:00.000Z"
-  }
+  ]
 }
