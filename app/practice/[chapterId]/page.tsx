@@ -168,9 +168,9 @@ export default function PracticeQuizPage() {
                   <CardTitle className="font-heading text-lg font-extrabold">{question.prompt}</CardTitle>
                   <Badge variant="outline">{question.difficulty}</Badge>
                 </div>
-                {question.stimulus.text && (
+                {question.stimulus?.text && (
                   <CardDescription className="text-base font-medium text-foreground">
-                    {question.stimulus.highlightedText ? (
+                    {question.stimulus?.highlightedText ? (
                       <span>
                         {question.stimulus.text.split(question.stimulus.highlightedText).map((part, i, arr) => (
                           <span key={i}>

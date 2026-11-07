@@ -1,0 +1,139 @@
+{
+  "schemaVersion": "1.0.0",
+  "chapterId": "chapter-07",
+  "questionSetId": "chapter-07-core",
+  "title": "Pratique — Chapitre 7 : Le lexique",
+  "questions": [
+    {
+      "id": "ch07-q01",
+      "type": "single_choice",
+      "prompt": "Quel registre privilégier dans un travail universitaire ?",
+      "stimulus": {
+        "text": ""
+      },
+      "options": [
+        { "id": "A", "text": "Populaire" },
+        { "id": "B", "text": "Familier" },
+        { "id": "C", "text": "Courant ou soutenu" },
+        { "id": "D", "text": "Argotique" }
+      ],
+      "answer": {
+        "correctOptionIds": ["C"],
+        "explanation": "À l'université, le langage courant est acceptable au même titre que le registre soutenu."
+      },
+      "difficulty": "beginner",
+      "topicIds": ["chapter-07-concept-02-01"],
+      "sectionIds": ["chapter-07-section-01"],
+      "learningObjectiveIds": ["chapter-07-objective-01"],
+      "examCategories": ["vocabulaire"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 2 }],
+      "reviewStatus": "ready"
+    },
+    {
+      "id": "ch07-q02",
+      "type": "single_choice",
+      "prompt": "Choisissez le verbe le plus précis pour compléter la phrase.",
+      "stimulus": {
+        "text": "Le médecin a ___________ une faute professionnelle.",
+        "blankText": "Le médecin a ___ une faute professionnelle."
+      },
+      "options": [
+        { "id": "A", "text": "fait" },
+        { "id": "B", "text": "commis" },
+        { "id": "C", "text": "réalisé" },
+        { "id": "D", "text": "effectué" }
+      ],
+      "answer": {
+        "correctOptionIds": ["B"],
+        "explanation": "« Commettre une faute » est plus précis que « faire une faute »."
+      },
+      "difficulty": "intermediate",
+      "topicIds": ["chapter-07-concept-02-01"],
+      "sectionIds": ["chapter-07-section-01"],
+      "learningObjectiveIds": ["chapter-07-objective-02"],
+      "examCategories": ["vocabulaire"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 4 }],
+      "reviewStatus": "ready"
+    },
+    {
+      "id": "ch07-q03",
+      "type": "single_choice",
+      "prompt": "« Il a fait une demande pour un emploi » est un anglicisme. Quelle correction est appropriée ?",
+      "stimulus": {
+        "text": "Il a fait une demande pour un emploi."
+      },
+      "options": [
+        { "id": "A", "text": "Il a demandé un emploi." },
+        { "id": "B", "text": "Il a posé sa candidature pour un emploi." },
+        { "id": "C", "text": "Il a appliqué pour un emploi." },
+        { "id": "D", "text": "Il a requis pour un emploi." }
+      ],
+      "answer": {
+        "correctOptionIds": ["B"],
+        "explanation": "« Poser sa candidature » / « postuler » corrige l'anglicisme « appliquer pour »."
+      },
+      "difficulty": "intermediate",
+      "topicIds": ["chapter-07-concept-02-01"],
+      "sectionIds": ["chapter-07-section-02"],
+      "learningObjectiveIds": ["chapter-07-objective-02"],
+      "examCategories": ["vocabulaire"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 9 }],
+      "reviewStatus": "ready"
+    },
+    {
+      "id": "ch07-q04",
+      "type": "single_choice",
+      "prompt": "Corrigez le pléonasme en choisissant le complément approprié.",
+      "stimulus": {
+        "text": "Monter en haut de l'escalier. → Monter ___________ de l'escalier.",
+        "blankText": "Monter ___ de l'escalier."
+      },
+      "options": [
+        { "id": "A", "text": "en haut" },
+        { "id": "B", "text": "l'escalier" },
+        { "id": "C", "text": "vers le haut" },
+        { "id": "D", "text": "au sommet" }
+      ],
+      "answer": {
+        "correctOptionIds": ["B"],
+        "explanation": "« Monter » implique déjà le mouvement vers le haut; « en haut » est redondant."
+      },
+      "difficulty": "intermediate",
+      "topicIds": ["chapter-07-concept-02-02"],
+      "sectionIds": ["chapter-07-section-03"],
+      "learningObjectiveIds": ["chapter-07-objective-03"],
+      "examCategories": ["vocabulaire"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 28 }],
+      "reviewStatus": "ready"
+    },
+    {
+      "id": "ch07-q05",
+      "type": "single_choice",
+      "prompt": "Parmi les paires suivantes, laquelle est correcte dans ce contexte ? « L'avocat a réussi à ___________ la clémence du juge. »",
+      "stimulus": {
+        "text": "L'avocat a réussi à ___________ la clémence du juge.",
+        "blankText": "L'avocat a réussi à ___ la clémence du juge."
+      },
+      "options": [
+        { "id": "A", "text": "évoquer" },
+        { "id": "B", "text": "invoquer" }
+      ],
+      "answer": {
+        "correctOptionIds": ["B"],
+        "explanation": "« Invoquer la clémence » signifie demander/puiser dans un argument; « évoquer » signifie rappeler à l'esprit."
+      },
+      "difficulty": "intermediate",
+      "topicIds": ["chapter-07-concept-02-02"],
+      "sectionIds": ["chapter-07-section-03"],
+      "learningObjectiveIds": ["chapter-07-objective-04"],
+      "examCategories": ["vocabulaire"],
+      "origin": "source",
+      "sourceReferences": [{ "page": 32 }],
+      "reviewStatus": "ready"
+    }
+  ]
+}

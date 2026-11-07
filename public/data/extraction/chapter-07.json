@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "document": {
+    "id": "uqar-french-course",
+    "title": "Chapitre 7 - Le lexique",
+    "language": "fr-CA",
+    "sourceFile": "Chapitre 7 - Le lexique.pdf"
+  },
+  "chapter": {
+    "id": "chapter-07",
+    "number": 7,
+    "title": "Le lexique",
+    "summary": null,
+    "learningObjectives": [],
+    "sections": [],
+    "exercises": [],
+    "sourceCoverage": {
+      "extractedSections": [
+        "7.1 LES REGISTRES DE LANGUE",
+        "7.2 LE MOT JUSTE",
+        "7.3 LES ÉCARTS LEXICAUX",
+        "CORRIGÉS DES EXERCICES"
+      ],
+      "extractedPageRanges": [
+        "1-37"
+      ],
+      "unreadableContent": [],
+      "itemsRequiringReview": []
+    }
+  }
+}

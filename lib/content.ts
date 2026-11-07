@@ -97,7 +97,12 @@ export const chapters: Chapter[] = [
     title: "Le lexique",
     description: "Choisir le mot juste et éviter les confusions.",
     color: "#ce82ff",
-    lessons: [{ id: "ch07-intro", title: "Homophones et paronymes", type: "lesson", durationMinutes: 10 }]
+    lessons: [
+      { id: "ch07-intro", title: "Registres de langue", type: "lesson", durationMinutes: 8 },
+      { id: "ch07-mot", title: "Le mot juste", type: "lesson", durationMinutes: 10 },
+      { id: "ch07-ecarts", title: "Anglicismes et écarts lexicaux", type: "lesson", durationMinutes: 15 },
+      { id: "ch07-practice", title: "Pratique guidée", type: "practice", durationMinutes: 12 }
+    ]
   },
   {
     id: "chapter-08",
