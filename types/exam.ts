@@ -22,6 +22,8 @@ export type ExamSkill = "reading" | "listening" | "writing" | "speaking" | "lang
 
 export type ExamBlueprint = {
   id: string;
+  /** Optional id of the question bank this exam draws from. Defaults to "tflm-core". */
+  questionBankId?: string;
   title: string;
   /** Which assessment family this belongs to. */
   family: "tflm" | "uqar" | "tcf";
